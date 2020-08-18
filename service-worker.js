@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2ea9912ed4eb50ca10c2e95f0fc5faa2"
+    "revision": "15065489d8de700a1cb42ce6604fc207"
   },
   {
     "url": "assets/css/0.styles.522f29ae.css",
@@ -46,224 +46,224 @@ self.__precacheManifest = [
     "revision": "155690a7bd88e04f75d345d45294a0f0"
   },
   {
-    "url": "assets/js/12.ed9aaad5.js",
-    "revision": "3aae56aa447f3d85008cdc0307b1349a"
+    "url": "assets/js/12.eb547762.js",
+    "revision": "2b557677242b1fe03ee5945a63abc32f"
   },
   {
-    "url": "assets/js/13.b24736a6.js",
-    "revision": "475d6c194976fce2010c1566c17b83fd"
+    "url": "assets/js/13.a1ce9db8.js",
+    "revision": "84fee259de62d0f78a87e76e1c92f852"
   },
   {
-    "url": "assets/js/14.dab4d4f9.js",
-    "revision": "8094b0fcf44acd5ab2efec7e5552c30f"
+    "url": "assets/js/14.951f3d09.js",
+    "revision": "118480f5f804f57a7c6597d0314104bc"
   },
   {
-    "url": "assets/js/15.efe6e885.js",
-    "revision": "06e862307808917fd6b2bc596c7adf5a"
+    "url": "assets/js/15.7045cd81.js",
+    "revision": "5c4d74991759a9bf1f36a4ffdb5315ca"
   },
   {
     "url": "assets/js/16.44e9f5d0.js",
     "revision": "97ad7677535d3ffa50d366a38918aa51"
   },
   {
-    "url": "assets/js/17.42064c47.js",
-    "revision": "89b98913e42bb9f56cab145bfadd6e53"
+    "url": "assets/js/17.60de4de5.js",
+    "revision": "5221b96d02be2e7d1d2d7169f6a80c70"
   },
   {
-    "url": "assets/js/18.fde05535.js",
-    "revision": "d631fb0a27b6ad240a4eeb7b1ada97a5"
+    "url": "assets/js/18.c29bf4a6.js",
+    "revision": "79fffaa1d7b2aaf11d493e5f63f35f38"
   },
   {
-    "url": "assets/js/19.a12cdf2a.js",
-    "revision": "81743c66ef271e9e30585485fec3a818"
+    "url": "assets/js/19.eadeafa3.js",
+    "revision": "fc6382321be9966239dc2bf5b461e0da"
   },
   {
-    "url": "assets/js/20.8147cc06.js",
-    "revision": "221b65387b16c90e1577e81d8a4497aa"
+    "url": "assets/js/20.70c032ec.js",
+    "revision": "e42e7c0cae82c61f98987ab529b6acad"
   },
   {
-    "url": "assets/js/21.858f13ab.js",
-    "revision": "d8a3f226d835e800c7540cb3f6089426"
+    "url": "assets/js/21.bbc768c1.js",
+    "revision": "7b381fcf71bab2f5fb962b377595035d"
   },
   {
-    "url": "assets/js/22.a4b19765.js",
-    "revision": "df9bd95b35f3b3fa2a1a3db24fc7a4d7"
+    "url": "assets/js/22.9a4d9080.js",
+    "revision": "05bedc8a39a70b86dca5efab29197857"
   },
   {
-    "url": "assets/js/23.43734cef.js",
-    "revision": "50bbe9c553ee17e7cc40f450f467319b"
+    "url": "assets/js/23.758757af.js",
+    "revision": "ff2b4e1a4c27b612c1f2399866e19922"
   },
   {
-    "url": "assets/js/24.d04dad12.js",
-    "revision": "3198cc985a05a1f4c95a0074b2cda358"
+    "url": "assets/js/24.2d09acd7.js",
+    "revision": "2aad1ef6f6fe7ee5c45fbe356b65f9aa"
   },
   {
-    "url": "assets/js/25.0d90f687.js",
-    "revision": "0c460540c8f5aadf1784abef0c8cb993"
+    "url": "assets/js/25.78ffa8d7.js",
+    "revision": "f8f0415533309336baf0e5ccdbd20fba"
   },
   {
-    "url": "assets/js/26.be898e5b.js",
-    "revision": "2649ca15e4492de5dae9c821e1466e12"
+    "url": "assets/js/26.20346aa9.js",
+    "revision": "2fc87b439dd98b4fa5fdf843b86efcff"
   },
   {
-    "url": "assets/js/27.0f4a19c0.js",
-    "revision": "eba8996c0b8d1d333ca7c743860f072a"
+    "url": "assets/js/27.c6f2f626.js",
+    "revision": "c42295fdf6426d3540d40ea88a2a712c"
   },
   {
-    "url": "assets/js/28.770bac9f.js",
-    "revision": "88ddd05e8a8cd8317df0e2e4fe8bbf0d"
+    "url": "assets/js/28.d0920e01.js",
+    "revision": "7a1007feb193bc90d7877b74cd7e1dd0"
   },
   {
-    "url": "assets/js/29.71045f73.js",
-    "revision": "841dda75090ed3709341652608d51e94"
+    "url": "assets/js/29.fc41e180.js",
+    "revision": "f10cf27633379abbfb0659c00f608a18"
   },
   {
     "url": "assets/js/3.7c957e73.js",
     "revision": "1a2797372e9c6c53d1e9374822ae8a32"
   },
   {
-    "url": "assets/js/30.fdc6bb7e.js",
-    "revision": "05f1bd22856fb75f102925a3b282d138"
+    "url": "assets/js/30.ca16a36c.js",
+    "revision": "04a7643666811fc8553ccba2eb62ce47"
   },
   {
-    "url": "assets/js/31.bae44174.js",
-    "revision": "3bb2e924803281691761968721702617"
+    "url": "assets/js/31.a721725a.js",
+    "revision": "744d34b8b974134283248147a5f27470"
   },
   {
-    "url": "assets/js/32.a6efc7c0.js",
-    "revision": "447be748965df8a74596551a89725e39"
+    "url": "assets/js/32.5cdeadd6.js",
+    "revision": "d89f128e79c2f22266331da447a89a2f"
   },
   {
-    "url": "assets/js/33.125ba5cd.js",
-    "revision": "88ca2efe988dd6a9154de11857c57116"
+    "url": "assets/js/33.abe46953.js",
+    "revision": "f6fd11d170a82af74c2e0b418c75edc5"
   },
   {
-    "url": "assets/js/34.ad41acb7.js",
-    "revision": "a74be9b26c37845299aa35000b67312e"
+    "url": "assets/js/34.3b8fe818.js",
+    "revision": "c720f5a7bc61aea961257948f5a00bd7"
   },
   {
-    "url": "assets/js/35.0231c675.js",
-    "revision": "1a8f6c946a8b1865041880b2aa030de5"
+    "url": "assets/js/35.36684890.js",
+    "revision": "a1184c784ee2c0f9c828ddbc139678a9"
   },
   {
-    "url": "assets/js/36.0c678a6a.js",
-    "revision": "b09be4ef41dd2fe47706a5b943be4703"
+    "url": "assets/js/36.3f811d50.js",
+    "revision": "37231287a1b60da2e388a00ed43da6a2"
   },
   {
-    "url": "assets/js/37.3e44911a.js",
-    "revision": "d6cd51f87c468469c3f849f9a251595f"
+    "url": "assets/js/37.1d21ba43.js",
+    "revision": "098c2a891f20d35a9e416169dc53cff0"
   },
   {
-    "url": "assets/js/38.131617cd.js",
-    "revision": "cc7d739915bfc3d93243daae05ce380c"
+    "url": "assets/js/38.6418380d.js",
+    "revision": "b9786157816047e7a45f0a001490acf7"
   },
   {
-    "url": "assets/js/39.12817128.js",
-    "revision": "81b37cf25652f82c088e67cba90ce0ca"
+    "url": "assets/js/39.aa602716.js",
+    "revision": "eef72d1d28e26dc565ac5bcf6aec7235"
   },
   {
     "url": "assets/js/4.2c3c7cee.js",
     "revision": "b692f9c8ade95b08e6c987b6fd69079f"
   },
   {
-    "url": "assets/js/40.29ac0ae7.js",
-    "revision": "c020afd729f9543d6796e1b4a3fb7625"
+    "url": "assets/js/40.26dcda4c.js",
+    "revision": "a65073821df758b85421d4fbd3e02f94"
   },
   {
-    "url": "assets/js/41.179e7551.js",
-    "revision": "690d0c08b67cfbdda79df9eddfed3eff"
+    "url": "assets/js/41.1e0fe0c4.js",
+    "revision": "685faca0e7c879c8c725ac4eba1a0b0b"
   },
   {
-    "url": "assets/js/42.aaf6e2a1.js",
-    "revision": "c7931d1879bca6b645d267b2799d85b2"
+    "url": "assets/js/42.78963cec.js",
+    "revision": "b27b64768724607bc88bdc568a484b2c"
   },
   {
-    "url": "assets/js/43.f2d448c5.js",
-    "revision": "3ba25a7b62125077c81e48cb38f12d0c"
+    "url": "assets/js/43.637b58ae.js",
+    "revision": "baf57ac2dd769b747007ee3798466b5b"
   },
   {
-    "url": "assets/js/44.2ef10b42.js",
-    "revision": "a9d6d5d56cb3cf749b2d5dde14d75479"
+    "url": "assets/js/44.54283e9b.js",
+    "revision": "7b10d3b07f21af11f69ff907a0725a09"
   },
   {
     "url": "assets/js/45.ebbad8d1.js",
     "revision": "3c60850b913e8da7393d450feb05ad22"
   },
   {
-    "url": "assets/js/46.0ddd00c1.js",
-    "revision": "aa7cc9b4680f44f34c5c665bb52b5728"
+    "url": "assets/js/46.e21a0360.js",
+    "revision": "2ecdaa469c8fc603486c219c3367ae33"
   },
   {
-    "url": "assets/js/47.50ffe65a.js",
-    "revision": "097c4047eb6ba5cd87dc47521bf83403"
+    "url": "assets/js/47.d6ec5b82.js",
+    "revision": "a28ecc3e45381df6b0b1632d93e6063a"
   },
   {
-    "url": "assets/js/48.673f459c.js",
-    "revision": "eae55acb8463afc23f3186c8d4609eef"
+    "url": "assets/js/48.8eaf2b01.js",
+    "revision": "d1976da764b571616bb7acf61eb7726d"
   },
   {
-    "url": "assets/js/49.d09bec95.js",
-    "revision": "b40e88d7bacf0e4d68295285b43b48cd"
+    "url": "assets/js/49.7b74301d.js",
+    "revision": "7e18c81f65e89f4425a4303ecbfec985"
   },
   {
     "url": "assets/js/5.4c52285c.js",
     "revision": "c72117eda6d6690b0eb03f1979c649a7"
   },
   {
-    "url": "assets/js/50.501b1c95.js",
-    "revision": "f44006a7b7647944c7d66a986f7baace"
+    "url": "assets/js/50.8ceb6af9.js",
+    "revision": "44ec5c6f7ba35c87672dbaae4ef176bb"
   },
   {
-    "url": "assets/js/51.a7a72312.js",
-    "revision": "f1c351dd087fc5af77b0fe8bdad58dda"
+    "url": "assets/js/51.cd2b1a73.js",
+    "revision": "da94ab45ff79ab31ad53e451299882c2"
   },
   {
-    "url": "assets/js/52.87a3c90f.js",
-    "revision": "23553e7951641dd0859b8e4dfd925ea1"
+    "url": "assets/js/52.3cb6c239.js",
+    "revision": "853a228217e268df950ea9155aff4c9e"
   },
   {
-    "url": "assets/js/53.d87a5719.js",
-    "revision": "21b0ea5930ef0ba1b18aae223a218f72"
+    "url": "assets/js/53.858d316d.js",
+    "revision": "1f09137f63b82e45d158912c1ab0d383"
   },
   {
-    "url": "assets/js/54.0df5510a.js",
-    "revision": "05d95d8f1d6fae076a93caad9c640935"
+    "url": "assets/js/54.0d309f2b.js",
+    "revision": "bec43b3da81db6fb9468974ea5f5ed12"
   },
   {
-    "url": "assets/js/55.dd78bf19.js",
-    "revision": "253050665febea61bb64f19026d7f210"
+    "url": "assets/js/55.95b9fcea.js",
+    "revision": "759f28193215b1f526761e5d81655988"
   },
   {
-    "url": "assets/js/56.ada5439a.js",
-    "revision": "96f8ab8fa53b4c4ffbb111825c03a99b"
+    "url": "assets/js/56.a1487cc3.js",
+    "revision": "3ec107fe4f49a11ec7bef295c19a3083"
   },
   {
-    "url": "assets/js/57.8c230d10.js",
-    "revision": "bddf2d99bf37ac6ec780e3350ec887f2"
+    "url": "assets/js/57.9a3631b0.js",
+    "revision": "5d302965b5c5535e50206b7fccfae766"
   },
   {
-    "url": "assets/js/58.389dc7b1.js",
-    "revision": "175f1a9d4e83cd094305578e552ab215"
+    "url": "assets/js/58.ec2b994b.js",
+    "revision": "27864f8c588c9c681676a5d078006b18"
   },
   {
-    "url": "assets/js/59.35387167.js",
-    "revision": "0e94e4f5b16ff742332aa3927c1e489a"
+    "url": "assets/js/59.e13b832f.js",
+    "revision": "d55fb2055d13ce288e0cef893cb307e6"
   },
   {
     "url": "assets/js/6.f91baddb.js",
     "revision": "0415e99634f624c9b36d11e5ff125376"
   },
   {
-    "url": "assets/js/60.cdf9e725.js",
-    "revision": "426f279c4dd9ac507aa243ed792bb8ca"
+    "url": "assets/js/60.0ef52ecc.js",
+    "revision": "6c6d22f509496bf928d4b8ec4b32cb80"
   },
   {
-    "url": "assets/js/61.f9519925.js",
-    "revision": "7d451ec797c8ae6a3a6dcfd80a12f3b8"
+    "url": "assets/js/61.a5138966.js",
+    "revision": "90b4d46ea52f829b0869c60fe0b60fcf"
   },
   {
-    "url": "assets/js/62.a820044d.js",
-    "revision": "66aed68d5983bf8b0bc3651281b11052"
+    "url": "assets/js/62.13872767.js",
+    "revision": "8707cb1d7c5fcfe927489d6f4bf5b40d"
   },
   {
     "url": "assets/js/63.d76e64e6.js",
@@ -282,8 +282,8 @@ self.__precacheManifest = [
     "revision": "ba7e89560a4fc4b6fcc60d953b1d2156"
   },
   {
-    "url": "assets/js/app.11abbff1.js",
-    "revision": "75e06e27981a943d1153fbb83f33f1aa"
+    "url": "assets/js/app.65e4ebcf.js",
+    "revision": "9998a36ac70fad7ac8b538e80a507882"
   },
   {
     "url": "assets/js/vendors~docsearch.eec9cc92.js",
@@ -291,207 +291,207 @@ self.__precacheManifest = [
   },
   {
     "url": "en/content/index.html",
-    "revision": "ec0a01ec65d6d278dad9ca22bd2f7b9e"
+    "revision": "7e6471756a572152a0cb829353afcf68"
   },
   {
     "url": "en/content/third-party.html",
-    "revision": "74135e925f14c6013685b2cd50438232"
+    "revision": "08293b22f30bcee4ef1b75f156201148"
   },
   {
     "url": "en/guide/index.html",
-    "revision": "a85fd5ff910548c827b56ebeae8e94f3"
+    "revision": "a11db33381bbc0c92490339af6a42931"
   },
   {
     "url": "en/guide/integrations/azure-ad/application_registration.html",
-    "revision": "4cb8d7f1402195fc44240dc823f62604"
+    "revision": "6dd5835015b01620eeba722c64b26e8b"
   },
   {
     "url": "en/guide/integrations/azure-ad/communications.html",
-    "revision": "53a6c63c0e903a6f11e24d7bf4681530"
+    "revision": "1273f74b3de2f39799d90084b1660677"
   },
   {
     "url": "en/guide/integrations/azure-ad/enterprise_applications.html",
-    "revision": "45ebfd342553fe2931adac7fc75c0734"
+    "revision": "7ddc050a2ae8db3ede1a773cc045c65b"
   },
   {
     "url": "en/guide/integrations/azure-ad/index.html",
-    "revision": "fbb6773b86d9b06ac997a0e2bc783f7a"
+    "revision": "ed01e7cc149721b36217aa0a32998b90"
   },
   {
     "url": "en/guide/integrations/azure-ad/phishx.html",
-    "revision": "54709c5a2ac85c07458e5ddd3b405757"
+    "revision": "bfe3c993d630443c114241f9ad2ef669"
   },
   {
     "url": "en/guide/requirements/certificates.html",
-    "revision": "c0c05766f4a31b1c8d5fe875ef3f7f90"
+    "revision": "f92100b84e46d8b29ae25b7da2e01f69"
   },
   {
     "url": "en/guide/requirements/communications.html",
-    "revision": "8c41b498a51e265d53a8b2cf993e709e"
+    "revision": "b695077df6ac7ef24a7dc4744ad09ed5"
   },
   {
     "url": "en/guide/requirements/domains.html",
-    "revision": "40611f1dee4844d0b012a414326926f4"
+    "revision": "51a6287113a17d95c1ecf5b85c0d78c2"
   },
   {
     "url": "en/guide/requirements/google-gsuite/email_whitelist.html",
-    "revision": "bfa7ca171131e39d614333fe5d92f3b3"
+    "revision": "8e58c07ca9a230e62e943fdcd51bf4d6"
   },
   {
     "url": "en/guide/requirements/google-gsuite/image_url.html",
-    "revision": "159d3706edd4bfd6c82c9f93ce999f70"
+    "revision": "3eebf9a5eab3c06d758e55c673c2395d"
   },
   {
     "url": "en/guide/requirements/google-gsuite/index.html",
-    "revision": "b0f9585579a054ec7877794b28b64f19"
+    "revision": "eab3024f3a2a31cfa441da8748bfc1e3"
   },
   {
     "url": "en/guide/requirements/google-gsuite/spam.html",
-    "revision": "d3909dac2ea82ec2f795aacd823bc72b"
+    "revision": "bc5453bc8f5fedc34dd298df44da38c1"
   },
   {
     "url": "en/guide/requirements/index.html",
-    "revision": "3a700954e74355077d264f676e4deef2"
+    "revision": "e365e7eb2ec9c008a18f46655bc19c54"
   },
   {
     "url": "en/guide/requirements/ips.html",
-    "revision": "c8a17368e4123c39f1e5fe947adaa0f8"
+    "revision": "047343a9d6b5d9ac3d2792f382a2b198"
   },
   {
     "url": "en/guide/requirements/microsoft-365/connection_filter.html",
-    "revision": "6bd81faae55835b5586fbb98f1d9bd3e"
+    "revision": "efe987f3480db163bbea831ba52bcd5e"
   },
   {
     "url": "en/guide/requirements/microsoft-365/connectors.html",
-    "revision": "aa56910403489fd46fa8ef464332bbf8"
+    "revision": "3385891d7b3f56a2dad0470c51e7ccb1"
   },
   {
     "url": "en/guide/requirements/microsoft-365/index.html",
-    "revision": "55f1d3d2812d7340d30036242564056b"
+    "revision": "de9661efbc3ac4fbaff0500fe61ea71d"
   },
   {
     "url": "en/guide/requirements/microsoft-365/spam_filter.html",
-    "revision": "7e57891de8a0c77b7a565a14cb739aaf"
+    "revision": "64705da4190b63fd643862de65e6205d"
   },
   {
     "url": "en/index.html",
-    "revision": "35ccb3bda92e52e4978fae71a19d21db"
+    "revision": "1f984654fdd7c928a339c4720fe8470c"
   },
   {
     "url": "en/terms/contract.html",
-    "revision": "f7561ab5fab042f3a7fe35f2bb196f30"
+    "revision": "960386e1ce20ac22a20f977b741bf6fd"
   },
   {
     "url": "en/terms/index.html",
-    "revision": "5651a3e21cf872fce7c3da9d162f6cc6"
+    "revision": "9479fd32da3d14598713daba6681da27"
   },
   {
     "url": "en/terms/privacy.html",
-    "revision": "be5cd98f1794946e82cd4dfa83cf34ca"
+    "revision": "ebc158d3ee76975f792c909650f98c7b"
   },
   {
     "url": "index.html",
-    "revision": "0f80d1aadec00869a707173b5b858ac5"
+    "revision": "a3a2cc0c755a81e0833a093d60b254c2"
   },
   {
     "url": "pt/content/index.html",
-    "revision": "8215395d1beeaa08d74d543a91bdb511"
+    "revision": "33d277bac3554610b5883e3797e0fa2e"
   },
   {
     "url": "pt/content/third-party.html",
-    "revision": "f022ea36f188116980dd3140be5583c7"
+    "revision": "c3fb4359f5fa3c200688d9d684920ffb"
   },
   {
     "url": "pt/guide/index.html",
-    "revision": "1f61efa977adbb04d60302846a557a82"
+    "revision": "698e2764cb04f7457ad44cea21cffc87"
   },
   {
     "url": "pt/guide/integrations/azure-ad/application_registration.html",
-    "revision": "302491acbc99085fe0d3abe8400b751e"
+    "revision": "d7f0dbd2e2bdc79e612489c6a9d2c29a"
   },
   {
     "url": "pt/guide/integrations/azure-ad/communications.html",
-    "revision": "7b0d6b4d582f2ddd89187e12f8cde648"
+    "revision": "ed3a14d2e10822fdb994d793bc4049d8"
   },
   {
     "url": "pt/guide/integrations/azure-ad/enterprise_applications.html",
-    "revision": "bfff7d69e91730ecbddc80a5f9e87c2c"
+    "revision": "db9fd97879f7bc6c6b36f8dd6ca353c4"
   },
   {
     "url": "pt/guide/integrations/azure-ad/index.html",
-    "revision": "52cd7004aa94b92d2eb900187b7ad5ce"
+    "revision": "19aa48da3843ecb98530380753bf0178"
   },
   {
     "url": "pt/guide/integrations/azure-ad/phishx.html",
-    "revision": "3dbffb918f543a232cafa1f71e361f81"
+    "revision": "8233cf5fae15133c199cca8892e81968"
   },
   {
     "url": "pt/guide/requirements/certificates.html",
-    "revision": "d6f07869af7dfcfabef76964a9a1aedf"
+    "revision": "93ef018e7df03ccbc2addb74eba865c4"
   },
   {
     "url": "pt/guide/requirements/communications.html",
-    "revision": "8ab5c5437e8f1805cdd29d0fd16766a6"
+    "revision": "917c4631835e315881ef69f63c5e5609"
   },
   {
     "url": "pt/guide/requirements/domains.html",
-    "revision": "3eddbac204027d243e06a8761c32fecd"
+    "revision": "820c0a19ef9d2e462a1d21e1a7706b61"
   },
   {
     "url": "pt/guide/requirements/google-gsuite/email_whitelist.html",
-    "revision": "3978e5bacaa12a57d47a6760903e1cb2"
+    "revision": "0cc6ddc74d43e49a6408861cf1b93fbb"
   },
   {
     "url": "pt/guide/requirements/google-gsuite/image_url.html",
-    "revision": "1521027ceb1520d3e71a8de3b7ddbb0e"
+    "revision": "e8d54f94913732b14426a5de5c893505"
   },
   {
     "url": "pt/guide/requirements/google-gsuite/index.html",
-    "revision": "c9368a2891f3154c6ce3ebc3867408bb"
+    "revision": "e994bc2996a43a0c1c45797438442f7b"
   },
   {
     "url": "pt/guide/requirements/google-gsuite/spam.html",
-    "revision": "403656762c9fdb8f211cda66aa2da3ec"
+    "revision": "047d4d8c5733f72f383484d168ca0e0b"
   },
   {
     "url": "pt/guide/requirements/index.html",
-    "revision": "b3d9ffc2844e442750cbc53292b04fff"
+    "revision": "43f73ec5f2981d09ba255e68744f9cde"
   },
   {
     "url": "pt/guide/requirements/ips.html",
-    "revision": "813e41e71c8f3dd237350a8aaf8a037f"
+    "revision": "5693160760762d283a87cff173499bf3"
   },
   {
     "url": "pt/guide/requirements/microsoft-365/connection_filter.html",
-    "revision": "7c3a7bbb5d7fb06e2ff10b2d0fea9ed1"
+    "revision": "14c528c6a93276b2fb8c48952f5f5048"
   },
   {
     "url": "pt/guide/requirements/microsoft-365/connectors.html",
-    "revision": "0784cd557cb2dd38fb119a02c0416bdc"
+    "revision": "278de290626d06a174577fc916a3145b"
   },
   {
     "url": "pt/guide/requirements/microsoft-365/index.html",
-    "revision": "cf90bb454e36e2e874ed21bf84c5c485"
+    "revision": "d3f47cfc367b49ebade3d3f77c338f89"
   },
   {
     "url": "pt/guide/requirements/microsoft-365/spam_filter.html",
-    "revision": "549a2f69ff1814c71d90a143df4df7af"
+    "revision": "351d783a5a270d30341fa6e428254d88"
   },
   {
     "url": "pt/index.html",
-    "revision": "38d0ed38aad0308e428ca27f6d05704c"
+    "revision": "8123db7b95381289957d38410c1164a6"
   },
   {
     "url": "pt/terms/contract.html",
-    "revision": "60f2b8ac8fa9bd45447cc1872e150067"
+    "revision": "b77b72178b23a25851f740bab235558d"
   },
   {
     "url": "pt/terms/index.html",
-    "revision": "3bc5d672688eb3cf9046f00228b9e3f5"
+    "revision": "9fc0afe2ebad1a28fd1789966dce8de4"
   },
   {
     "url": "pt/terms/privacy.html",
-    "revision": "9afc4cd97a8331bb32f0bedb63491857"
+    "revision": "283a2895f4726a8f663d3e68057aaa7e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
