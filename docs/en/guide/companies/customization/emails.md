@@ -5,3 +5,17 @@ tags:
   - Configurações
 ---
 # E-mails
+
+::: tip Notificações do Ambiente
+Configure quais e-mails principais vão receber os notificações de suporte e relatório dos usuários.
+:::
+
+Gerenciar os e-mails que receberão comunicados da PhishX.
+
+1. Em **Customizações** -> **E-mails**.
+
+   Em **Email de Suporte** inserir o seu e-mail principal de suporte.
+
+   Em **Email de Relatório** inserir o seu e-mail principal para receber os relatórios dos usuários.
+
+   ![E-mails](https://cdn.phishx.io/phishx-docs/images/phishx_companies_emails_01.webp)

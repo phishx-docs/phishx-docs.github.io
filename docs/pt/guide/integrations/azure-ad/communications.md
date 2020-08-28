@@ -12,7 +12,7 @@ tags:
 Todos os servidores Web da PhishX usam certificados SSL.
 :::
 
-## Users
+## Usuários
 <br>
 
 | ORIGEM | DESTINO | SERVIÇO |

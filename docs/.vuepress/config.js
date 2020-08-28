@@ -218,7 +218,6 @@ function config_locales(locale, extra) {
             ]
           },
           `/${locale}/${dir_guide}/${dir_companies}/create_company`,
-          `/${locale}/${dir_guide}/${dir_companies}/change_company`,
           `/${locale}/${dir_guide}/${dir_companies}/api`,
           `/${locale}/${dir_guide}/${dir_companies}/companies`,
           `/${locale}/${dir_guide}/${dir_companies}/subscriptions`,
