@@ -25,6 +25,8 @@ function config_locales(locale, extra) {
   var dir_security = 'security'
   var dir_customization = 'customization'
   var dir_settings = 'settings'
+  var dir_templates = 'templates'
+  var dir_wizards = 'wizards'
   var dir_ui = 'ui'
   var config = {
     description: extra.description,
@@ -119,6 +121,32 @@ function config_locales(locale, extra) {
           `/${locale}/${dir_guide}/${dir_ui}/languages`,
           `/${locale}/${dir_guide}/${dir_ui}/companies`,
           `/${locale}/${dir_guide}/${dir_ui}/logout`,
+        ]
+      },
+      {
+        title: extra.templates,
+        collapsable: true,
+        sidebarDepth: 0,
+        children: [
+          `/${locale}/${dir_guide}/${dir_templates}/`,
+          `/${locale}/${dir_guide}/${dir_templates}/actions`,
+          `/${locale}/${dir_guide}/${dir_templates}/libraries`,
+          `/${locale}/${dir_guide}/${dir_templates}/editors`,
+          `/${locale}/${dir_guide}/${dir_templates}/create_template`,
+          `/${locale}/${dir_guide}/${dir_templates}/storage`,
+          `/${locale}/${dir_guide}/${dir_templates}/approvals`,
+          {
+            title: extra.wizards,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_templates}/${dir_wizards}/`,
+              `/${locale}/${dir_guide}/${dir_templates}/${dir_wizards}/redirection`,
+              `/${locale}/${dir_guide}/${dir_templates}/${dir_wizards}/documents`,
+              `/${locale}/${dir_guide}/${dir_templates}/${dir_wizards}/videos`,
+              `/${locale}/${dir_guide}/${dir_templates}/${dir_wizards}/login`,
+            ]
+          },
         ]
       },
       {
@@ -282,6 +310,8 @@ var config_locales_en = config_locales('en', {
   customization: 'Customization',
   settings: 'Settings',
   profile: 'Profile',
+  wizards: 'Wizards',
+  templates: 'Templates',
   searchPlaceholder: 'Search...'
 })
 var config_locales_pt = config_locales('pt', {
@@ -309,6 +339,8 @@ var config_locales_pt = config_locales('pt', {
   customization: 'Customizações',
   settings: 'Configurações',
   profile: 'Perfil',
+  wizards: 'Assistentes',
+  templates: 'Modelos',
   searchPlaceholder: 'Procurar...'
 })
 var config_base_locales_en = config_base_locales({
