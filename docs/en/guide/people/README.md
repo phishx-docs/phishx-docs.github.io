@@ -11,7 +11,7 @@ Gerenciar listas, contatos e arquivos.
 ## Módulos
 <br>
 
-| Ação | Descrição |
+| Módulo | Descrição |
 | :--- | :--- |
 | [Listas](lists/) | Gerenciar listas de contatos. |
 | [Armazenamento](storage/) | Gerenciar os arquivos das listas. |

@@ -132,6 +132,7 @@ function config_locales(locale, extra) {
           `/${locale}/${dir_guide}/${dir_templates}/actions`,
           `/${locale}/${dir_guide}/${dir_templates}/libraries`,
           `/${locale}/${dir_guide}/${dir_templates}/editors`,
+          `/${locale}/${dir_guide}/${dir_templates}/objectives`,
           `/${locale}/${dir_guide}/${dir_templates}/create_template`,
           `/${locale}/${dir_guide}/${dir_templates}/storage`,
           `/${locale}/${dir_guide}/${dir_templates}/approvals`,

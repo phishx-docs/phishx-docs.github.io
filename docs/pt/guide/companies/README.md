@@ -11,7 +11,7 @@ Gerenciar empresas e configurações.
 ## Módulos
 <br>
 
-| Ação | Descrição |
+| Módulo | Descrição |
 | :--- | :--- |
 | [Perfil da Empresa](profile/) | Gerenciar o perfil da sua empresa. |
 | [Criar uma Empresa](create_company/) | Criar uma nova empresa no seu grupo de negócios. |

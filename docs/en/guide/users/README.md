@@ -12,7 +12,7 @@ Gerenciar usuários e permissões.
 ## Módulos
 <br>
 
-| Ação | Descrição |
+| Módulo | Descrição |
 | :--- | :--- |
 | [Primeiro Acesso](first_access/) | Como fazer o primeiro acesso. |
 | [Login](login/) | Como acessar sua plataforma. |
