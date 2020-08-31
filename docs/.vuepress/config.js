@@ -27,6 +27,9 @@ function config_locales(locale, extra) {
   var dir_settings = 'settings'
   var dir_templates = 'templates'
   var dir_wizards = 'wizards'
+  var dir_campaigns = 'campaigns'
+  var dir_schedules = 'schedules'
+  var dir_messages = 'messages'
   var dir_ui = 'ui'
   var config = {
     description: extra.description,
@@ -121,6 +124,52 @@ function config_locales(locale, extra) {
           `/${locale}/${dir_guide}/${dir_ui}/languages`,
           `/${locale}/${dir_guide}/${dir_ui}/companies`,
           `/${locale}/${dir_guide}/${dir_ui}/logout`,
+        ]
+      },
+      {
+        title: extra.campaigns,
+        collapsable: true,
+        sidebarDepth: 0,
+        children: [
+          `/${locale}/${dir_guide}/${dir_campaigns}/`,
+          {
+            title: extra.campaigns,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/actions`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/create_campaign`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/schedule`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/replays`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/people`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/actions`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/editor`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/confirmation`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/view`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/auth`,
+            ]
+          },
+          {
+            title: extra.schedules,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_schedules}/`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_schedules}/edit_schedule`,
+            ]
+          },
+          {
+            title: extra.messages,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_messages}/`,
+              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_messages}/edit_message`,
+            ]
+          },
+          `/${locale}/${dir_guide}/${dir_campaigns}/suggestions`,
+          `/${locale}/${dir_guide}/${dir_campaigns}/approvals`,
         ]
       },
       {
@@ -313,6 +362,10 @@ var config_locales_en = config_locales('en', {
   profile: 'Profile',
   wizards: 'Wizards',
   templates: 'Templates',
+  campaigns: 'Campaigns',
+  schedules: 'Schedules',
+  messages: 'Messages',
+  suggestions: 'Suggestions',
   searchPlaceholder: 'Search...'
 })
 var config_locales_pt = config_locales('pt', {
@@ -342,6 +395,10 @@ var config_locales_pt = config_locales('pt', {
   profile: 'Perfil',
   wizards: 'Assistentes',
   templates: 'Modelos',
+  campaigns: 'Campanhas',
+  schedules: 'Agendamentos',
+  messages: 'Mensagens',
+  suggestions: 'Sugestões',
   searchPlaceholder: 'Procurar...'
 })
 var config_base_locales_en = config_base_locales({

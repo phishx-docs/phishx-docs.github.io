@@ -1,28 +1,45 @@
-### TO DO
-
-1234567
-
-### ERRORS
-
-#######
-
-# 2.0
-
-SIDEBAR ADVANCED!!
-
-IMPROVE
-  SET FONT TO NOTO
-  TROCAR VIDEO INSTITUCIONAL (Requer idiomas)
-  TL;DR vs Resumo em Português
-
-TEST
-  Service workers / OFFLINE
-SPA
-  NEW CONTENT AVAILABLE EM Português
-
-LOCALE
-  Auto Locale!!!
-
+/node_modules/vuepress-theme-succinct/components/Home.vue
+<template>
+  <main
+    class="home"
+    aria-labelledby="main-title"
+  >
+    <script>
+      var user_language
+      try {
+        user_language = navigator.language.split("-")[0]
+      } catch(err) {
+        user_language = "en"
+      }
+      var pathArray
+      var newPathArray
+      try {
+        pathArray = window.location.pathname.split('/')
+        newPathArray = pathArray.slice(1,16)[0]
+        if (newPathArray == "") {
+          newPathArray = null
+        }
+      } catch(err) {
+        newPathArray = null
+      }
+      var new_path
+      if (newPathArray) {
+      } else {
+        switch (user_language) {
+          case ("en"):
+            new_path = document.location.href + "en/"
+            break
+          case ("pt"):
+            new_path = document.location.href + "pt/"
+            break
+          default:
+            new_path = document.location.href + "en/"
+            break
+        }
+        console.log(new_path)
+        window.location = new_path
+      }
+    </script>
 
 node_modules/vuepress-theme-succinct/components/NavLinks.vue
 
@@ -128,10 +145,3 @@ node_modules/vuepress-theme-succinct/components/ThemeSwitcher.vue
     <span key="light" v-else id="templateThemePhishX3"><script>phishx_change_locale('templateThemePhishX3', '')</script></span>
   </a>
 </template>
-
-Melhorar páginas PhishX!! FOTOS
-  Azure AD
-
-Melhorar traduções oficiais Microsoft
-  Azure AD
-  Exhange
