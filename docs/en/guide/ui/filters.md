@@ -1,34 +1,34 @@
 ---
-title: Filtros
+title: Filters
 tags:
-  - Experiência
-  - Usuário
+  - Experience
+  - User
   - Interface
   - UI
   - UX
 ---
-# Filtros
+# Filters
 
-::: tip Filtros e Pesquisas
-Você pode filtrar os resultados de painéis e tabelas, além de pesquisar objetos.
+::: tip Filters and Searches
+You can filter the results of panels and tables, and search for objects.
 :::
 
-## Filtros de Painéis
+## Panel Filters
 
-   Clicar nos **...** da seção **Filtros** em cada página.
+   Click on **...** in the Filters section on each page.
 
-   Escolher os novos filtros.
-
-   <br>
-
-   ![Filtros de Painéis](https://cdn.phishx.io/phishx-docs/images/phishx_ui_filter_01.webp)
-
-## Filtros de Tabelas
-
-   Clicar nos **...** da seção **Filtros** em cada página.
-
-   Escolher os novos filtros.
+   Choose new filters.
 
    <br>
 
-   ![Filtros de Tabelas](https://cdn.phishx.io/phishx-docs/images/phishx_ui_filter_02.webp)
+   ![Panel Filters](https://cdn.phishx.io/phishx-docs/images/phishx_ui_filter_01.webp)
+
+## Table Filters
+
+   Click on **...** in the Filters section on each page.
+
+   Choose new filters.
+
+   <br>
+
+   ![Table Filters](https://cdn.phishx.io/phishx-docs/images/phishx_ui_filter_02.webp)

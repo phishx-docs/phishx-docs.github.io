@@ -13,7 +13,7 @@ tags:
    Você pode pesquisar qualquer item do seu ambiente.
    :::
 
-   Clicar na **Lupa** para acessar a Pesquisa.
+   Clicar na **🔎**.
 
    Pesquisar por algum módulo ou objeto.
 

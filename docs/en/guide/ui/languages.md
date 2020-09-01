@@ -1,20 +1,20 @@
 ---
-title: Alterar o Idioma
+title: Change Language
 tags:
-  - Experiência
-  - Usuário
+  - Experience
+  - User
   - Interface
   - UI
   - UX
 ---
-# Alterar o Idioma
+# Change Language
 
-   ::: tip Idioma
-   A plataforma por padrão identifica o idioma do seu navegador e já altera para o idioma disponível.
+   ::: tip Language
+   The platform by default identifies the language of your browser and changes to the available language.
    :::
 
-   Dentro do Menu do Usuário, clicar em **Idioma**.
+   Within the User Menu, click on **Language**.
 
-   Escolher o novo idioma.
+   Choose the new language.
 
-   ![Alterar o Idioma](https://cdn.phishx.io/phishx-docs/images/phishx_ui_language_01.webp)
+   ![Change Language](https://cdn.phishx.io/phishx-docs/images/phishx_ui_language_01.webp)

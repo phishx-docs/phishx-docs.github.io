@@ -1,5 +1,5 @@
 ---
-title: Sair da Plataforma
+title: Sair
 tags:
   - Experiência
   - Usuário
@@ -7,14 +7,14 @@ tags:
   - UI
   - UX
 ---
-# Sair da Plataforma
+# Sair
 
    ::: tip Sair
-   Recomendamos que você sempre saia da plataforma antes de encerrar uma atividade.
+   Recomendamos que você sempre saia da plataforma antes de encerrar uma sessão.
    :::
 
    Dentro do Menu do Usuário, clicar em **Sair**.
 
    Clicar **Sair**.
 
-   ![Sair da Plataforma](https://cdn.phishx.io/phishx-docs/images/phishx_ui_logout_01.webp)
+   ![Sair](https://cdn.phishx.io/phishx-docs/images/phishx_ui_logout_01.webp)

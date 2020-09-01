@@ -1,69 +1,69 @@
 ---
 title: Menus
 tags:
-  - Experiência
-  - Usuário
+  - Experience
+  - User
   - Interface
   - UI
   - UX
 ---
 # Menus
 
-::: tip Permissões do Usuário
-Cada usuário pode ter diferentes níveis e permissões de acesso.<br>
-A sua experiência na plataforma pode ser adequada de acordo com o seu perfil atual.
+::: tip User Permissions
+Each user can have different permissions.<br>
+Your experience on the platform may be different according to your current profile.
 :::
 
-## Menu Principal
+## Main menu
 
-   ::: tip Menu Principal
-   A plataforma identifica o seu acesso e expande o caminho completo do seu Menu Principal.
+   ::: tip Main menu
+   The platform identifies your access and expands the full path of your Main Menu.
    :::
 
-   Acessar o Menu Principal arrastando o mouse para o canto esquerdo ou clicando em algum ícone lateral.
+   Access the Main Menu by dragging the mouse to the left corner or clicking on a side icon.
 
    <br>
 
-   ![Menu Principal](https://cdn.phishx.io/phishx-docs/images/phishx_ui_menu_01.webp)
+   ![Main menu](https://cdn.phishx.io/phishx-docs/images/phishx_ui_menu_01.webp)
 
-## Menu do Usuário
+## User Menu
 
-   Clicar no ícone ou sua foto para acessar o Menu do Usuário.
-
-   <br>
-
-   ![Menu do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_ui_user_menu_01.webp)
-
-## Menu de Ações do Item
-
-   Clicar no ícone do item em uma tabela para acessar as ações permitidas para o seu acesso.
+   Click on the icon or your photo to access the User Menu.
 
    <br>
 
-   ![Menu de Ações do Item](https://cdn.phishx.io/phishx-docs/images/phishx_ui_actions_01.webp)
+   ![User Menu](https://cdn.phishx.io/phishx-docs/images/phishx_ui_user_menu_01.webp)
 
-## Informações extras do Item
+## Item Actions Menu
 
-   Clicar nos **...** do item em uma tabela para acessar as informações extras.
-
-   <br>
-
-   ![Informações extras do Item](https://cdn.phishx.io/phishx-docs/images/phishx_ui_extra_information_01.webp)
-
-## Passar o mouse sobre um Item
-
-   Passar o mouse em cima de um item pode trazer informações adicionais.
+   Click on the item icon in a table to access the allowed actions.
 
    <br>
 
-   ![Passar o mouse sobre um Item](https://cdn.phishx.io/phishx-docs/images/phishx_ui_hover_01.webp)
+   ![Item Actions Menu](https://cdn.phishx.io/phishx-docs/images/phishx_ui_actions_01.webp)
 
-## Confirmar uma ação
+## Extra Item Information
 
-   Algumas ações importantes, como enviar uma campanha ou remover um objeto, será necessário confirmar sua ação.
-
-   Clicar **Sim**.
+   Click on **...** of the item in a table to access extra information.
 
    <br>
 
-   ![Confirmar uma ação](https://cdn.phishx.io/phishx-docs/images/phishx_ui_confirmation_01.webp)
+   ![Extra Item Information](https://cdn.phishx.io/phishx-docs/images/phishx_ui_extra_information_01.webp)
+
+## Hover over an Item
+
+   Hovering over an item can bring additional information.
+
+   <br>
+
+   ![Hover over an Item](https://cdn.phishx.io/phishx-docs/images/phishx_ui_hover_01.webp)
+
+## Confirming an action
+
+   Some important actions, like sending a campaign or removing an object, will need to confirm your action.
+
+   Click **Yes**.
+
+   <br>
+
+   ![Confirming an action](https://cdn.phishx.io/phishx-docs/images/phishx_ui_confirmation_01.webp)

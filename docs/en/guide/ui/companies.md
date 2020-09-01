@@ -1,20 +1,20 @@
 ---
-title: Alterar a Empresa
+title: Change Company
 tags:
-  - Experiência
-  - Usuário
+  - Experience
+  - User
   - Interface
   - UI
   - UX
 ---
-# Alterar a Empresa
+# Change Company
 
-   ::: tip Empresas e Ambientes
-   Sua empresa pode ter acesso a múltiplos ambientes.
+   ::: tip Companies and Environments
+   Your company can have access to multiple environments.
    :::
 
-   Dentro do Menu do Usuário, clicar em **Empresa**.
+   Within the User Menu, click on **Company**.
 
-   Escolher a nova empresa.
+   Choose the new company.
 
-   ![Alterar a Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_ui_companies_01.webp)
+   ![Change Company](https://cdn.phishx.io/phishx-docs/images/phishx_ui_companies_01.webp)

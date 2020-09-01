@@ -1,22 +1,22 @@
 ---
-title: Pesquisar
+title: Search
 tags:
-  - Experiência
-  - Usuário
+  - Experience
+  - User
   - Interface
   - UI
   - UX
 ---
-# Pesquisar
+# Search
 
-   ::: tip Pesquisa
-   Você pode pesquisar qualquer item do seu ambiente.
+   ::: tip Search
+   You can search for any item in your environment.
    :::
 
-   Clicar na **Lupa** para acessar a Pesquisa.
+   Click on **🔎**.
 
-   Pesquisar por algum módulo ou objeto.
+   Search for any module or object.
 
    <br>
 
-   ![Pesquisar](https://cdn.phishx.io/phishx-docs/images/phishx_ui_search_01.webp)
+   ![Search](https://cdn.phishx.io/phishx-docs/images/phishx_ui_search_01.webp)
