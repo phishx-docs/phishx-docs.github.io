@@ -1,3 +1,5 @@
+
+### AUTO LOCALE
 /node_modules/vuepress-theme-succinct/components/Home.vue
 <template>
   <main
@@ -41,6 +43,7 @@
       }
     </script>
 
+### REDIRECT LANGUAGE
 node_modules/vuepress-theme-succinct/components/NavLinks.vue
 
               // fallback to homepage
@@ -70,6 +73,7 @@ node_modules/vuepress-theme-succinct/components/NavLinks.vue
                 }
               }
 
+### THEME LOCALIZATION
 node_modules/vuepress-theme-succinct/components/ThemeSwitcher.vue
 
   parent aria-label
