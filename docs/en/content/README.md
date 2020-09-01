@@ -7,6 +7,10 @@ tags:
 ---
 # PhishX
 
+::: tip Access our Youtube
+Do you want to follow the latest news in our content? Subscribe to our [Youtube](https://www.youtube.com/c/Phishx/videos) channel.
+:::
+
 ## Season 1
 <br>
 

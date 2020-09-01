@@ -16,7 +16,7 @@ Gerenciar os tokens dos usuários e da API.
 
    ![Tokens](https://cdn.phishx.io/phishx-docs/images/phishx_companies_tokens_01.webp)
 
-2. No menu do token.
+2. No menu do **Token**.
 
    Clicar **Renovar Acesso** para extender o acesso.
 

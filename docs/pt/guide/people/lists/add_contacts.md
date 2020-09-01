@@ -15,7 +15,7 @@ Se você for importar múltiplos contatos ou atributos, sugerimos importar via u
 
    ![Listas](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
 
-2. Clicar no menu de sua lista em **Adicionar Contatos**.
+2. Clicar no menu de sua **Lista** em **Adicionar Contatos**.
 
    ![Adicionar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_add_01.webp)
 

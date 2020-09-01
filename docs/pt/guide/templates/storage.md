@@ -32,7 +32,7 @@ Gerenciar arquivos em nossa CDN.
 
    ![Armazenamento](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_05.webp)
 
-3. No menu do arquivo.
+3. No menu do **Arquivo**.
 
    Clicar **Obter**.
 

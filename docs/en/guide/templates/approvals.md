@@ -17,7 +17,7 @@ Gerenciar aprovações de modelos.
 
    ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_01.webp)
 
-2. No menu do modelo.
+2. No menu do **Modelo**.
 
    Clicar **Aprovar**.
 
@@ -37,7 +37,7 @@ Gerenciar aprovações de modelos.
 
    ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_05.webp)
 
-   Clicar **Ações** -> **Aprovar**.
+4. Clicar **Ações** -> **Aprovar**.
 
    Clicar **Enviar**.
 

@@ -17,7 +17,7 @@ Gerenciar as empresas do grupo de negócios.
 
    ![Empresas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_01.webp)
 
-2. No menu da empresa.
+2. No menu da **Empresa**.
 
    Clicar **Usuários** para gerenciar os usuários da empresa.
 

@@ -6,19 +6,22 @@ tags:
 ---
 # Resumo
 
+::: tip Permissões do Usuário
+Cada usuário pode ter diferentes níveis e permissões de acesso.<br>
+A sua experiência na plataforma pode ser adequada de acordo com o seu perfil atual.
+:::
+
+Gerenciar as campanhas.
+
 | Ação | Descrição |
 | :--- | :--- |
-| Visualizar | Visualizar o modelo. |
-| Gostei | Aprovar o modelo. |
-| Não Gostei | Desaprovar o modelo. |
-| Adquirir | Adquirir o modelo da biblioteca global para a empresa. |
-| Publicar | Publicar o modelo da empresa pra biblioteca global. |
-| Clonar | Clonar o modelo. |
-| Editar | Editar o modelo. |
-| Desabilitar | Desabilitar o modelo. |
-| Remover | Remover o modelo. |
+| Exportar | Exportar os resultados da campanha. |
+| Visualizar | Visualizar a campanha com o endereço público. |
+| Autenticar | Visualizar a campanha com o endereço público que requer autenticação do usuário. |
+| Clonar | Clonar a campanha. |
+| Editar | Editar a campanha. |
+| Desabilitar | Desabilitar a campanha. |
+| Remover | Remover a campanha. |
 <br>
-
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_01.webp)
 
    ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_02.webp)

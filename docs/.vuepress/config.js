@@ -138,7 +138,6 @@ function config_locales(locale, extra) {
             sidebarDepth: 0,
             children: [
               `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/`,
-              `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/actions`,
               `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/create_campaign`,
               `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/schedule`,
               `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/replays`,

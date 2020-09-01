@@ -26,7 +26,7 @@ Monitorar a utilização de suas assinaturas.
 
    ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_04.webp)
 
-3. Opcionalmente no menu da sua assinatura.
+3. Opcionalmente no menu da sua **Assinatura**.
 
    Clicar **Detalhes**
 
