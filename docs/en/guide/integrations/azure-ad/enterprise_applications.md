@@ -26,7 +26,7 @@ tags:
 
 	In **User assignment required?** select **Yes**.
 
-	In **Visible to users?** select **No**
+	In **Visible to users?** select **No**.
 
 	Click **Save**.
 

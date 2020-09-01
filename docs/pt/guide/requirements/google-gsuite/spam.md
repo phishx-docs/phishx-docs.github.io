@@ -19,15 +19,15 @@ tags:
    [Configurações avançadas](https://admin.google.com/AdminHome#ServiceSettings/service=email&subtab=filters)
 ![Configurações avançadas](https://cdn.phishx.io/phishx-docs/images/google_admin_05.webp)
 
-2. Editar **Spam, phishing e malware** -> **Spam**
+2. Editar **Spam, phishing e malware** -> **Spam**.
 
    [Referência](https://support.google.com/a/answer/2368132)
 
 ![Spam](https://cdn.phishx.io/phishx-docs/images/google_admin_07.webp)
 
 3. Selecionar:
-   * **Ignorar filtros de spam para mensagens recebidas de remetentes internos.**
-   * **Ignorar filtros de spam para mensagens recebidas de endereços ou domínios dentro destas listas de remetentes aprovados.**
+   * **Ignorar filtros de spam para mensagens recebidas de remetentes internos.**.
+   * **Ignorar filtros de spam para mensagens recebidas de endereços ou domínios dentro destas listas de remetentes aprovados.**.
 
 ![Spam](https://cdn.phishx.io/phishx-docs/images/google_admin_08.webp)
 

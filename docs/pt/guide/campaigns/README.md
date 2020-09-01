@@ -1,7 +1,7 @@
 ---
 title: Resumo
 tags:
-  - Campanha
+  - Campanhas
 ---
 # Resumo
 

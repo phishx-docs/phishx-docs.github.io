@@ -18,7 +18,7 @@ Reiniciar a senha de um usuário.
 
 2. Acessar o menu do usuário.
 
-   Clicar **Nova Senha**
+   Clicar **Nova Senha**.
 
    ![Enviar nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_01.webp)
 

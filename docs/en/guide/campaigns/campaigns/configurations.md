@@ -1,25 +1,25 @@
 ---
-title: Configurações
+title: Configurations
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-## Configurações
+## Configurations
 
-::: tip Vários domínios de Simulação e seu domínio próprio para Comunicação
-Voce pode enviar Campanhas de Simulação (Phishing) através de nossos vários domínios exclusivos.<br>
-Para Campanhas de Comunicação com o layout de sua empresa, podemos enviar de forma segura com o seu próprio domínio.<br>
-Se precisar de informações adicionais, converse com o [PhishX Support].
+::: tip Several Simulation domains and your own domain for Communication
+You can send Simmulations Campaigns (Phishing) through our various exclusive domains.<br>
+For Communication Campaigns with your company's layout, we can send securely with your own domain.<br>
+If you need additional information, talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerencie as configurações de sua campanha.
+Manage your campaign settings.
 
-1. Em **Configurações**.
+1. In **Configurations**.
 
-   Em **Host** definir como será o endereço de sua campanha. (Ex: **meu_host**@meu_dominio.com ou https://**meu_host**.meu_dominio.com)
+   In **Host** define how your campaign address will be. (Ex: **my_host**@my_domain.com or https://**my_host**.my_domain.com)
 
-   Em **Domínio** definir o domínio da sua campanha. (Ex: meu_host@**meu_dominio.com** ou https://meu_host.**meu_dominio.com**)
+   In **Domain** define the domain of your campaign. (Ex: my_host@**my_domain.com** or https://my_host.**my_domain.com**)
 
-   Em **Links** definir se enviaremos o link completo ou através de um encurtador. (Ex: https://**meu_host.meu_dominio.com**/id=meu_id ou https://**meu_encurtador**/id=meu_id)
+   In **Links** define if we will send the complete link or through a shortener. (Ex: https://**my_host.my_domain.com**/id=my_id or https://**my_shortener**/id=my_id)
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_02.webp)
+   ![Configurations](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_02.webp)

@@ -1,27 +1,27 @@
 ---
-title: Resumo
+title: Summary
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-# Resumo
+# Summary
 
-::: tip Permissões do Usuário
-Cada usuário pode ter diferentes níveis e permissões de acesso.<br>
-A sua experiência na plataforma pode ser adequada de acordo com o seu perfil atual.
+::: tip User Permissions
+Each user can have different permissions.<br>
+Your experience on the platform may be different according to your current profile.
 :::
 
-Gerenciar as campanhas.
+Manage campaigns.
 
-| Ação | Descrição |
+| Action | Description |
 | :--- | :--- |
-| Exportar | Exportar os resultados da campanha. |
-| [Visualizar](view) | Visualizar a campanha com o endereço público. |
-| [Autenticar](auth) | Visualizar a campanha com o endereço público que requer autenticação do usuário. |
-| [Clonar](create_campaign) | Clonar a campanha. |
-| [Editar](create_campaign) | Editar a campanha. |
-| Desabilitar | Desabilitar a campanha. |
-| Remover | Remover a campanha. |
+| Export | Export the campaign results. |
+| [View](view) | View the campaign with the public address. |
+| [Authenticate](auth) | View the campaign with the public address that requires user authentication. |
+| [Clone](create_campaign) | Clone the campaign. |
+| [Edit](create_campaign) | Edit the campaign. |
+| Disable | Disable the campaign. |
+| Delete | Remove the campaign. |
 <br>
 
-   ![Ações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_02.webp)
+   ![Actions](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_02.webp)

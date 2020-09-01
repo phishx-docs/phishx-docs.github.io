@@ -23,7 +23,7 @@ Gerenciar aprovações de campanhas.
 
    ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_02.webp)
 
-3. Em **Editar aprovação**.
+3. Em **Editar Aprovação**.
 
    Em **Aprovação** definir sua resposta.
 

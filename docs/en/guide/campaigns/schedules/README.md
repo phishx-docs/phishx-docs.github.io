@@ -1,36 +1,36 @@
 ---
-title: Agendamentos
+title: Schedules
 tags:
-  - Campanhas
-  - Agendamentos
+  - Campaigns
+  - Schedules
 ---
-# Agendamentos
+# Schedules
 
-::: tip Altere seus Agendamentos
-Você pode reenviar ou alterar qualquer agendamento caso necessário.
+::: tip Change your Schedules
+You can resend or change any schedule if necessary.
 :::
 
-Gerenciar os agendamentos enviados.
+Manage submitted schedules.
 
-| Ação | Descrição |
+| Action | Description |
 | :--- | :--- |
-| Visualizar | Visualizar a mensagem do agendamento. |
-| [Editar](edit_schedule) | Editar o agendamento. |
-| Desabilitar | Desabilitar o agendamento. |
-| Remover | Remover o agendamento. |
-| Remover Todos | Remover todos agendamentos não enviados. |
+| View | View the schedule's message. |
+| [Edit](edit_schedule) | Edit the schedule. |
+| Disable | Disable the schedule. |
+| Delete | Remove the schedule. |
+| Delete All | Remove all unsent schedules. |
 <br>
 
-   ![Agendamentos](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)
+   ![Schedules](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)
 
-## Visualizar a Mensagem do Agendamento
+## View the Schedule's Message
 
-1. Acessar o menu **Campanhas** -> **Agendamentos**.
+1. Access the menu **Campaigns** -> **Schedules**.
 
-2. No menu do **Agendamento**.
+2. In the **Schedule** menu.
 
-   Clicar **Visualizar**.
+   Click **View**.
 
-   Opcionalmente clique para expandir em tela cheia.
+   Optionally click to expand in full screen.
 
-   ![Visualizar](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_03.webp)
+   ![View](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_03.webp)

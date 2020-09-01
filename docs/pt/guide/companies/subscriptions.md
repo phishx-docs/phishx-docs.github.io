@@ -20,7 +20,7 @@ Monitorar a utilização de suas assinaturas.
 
    Monitorar a validade em **Validade**.
 
-   Clicar **...**
+   Clicar **...**.
 
    Monitorar o consumo em **Uso**.
 
@@ -28,7 +28,7 @@ Monitorar a utilização de suas assinaturas.
 
 3. Opcionalmente no menu da sua **Assinatura**.
 
-   Clicar **Detalhes**
+   Clicar **Detalhes**.
 
    ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_02.webp)
 

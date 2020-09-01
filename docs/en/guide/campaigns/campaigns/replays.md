@@ -1,30 +1,30 @@
 ---
 title: Replay
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
 ## Replay
 
-::: tip Agendamentos Periódicos
-Os Replays permitem o reenvio periódico de sua campanha baseado no status de cada pessoa.<br>
-Quer aumentar o engajamento do seu treinamento, reenviando a mesma mensagem nas próximas semanas para as pessoas que ainda não clicaram no treinamento? Utilize o Replay.
+::: tip Periodic Schedules
+Replays allow you to periodically resubmit your campaign based on each person's status.<br>
+Do you want to increase your training engagement by forwarding the same message in the coming weeks to people who have not yet clicked on the training? Use Replay.
 :::
 
-Gerencie os replays que serão agendados automaticamente de sua campanha.
+Manage replays that will be automatically scheduled for your campaign.
 
-1. Em **Configurações** -> **Replays**.
+1. In **Configurations** -> **Replays**.
 
-   Em **Habilitado** definir se o módulo estará habilitado.
+   In **Enabled** define whether the module will be enabled.
 
-   Em **Status** definir qual o status mínimo para as pessoas receberem o replay.
+   In **Status** define the minimum status for people to receive the replay.
 
-   Em **Grupos** definir quantas vezes será agendado o replay.
+   In **Groups** define how many times the replay will be scheduled.
 
-   Em **Intervalo** definir o intervalo entre cada replay.
+   In **Interval** define the interval between each replay.
 
-   Em **Unidade** definir a unidade do intervalo entre cada replay.
+   In **Unit** define the unit of the interval between each replay.
 
-   Opcionalmente em **Replays** validar os horários globais **UTC** dos replays.
+   Optionally in **Replays** verify the global **UTC** times for replays.
 
    ![Replays](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_replays_01.webp)

@@ -1,31 +1,31 @@
 ---
-title: Editar Agendamento
+title: Edit Schedule
 tags:
-  - Campanhas
-  - Mensagem
+  - Campaigns
+  - Schedules
 ---
-# Editar Agendamento
+# Edit Schedule
 
-::: tip Altere seus Agendamentos
-Você pode reenviar ou alterar qualquer agendamento caso necessário.
+::: tip Change your Schedules
+You can resend or change any schedule if necessary.
 :::
 
-1. Acessar o menu **Campanhas** -> **Agendamentos**.
+1. Access the menu **Campaigns** -> **Schedules**.
 
-2. No menu do **Agendamento**.
+2. In the **Schedule** menu.
 
-   Clicar **Editar**.
+   Click **Edit**.
 
-3. Em **Editar Agendamento**.
+3. In **Edit Schedule**.
 
-   Em **Status** alterar o status para **Agendado**.
+   In **Status** change the status to **Scheduled**.
 
-   Opcionalmente em **Data** alterar para o novo horário global **UTC**.
+   Optionally in **Date** change to the new **UTC** global time.
 
-   Opcionalmente em **Erros** zerar o valor.
+   Optionally in **Errors** reset the value.
 
-   Clicar **Enviar**
+   Click **Submit**.
 
-   ![Editar Agendamento](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_schedule_edit_01.webp)
+   ![Edit Schedule](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_schedule_edit_01.webp)
 
-   ![Editar Agendamento](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_schedule_edit_02.webp)
+   ![Edit Schedule](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_schedule_edit_02.webp)

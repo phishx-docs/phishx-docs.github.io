@@ -1,42 +1,42 @@
 ---
-title: Agendamento
+title: Schedules
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-## Agendamento
+## Schedules
 
-::: tip Agendamento da Campanha
-Você pode agendar sua campanha para a próxima segunda-feira ou para o próximo mês.<br>
-Além disso o Agendamento da Campanha permite a segmentação automática em grupos, garantido um envio controlado em intervalos periódicos até a totalidade das pessoas receberem sua campanha.
+::: tip Campaign Scheduling
+You can schedule your campaign for next Monday or next month.<br>
+In addition, Campaign Scheduling allows automatic segmentation into groups, ensuring controlled delivery at periodic intervals until all people receive your campaign.
 :::
 
-Gerencie os agendamentos de sua campanha.
+Manage your campaign schedules.
 
-1. Em **Configurações** -> **Agendamento**.
+1. In **Configurations** -> **Schedule**.
 
-2. Opcionalmente para agendar o começo de sua campanha.
+2. Optionally to schedule the start of your campaign.
 
-   Em **Começo** definir se o módulo estará habilitado.
+   In **Begin** define whether the module will be enabled.
 
-   Opcionalmente em **Dividir** definir se haverá mais de um agendamento segmentado em intervalos.
+   Optionally in **Divide** define whether there will be more than one segmented schedule intervals.
 
-   Em **Data** definir o horário global **UTC** para começar seu agendamento.
+   In **Date** define the global **UTC** time to start your schedule.
 
-   Opcionalmente em **Grupos** definir quantas vezes será segmentado o seu agendamento.
+   Optionally in **Groups** define how many times your schedule will be segmented.
 
-   Opcionalmente em **Intervalo** definir o intervalo entre cada segmento do seu agendamento.
+   Optionally in **Interval** define the interval between each segment of your schedule.
 
-   Opcionalmente em **Unidade** definir a unidade do intervalo entre cada segmento do seu agendamento.
+   Optionally in **Unit** define the unit of the interval between each segment of your schedule.
 
-   ![Começo](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_schedule_01.webp)
+   ![Begin](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_schedule_01.webp)
 
-3. Opcionalmente para agendar o término automático de sua campanha.
+3. Optionally to schedule your campaign to end automatically.
 
-   Em **Fim** definir se o módulo estará habilitado.
+   In **End** define whether the module will be enabled.
 
-   Em **Intervalo** definir o intervalo de duração de sua campanha.
+   In **Interval** define the duration of your campaign.
 
-   Em **Unidade** definir a unidade do intervalo de duração de sua campanha.
+   In **Unit** define the unit for the duration of your campaign.
 
-   ![Fim](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_schedule_02.webp)
+   ![End](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_schedule_02.webp)

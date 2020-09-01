@@ -30,7 +30,7 @@ tags:
 
    In **Supported account types** select **Accounts in this organizational directory only (... only - Single tenant)**.
 
-	In **Redirect URI (optional)** fill with your **PhishX URL**: **https://my_subdomain.phishx.io/azuread**
+	In **Redirect URI (optional)** fill with your **PhishX URL**: **https://my_subdomain.phishx.io/azuread**.
 
 	Click **Register**.
 

@@ -20,15 +20,15 @@ tags:
 
    ![Advanced Settings](https://cdn.phishx.io/phishx-docs/images/google_admin_05.webp)
 
-2. Edit **Spam, phishing and malware** -> **Spam**
+2. Edit **Spam, phishing and malware** -> **Spam**.
 
    [Reference](https://support.google.com/a/answer/2368132)
 
    ![Spam](https://cdn.phishx.io/phishx-docs/images/google_admin_07.webp)
 
 3. Select:
-   * **Bypass spam filters for messages received from internal senders.**
-   * **Bypass spam filters for messages received from addresses or domains within these approved senders lists.**
+   * **Bypass spam filters for messages received from internal senders.**.
+   * **Bypass spam filters for messages received from addresses or domains within these approved senders lists.**.
 
    ![Spam](https://cdn.phishx.io/phishx-docs/images/google_admin_08.webp)
 

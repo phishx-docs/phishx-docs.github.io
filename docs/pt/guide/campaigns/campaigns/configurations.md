@@ -9,7 +9,7 @@ tags:
 ::: tip Vários domínios de Simulação e seu domínio próprio para Comunicação
 Voce pode enviar Campanhas de Simulação (Phishing) através de nossos vários domínios exclusivos.<br>
 Para Campanhas de Comunicação com o layout de sua empresa, podemos enviar de forma segura com o seu próprio domínio.<br>
-Se precisar de informações adicionais, converse com o [PhishX Support].
+Se precisar de informações adicionais, converse com o [PhishX Support](mailto:support@phishx.io).
 :::
 
 Gerencie as configurações de sua campanha.

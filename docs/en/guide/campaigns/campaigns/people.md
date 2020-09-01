@@ -1,20 +1,20 @@
 ---
-title: Pessoas
+title: People
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-## Pessoas
+## People
 
-::: tip Múltiplas Listas
-Voce pode ter múltiplas listas de contatos como público-alvo de sua campanha.<br>
-A PhishX não enviará nenhuma mensagem duplicada para contatos com o mesmo e-mail único.
+::: tip Multiple Lists
+You can have multiple contact lists as the target audience for your campaign.<br>
+PhishX will not send any duplicate messages to contacts with the same email.
 :::
 
-Gerencie as listas de contatos.
+Manage your contact lists.
 
-1. Em **Configurações** -> **Pessoas**.
+1. In **Configurations** -> **People**.
 
-   Definir quais lista de contatos receberão sua campanha.
+   Define which contact list will receive your campaign.
 
-   ![Pessoas](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_people_01.webp)
+   ![People](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_people_01.webp)

@@ -18,7 +18,7 @@ Gerenciar a proteção de acesso através de redes (**Firewall**).
 
    Adicionar uma nova. Clicar **+**.
 
-   Inserir a **rede** no formato **CIDR**. Ex: **10.0.0.0/8**
+   Inserir a **rede** no formato **CIDR**. (Ex: **10.0.0.0/8**)
 
    Inserir uma **descrição**.
 

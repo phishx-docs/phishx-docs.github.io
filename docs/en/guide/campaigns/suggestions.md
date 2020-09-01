@@ -1,56 +1,56 @@
 ---
-title: Sugestões
+title: Suggestions
 tags:
-  - Campanhas
-  - Sugestões
+  - Campaigns
+  - Suggestions
 ---
-# Sugestões
+# Suggestions
 
-::: tip Novas Sugestões
-O time de Customer Success da PhishX produz novas sugestões todos os meses.<br>
-Se você não achou uma sugestão, ou tem uma ideia interessante, converse com [PhishX Support](mailto:support@phishx.io).
+::: tip New Suggestions
+The PhishX Customer Success team produces new suggestions every month.<br>
+If you didn't find a suggestion, or have an interesting idea, talk to  [PhishX Support](mailto:support@phishx.io).
 :::
 
-Adquirir as campanhas sugeridas pelo Customer Success da PhishX.
+Acquire the suggested campaigns from PhishX's Customer Success.
 
-1. Acessar o menu **Campanhas** -> **Sugestões**.
+1. Access the menu **Campaigns** -> **Suggestions**.
 
-   ![Sugestões](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_01.webp)
+   ![Suggestions](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_01.webp)
 
-2. No menu da **Sugestão**.
+2. In the **Suggestion** menu.
 
-   Clicar **Adquirir**.
+   Click **Acquire**.
 
-   ![Sugestões](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_02.webp)
+   ![Suggestions](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_02.webp)
 
-3. Em **Adquirir Sugestão**.
+3. In **Acquire Suggestion**.
 
-   Em **Informações** -> **Nome** definir o nome único para sua campanha.
+   In **Informations** -> **Name** define the unique name for your campaign.
 
-   Opcionalmente nas demais informações definir suas customizações da campanha.
+   Optionally in the other information, define your campaign customizations.
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Adquirir Sugestão](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_03.webp)
+   ![Acquire Suggestion](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_03.webp)
 
-   Em **Configurações** -> **Pessoas** definir as listas de contatos para sua campanha.
+   In **Configurations** -> **People** define the contact lists for your campaign.
 
-   Opcionalmente nas demais configurações definir suas customizações da campanha.
+   Optionally in the other information, define your campaign customizations.
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Adquirir Sugestão](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_04.webp)
+   ![Acquire Suggestion](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_04.webp)
 
-   Opcionalmente em **Modelo** definir suas customizações do modelo da campanha.
+   Optionally in **Template** define your campaign template customizations.
 
-   ![Adquirir Sugestão](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_05.webp)
+   Click **Submit**.
 
-   Clicar **Enviar**.
+   ![Acquire Suggestion](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_05.webp)
 
-4. Em **Confirmação da Campanha**.
+4. In **Campaign Confirmation**.
 
-   Opcionalmente em **Contatos** validar o público-alvo da campanha.
+   Optionally in **Targets** verify the target audience of the campaign.
 
-   Em **Ações** escolher **Salvar** (salva as configurações da campanha), **Agendar** (salva e programa a sua campanha) ou **Enviar** (salva e envia a sua campanha).
+   In **Actions** choose **Save** (to save your campaign settings), **Schedule** (to save and schedule your campaign) or **Send** (to save and send your campaign).
 
    ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_confirmation_03.webp)

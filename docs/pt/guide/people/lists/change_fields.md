@@ -17,7 +17,7 @@ Mudar os campos dos contatos de uma lista.
 
 2. Acessar o menu da lista.
 
-   Clicar **Mudar Campos**
+   Clicar **Mudar Campos**.
 
    ![Mudar Campos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_change_fields_01.webp)
 

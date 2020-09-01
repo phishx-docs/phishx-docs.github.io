@@ -48,7 +48,7 @@ Como gerenciar seu perfil do usuário.
 
 3. Opcionalmente definir seu Múltiplo Fator de Autenticação.
 
-   Clicar **Autenticador**
+   Clicar **Autenticador**.
 
    Escanear o QR Code com o seu aplicativo de autenticação móvel.
 

@@ -1,31 +1,31 @@
 ---
-title: Editar Mensagem
+title: Edit Message
 tags:
-  - Campanhas
-  - Mensagens
+  - Campaigns
+  - Messages
 ---
-## Editar Mensagem
+## Edit Message
 
-::: tip Reenvie suas Mensagens
-Você pode reenviar qualquer mensagem caso necessário.
+::: tip Resend your messages
+You can resend any message if necessary.
 :::
 
-1. Acessar o menu **Campanhas** -> **Mensagens**.
+1. Access the menu **Campaigns** -> **Messages**.
 
-2. No menu da **Mensagem**.
+2. In the **Message** menu.
 
-   Clicar **Editar**.
+   Click **Editar**.
 
-3. Em **Editar Mensagem**.
+3. In **Edit Message**.
 
-   Em **Status** alterar o status para **Agendado**.
+   In **Status** change the status to **Scheduled**.
 
-   Opcionalmente em **Data** alterar para o novo horário global **UTC**.
+   Optionally in **Date** change to the new **UTC** global time.
 
-   Opcionalmente em **Erros** zerar o valor.
+   Optionally in **Errors** reset the value.
 
-   Clicar **Enviar**
+   Click **Submit**.
 
-   ![Editar Mensagem](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_message_edit_01.webp)
+   ![Edit Message](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_message_edit_01.webp)
 
-   ![Editar Mensagem](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_message_edit_02.webp)
+   ![Edit Message](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_message_edit_02.webp)

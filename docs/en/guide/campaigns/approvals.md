@@ -1,44 +1,44 @@
 ---
-title: Aprovações
+title: Approvals
 tags:
-  - Campanhas
-  - Aprovações
+  - Campaigns
+  - Approvals
 ---
-# Aprovações
+# Approvals
 
-::: tip Aprovações Adicionais
-Antes de uma campanha oficial ser enviada, recomendamos definir um processo de aprovação formal.<br>
-Este processo pode ser interno na sua empresa, ou integrado opcionalmente na plataforma PhishX.
+::: tip Additional Approvals
+Before an official campaign is sent, we recommend setting up a formal approval process.<br>
+This process can be internal to your company, or optionally integrated into the PhishX platform.
 :::
 
-Gerenciar aprovações de campanhas.
+Manage campaign approvals.
 
-1. Acessar o menu **Campanhas** -> **Aprovações**.
+1. Access the menu **Campaigns** -> **Approvals**.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_01.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_01.webp)
 
-2. No menu da **Campanha**.
+2. In the **Campaign** menu.
 
-   Clicar **Aprovar**.
+   Click **Approve**.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_02.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_02.webp)
 
-3. Em **Editar aprovação**.
+3. In **Edit Approval**.
 
-   Em **Aprovação** definir sua resposta.
+   In **Approval** define your answer.
 
-   Opcionalmente em **Comentário** inserir um comentário para justificar sua resposta.
+   Optionally in **Comment** insert a comment to justify your answer.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_03.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_03.webp)
 
-   Opcionalmente em **Ações** -> **Modelos**, visualizar os modelos.
+   Optionally in **Actions** -> **Templates**, view the templates.
 
-   ![Modelos](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_04.webp)
+   ![Templates](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_04.webp)
 
-   ![Modelos](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_05.webp)
+   ![Templates](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_approvals_05.webp)
 
-4. Clicar **Ações** -> **Aprovar**.
+4. Click **Actions** -> **Approve**.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_06.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_06.webp)

@@ -1,24 +1,24 @@
 ---
-title: Autenticação
+title: Authenticate
 tags:
-  - Campanhas
-  - Modelos
+  - Campaigns
+  - Templates
 ---
-# Autenticação
+# Authenticate
 
-::: tip Identificação do Usuário
-Você pode compartilhar um único endereço de autenticação de sua campanha e permitir que cada usuário sem conta ou e-mail acesse o seu conteúdo, se identificando com um ID como crachá ou outro registro único, incluindo autenticação segura em seu ambiente.<br>
-Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
+::: tip User ID
+You can share a single authentication address for your campaign and allow each user without an account or email to access your content by identifying themselves with an ID such as a badge or other unique record, including secure authentication in your environment.<br>
+If you need additional support talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Visualizar a campanha com o endereço público que requer autenticação do usuário.
+View the campaign with the public address that requires user authentication.
 
-1. Acessar o menu **Campanhas** -> **Campanhas**.
+1. Access the menu **Campaigns** -> **Campaigns**.
 
-2. No menu do **Campanha**.
+2. In the **Campaign** menu.
 
-   Clicar **Autenticar**.
+   Click **Authenticate**.
 
-   Escolher a opção de **Autenticação** disponível em seu ambiente.
+   Choose the **Authentication** option available in your environment.
 
-   ![Autenticar](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_auth_02.webp)
+   ![Authenticate](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_auth_02.webp)

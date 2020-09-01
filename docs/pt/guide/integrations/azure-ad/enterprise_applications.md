@@ -26,7 +26,7 @@ tags:
 
 	Em **Atribuição de usuário necessária?** selecionar **Sim**.
 
-	Em **Visível para os usuários?** selecionar **Não**
+	Em **Visível para os usuários?** selecionar **Não**.
 
 	Clicar **Salvar**.
 

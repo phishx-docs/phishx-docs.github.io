@@ -20,7 +20,7 @@ A digital security ecosystem for People that simplifies cyber risk mitigation, c
 
 With the PhishX ecosystem, you can train, measure, analyze, manage, and reduce risks for organizations and people, based on continuous micro-training and integrated collaborative tools.
 
-Design simulations with our templates, create knowledge paths for your challenges, evaluate the use of those steps and recognize the people who contribute to your organization's digital security.
+Design simulations with our templates, create learning paths for your challenges, evaluate the use of those steps and recognize the people who contribute to your organization's digital security.
 
 Buy PhishX according to the number of people that exist in your organization, be free to use in different cases and needs, contemplating the necessary functionalities for you, in our plans: Standard, Advanced and Premium.
 

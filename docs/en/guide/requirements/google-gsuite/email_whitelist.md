@@ -20,7 +20,7 @@ tags:
 
    ![Advanced Settings](https://cdn.phishx.io/phishx-docs/images/google_admin_05.webp)
 
-2. Edit **Spam, phishing and malware** -> **Email whitelist**
+2. Edit **Spam, phishing and malware** -> **Email whitelist**.
 
    [Reference](https://support.google.com/a/answer/60751)
 

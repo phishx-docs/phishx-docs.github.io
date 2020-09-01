@@ -20,7 +20,7 @@ tags:
 
    ![Acesso do usuário final](https://cdn.phishx.io/phishx-docs/images/google_admin_03.webp)
 
-2. Editar **Lista de permissões de proxy do URL da imagem** -> **Digite os padrões do URL da imagem. Os URLs correspondentes ignoram o proxy de imagem.**
+2. Editar **Lista de permissões de proxy do URL da imagem** -> **Digite os padrões do URL da imagem. Os URLs correspondentes ignoram o proxy de imagem.**.
 
    [Referência](https://support.google.com/a/answer/3299041)
 

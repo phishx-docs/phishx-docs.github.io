@@ -20,7 +20,7 @@ tags:
 
    ![Configurações avançadas](https://cdn.phishx.io/phishx-docs/images/google_admin_05.webp)
 
-2. Editar **Spam, phishing e malware** -> **Lista de e-mails permitidos**
+2. Editar **Spam, phishing e malware** -> **Lista de e-mails permitidos**.
 
    [Referência](https://support.google.com/a/answer/60751)
 

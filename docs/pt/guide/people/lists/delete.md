@@ -18,7 +18,7 @@ Remover uma lista e seus contatos.
 
 2. Acessar o menu da lista.
 
-   Clicar **Remover**
+   Clicar **Remover**.
 
    ![Remover Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_01.webp)
 

@@ -17,7 +17,7 @@ Gerar novas listas aleatórias a partir de uma lista.
 
 2. Acessar o menu da lista.
 
-   Clicar **Lista Aleatória**
+   Clicar **Lista Aleatória**.
 
    ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_01.webp)
 

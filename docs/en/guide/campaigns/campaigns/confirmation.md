@@ -1,21 +1,21 @@
 ---
-title: Confirmação
+title: Confirmation
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-## Confirmação
+## Confirmation
 
-::: tip Confirmar uma ação
-Algumas ações importantes, como enviar uma campanha ou remover um objeto, será necessário confirmar sua ação.
+::: tip Confirm an action
+Some important actions, like sending a campaign or removing an object, will need to confirm your action.
 :::
 
-1. Em **Confirmação da Campanha**.
+1. In **Campaign Confirmation**.
 
-   Opcionalmente em **Contatos** validar o público-alvo da campanha.
+   Optionally in **Targets** verify the target audience of the campaign.
 
-   Em **Ações** escolher **Salvar** (salva as configurações da campanha), **Agendar** (salva e programa a sua campanha) ou **Enviar** (salva e envia a sua campanha).
+   In **Actions** choose **Save** (to save your campaign settings), **Schedule** (to save and schedule your campaign) or **Send** (to save and send your campaign).
 
-   ![Confirmação](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_confirmation_03.webp)
+   ![Confirmation](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_confirmation_03.webp)
 
-   ![Confirmação](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_03.webp)
+   ![Confirmation](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_03.webp)

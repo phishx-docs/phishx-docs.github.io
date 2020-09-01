@@ -2,7 +2,7 @@
 title: Editar Agendamento
 tags:
   - Campanhas
-  - Mensagem
+  - Agendamentos
 ---
 # Editar Agendamento
 
@@ -24,7 +24,7 @@ Você pode reenviar ou alterar qualquer agendamento caso necessário.
 
    Opcionalmente em **Erros** zerar o valor.
 
-   Clicar **Enviar**
+   Clicar **Enviar**.
 
    ![Editar Agendamento](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_schedule_edit_01.webp)
 

@@ -1,42 +1,42 @@
 ---
-title: Criar Campanha
+title: Create Campaign
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-# Criar Campanha
+# Create Campaign
 
-::: tip Novas Sugestões
-O time de Customer Success da PhishX produz novas sugestões todos os meses.<br>
-Se você não achou uma sugestão, ou tem uma ideia interessante, converse com [PhishX Support](mailto:support@phishx.io).
+::: tip New Suggestions
+The PhishX Customer Success team produces new suggestions every month.<br>
+If you didn't find a suggestion, or have an interesting idea, talk to  [PhishX Support](mailto:support@phishx.io).
 :::
 
-Como criar uma campanha.
+How to create a campaign.
 
-1. Acessar o menu **Campanhas** -> **Campanhas**.
+1. Access the menu **Campaigns** -> **Campaigns**.
 
-   Clicar **Ações** -> **Novo**.
+   Click **Actions** -> **New**.
 
-2. Em **Nova Campanha**.
+2. In **New Campaign**.
 
-   Em **Nome** definir um nome único para a sua campanha.
+   In **Name** define a unique name for your campaign.
 
-   Em **Idioma** definir o idioma da campanha.
+   In **Language** define the language of the campaign.
 
-   Em **Tipo** definir o tipo da campanha.
+   In **Type** define the campaign type.
 
-   Em **De** definir como sua campanha vai aparecer no cliente de e-mail.
+   In **From** define how your campaign will appear in the email client.
 
-   Em **Assunto** definir qual assunto vai aparecer no cliente de e-mail.
+   In **Subject** define which subject will appear in the email client.
 
-   Em **Categoria** definir a categoria da campanha. (Ex: **Oficial** para campanhas oficiais)
+   In **Category** define the campaign category. (Ex: **Official** for official campaigns)
 
-   Opcionalmente em **Etiquetas** definir etiquetas para categorizar sua campanha.
+   Optionally in **Labels** define labels to categorize your campaign.
 
-   Em **Objetivo** definir o objetivo da campanha.
+   In **Objective** define the objective of the campaign.
 
-   Em **Modelo** definir o modelo da mensagem da campanha.
+   In **Template** define the campaign message template,
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Nova Campanha](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_01.webp)
+   ![New Campaign](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_01.webp)

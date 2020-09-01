@@ -24,7 +24,7 @@ Você pode reenviar qualquer mensagem caso necessário.
 
    Opcionalmente em **Erros** zerar o valor.
 
-   Clicar **Enviar**
+   Clicar **Enviar**.
 
    ![Editar Mensagem](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_message_edit_01.webp)
 

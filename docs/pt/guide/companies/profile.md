@@ -26,7 +26,7 @@ Gerenciar o perfil da sua empresa.
 
    Opcionalmente em **Caminho** definir as outras empresas que terão acesso ao ambiente.
 
-   Em **Página** definir a página oficial da empresa. Ex: **https://www.phishx.io/**
+   Em **Página** definir a página oficial da empresa. (Ex: **https://www.phishx.io/**)
 
    Em **Segmento** definir o segmento da empresa.
 

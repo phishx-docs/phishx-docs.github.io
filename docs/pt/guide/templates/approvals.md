@@ -23,7 +23,7 @@ Gerenciar aprovações de modelos.
 
    ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_02.webp)
 
-3. Em **Editar aprovação**.
+3. Em **Editar Aprovação**.
 
    Em **Aprovação** definir sua resposta.
 

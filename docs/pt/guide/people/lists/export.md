@@ -18,7 +18,7 @@ Exportar os contatos de uma lista.
 
 2. Acessar o menu da lista.
 
-   Clicar **Exportar**
+   Clicar **Exportar**.
 
    ![Exportar](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_01.webp)
 

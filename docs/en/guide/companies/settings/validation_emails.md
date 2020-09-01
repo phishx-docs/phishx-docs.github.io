@@ -9,7 +9,7 @@ tags:
 ::: tip Time de Validação
 Recomendamos validar e aprovar todas as mensagens antes do envio oficial.<br>
 Dentro do seu time de validação, as mensagens não consumirão parte da assinatura.<br>
-Valide quantas vezes forem necessárias e consiga a aprovação sem se preocupar.
+Verifique quantas vezes forem necessárias e consiga a aprovação sem se preocupar.
 :::
 
 Gerenciar os e-mails de validação da sua empresa.

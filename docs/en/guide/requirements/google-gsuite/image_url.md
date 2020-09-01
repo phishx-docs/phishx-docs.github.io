@@ -20,7 +20,7 @@ tags:
 
    ![End User Acess](https://cdn.phishx.io/phishx-docs/images/google_admin_03.webp)
 
-2. Edit **Image URL proxy whitelist** -> **Enter image URL patterns. Matching URLs bypass the image proxy.**
+2. Edit **Image URL proxy whitelist** -> **Enter image URL patterns. Matching URLs bypass the image proxy.**.
 
    [Reference](https://support.google.com/a/answer/3299041)
 

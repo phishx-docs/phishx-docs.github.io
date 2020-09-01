@@ -20,7 +20,7 @@ tags:
 
    ![Admin Console](https://cdn.phishx.io/phishx-docs/images/google_admin_01.webp)
 
-2. Access **Settings for Gmail** in menu: **Apps -> G Suite -> Gmail**
+2. Access **Settings for Gmail** in menu: **Apps -> G Suite -> Gmail**.
 
    [Settings for Gmail](https://admin.google.com/AdminHome#AppDetails:service=email)
 

@@ -1,38 +1,38 @@
 ---
-title: Mensagens
+title: Messages
 tags:
-  - Campanhas
-  - Mensagens
+  - Campaigns
+  - Messages
 ---
-# Mensagens
+# Messages
 
-::: tip Reenvie suas Mensagens
-Você pode reenviar qualquer mensagem caso necessário.
+::: tip Resend your messages
+You can resend any message if necessary.
 :::
 
-Gerenciar as mensagens enviadas.
+Manage outgoing messages.
 
-| Ação | Descrição |
+| Action | Description |
 | :--- | :--- |
-| Visualizar | Visualizar a mensagem. |
-| [Editar](edit_message) | Editar a mensagem. |
-| Desabilitar | Desabilitar a mensagem. |
-| Remover | Remover a mensagem. |
-| Remover Todas | Remover todas mensagens não enviadas. |
+| View | View the message. |
+| [Edit](edit_message) | Edit the message. |
+| Disable | Disable the message. |
+| Delete | Delete the message. |
+| Delete All | Remove all unsent messages. |
 <br>
 
    ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)
 
-## Visualizar a Mensagem
+## View Message
 
-1. Acessar o menu **Campanhas** -> **Mensagens**.
+1. Access the menu **Campaigns** -> **Messages**.
 
-2. No menu da **Mensagem**.
+2. In the **Message** menu.
 
-   Clicar **Visualizar**.
+   Click **View**.
 
-   ![Visualizar](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_03.webp)
+   ![View](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_03.webp)
 
-   Opcionalmente clique para expandir em tela cheia.
+   Optionally click to expand in full screen.
 
-   ![Visualizar](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_04.webp)
+   ![View](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_04.webp)

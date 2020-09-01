@@ -13,7 +13,7 @@ tags:
 2. Altere o seu ambiente:
    * Configurações de proteção de E-mail.
    * Configurações de proteção de Filtro de Conteúdo Web.
-3. Valide:
+3. Verifique:
    * Defina as pessoas que vão participar da validação.
    * Acesse o portal, ou peça nosso suporte, e envie uma campanha de validação por e-mail.
 

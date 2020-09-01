@@ -1,28 +1,28 @@
 ---
-title: Ações
+title: Actions
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
-## Ações
+## Actions
 
-::: tip Múltiplas Ações
-Voce pode ter múltiplas etapas em sua trilha de conhecimento.<br>
-Recomendamos no início ter campanhas com uma etapa principal, como um treinamento, questionário, ou política, e uma etapa de interação com o feedback da pessoa.
+::: tip Multiple Actions
+You can have multiple steps on your learning path.<br>
+We recommend at the beginning to have campaigns with a main step, such as a training, questionnaire, or policy, and an interaction step with the person's feedback.
 :::
 
-Gerencie as Ações de sua trilha de conhecimento.
+Manage the Actions of your learning path.
 
-1. Em **Configurações** -> **Ações**.
+1. In **Configurations** -> **Actions**.
 
-   Adicionar uma nova. Clicar **+**.
+   Add a new one. Click **+**.
 
-   Em **Objetivo** definir o objetivo da ação.
+   In **Objective** define the objective of the action.
 
-   Em **Modelo** definir o modelo da ação.
+   In **Template** define the action template.
 
-   Opcionalmente em **Etiqueta** definir etiqueta para categorizar sua ação.
+   Optionally in **Label** define labels to categorize your action.
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Ações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_actions_01.webp)
+   ![Actions](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_actions_01.webp)

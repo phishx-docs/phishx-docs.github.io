@@ -1,21 +1,21 @@
 ---
 title: Editor
 tags:
-  - Campanhas
+  - Campaigns
   - Editor
 ---
 ## Editor
 
-::: tip Reutilize os modelos
-Voce pode fazer criar alterações específicas para o modelo de uma campanha ou utilizar modelos em múltiplas campanhas.
+::: tip Reuse templates
+You can make specific changes to a campaign template or use templates in multiple campaigns.
 :::
 
-Gerencie customizações do modelo da campanha.
+Manage campaign template customizations.
 
-1. Em **Modelo**.
+1. In **Template**.
 
-   Opcionalmente em **Modelo** definir suas customizações do modelo da campanha.
+   Optionally in **Template** define your campaign template customizations.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_editor_01.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_editor_01.webp)
