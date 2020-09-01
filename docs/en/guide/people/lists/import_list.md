@@ -50,7 +50,7 @@ Você pode importar e atualizar informações dos contatos existentes com o mesm
    :::
 
    ::: details Telefones
-   O telefone precisa ser informado no formato internacional (Ex: +5511951570615).
+   O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
    :::
 
    ![Carregar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_03.webp)

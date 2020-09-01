@@ -4,19 +4,25 @@ tags:
   - Campanhas
   - Editor
 ---
-# Ações
+## Ações
 
-| Ação | Descrição |
-| :--- | :--- |
-| Visualizar | Visualizar o modelo. |
-| Gostei | Aprovar o modelo. |
-| Não Gostei | Desaprovar o modelo. |
-| Adquirir | Adquirir o modelo da biblioteca global para a empresa. |
-| Publicar | Publicar o modelo da empresa pra biblioteca global. |
-| Clonar | Clonar o modelo. |
-| Editar | Editar o modelo. |
-| Desabilitar | Desabilitar o modelo. |
-| Remover | Remover o modelo. |
-<br>
+::: tip Múltiplas Ações
+Voce pode ter múltiplas etapas em sua trilha de conhecimento.<br>
+Recomendamos no início ter campanhas com uma etapa principal, como um treinamento, questionário, ou política, e uma etapa de interação com o feedback da pessoa.
+:::
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_actions_01.webp)
+Gerencie as Ações de sua trilha de conhecimento.
+
+1. Em **Configurações** -> **Ações**.
+
+   Adicionar uma nova. Clicar **+**.
+
+   Em **Objetivo** definir o objetivo da ação.
+
+   Em **Modelo** definir o modelo da ação.
+
+   Opcionalmente em **Etiqueta** definir etiqueta para categorizar sua ação.
+
+   Clicar **Próximo**.
+
+   ![Ações](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_actions_01.webp)

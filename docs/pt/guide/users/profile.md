@@ -31,7 +31,7 @@ Como gerenciar seu perfil do usuário.
    Opcionalmente em **Telefone** adicionar um telefone válido.
 
    ::: details Telefones
-   O telefone precisa ser informado no formato internacional (Ex: +5511951570615).
+   O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
    :::
 
    Opcionalmente em **Nascimento** adicionar a data de nascimento do usuário.
