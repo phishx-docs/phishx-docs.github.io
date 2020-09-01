@@ -7,16 +7,16 @@
     <script>
       var user_language
       try {
-        user_language = navigator.language.split("-")[0]
+        user_language = navigator.language.split('-')[0]
       } catch(err) {
-        user_language = "en"
+        user_language = 'en'
       }
       var pathArray
       var newPathArray
       try {
         pathArray = window.location.pathname.split('/')
         newPathArray = pathArray.slice(1,16)[0]
-        if (newPathArray == "") {
+        if (newPathArray == '') {
           newPathArray = null
         }
       } catch(err) {
@@ -26,14 +26,14 @@
       if (newPathArray) {
       } else {
         switch (user_language) {
-          case ("en"):
-            new_path = document.location.href + "en/"
+          case ('en'):
+            new_path = document.location.href + 'en/'
             break
-          case ("pt"):
-            new_path = document.location.href + "pt/"
+          case ('pt'):
+            new_path = document.location.href + 'pt/'
             break
           default:
-            new_path = document.location.href + "en/"
+            new_path = document.location.href + 'en/'
             break
         }
         console.log(new_path)
