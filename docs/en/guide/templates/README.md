@@ -1,26 +1,32 @@
 ---
-title: Resumo
+title: Summary
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Resumo
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 25%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 75%
+</style>
+# Summary
 
-Gerenciar modelos e armazenamento de imagens e vídeos.
+Manage templates and storage of images and videos.
 
-## Módulos
+## Modules
 <br>
 
-| Módulo | Descrição |
+| Module | Description |
 | :--- | :--- |
-| [Ações](actions/) | Principais ações nos modelos. |
-| [Bibliotecas](libraries/) | Tipos de bibliotecas de modelos. |
-| [Editores](editors/) | Tipos de editores de modelos. |
-| [Tipos e Objetivos](objectives/) | Tipos e objetivos dos modelos. |
-| [Criar Modelo](create_template/) | Como criar um modelo. |
-| [Armazenamento](storage/) | Gerenciar arquivos em nossa CDN. |
-| [Aprovações](approvals/) | Gerenciar aprovações de modelos. |
-| [Assistentes](wizards/) | Como criar um modelo baseado em um assistente. |
+| [Actions](actions/) | Main actions in templates. |
+| [Libraries](libraries/) | Templates libraries. |
+| [Editors](editors/) | Templates online editors. |
+| [Types and Objectives](objectives/) | Types and objectives of templates. |
+| [Create Template](create_template/) | How to create a template. |
+| [Storage](storage/) | Manage files on our CDN. |
+| [Approvals](approvals/) | Manage template approvals. |
+| [Wizards](wizards/) | How to create a template based on a wizard. |
 <br>
 
-   ![Modelos](https://cdn.phishx.io/phishx-docs/images/phishx_templates_menu_01.webp)
+   ![Modules](https://cdn.phishx.io/phishx-docs/images/phishx_templates_menu_01.webp)

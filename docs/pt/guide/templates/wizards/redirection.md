@@ -3,7 +3,7 @@ title: Redirecionamento
 tags:
   - Modelos
   - Editor
-  - Assistente
+  - Assistentes
 ---
 # Redirecionamento
 
@@ -27,4 +27,4 @@ Modelos para redirecionamento.
 
    Clicar **Enviar**.
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_redirection_01.webp)
+   ![Assistentes](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_redirection_01.webp)

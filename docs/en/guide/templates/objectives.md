@@ -1,41 +1,47 @@
 ---
-title: Tipos e Objetivos
+title: Types and Objectives
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Tipos e Objetivos
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 25%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 75%
+</style>
+# Types and Objectives
 
-::: tip Organizar os modelos
-Você pode organizar os modelos através dos Tipos, Objetivos e Etiquetas aplicadas.
+::: tip Organize the templates
+You can organize the templates using the Types, Objectives and Labels applied.
 :::
 
-## Tipos
+## Types
 
-Tipos de modelos.
+Templates types.
 
-| Tipo | Descrição |
+| Type | Description |
 | :--- | :--- |
-| Email | Mensagens com layout avançado (**HTML**). |
-| Texto | Mensagens com layout simplificado (**Texto**). |
-| Anexo | Anexos com layout avançado (**HTML**). |
-| Ação | Etapa da trilha de conhecimento com layout avançado (**HTML**). |
+| Email | Messages with advanced layout (**HTML**). |
+| Text | Messages with simplified layout (**Text**). |
+| Attachment | Attachments with advanced layout (**HTML**). |
+| Action | Step of the learning path with advanced layout (**HTML**). |
 <br>
 
-## Objetivos
+## Objectives
 
-Objetivos dos modelos.
+Templates objectives.
 
-| Objetivo | Descrição |
+| Objective | Description |
 | :--- | :--- |
-| Simulação | Mensagens simuladas (**Phishing**). |
-| Comunicação | Mensagens oficiais da empresa. |
-| Treinamento | Treinamentos para sua trilha de conhecimento. |
-| Encerramento | Encerramentos para sua trilha de conhecimento. |
-| Questionário | Questionários para sua trilha de conhecimento. |
-| Simulação Web | Páginas falsas de aplicativos e serviços (**Web Phishing**) para sua trilha de conhecimento. |
-| Redirecionamento | Redirecionamento para outras páginas. |
-| Política | Leitura e aceite online de políticas para sua trilha de conhecimento. |
-| Documentação | Leitura e aceite online de documentos para sua trilha de conhecimento. |
-| Outros | Outros objetivos. |
+| Simulation | Simulated messages (**Phishing**). |
+| Communication | Official company messages. |
+| Training | Training for your learning path. |
+| Closure | Closure for you learning path. |
+| Quiz | Questionnaires for your learning path. |
+| Web Simulation | Fake pages of applications and services (**Web Phishing**) for your learning path. |
+| Redirection | Redirect to other pages. |
+| Policy | Reading and accepting online policies for your learning path. |
+| Documentation | Reading and accepting online documents for your learning path. |
+| Other | Other objectives. |
 <br>

@@ -1,29 +1,35 @@
 ---
-title: Ações
+title: Actions
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Ações
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 25%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 75%
+</style>
+# Actions
 
-::: tip Permissões do Usuário
-Cada usuário pode ter diferentes níveis e permissões de acesso.<br>
-A sua experiência na plataforma pode ser adequada de acordo com o seu perfil atual.
+::: tip User Permissions
+Each user can have different permissions.<br>
+Your experience on the platform may be different according to your current profile.
 :::
 
-Principais ações nos modelos.
+Main actions in templates.
 
-| Ação | Descrição |
+| Action | Description |
 | :--- | :--- |
-| Visualizar | Visualizar o modelo. |
-| Gostei | Aprovar o modelo. |
-| Não Gostei | Desaprovar o modelo. |
-| Adquirir | Adquirir o modelo da biblioteca global para a empresa. |
-| Publicar | Publicar o modelo da empresa pra biblioteca global. |
-| Clonar | Clonar o modelo. |
-| Editar | Editar o modelo. |
-| Desabilitar | Desabilitar o modelo. |
-| Remover | Remover o modelo. |
+| View | View the template. |
+| Like | Approve the template. |
+| Dislike | Disapprove the template. |
+| Acquire | Acquire the global library template for the company. |
+| Publish | Publish the company template to the global library. |
+| Clone | Clone the template. |
+| Edit | Edit the template. |
+| Disable | Disable the template. |
+| Delete | Delete the template. |
 <br>
 
-   ![Ações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_actions_01.webp)
+   ![Actions](https://cdn.phishx.io/phishx-docs/images/phishx_templates_actions_01.webp)

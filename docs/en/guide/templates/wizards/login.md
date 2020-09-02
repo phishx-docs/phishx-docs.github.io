@@ -1,44 +1,44 @@
 ---
-title: Páginas de Login
+title: Login Pages
 tags:
-  - Modelos
+  - Templates
   - Editor
-  - Assistente
+  - Wizards
 ---
-# Páginas de Login
+# Login Pages
 
-::: tip Aplicações internas ou serviços externos
-Você pode simular uma página de login de uma aplicação interna ou de um serviço externo como o seu e-mail.
+::: tip Internal applications or external services
+You can simulate a login page for an internal application or an external service like your email.
 :::
 
-Modelos para simular páginas de login.
+Templates to simulate login pages.
 
-1. Acessar o menu **Modelos** -> **Empresa**.
+1. Access the menu **Templates** -> **Company**.
 
-   Clicar **Ações** -> **Assistente**.
+   Click **Actions** -> **Wizards**.
 
-2. Em **Novo Assistente**.
+2. In **New Wizard**.
 
-   Em **Tipo** selecionar **Simulação Web**.
+   In **Type** select **Web Simulation**.
 
-   Em **Modelo** escolher o modelo base.
+   In **Template** choose the base template.
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_01.webp)
+   ![Wizards](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_01.webp)
 
-   Opcionalmente em **Verificar** testar seu modelo.
+   Optionally in **Verify** test your template.
 
-   ![Verificar](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_03.webp)
+   ![Verify](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_03.webp)
 
-   ![Verificar](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_04.webp)
+   ![Verify](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_04.webp)
 
-3. Opcionalmente em **Configurações**.
+3. Optionally in **Settings**.
 
-   Em **Idioma** selecionar o idioma do modelo.
+   In **Idioma** select the language of the template.
 
-   Em **Imagem** inserir o endereço do logo principal.
+   In **Imagem** insert the address of the main logo.
 
-   Em **Papel de Parede** inserir o endereço da imagem de fundo.
+   In **Papel de Parede** insert the address of the background image.
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_02.webp)
+   ![Settings](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_02.webp)
 
-4. Clicar **Enviar**.
+4. Click **Submit**.

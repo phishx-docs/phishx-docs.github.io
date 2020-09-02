@@ -1,50 +1,50 @@
 ---
-title: Editores
+title: Editors
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Editores
+# Editors
 
-::: tip Precisa de ajuda?
-Nosso time de Customer Success está pronto para ajudar na criação ou colaborar com o seu time para você utilizar o modelo ideal em sua próxima campanha.<br>
-Entre em contato com o [PhishX Support](mailto:support@phishx.io).
+::: tip Need help?
+Our Customer Success team is ready to help you create or collaborate with your team so that you can use the ideal template in your next campaign.<br>
+Contact [PhishX Support](mailto:support@phishx.io).
 :::
 
-Tipos de editores de modelos.
+Templates online editors.
 
-## Padrão
+## Default
 
-Você pode criar um modelo em nosso editor.
+You can create a template in our editor.
 
-1. Em um modelo.
+1. In a template.
 
-   Opcionalmente selecionar um modelo base de **Layout** ou **Modelo**.
+   Optionally select a base model of **Layout** or **Template**.
 
-   Inserir os textos, imagens e demais componentes.
+   Insert texts, images and other components.
 
-   ![Padrão](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_01.webp)
+   ![Default](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_01.webp)
 
-   Opcionalmente expandir para tela cheia.
+   Optionally expand to full screen.
 
-   ![Padrão](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_02.webp)
+   ![Default](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_02.webp)
 
 ## Visual
 
-Você pode acessar nosso editor visual em um novo modelo.
+You can access our visual editor in a new template.
 
-1. Em um novo modelo.
+1. In a news template.
 
-   Clicar **Editor Visual**.
+   Click **Visual Editor**.
 
-   Opcionalmente selecionar um modelo base de **Layout** ou **Modelo**.
+   Optionally select a base model of **Layout** or **Template**.
 
-   Selecionar os componentes e criar o seu novo modelo.
+   Select the components and create your new template.
 
    ![Visual](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_03.webp)
 
-## Código
+## Code
 
-Você pode copiar e colar um código pronto em nossos editores.
+You can copy and paste code in our editors.
 
-   ![Código](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_04.webp)
+   ![Code](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_04.webp)

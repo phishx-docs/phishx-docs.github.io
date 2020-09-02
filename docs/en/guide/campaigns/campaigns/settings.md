@@ -1,10 +1,10 @@
 ---
-title: Configurations
+title: Settings
 tags:
   - Campaigns
   - Editor
 ---
-## Configurations
+## Settings
 
 ::: tip Several Simulation domains and your own domain for Communication
 You can send Simmulations Campaigns (Phishing) through our various exclusive domains.<br>

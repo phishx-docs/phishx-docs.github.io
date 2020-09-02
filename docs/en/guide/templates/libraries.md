@@ -1,23 +1,29 @@
 ---
-title: Bibliotecas
+title: Libraries
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Bibliotecas
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 25%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 75%
+</style>
+# Libraries
 
-::: tip Compartilhe os seus modelos
-Alguns modelos que você criou no ambiente da sua empresa podem ajudar outras empresas.<br>
-Compartilhe os seus modelos, publicando-os para a biblioteca global.
+::: tip Share your templates
+Some templates that you have created in your company's environment can help other companies.<br>
+Share your templates by publishing them to the global library.
 :::
 
-Tipos de bibliotecas de modelos.
+Templates libraries.
 
-| Biblioteca | Descrição |
+| Library | Description |
 | :--- | :--- |
-| Global | Modelos globais que todos podem utilizar. |
-| Grupo | Modelos compartilhados no seu grupo de negócios. |
-| Empresa | Modelos exclusivos da sua empresa. |
+| Global | Global templates that everyone can use. |
+| Group | Templates shared in your business group. |
+| Company | Exclusive Templates of your company. |
 <br>
 
-   ![Bibliotecas](https://cdn.phishx.io/phishx-docs/images/phishx_templates_global_01.webp)
+   ![libraries](https://cdn.phishx.io/phishx-docs/images/phishx_templates_global_01.webp)

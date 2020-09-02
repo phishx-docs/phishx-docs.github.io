@@ -13,7 +13,7 @@ PhishX will not send any duplicate messages to contacts with the same email.
 
 Manage your contact lists.
 
-1. In **Configurations** -> **People**.
+1. In **Settings** -> **People**.
 
    Define which contact list will receive your campaign.
 

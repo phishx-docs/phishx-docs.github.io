@@ -25,7 +25,7 @@ Como criar um modelo.
 
    Opcionalmente em **Habilitado** definir se o modelo será habilitado.
 
-   Opcionalmente em **Editor Visual** escolher o nosso editor visual simplificado0.
+   Opcionalmente em **Editor Visual** escolher o nosso editor visual simplificado.
 
    Em **Idioma** definir o idioma do modelo.
 

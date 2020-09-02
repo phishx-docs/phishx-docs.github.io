@@ -6,6 +6,14 @@ tags:
   - Azure
   - AD
 ---
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 30%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 30%
+  tr td:nth-child(3), tr th:nth-child(3)
+    width: 40%
+</style>
 # Comunicações
 
 ::: tip DICA

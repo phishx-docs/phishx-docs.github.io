@@ -13,7 +13,7 @@ We recommend at the beginning to have campaigns with a main step, such as a trai
 
 Manage the Actions of your learning path.
 
-1. In **Configurations** -> **Actions**.
+1. In **Settings** -> **Actions**.
 
    Add a new one. Click **+**.
 

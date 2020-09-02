@@ -13,7 +13,7 @@ Do you want to increase your training engagement by forwarding the same message 
 
 Manage replays that will be automatically scheduled for your campaign.
 
-1. In **Configurations** -> **Replays**.
+1. In **Settings** -> **Replays**.
 
    In **Enabled** define whether the module will be enabled.
 

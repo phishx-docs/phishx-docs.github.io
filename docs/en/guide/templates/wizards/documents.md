@@ -1,50 +1,50 @@
 ---
-title: Documentos e Políticas
+title: Documents and Policies
 tags:
-  - Modelos
+  - Templates
   - Editor
-  - Assistente
+  - Wizards
 ---
-# Documentos e Políticas
+# Documents and Policies
 
-::: tip Aceite online de documentos e políticas
-Você pode publicar e recolher o aceite online de documentos e políticas da sua empresa em PDF.
+::: tip Online acceptance of documents and policies
+You can publish and collect the online acceptance of your company's documents and policies in PDF.
 :::
 
-Modelos para documentos ou políticas em PDF.
+Templates for PDF documents or policies.
 
-1. Acessar o menu **Modelos** -> **Empresa**.
+1. Access the menu **Templates** -> **Company**.
 
-   Clicar **Ações** -> **Assistente**.
+   Click **Actions** -> **Wizards**.
 
-2. Em **Novo Assistente**.
+2. In **New Wizard**.
 
-   Em **Tipo** selecionar **Documento** ou **Política**.
+   In **Type** select **Document** or **Policy**.
 
-   Em **URL** inserir o endereço do arquivo (**HTTPS**).
+   In **URL** insert the file address (**HTTPS**).
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_01.webp)
+   ![Wizard](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_01.webp)
 
-   Opcionalmente em **Verificar** testar seu modelo.
+   Optionally in **Verify** test your template.
 
-   ![Verificar](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_02.webp)
+   ![Verify](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_02.webp)
 
-   ![Verificar](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_03.webp)
+   ![Verify](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_03.webp)
 
-3. Opcionalmente em **Configurações**.
+3. Optionally in **Settings**.
 
-   Em **Idioma** selecionar o idioma do modelo.
+   In **Language** select the template language.
 
-   Em **Duração Mínima** selecionar a duração mínima para o aceite do modelo.
+   In **Mininum Duration** select the minimum duration for the template to be accepted.
 
-   Em **Título** inserir o título do modelo.
+   In **Title** insert the title of the template.
 
-   Em **Introdução** inserir a introdução do modelo.
+   In **Introduction** insert the template introduction.
 
-   Em **Conclusão** inserir a conclusão do modelo.
+   In **Conclusion** insert the template conclusion.
 
-   Em **Aceitar** inserir a ação de aceitar do modelo.
+   In **Accept** insert the template accept.
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_04.webp)
+   ![Settings](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_04.webp)
 
-4. Clicar **Enviar**.
+4. Click **Submit**.

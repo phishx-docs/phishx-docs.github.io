@@ -1,54 +1,54 @@
 ---
-title: Criar Modelo
+title: Create Template
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Criar Modelo
+# Create Template
 
-::: tip Precisa de ajuda?
-Nosso time de Customer Success está pronto para ajudar na criação ou colaborar com o seu time para você utilizar o modelo ideal em sua próxima campanha.<br>
-Entre em contato com o [PhishX Support](mailto:support@phishx.io).
+::: tip Need help?
+Our Customer Success team is ready to help you create or collaborate with your team so that you can use the ideal template in your next campaign.<br>
+Contact [PhishX Support](mailto:support@phishx.io).
 :::
 
-Como criar um modelo.
+How to create a template.
 
-1. Acessar o menu **Modelos** -> **Empresa**.
+1. Access the menu **Templates** -> **Company**.
 
-   Clicar **Ações** -> **Novo**.
+   Click **Actions** -> **New**.
 
-2. Em **Novo Modelo**.
+2. In **New Template**.
 
-   Em **Nome** definir um nome único para o modelo.
+   In **Name** define a unique name for the template.
 
-   Opcionalmente em **Acesso** definir o acesso permitido para edição do modelo.
+   Optionally in **Access** define the access allowed for editing the template.
 
-   Opcionalmente em **Habilitado** definir se o modelo será habilitado.
+   Optionally in **Enabled** define whether the template will be enabled.
 
-   Opcionalmente em **Editor Visual** escolher o nosso editor visual simplificado0.
+   Optionally in **Visual Editor** choose our simplified visual editor.
 
-   Em **Idioma** definir o idioma do modelo.
+   In **Language** define the language of the template.
 
-   Em **Tipo** definir o tipo do modelo.
+   In **Type** define the type of the template.
 
-   Em **Objetivo** definir o objetivo do modelo.
+   In **Objective** define the objective of the template.
 
-   Opcionalmente em **Etiquetas** definir etiquetas para categorizar o seu modelo.
+   Optionally in **Labels** define labels to categorize your template.
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_01.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_01.webp)
 
-   Opcionalmente selecionar um modelo base de **Layout** ou **Modelo**.
+   Optionally select a base template of **Layout** or **Template**.
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_02.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_02.webp)
 
-   Inserir os textos, imagens e demais componentes.
+   Insert texts, images and other components.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-3. Confirmar sua ação.
+3. Confirm your action.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_04.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_04.webp)
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_03.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_templates_new_03.webp)

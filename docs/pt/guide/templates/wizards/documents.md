@@ -3,7 +3,7 @@ title: Documentos e Políticas
 tags:
   - Modelos
   - Editor
-  - Assistente
+  - Assistentes
 ---
 # Documentos e Políticas
 
@@ -23,7 +23,7 @@ Modelos para documentos ou políticas em PDF.
 
    Em **URL** inserir o endereço do arquivo (**HTTPS**).
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_01.webp)
+   ![Assistentes](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_docs_01.webp)
 
    Opcionalmente em **Verificar** testar seu modelo.
 

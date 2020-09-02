@@ -1,41 +1,41 @@
 ---
-title: Armazenamento
+title: Storage
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Armazenamento
+# Storage
 
-::: tip Imagens e vídeos mais rápidos
-Você pode utilizar nossa CDN (Content delivery network) para entregar suas imagens e vídeos em suas campanhas mais rápidos.
+::: tip Faster images and videos
+You can use our CDN (Content delivery network) to deliver your images and videos in your campaigns faster.
 :::
 
-Gerenciar arquivos em nossa CDN.
+Manage files on our CDN.
 
-1. Acessar o menu **Modelos** -> **Armazenamento**.
+1. Access the menu **Templates** -> **Storage**.
 
-   Clicar **Ações** -> **Novo**.
+   Click **Actions** -> **New**.
 
-   ![Armazenamento](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_02.webp)
+   ![Storage](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_02.webp)
 
-2. Em **Carregamento**.
+2. In **Upload**.
 
-   Clicar **🔎**.
+   Click **🔎**.
 
-   Escolher arquivo em seu dispositivo.
+   Choose file on your device.
 
-   Opcionalmente em **Nome** inserir um novo nome amigável para o arquivo.
+   Optionally in **Name** insert a new friendly name for the file.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Armazenamento](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_04.webp)
+   ![Storage](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_04.webp)
 
-   ![Armazenamento](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_05.webp)
+   ![Storage](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_05.webp)
 
-3. No menu do **Arquivo**.
+3. In the **File** menu.
 
-   Clicar **Obter**.
+   Click **Get**.
 
-   Copiar o endereço do seu arquivo em nossa CDN.
+   Copy the address of your file in our CDN.
 
-   ![Armazenamento](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_06.webp)
+   ![Storage](https://cdn.phishx.io/phishx-docs/images/phishx_templates_storage_06.webp)

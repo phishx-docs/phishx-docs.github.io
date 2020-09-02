@@ -1,50 +1,50 @@
 ---
 title: Vídeos
 tags:
-  - Modelos
+  - Templates
   - Editor
-  - Assistente
+  - Wizards
 ---
 # Vídeos
 
-::: tip Arquivos de vídeos ou Youtube
-Você pode publicar vídeos através de arquivos de vídeos em MP4, com a possibilidade de usar nossa CDN, ou endereços do Youtube.
+::: tip Video files or Youtube
+You can publish videos through MP4 video files, with the possibility of using our CDN, or YouTube addresses.
 :::
 
-Modelos para vídeos.
+Templates for videos.
 
-1. Acessar o menu **Modelos** -> **Empresa**.
+1. Access the menu **Templates** -> **Company**.
 
-   Clicar **Ações** -> **Assistente**.
+   Click **Actions** -> **Wizards**.
 
-2. Em **Novo Assistente**.
+2. In **New Wizard**.
 
-   Em **Tipo** selecionar **Vídeo**.
+   In **Type** select **Video**.
 
-   Em **URL** inserir o endereço do arquivo (**HTTPS**) ou **Youtube**.
+   In **URL** insert the file address (**HTTPS**) or **Youtube**.
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_01.webp)
+   ![Wizards](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_01.webp)
 
-   Opcionalmente em **Verificar** testar seu modelo.
+   Optionally in **Verify** test your template.
 
-   ![Verificar](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_03.webp)
+   ![Verify](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_03.webp)
 
-   ![Verificar](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_04.webp)
+   ![Verify](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_04.webp)
 
-3. Opcionalmente em **Configurações**.
+3. Optionally in **Settings**.
 
-   Em **Idioma** selecionar o idioma do modelo.
+   In **Language** select the template language.
 
-   Em **Duração Mínima** selecionar a duração mínima para o aceite do modelo.
+   In **Mininum Duration** select the minimum duration for the template to be accepted.
 
-   Em **Título** inserir o título do modelo.
+   In **Title** insert the title of the template.
 
-   Em **Introdução** inserir a introdução do modelo.
+   In **Introduction** insert the template introduction.
 
-   Em **Conclusão** inserir a conclusão do modelo.
+   In **Conclusion** insert the template conclusion.
 
-   Em **Aceitar** inserir a ação de aceitar do modelo.
+   In **Accept** insert the template accept.
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_02.webp)
+   ![Settings](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_02.webp)
 
-4. Clicar **Enviar**.
+4. Click **Submit**.

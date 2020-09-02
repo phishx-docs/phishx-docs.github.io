@@ -3,7 +3,7 @@ title: Vídeos
 tags:
   - Modelos
   - Editor
-  - Assistente
+  - Assistentes
 ---
 # Vídeos
 
@@ -23,7 +23,7 @@ Modelos para vídeos.
 
    Em **URL** inserir o endereço do arquivo (**HTTPS**) ou **Youtube**.
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_01.webp)
+   ![Assistentes](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_video_01.webp)
 
    Opcionalmente em **Verificar** testar seu modelo.
 

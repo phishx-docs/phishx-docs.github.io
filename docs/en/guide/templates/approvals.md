@@ -1,44 +1,44 @@
 ---
-title: Aprovações
+title: Approvals
 tags:
-  - Modelos
+  - Templates
   - Editor
 ---
-# Aprovações
+# Approvals
 
-::: tip Aprovações Adicionais
-Antes de um modelo oficial ser utilizado, recomendamos definir um processo de aprovação formal.<br>
-Este processo pode ser interno na sua empresa, ou integrado opcionalmente na plataforma PhishX.
+::: tip Additional Approvals
+Before an official template is used, we recommend setting up a formal approval process.<br>
+This process can be internal to your company, or optionally integrated into the PhishX platform.
 :::
 
-Gerenciar aprovações de modelos.
+Manage template approvals.
 
-1. Acessar o menu **Modelos** -> **Aprovações**.
+1. Access the menu **Templates** -> **Approvals**.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_01.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_01.webp)
 
-2. No menu do **Modelo**.
+2. In the **Template** menu.
 
-   Clicar **Aprovar**.
+   Click **Approve**.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_02.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_02.webp)
 
-3. Em **Editar Aprovação**.
+3. In **Edit Approval**.
 
-   Em **Aprovação** definir sua resposta.
+   In **Approve** define your answer.
 
-   Opcionalmente em **Comentário** inserir um comentário para justificar sua resposta.
+   Optionally in **Comment** insert a comment to justify your answer.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_03.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_03.webp)
 
-   Opcionalmente em **Ações** -> **Modelo**, visualizar o modelo.
+   Optionally in **Actions** -> **Template**, view the template.
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_04.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_04.webp)
 
-   ![Modelo](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_05.webp)
+   ![Template](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_05.webp)
 
-4. Clicar **Ações** -> **Aprovar**.
+4. Click **Actions** -> **Approve**.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Aprovações](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_06.webp)
+   ![Approvals](https://cdn.phishx.io/phishx-docs/images/phishx_templates_approval_06.webp)

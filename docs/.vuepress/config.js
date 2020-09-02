@@ -144,7 +144,7 @@ function config_locales(locale, extra) {
                 sidebarDepth: 0,
                 children: [
                   `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/create_campaign`,
-                  `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/configurations`,
+                  `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/settings`,
                   `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/schedule`,
                   `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/replays`,
                   `/${locale}/${dir_guide}/${dir_campaigns}/${dir_campaigns}/people`,

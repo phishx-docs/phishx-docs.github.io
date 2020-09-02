@@ -3,6 +3,14 @@ title: IPs
 tags:
   - Requisitos
 ---
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 20%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 40%
+  tr td:nth-child(3), tr th:nth-child(3)
+    width: 40%
+</style>
 # IPs
 
 ::: tip DICA

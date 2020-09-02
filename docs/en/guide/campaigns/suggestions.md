@@ -33,7 +33,7 @@ Acquire the suggested campaigns from PhishX's Customer Success.
 
    ![Acquire Suggestion](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_suggestions_03.webp)
 
-   In **Configurations** -> **People** define the contact lists for your campaign.
+   In **Settings** -> **People** define the contact lists for your campaign.
 
    Optionally in the other information, define your campaign customizations.
 

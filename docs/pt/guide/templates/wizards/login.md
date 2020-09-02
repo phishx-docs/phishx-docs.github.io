@@ -3,7 +3,7 @@ title: Páginas de Login
 tags:
   - Modelos
   - Editor
-  - Assistente
+  - Assistentes
 ---
 # Páginas de Login
 
@@ -23,7 +23,7 @@ Modelos para simular páginas de login.
 
    Em **Modelo** escolher o modelo base.
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_01.webp)
+   ![Assistentes](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_web_01.webp)
 
    Opcionalmente em **Verificar** testar seu modelo.
 

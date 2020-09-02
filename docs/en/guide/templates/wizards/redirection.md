@@ -1,30 +1,30 @@
 ---
-title: Redirecionamento
+title: Redirection
 tags:
-  - Modelos
+  - Templates
   - Editor
-  - Assistente
+  - Wizards
 ---
-# Redirecionamento
+# Redirection
 
-::: tip Encaminhar a pessoa
-Você pode encaminhar a pessoa para um outro sistema como a sua intranet ou página corporativa.
+::: tip Redirect the person
+You can redirect the person to another system such as your intranet or corporate page.
 :::
 
-Modelos para redirecionamento.
+Templates for redirection.
 
-1. Acessar o menu **Modelos** -> **Empresa**.
+1. Access the menu **Templates** -> **Company**.
 
-   Clicar **Ações** -> **Assistente**.
+   Click **Actions** -> **Wizards**.
 
-2. Em **Novo Assistente**.
+2. In **New Wizard**.
 
-   Em **Tipo** selecionar **Redirecionamento**.
+   In **Type** select **Redirection**.
 
-   Em **Alvo** inserir o endereço do redirecionamento.
+   In **Target** enter the address to redirect.
 
-   Opcionalmente em **Verificar** testar seu modelo.
+   Optionally in **Verify** test your template.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Assistente](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_redirection_01.webp)
+   ![Wizards](https://cdn.phishx.io/phishx-docs/images/phishx_templates_wizard_redirection_01.webp)

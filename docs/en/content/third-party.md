@@ -5,6 +5,12 @@ tags:
   - Video
   - PDF
 ---
+<style lang="stylus">
+  tr td:nth-child(1), tr th:nth-child(1)
+    width: 75%
+  tr td:nth-child(2), tr th:nth-child(2)
+    width: 25%
+</style>
 # Third-party
 
 ## Videos

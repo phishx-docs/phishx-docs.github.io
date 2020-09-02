@@ -13,7 +13,7 @@ In addition, Campaign Scheduling allows automatic segmentation into groups, ensu
 
 Manage your campaign schedules.
 
-1. In **Configurations** -> **Schedule**.
+1. In **Settings** -> **Schedule**.
 
 2. Optionally to schedule the start of your campaign.
 
