@@ -1,4 +1,7 @@
 
+### OTHERS LAYOUTS
+/node_modules/vuepress-theme-succinct/layouts
+
 ### AUTO LOCALE
 /node_modules/vuepress-theme-succinct/components/Home.vue
 <template>

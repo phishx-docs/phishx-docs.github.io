@@ -1,18 +1,11 @@
 ---
+layout: TableLayout-3-50_25_25
 title: PhishX
 tags:
   - Content
   - Video
   - PDF
 ---
-<style lang="stylus">
-  tr td:nth-child(1), tr th:nth-child(1)
-    width: 50%
-  tr td:nth-child(2), tr th:nth-child(2)
-    width: 25%
-  tr td:nth-child(3), tr th:nth-child(3)
-    width: 25%
-</style>
 # PhishX
 
 ::: tip Access our Youtube

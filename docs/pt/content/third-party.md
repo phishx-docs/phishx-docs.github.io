@@ -1,16 +1,11 @@
 ---
+layout: TableLayout-2-75_25
 title: Terceiros
 tags:
   - Conteúdo
   - Vídeo
   - PDF
 ---
-<style lang="stylus">
-  tr td:nth-child(1), tr th:nth-child(1)
-    width: 75%
-  tr td:nth-child(2), tr th:nth-child(2)
-    width: 25%
-</style>
 # Terceiros
 
 ## Vídeos
