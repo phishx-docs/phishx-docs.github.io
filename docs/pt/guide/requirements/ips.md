@@ -1,16 +1,9 @@
 ---
+layout: TableLayout-3-20_40_40
 title: IPs
 tags:
   - Requisitos
 ---
-<style lang="stylus">
-  tr td:nth-child(1), tr th:nth-child(1)
-    width: 20%
-  tr td:nth-child(2), tr th:nth-child(2)
-    width: 40%
-  tr td:nth-child(3), tr th:nth-child(3)
-    width: 40%
-</style>
 # IPs
 
 ::: tip DICA
@@ -55,7 +48,7 @@ Todos os IPs da PhishX são exclusivos e seguros.
 35.244.220.66/32
 ```
 
-## Informações dos Providers
+## Informações dos Provedores
 <br>
 
 | IP | PROVEDOR | SERVIÇO |

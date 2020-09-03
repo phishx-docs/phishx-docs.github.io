@@ -1,16 +1,11 @@
 ---
-title: Resumo
+layout: TableLayout-2-25_75
+title: Summary
 tags:
   - Pessoas
   - Contatos
 ---
-<style lang="stylus">
-  tr td:nth-child(1), tr th:nth-child(1)
-    width: 25%
-  tr td:nth-child(2), tr th:nth-child(2)
-    width: 75%
-</style>
-# Resumo
+# Summary
 
 Gerenciar listas, contatos e arquivos.
 

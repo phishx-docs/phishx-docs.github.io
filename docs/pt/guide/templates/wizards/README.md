@@ -1,16 +1,11 @@
 ---
+layout: TableLayout-2-25_75
 title: Resumo
 tags:
   - Modelos
   - Editor
   - Assistentes
 ---
-<style lang="stylus">
-  tr td:nth-child(1), tr th:nth-child(1)
-    width: 25%
-  tr td:nth-child(2), tr th:nth-child(2)
-    width: 75%
-</style>
 # Resumo
 
 Assistentes para criação modelos simplificados.
