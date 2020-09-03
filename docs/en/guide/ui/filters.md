@@ -9,7 +9,7 @@ tags:
 ---
 # Filters
 
-::: tip Filters and Searches
+::: tip Filters and searches
 You can filter the results of panels and tables, and search for objects.
 :::
 

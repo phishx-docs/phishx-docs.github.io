@@ -7,7 +7,7 @@ tags:
 ---
 # Agendamentos
 
-::: tip Altere seus Agendamentos
+::: tip Altere seus agendamentos
 Você pode reenviar ou alterar qualquer agendamento caso necessário.
 :::
 

@@ -3,11 +3,12 @@ title: Exportar Lista
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Exportar Lista
 
-::: tip Múltiplos Formatos
+::: tip Múltiplos formatos
 Você pode exportar suas listas em múltiplos formatos, de acordo com a ferramenta que vai utilizar.<br>
 Todos os atributos disponíveis de cada contato serão exportados.
 :::
@@ -16,7 +17,7 @@ Exportar os contatos de uma lista.
 
 1. Acessar o menu **Pessoas** -> **Listas**.
 
-2. Acessar o menu da lista.
+2. No menu da **Lista**.
 
    Clicar **Exportar**.
 

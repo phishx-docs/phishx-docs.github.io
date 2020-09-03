@@ -12,7 +12,7 @@ Algumas ações importantes, como enviar uma campanha ou remover um objeto, ser�
 
 1. Em **Confirmação da Campanha**.
 
-   Opcionalmente em **Contatos** validar o público-alvo da campanha.
+   Opcionalmente em **Contatos** verificar o público-alvo da campanha.
 
    Em **Ações** escolher **Salvar** (salva as configurações da campanha), **Agendar** (salva e programa a sua campanha) ou **Enviar** (salva e envia a sua campanha).
 

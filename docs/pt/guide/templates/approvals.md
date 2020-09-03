@@ -6,7 +6,7 @@ tags:
 ---
 # Aprovações
 
-::: tip Aprovações Adicionais
+::: tip Aprovações adicionais
 Antes de um modelo oficial ser utilizado, recomendamos definir um processo de aprovação formal.<br>
 Este processo pode ser interno na sua empresa, ou integrado opcionalmente na plataforma PhishX.
 :::

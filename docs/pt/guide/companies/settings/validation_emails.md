@@ -6,8 +6,8 @@ tags:
 ---
 # E-mails de Validação
 
-::: tip Time de Validação
-Recomendamos validar e aprovar todas as mensagens antes do envio oficial.<br>
+::: tip Time de validação
+Recomendamos verificar e aprovar todas as mensagens antes do envio oficial.<br>
 Dentro do seu time de validação, as mensagens não consumirão parte da assinatura.<br>
 Verifique quantas vezes forem necessárias e consiga a aprovação sem se preocupar.
 :::

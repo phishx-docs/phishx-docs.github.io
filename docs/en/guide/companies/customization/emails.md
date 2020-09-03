@@ -6,7 +6,7 @@ tags:
 ---
 # E-mails
 
-::: tip Notificações do Ambiente
+::: tip Notificações do ambiente
 Configure quais e-mails principais vão receber os notificações de suporte e relatório dos usuários.
 :::
 

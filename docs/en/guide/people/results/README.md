@@ -1,39 +1,39 @@
 ---
-title: Listas de Resultados
+title: Results Lists
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Listas de Resultados
+# Results Lists
 
-::: tip Resultados de suas campanhas
-As listas de resultados ajudam no envio de novas campanhas para pessoas que não fizeram um treinamento ou interagiram com a sua mensagem.
+::: tip Results of your campaigns
+Result lists help to send new campaigns to people who have not been trained or interacted with your message.
 :::
 
-Gerenciar baseadas em resultados das campanhas.
+Manage lists based on campaign results.
 
+1. Access the menu **People** -> **Results**.
 
-1. Acessar o menu **Pessoas** -> **Resultados**.
+   ![Results](https://cdn.phishx.io/phishx-docs/images/phishx_lists_results_01.webp)
 
-   ![Resultados](https://cdn.phishx.io/phishx-docs/images/phishx_lists_results_01.webp)
+2. Click **New**.
 
-2. Clicar **Novo**.
+3. In **New List**:
 
-3. Em **Nova Lista**:
+   In **Name** define a unique name for your list.
 
-   Em **Nome** definir um nome único para sua lista.
+   In **Type** and **Filter** define a scope for the list.
 
-   Em **Tipo** e **Filtro** definir um escopo para a lista.
+   Optionally in **Labels** define labels to categorize your list.
 
-   Opcionalmente em **Etiquetas** definir etiquetas para categorizar sua lista.
+   In **Actions IN** e **Actions OUT** definir quais resultados para sua lista.
 
-   Em **Ações Realizadas** e **Ações Não Realizadas** definir quais resultados para sua lista.
+   Optionally in **Days** define a maximum period of time.
 
-   Opcionalmente em **Dias** definir um período máximo de tempo.
+   Optionally in **Quantity** define a minimum number of actions.
 
-   Opcionalmente em **Quantidade** definir uma quantidade mínima de ações.
+   Click **Submit**.
 
-   Clicar **Enviar**.
-
-   ![Nova Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_results_02.webp)
+   ![New List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_results_02.webp)

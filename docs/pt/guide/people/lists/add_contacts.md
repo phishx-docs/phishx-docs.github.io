@@ -3,6 +3,7 @@ title: Adicionar Contatos
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Adicionar Contatos
@@ -11,11 +12,15 @@ tags:
 Se você for importar múltiplos contatos ou atributos, sugerimos importar via uma lista no formato xlsx.
 :::
 
+Adicione contatos em uma lista.
+
 1. Acessar o menu **Pessoas** -> **Listas**.
 
    ![Listas](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
 
-2. Clicar no menu de sua **Lista** em **Adicionar Contatos**.
+2. No menu da **Lista**.
+
+   Clicar **Adicionar Contatos**.
 
    ![Adicionar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_add_01.webp)
 
@@ -23,9 +28,9 @@ Se você for importar múltiplos contatos ou atributos, sugerimos importar via u
 
 4. Em cada contato:
 
-   Em **Email** adicionar um email válido.
+   Em **Email** inserir um email válido.
 
-   Opcionalmente em **Telefone** adicionar um telefone válido.
+   Opcionalmente em **Telefone** inserir um telefone válido.
 
    ::: details Telefones
    O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
@@ -33,7 +38,7 @@ Se você for importar múltiplos contatos ou atributos, sugerimos importar via u
 
    Opcionalmente adiconar quantos atributos adicionais por contato em **+**.
 
-   Em cada atributo informar o **Campo** e **Valor**. (Ex: nome: Pedro Vieira)
+   Em cada atributo inserir o **Campo** e **Valor**. (Ex: nome: Pedro Vieira)
 
    Clicar **Enviar**.
 

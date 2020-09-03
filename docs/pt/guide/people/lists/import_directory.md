@@ -3,6 +3,7 @@ title: Importar Diretório
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
   - Microsoft 365
   - Google G Suite

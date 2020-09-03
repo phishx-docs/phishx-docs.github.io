@@ -3,11 +3,12 @@ title: Listas Inteligentes
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Listas Inteligentes
 
-::: tip Listas Automáticas
+::: tip Listas automáticas
 As listas inteligentes ajudam no envio de novas campanhas para pessoas de um departamento ou grupo específico.
 :::
 

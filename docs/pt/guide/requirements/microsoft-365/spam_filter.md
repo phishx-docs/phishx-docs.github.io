@@ -40,7 +40,7 @@ tags:
 
    Clicar **Ok**.
 
-   ::: tip DICA
+   ::: tip Dica
    Remover todos os espaços extras após colar.
    :::
 

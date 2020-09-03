@@ -1,44 +1,45 @@
 ---
-title: Importar Diretório
+title: Import Directory
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
   - Microsoft 365
   - Google G Suite
 ---
-# Importar Diretório
+# Import Directory
 
-::: tip Importar todos os contatos
-Você pode importar todos os contatos de seus diretórios do Google G Suite ou do Microsoft 365.
+::: tip Import all contacts
+You can import all contacts from your Google G Suite or Microsoft 365 directories.
 :::
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+1. Access the menu **People** -> **Lists**.
 
-   ![Listas](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
+   ![Lists](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
 
-2. Clicar **Ações** -> **Importar Contatos**.
+2. Click **Actions** -> **Import Contact**.
 
-3. Em **Fonte** escolher seu diretório.
+3. In **Source** choose your directory.
 
-   Clicar **Importar**.
+   Click **Import**.
 
-   ![Importar Contatos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_01.webp)
+   ![Import Contact](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_01.webp)
 
-4. Autenticar no seu diretório com uma conta administrativa.
+4. Authenticate to your directory with an administrative account.
 
-5. Em **Grupos** escolher o seu **domínio** e **grupos específicos**.
+5. In **Groups** choose your **domain** and **specific groups**.
 
-   Opcionalmente clicar em **Todos** para selecionar todos os grupos.
+   Optionally click **All** to select all groups.
 
-   ![Grupos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_02.webp)
+   ![Groups](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_02.webp)
 
-6. Em **Atributos** escolher quais atributos deseja importar.
+6. Em **Attributes** choose which attributes you want to import.
 
-   Opcionalmente clicar em **Todos** para selecionar todos os atributos.
+   Optionally click **All** to select all attributes.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Atributos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_03.webp)
+   ![Attributes](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_03.webp)
 
-7. Em breve os seus contatos estarão disponiveis em **Pessoas** -> **Listas**.
+7. Your contacts will soon be available in  **People** -> **Lists**.

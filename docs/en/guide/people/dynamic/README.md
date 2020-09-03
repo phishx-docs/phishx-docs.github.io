@@ -1,39 +1,40 @@
 ---
-title: Listas Dinâmicas
+title: Dynamic Lists
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Listas Dinâmicas
+# Dynamic Lists
 
-::: tip Listas baseadas em regras de negócio
-As listas dinâmicas ajudam a criar listas baseadas em uma série de regras de negócio.<br>
-Para regras simples baseadas em atributos dos contatos, recomendamos utilizar as listas inteligentes.
+::: tip Lists based on business rules
+Dynamic lists help you create lists based on a series of business rules.<br>
+For simple rules based on contact attributes, we recommend using Smart Lists.
 :::
 
-Gerenciar listas baseadas em regras de negócios.
+Manage lists based on business rules.
 
-1. Acessar o menu **Pessoas** -> **Dinâmica**.
+1. Access the menu **People** -> **Dynamic**.
 
-   ![Dinâmica](https://cdn.phishx.io/phishx-docs/images/phishx_lists_dynamic_01.webp)
+   ![Dynamic](https://cdn.phishx.io/phishx-docs/images/phishx_lists_dynamic_01.webp)
 
-2. Clicar **Novo**.
+2. Click **New**.
 
-3. Em **Nova Lista**:
+3. In **New List**:
 
-   Em **Nome** definir um nome único para sua lista.
+   In **Name** define a unique name for your list.
 
-   Em **País** definir o país principal de sua lista.
+   In **Country** define the main country of your list.
 
-   Em **Idioma** definir o idioma principal para sua lista.
+   In **Language** define the primary language for your list.
 
-   Opcionalmente em **Etiquetas** definir etiquetas para categorizar sua lista.
+   Optionally in **Labels** define labels to categorize your list.
 
-   Em **Tipo** definir o tipo de regra de negócio.
+   In **Type** define the type of business rule.
 
-   Em **Regras** definir a regra de negócio.
+   In **Rule** define the business rule.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Nova Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_dynamic_02.webp)
+   ![New List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_dynamic_02.webp)

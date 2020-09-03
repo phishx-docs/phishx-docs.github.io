@@ -7,7 +7,7 @@ tags:
 ---
 # Actions
 
-::: tip User Permissions
+::: tip User permissions
 Each user can have different permissions.<br>
 Your experience on the platform may be different according to your current profile.
 :::

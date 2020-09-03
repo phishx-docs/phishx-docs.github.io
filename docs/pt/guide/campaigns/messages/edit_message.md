@@ -6,7 +6,7 @@ tags:
 ---
 ## Editar Mensagem
 
-::: tip Reenvie suas Mensagens
+::: tip Reenvie suas mensagens
 Você pode reenviar qualquer mensagem caso necessário.
 :::
 

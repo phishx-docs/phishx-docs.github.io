@@ -1,21 +1,22 @@
 ---
-title: Exclusões
+title: Exclusions
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Exclusões
+# Exclusions
 
-::: tip Exclusões e sua assinatura
-Os contatos excluídos não contam em sua assinatura e nem aparecem nos resultados.<br>
-Você pode solicitar novas exclusões de pessoas que saíram da sua empresa, liberando sua assinatura para novas pessoas.
+::: tip Exclusions and your subscription
+The deleted contacts do not count in your subscription and do not even appear in the results.<br>
+You can request new exclusions from people who left your company, releasing your subscription to new people.
 :::
 
-Gerenciar contatos que foram excluídos no ambiente.
+Manage contacts that have been deleted in the environment.
 
-Se você tiver perguntas adicionais, podemos fazer uma conferência ou enviar um e-mail para [PhishX Support](mailto:support@phishx.io).
+If you have additional questions, we can make a conference call or send an email to [PhishX Support](mailto:support@phishx.io).
 
-1. Acessar o menu **Pessoas** -> **Exclusões**.
+1. Access the menu **People** -> **Exclusions**.
 
-   ![Exclusões](https://cdn.phishx.io/phishx-docs/images/phishx_lists_exclusions_01.webp)
+   ![Exclusions](https://cdn.phishx.io/phishx-docs/images/phishx_lists_exclusions_01.webp)

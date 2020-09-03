@@ -6,7 +6,7 @@ tags:
 ---
 ## Replay
 
-::: tip Periodic Schedules
+::: tip Periodic schedules
 Replays allow you to periodically resubmit your campaign based on each person's status.<br>
 Do you want to increase your training engagement by forwarding the same message in the coming weeks to people who have not yet clicked on the training? Use Replay.
 :::

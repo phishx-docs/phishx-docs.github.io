@@ -6,7 +6,7 @@ tags:
 ---
 ## Agendamento
 
-::: tip Agendamento da Campanha
+::: tip Agendamento da campanha
 Você pode agendar sua campanha para a próxima segunda-feira ou para o próximo mês.<br>
 Além disso o Agendamento da Campanha permite a segmentação automática em grupos, garantido um envio controlado em intervalos periódicos até a totalidade das pessoas receberem sua campanha.
 :::

@@ -6,7 +6,7 @@ tags:
 ---
 # Etiquetas
 
-::: tip Organizar com Etiquetas Customizadas
+::: tip Organizar com etiquetas customizadas
 Sua empresa poderá organizar o seu conteúdo e campanhas com etiquetas customizadas.
 :::
 

@@ -1,25 +1,26 @@
 ---
-title: Contatos
+title: Contacts
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Contatos
+# Contacts
 
-::: tip Informações consolidadas
-Os contatos são sempre identificados com todos os últimos atributos consolidados, não importando qual o momento e lista de contatos.<br>
-Todos os atributos disponíveis podem ser usados em suas campanhas ou filtrados nos resultados.
+::: tip Consolidated information
+Contacts are always identified with all the latest consolidated attributes, no matter what the time and contact list.<br>
+All available attributes can be used in your campaigns or filtered in the results.
 :::
 
-Gerenciar todos os contatos.
+Manage all contacts.
 
-1. Acessar o menu **Pessoas** -> **Contatos**.
+1. Access the menu **People** -> **Contacts**.
 
-   ![Contatos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_contacts_01.webp)
+   ![Contacts](https://cdn.phishx.io/phishx-docs/images/phishx_lists_contacts_01.webp)
 
-2. Filtrar o contato.
+2. Filter the contact.
 
-3. Visualizar as informações ou realizar uma ação no contato.
+3. View the information or take action on the contact.
 
-   ![Contatos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_contacts_02.webp)
+   ![Contacts](https://cdn.phishx.io/phishx-docs/images/phishx_lists_contacts_02.webp)

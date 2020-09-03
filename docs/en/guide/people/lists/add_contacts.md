@@ -1,40 +1,45 @@
 ---
-title: Adicionar Contatos
+title: Add Contacts
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Adicionar Contatos
+# Add Contacts
 
-::: tip Muitos contatos
-Se você for importar múltiplos contatos ou atributos, sugerimos importar via uma lista no formato xlsx.
+::: tip Multiple contacts
+If you are importing multiple contacts or attributes, we suggest importing via a list in xlsx format.
 :::
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+Add contacts to a list.
 
-   ![Listas](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
+1. Access the menu **People** -> **Lists**.
 
-2. Clicar no menu de sua **Lista** em **Adicionar Contatos**.
+   ![Lists](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
 
-   ![Adicionar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_add_01.webp)
+2. In the **List** menu.
 
-3. Adiconar quantos contatos em **+**.
+   Click **Add Contact**.
 
-4. Em cada contato:
+   ![Add List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_add_01.webp)
 
-   Em **Email** adicionar um email válido.
+3. Add how many contacts in **+**.
 
-   Opcionalmente em **Telefone** adicionar um telefone válido.
+4. In every contact:
 
-   ::: details Telefones
-   O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
+   In **Email** insert a valid email.
+
+   Optionally in **Phone** insert a valid phone.
+
+   ::: details Phones
+   The phone needs to be informed in the international format. (Ex: +5511951570615)
    :::
 
-   Opcionalmente adiconar quantos atributos adicionais por contato em **+**.
+   Optionally add as many additional attributes per contact in **+**.
 
-   Em cada atributo informar o **Campo** e **Valor**. (Ex: nome: Pedro Vieira)
+   In each attribute insert **Field** and **Value**. (Ex: name: Pedro Vieira)
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Nova Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_add_02.webp)
+   ![New List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_add_02.webp)

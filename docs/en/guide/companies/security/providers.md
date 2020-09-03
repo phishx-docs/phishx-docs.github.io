@@ -6,7 +6,7 @@ tags:
 ---
 # Provedores
 
-::: tip Outros Provedores
+::: tip Outros provedores
 Caso você tenha problemas na utilização dos provedores padrão da PhishX, vamos ajudar o seu time na resolução do problema ou adicionar novos provedores oficiais.<br>
 Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
 :::

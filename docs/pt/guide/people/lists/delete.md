@@ -3,6 +3,7 @@ title: Remover Lista
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Remover Lista
@@ -16,7 +17,7 @@ Remover uma lista e seus contatos.
 
 1. Acessar o menu **Pessoas** -> **Listas**.
 
-2. Acessar o menu da lista.
+2. No menu da **Lista**.
 
    Clicar **Remover**.
 
@@ -26,4 +27,4 @@ Remover uma lista e seus contatos.
 
    Clicar **Sim**.
 
-   ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_02.webp)
+   ![Remover Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_02.webp)

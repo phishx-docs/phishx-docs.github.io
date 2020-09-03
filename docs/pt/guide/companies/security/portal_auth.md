@@ -6,7 +6,7 @@ tags:
 ---
 # Autenticação do Portal
 
-::: tip Identificação do Usuário
+::: tip Identificação do usuário
 Você pode permitir que o usuário sem conta ou e-mail acesse o seu conteúdo, se identificando com um ID como crachá ou outro registro único.<br>
 Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
 :::

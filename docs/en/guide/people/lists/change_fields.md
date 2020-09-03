@@ -1,32 +1,33 @@
 ---
-title: Mudar Campos
+title: Change Fields
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Mudar Campos
+# Change Fields
 
-::: tip Padronizar campos
-Você pode alterar e padronizar os atributos dos contatos mudando o nome original deles.
+::: tip Standardize fields
+You can change and standardize the attributes of contacts by changing their original name.
 :::
 
-Mudar os campos dos contatos de uma lista.
+Change the fields for contacts in a list.
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+1. Access the menu **People** -> **Lists**.
 
-2. Acessar o menu da lista.
+2. In the **List** menu.
 
-   Clicar **Mudar Campos**.
+   Click **Change Fields**.
 
-   ![Mudar Campos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_change_fields_01.webp)
+   ![Change Fields](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_change_fields_01.webp)
 
-3. Em **Editar Campos dos Contatos**.
+3. In **Edit Contacts Fields**.
 
-   Adiconar quantas mudanças em **+**.
+   Add how many changes in **+**.
 
-   Em **Original** selecionar o nome original e em **Substituir** definir um novo nome para cada mudança.
+   In **Original** select the original name and in **Replace** define a new name for each change.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Mudar Campos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_change_fields_02.webp)
+   ![Change Fields](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_change_fields_02.webp)

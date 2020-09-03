@@ -6,7 +6,7 @@ tags:
 ---
 # Edit Schedule
 
-::: tip Change your Schedules
+::: tip Change your schedules
 You can resend or change any schedule if necessary.
 :::
 

@@ -1,72 +1,73 @@
 ---
-title: Importar Lista
+title: Import List
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Importar Lista
+# Import List
 
-::: tip Adicionar novas informações
-Você pode importar e atualizar informações dos contatos existentes com o mesmo e-mail.
+::: tip Add new information
+You can import and update information from existing contacts with the same email.
 :::
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+1. Access the menu **People** -> **Lists**.
 
-   ![Listas](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
+   ![Lists](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_01.webp)
 
-2. Clicar **Ações** -> **Novo**.
+2. Click **Actions** -> **New**.
 
-   ![Adicionar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_01.webp)
+   ![Add List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_01.webp)
 
-3. Em **Nova Lista**:
+3. In **New List**:
 
-   Em **Nome** definir um nome único para sua lista.
+   In **Name** define a unique name for your list.
 
-   Em **País** definir o país principal de sua lista.
+   In **Country** define the main country of your list.
 
-   Em **Idioma** definir o idioma principal para sua lista.
+   In **Language** define the primary language for your list.
 
-   Opcionalmente em **Etiquetas** definir etiquetas para categorizar sua lista.
+   Optionally in **Labels** define labels to categorize your list.
 
-   Opcionalmente em **Padrão** definir o padrão do seu email e campos.
+   Optionally in **Pattern** define the pattern for your email and fields.
 
-   Clicar **Ações** -> **Importar Arquivo**.
+   Click **Actions** -> **Import File**.
 
-   ![Nova Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_02.webp)
+   ![New List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_02.webp)
 
-4. Em **Carregar Lista**:
+4. In **Upload List**:
 
-   Em **Arquivo** escolher seu arquivo no formato **XLSX**.
+   In **File** choose your file in **XLSX** format.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ::: details Arquivo no formato XLSX
-   Seu arquivo precisa ter apenas uma aba principal.<br>
-   Seu arquivo não pode ter nenhuma proteção por senhas.<br>
-   Seu arquivo precisa ter no mínimo uma coluna com o cabeçalho **email** e o respectivo email válido do contato.<br>
-   Opcionalmente informar no cabeçalho **phone** um telefone válido.<br>
-   Não importaremos contatos com emails duplicados.
+   ::: details File in XLSX format
+   Your file needs to have only one main tab.<br>
+   Your file cannot have any password protection.<br>
+   Your file must have at least one column with the header **email** and the respective valid email address for the contact.<br>
+   Optionally insert a valid phone number in the **phone** header. <br>
+   We will not import contacts with duplicate emails.
    :::
 
-   ::: details Telefones
-   O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
+   ::: details Phones
+   The phone needs to be informed in the international format. (Ex: +5511951570615)
    :::
 
-   ![Carregar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_03.webp)
+   ![Upload List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_03.webp)
 
-5. Em **Escolher Colunas**:
+5. In **Choose Columns**:
 
-   Opcionalmente remover as colunas não necessárias.
+   Optionally remove unnecessary columns.
 
-   Opcionalmente renomear as colunas.
+   Optionally rename the columns.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Escolher Colunas](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_04.webp)
+   ![Choose Columns](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_04.webp)
 
-6. Em **Lista de Contatos**:
+6. In **Contact List**:
 
-   Validar a quantidade de contatos importados.
+   Verify the number of imported contacts.
 
-   ![Lista de Contatos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_05.webp)
+   ![Contact List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_05.webp)

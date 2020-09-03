@@ -11,7 +11,7 @@ tags:
 
 ## Certificados SSL
 
-::: tip DICA
+::: tip Dica
 Todos os certificados SSL da PhishX recebem a nota A+ pelo **Qualys SSL Labs**.
 :::
 

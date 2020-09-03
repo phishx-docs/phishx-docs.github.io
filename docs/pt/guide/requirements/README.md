@@ -22,7 +22,7 @@ tags:
 Os requisitos técnicos são simples e temos este ótimo guia para ilustrá-los, com várias opções e sugestões de preferências.
 Em geral, você precisa garantir que o usuário receberá nossas mensagens e poderá acessar nosso portal de treinamento online.
 
-::: tip DICA
+::: tip Dica
 Recomendamos permitir todos os nossos domínios e IPs.
 :::
 

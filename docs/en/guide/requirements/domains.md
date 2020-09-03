@@ -5,7 +5,7 @@ tags:
 ---
 # Domains
 
-::: tip TIP
+::: tip Tip
 All PhishX Domains are exclusive and secure.
 :::
 

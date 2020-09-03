@@ -4,6 +4,7 @@ title: Resumo
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Resumo

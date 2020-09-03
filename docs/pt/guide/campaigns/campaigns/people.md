@@ -6,7 +6,7 @@ tags:
 ---
 ## Pessoas
 
-::: tip Múltiplas Listas
+::: tip Múltiplas listas
 Voce pode ter múltiplas listas de contatos como público-alvo de sua campanha.<br>
 A PhishX não enviará nenhuma mensagem duplicada para contatos com o mesmo e-mail único.
 :::

@@ -3,6 +3,7 @@ title: Contatos
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Contatos

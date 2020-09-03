@@ -1,22 +1,23 @@
 ---
-title: Armazenamento
+title: Storage
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Armazenamento
+# Storage
 
-::: tip Remover os arquivos
-Você pode remover arquivos específicos ou todos os seus arquivos.
+::: tip Remove files
+You can remove specific files or all of your files.
 :::
 
-Gerenciar os arquivos das listas.
+Manage the list files.
 
-1. Acessar o menu **Pessoas** -> **Armazenamento**.
+1. Access the menu **People** -> **Storage**.
 
-2. No arquivo específico.
+2. In the specific file.
 
-   Clicar **Obter** ou **Remover**.
+   Click **Get** or **Delete**.
 
-   ![Ações](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)
+   ![Actions](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)

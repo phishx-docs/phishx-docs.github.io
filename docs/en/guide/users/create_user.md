@@ -7,7 +7,7 @@ tags:
 ---
 # Criar Usuário
 
-::: tip Demais configurações do Usuário
+::: tip Demais configurações do usuário
 As configurações avançadas, como token de acesso, reset de senhas, imagem do usuário, dentre outras, o próprio usuário poderá configurar no seu perfil.
 :::
 
@@ -29,13 +29,13 @@ Como criar um novo usuário.
 
    Em **Permissões** definir uma permissão para o usuário. [Autorização](authorization/)
 
-   Opcionalmente em **Telefone** adicionar um telefone válido.
+   Opcionalmente em **Telefone** inserir um telefone válido.
 
    ::: details Telefones
    O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
    :::
 
-   Opcionalmente em **Nascimento** adicionar a data de nascimento do usuário.
+   Opcionalmente em **Nascimento** inserir a data de nascimento do usuário.
 
    Opcionalmente em **Comunicações** definir quais tipos de comunicações da PhishX o usuário vai receber.
 

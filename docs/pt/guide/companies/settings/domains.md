@@ -6,7 +6,7 @@ tags:
 ---
 # Domínios
 
-::: tip Vários Domínios
+::: tip Vários domínios
 Sua empresa poderá utilizar quantos domínios forem necessários.
 :::
 

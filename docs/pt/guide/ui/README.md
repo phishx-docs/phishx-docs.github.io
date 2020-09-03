@@ -9,14 +9,14 @@ tags:
 ---
 # Menus
 
-::: tip Permissões do Usuário
+::: tip Permissões do usuário
 Cada usuário pode ter diferentes níveis e permissões de acesso.<br>
 A sua experiência na plataforma pode ser adequada de acordo com o seu perfil atual.
 :::
 
 ## Menu Principal
 
-   ::: tip Menu Principal
+   ::: tip Menu principal
    A plataforma identifica o seu acesso e expande o caminho completo do seu Menu Principal.
    :::
 

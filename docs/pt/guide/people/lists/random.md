@@ -3,11 +3,12 @@ title: Listas Aleatórias
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Listas Aleatórias
 
-::: tip Múltiplas Campanhas
+::: tip Múltiplas campanhas
 As listas aleatórias ajudam a segmentar os seus contatos para enviar múltiplas campanhas em paralelo.
 :::
 
@@ -15,11 +16,11 @@ Gerar novas listas aleatórias a partir de uma lista.
 
 1. Acessar o menu **Pessoas** -> **Listas**.
 
-2. Acessar o menu da lista.
+2. No menu da **Lista**.
 
-   Clicar **Lista Aleatória**.
+   Clicar **Listas Aleatórias**.
 
-   ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_01.webp)
+   ![Listas Aleatórias](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_01.webp)
 
 3. Em **Lista Aleatória**.
 
@@ -31,4 +32,4 @@ Gerar novas listas aleatórias a partir de uma lista.
 
    Clicar **Enviar**.
 
-   ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_02.webp)
+   ![Listas Aleatórias](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_02.webp)

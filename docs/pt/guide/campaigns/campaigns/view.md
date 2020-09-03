@@ -6,7 +6,7 @@ tags:
 ---
 # Visualizar
 
-::: tip Compartilhe o endereço de sua Campanha
+::: tip Compartilhe o endereço de sua campanha
 Você pode compartilhar o endereço de visualização de sua Campanha.<br>
 Este endereço permite visualizar o ciclo completo com todas as etapas de sua trilha de conhecimento e não gerará resultados.<br>
 Excelente para envolter as pessoas-chave e acelerar a aprovação de sua Campanha.

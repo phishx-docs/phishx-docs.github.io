@@ -6,7 +6,7 @@ tags:
 ---
 # Autenticação
 
-::: tip Identificação do Usuário
+::: tip Identificação do usuário
 Você pode compartilhar um único endereço de autenticação de sua campanha e permitir que cada usuário sem conta ou e-mail acesse o seu conteúdo, se identificando com um ID como crachá ou outro registro único, incluindo autenticação segura em seu ambiente.<br>
 Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
 :::

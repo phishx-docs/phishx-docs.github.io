@@ -1,34 +1,35 @@
 ---
-title: Listas Aleatórias
+title: Random Lists
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Listas Aleatórias
+# Random Lists
 
-::: tip Múltiplas Campanhas
-As listas aleatórias ajudam a segmentar os seus contatos para enviar múltiplas campanhas em paralelo.
+::: tip Multiple campaigns
+Random lists help to segment your contacts to send multiple campaigns in parallel.
 :::
 
-Gerar novas listas aleatórias a partir de uma lista.
+Generate new random lists from a list.
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+1. Access the menu **People** -> **Lists**.
 
-2. Acessar o menu da lista.
+2. In the **List** menu.
 
-   Clicar **Lista Aleatória**.
+   Click **Random Lists**.
 
-   ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_01.webp)
+   ![Random Lists](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_01.webp)
 
-3. Em **Lista Aleatória**.
+3. In **Random List**.
 
-   Opcionalmente em **Nome** definir um novo padrão de nome único para sua lista.
+   Optionally in **Name** define a new unique name standard for your list.
 
-   Em **Listas** definir a quantidade de novas listas.
+   In **Lists** define the amount of new lists.
 
-   Opcionalmente em **Limite** definir a quantidade máxima de contatos por lista.
+   Optionally in **Limit** define the maximum number of contacts per list.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_02.webp)
+   ![Random Lists](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_random_02.webp)

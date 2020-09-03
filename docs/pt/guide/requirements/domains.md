@@ -5,7 +5,7 @@ tags:
 ---
 # Domínios
 
-::: tip DICA
+::: tip Dica
 Todos os domínios da PhishX são exclusivos e seguros.
 :::
 

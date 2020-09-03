@@ -9,7 +9,7 @@ tags:
 ---
 # Alterar a Empresa
 
-   ::: tip Empresas e Ambientes
+   ::: tip Empresas e ambientes
    Sua empresa pode ter acesso a múltiplos ambientes.
    :::
 

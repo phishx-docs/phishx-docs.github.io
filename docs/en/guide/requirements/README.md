@@ -22,7 +22,7 @@ tags:
 The technical requirements are simple and we have this great guide to illustrate them, with several options and preference suggestions.
 In general, you need to ensure that the user will receive our messages and will be able to access our online training portal.
 
-::: tip TIP
+::: tip Tip
 We recommend allowing all of our domains and IPs.
 :::
 

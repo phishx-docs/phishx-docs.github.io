@@ -1,29 +1,30 @@
 ---
-title: Remover Lista
+title: Delete List
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Remover Lista
+# Delete List
 
-::: tip Resultados permanecem
-Mesmo que você exclua uma lista e seus contatos, todos os resultados de campanhas já enviadas permanecem na plataforma.<br>
-Se você quiser ocultar ou remover os dados de contatos que não fazem mais parte de sua empresa, entre em contato o [PhishX Support](mailto:support@phishx.io).
+::: tip Results remain
+Even if you delete a list and your contacts, all results from campaigns already sent remain on the platform.<br>
+If you want to hide or remove contact details that are no longer part of your company, contact [PhishX Support](mailto:support@phishx.io).
 :::
 
-Remover uma lista e seus contatos.
+Remove a list and its contacts.
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+1. Access the menu **People** -> **Lists**.
 
-2. Acessar o menu da lista.
+2. In the **List** menu.
 
-   Clicar **Remover**.
+   Click **Delete**.
 
-   ![Remover Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_01.webp)
+   ![Delete List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_01.webp)
 
-3. Confirmar sua ação.
+3. Confirm your action.
 
-   Clicar **Sim**.
+   Click **Yes**.
 
-   ![Lista Aleatória](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_02.webp)
+   ![Delete List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_delete_02.webp)

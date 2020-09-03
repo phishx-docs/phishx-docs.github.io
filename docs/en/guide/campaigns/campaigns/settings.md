@@ -6,7 +6,7 @@ tags:
 ---
 ## Settings
 
-::: tip Several Simulation domains and your own domain for Communication
+::: tip Several simulation domains and your own domain for communication
 You can send Simmulations Campaigns (Phishing) through our various exclusive domains.<br>
 For Communication Campaigns with your company's layout, we can send securely with your own domain.<br>
 If you need additional information, talk to [PhishX Support](mailto:support@phishx.io).

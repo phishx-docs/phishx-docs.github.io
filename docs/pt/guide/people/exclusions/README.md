@@ -3,6 +3,7 @@ title: Exclusões
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Exclusões

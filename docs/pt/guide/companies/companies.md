@@ -21,13 +21,13 @@ Gerenciar as empresas do grupo de negócios.
 
    Clicar **Usuários** para gerenciar os usuários da empresa.
 
-   ::: tip Gerenciar Usuários
+   ::: tip Gerenciar usuários
    Você pode criar ou gerenciar usuários das outras empresas do mesmo jeito que gerencia os seus usuários. Saiba mais em: [Perfil do Usuário](../users/profile)
    :::
 
    Clicar **Editar** para gerenciar a empresa.
 
-   ::: tip Gerenciar Empresa
+   ::: tip Gerenciar empresa
    Você pode gerenciar outras empresas do mesmo jeito que gerencia a sua empresa. Saiba mais em: [Perfil da Empresa](profile)
    :::
 

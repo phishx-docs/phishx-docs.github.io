@@ -6,7 +6,7 @@ tags:
 ---
 # Approvals
 
-::: tip Additional Approvals
+::: tip Additional approvals
 Before an official campaign is sent, we recommend setting up a formal approval process.<br>
 This process can be internal to your company, or optionally integrated into the PhishX platform.
 :::

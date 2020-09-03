@@ -7,14 +7,14 @@ tags:
 ---
 # Perfil do Usuário
 
-::: tip Múltiplo Fator de Autenticação
+::: tip Múltiplo fator de autenticação
 Recomendamos habilitar o seu Múltiplo Fator de Autenticação.<br>
 Siga o procedimento com o seu aplicativo móvel de Autenticação.
 :::
 
 Como gerenciar seu perfil do usuário.
 
-1. Acessar o menu do Usuário.
+1. No menu do **Usuário**.
 
    Clicar **Perfil**.
 
@@ -28,13 +28,13 @@ Como gerenciar seu perfil do usuário.
 
    Opcionalmente em **Senha** e **Confirmar Senha** alterar sua senha forte.
 
-   Opcionalmente em **Telefone** adicionar um telefone válido.
+   Opcionalmente em **Telefone** inserir um telefone válido.
 
    ::: details Telefones
    O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
    :::
 
-   Opcionalmente em **Nascimento** adicionar a data de nascimento do usuário.
+   Opcionalmente em **Nascimento** inserir a data de nascimento do usuário.
 
    Opcionalmente em **Comunicações** definir quais tipos de comunicações da PhishX você quer receber.
 

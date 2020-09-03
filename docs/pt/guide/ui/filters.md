@@ -9,7 +9,7 @@ tags:
 ---
 # Filtros
 
-::: tip Filtros e Pesquisas
+::: tip Filtros e pesquisas
 Você pode filtrar os resultados de painéis e tabelas, além de pesquisar objetos.
 :::
 

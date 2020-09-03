@@ -2,25 +2,27 @@
 layout: TableLayout-2-25_75
 title: Summary
 tags:
-  - Pessoas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
 # Summary
 
-Gerenciar listas, contatos e arquivos.
+Manage lists, contacts and files.
 
-## Módulos
+## Modules
 <br>
 
-| Módulo | Descrição |
+| Module | Description |
 | :--- | :--- |
-| [Listas](lists/) | Gerenciar listas de contatos. |
-| [Armazenamento](storage/) | Gerenciar os arquivos das listas. |
-| [Contatos](contacts/) | Gerenciar todos os contatos. |
-| [Dinâmica](dynamic/) | Gerenciar listas baseadas em regras de negócios. |
-| [Inteligente](smart/) | Gerenciar quais atributos dos contatos serão monitorados em listas automáticas. |
-| [Resultados](results/) | Gerenciar baseadas em resultados das campanhas. |
-| [Exclusões](exclusions/) | Gerenciar contatos que foram excluídos no ambiente. |
+| [Lists](lists/) | Manage contact lists. |
+| [Storage](storage/) | Manage the list files. |
+| [Contacts](contacts/) | Manage all contacts. |
+| [Dynamic](dynamic/) | Manage lists based on business rules. |
+| [Smart](smart/) | Manage which contacts attributes will be monitored in automatic lists. |
+| [Results](results/) | Manage lists based on campaign results. |
+| [Exclusions](exclusions/) | Manage contacts that have been deleted in the environment. |
 <br>
 
-   ![Módulos](https://cdn.phishx.io/phishx-docs/images/phishx_menu_04_people.webp)
+   ![Modules](https://cdn.phishx.io/phishx-docs/images/phishx_menu_04_people.webp)

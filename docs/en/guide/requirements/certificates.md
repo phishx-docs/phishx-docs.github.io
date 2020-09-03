@@ -11,7 +11,7 @@ tags:
 
 ## SSL Certificates
 
-::: tip TIP
+::: tip Tip
 All PhishX SSL Certificates receives A+ score in **Qualys SSL Labs**.
 :::
 

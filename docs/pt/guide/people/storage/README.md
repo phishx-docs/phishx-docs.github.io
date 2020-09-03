@@ -3,6 +3,7 @@ title: Armazenamento
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Armazenamento

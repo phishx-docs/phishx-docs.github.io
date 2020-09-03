@@ -6,7 +6,7 @@ tags:
 ---
 # Communications
 
-::: tip TIP
+::: tip Tip
 All PhishX Web Servers uses SSL Certificates.
 :::
 

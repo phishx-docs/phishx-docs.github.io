@@ -6,7 +6,7 @@ tags:
 ---
 # Aprovações de Campanhas
 
-::: tip Aprovações Adicionais
+::: tip Aprovações sdicionais
 Antes de uma campanha oficial ser enviada, recomendamos definir um processo de aprovação formal.<br>
 Este processo pode ser interno na sua empresa, ou integrado opcionalmente na plataforma PhishX.
 :::

@@ -16,7 +16,7 @@ Reiniciar a senha de um usuário.
 
 1. Acessar o menu **Configurações** -> **Usuários** -> **Usuários**.
 
-2. Acessar o menu do usuário.
+2. No menu do **Usuário**.
 
    Clicar **Nova Senha**.
 

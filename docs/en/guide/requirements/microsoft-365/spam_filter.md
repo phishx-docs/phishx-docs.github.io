@@ -40,7 +40,7 @@ tags:
 
    Click **Ok**.
 
-   ::: tip TIP
+   ::: tip Tip
    Remove any extra spaces after paste.
    :::
 

@@ -6,7 +6,7 @@ tags:
 ---
 # IPs
 
-::: tip DICA
+::: tip Dica
 Todos os IPs da PhishX são exclusivos e seguros.
 :::
 

@@ -6,7 +6,7 @@ tags:
 ---
 # Controle de Acesso por Horário
 
-::: tip Vários Fusos Horários
+::: tip Vários fusos horários
 Cada país ou região possuem diversos fusos horários.<br>
 Recomendamos habilitar as horas globais baseadas na menor e maior hora dentro de sua região para suportar todos os seus usuários.<br>
 Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).

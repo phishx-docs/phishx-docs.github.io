@@ -6,7 +6,7 @@ tags:
 ---
 ## Schedules
 
-::: tip Campaign Scheduling
+::: tip Campaign scheduling
 You can schedule your campaign for next Monday or next month.<br>
 In addition, Campaign Scheduling allows automatic segmentation into groups, ensuring controlled delivery at periodic intervals until all people receive your campaign.
 :::

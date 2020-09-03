@@ -6,7 +6,7 @@ tags:
 ---
 # Autenticação
 
-::: tip Autenticação Segura
+::: tip Autenticação segura
 Você pode saber conhecer todas as formas de autenticação segura disponíveis em: [Autenticação](../../users/authentication)<br>
 Se sua empresa possui uma necessidade adicional, converse com o [PhishX Support](mailto:support@phishx.io).
 :::

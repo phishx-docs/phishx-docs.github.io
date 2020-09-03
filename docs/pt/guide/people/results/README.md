@@ -3,6 +3,7 @@ title: Listas de Resultados
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Listas de Resultados

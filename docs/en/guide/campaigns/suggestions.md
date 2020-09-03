@@ -6,7 +6,7 @@ tags:
 ---
 # Suggestions
 
-::: tip New Suggestions
+::: tip New suggestions
 The PhishX Customer Success team produces new suggestions every month.<br>
 If you didn't find a suggestion, or have an interesting idea, talk to  [PhishX Support](mailto:support@phishx.io).
 :::

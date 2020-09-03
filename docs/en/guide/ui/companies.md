@@ -9,7 +9,7 @@ tags:
 ---
 # Change Company
 
-   ::: tip Companies and Environments
+   ::: tip Companies and environments
    Your company can have access to multiple environments.
    :::
 

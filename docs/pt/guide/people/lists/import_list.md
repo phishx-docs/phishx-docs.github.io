@@ -3,6 +3,7 @@ title: Importar Lista
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Importar Lista
@@ -45,7 +46,7 @@ Você pode importar e atualizar informações dos contatos existentes com o mesm
    Seu arquivo precisa ter apenas uma aba principal.<br>
    Seu arquivo não pode ter nenhuma proteção por senhas.<br>
    Seu arquivo precisa ter no mínimo uma coluna com o cabeçalho **email** e o respectivo email válido do contato.<br>
-   Opcionalmente informar no cabeçalho **phone** um telefone válido.<br>
+   Opcionalmente inserir no cabeçalho **phone** um telefone válido.<br>
    Não importaremos contatos com emails duplicados.
    :::
 
@@ -67,6 +68,6 @@ Você pode importar e atualizar informações dos contatos existentes com o mesm
 
 6. Em **Lista de Contatos**:
 
-   Validar a quantidade de contatos importados.
+   Verificar a quantidade de contatos importados.
 
    ![Lista de Contatos](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_new_05.webp)

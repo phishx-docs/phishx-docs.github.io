@@ -3,6 +3,7 @@ title: Listas Dinâmicas
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Listas Dinâmicas

@@ -6,7 +6,7 @@ tags:
 ---
 ## Actions
 
-::: tip Multiple Actions
+::: tip Multiple actions
 You can have multiple steps on your learning path.<br>
 We recommend at the beginning to have campaigns with a main step, such as a training, questionnaire, or policy, and an interaction step with the person's feedback.
 :::

@@ -6,7 +6,7 @@ tags:
 ---
 # Sugestões
 
-::: tip Novas Sugestões
+::: tip Novas sugestões
 O time de Customer Success da PhishX produz novas sugestões todos os meses.<br>
 Se você não achou uma sugestão, ou tem uma ideia interessante, converse com [PhishX Support](mailto:support@phishx.io).
 :::
@@ -49,7 +49,7 @@ Adquirir as campanhas sugeridas pelo Customer Success da PhishX.
 
 4. Em **Confirmação da Campanha**.
 
-   Opcionalmente em **Contatos** validar o público-alvo da campanha.
+   Opcionalmente em **Contatos** verificar o público-alvo da campanha.
 
    Em **Ações** escolher **Salvar** (salva as configurações da campanha), **Agendar** (salva e programa a sua campanha) ou **Enviar** (salva e envia a sua campanha).
 

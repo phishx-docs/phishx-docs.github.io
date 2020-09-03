@@ -3,6 +3,7 @@ title: Mudar Campos
 tags:
   - Pessoas
   - Listas
+  - Alvos
   - Contatos
 ---
 # Mudar Campos
@@ -15,7 +16,7 @@ Mudar os campos dos contatos de uma lista.
 
 1. Acessar o menu **Pessoas** -> **Listas**.
 
-2. Acessar o menu da lista.
+2. No menu da **Lista**.
 
    Clicar **Mudar Campos**.
 

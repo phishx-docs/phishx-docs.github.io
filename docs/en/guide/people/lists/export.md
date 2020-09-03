@@ -1,42 +1,43 @@
 ---
-title: Exportar Lista
+title: Export List
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Exportar Lista
+# Export List
 
-::: tip Múltiplos Formatos
-Você pode exportar suas listas em múltiplos formatos, de acordo com a ferramenta que vai utilizar.<br>
-Todos os atributos disponíveis de cada contato serão exportados.
+::: tip Multiple formats
+You can export your lists in multiple formats, depending on the tool you are going to use.<br>
+All available attributes for each contact will be exported.
 :::
 
-Exportar os contatos de uma lista.
+Export contacts from a list.
 
-1. Acessar o menu **Pessoas** -> **Listas**.
+1. Access the menu **People** -> **Lists**.
 
-2. Acessar o menu da lista.
+2. In the **List** menu.
 
-   Clicar **Exportar**.
+   Click **Export**.
 
-   ![Exportar](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_01.webp)
+   ![Export](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_01.webp)
 
-3. Em **Exportar**.
+3. In **Export**.
 
-   Opcionalmente em **Nome** definir um nome único para o seu arquivo.
+   Optionally in **Name** define a unique name for your file.
 
-   Em **Tipo de Arquivo** definir o tipo de arquivo a ser exportado.
+   In **File Type** define the file type to be exported.
 
-   Opcionalmente em **Comprimir** definir se o arquivo será compactado.
+   Optionally in **Compress** define whether the file will be compressed.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Exportar](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_02.webp)
+   ![Export](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_02.webp)
 
-4. No arquivo específico.
+4. In the specific file.
 
-   Clicar **Obter** ou **Remover**.
+   Click **Get** or **Delete**.
 
-   ![Exportar](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)
+   ![Export](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)
 

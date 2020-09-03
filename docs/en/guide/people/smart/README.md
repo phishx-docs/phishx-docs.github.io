@@ -1,30 +1,31 @@
 ---
-title: Listas Inteligentes
+title: Smart Lists
 tags:
-  - Pessoas
-  - Listas
-  - Contatos
+  - People
+  - Lists
+  - Targets
+  - Contacts
 ---
-# Listas Inteligentes
+# Smart Lists
 
-::: tip Listas Automáticas
-As listas inteligentes ajudam no envio de novas campanhas para pessoas de um departamento ou grupo específico.
+::: tip Automatic lists
+Smart lists help you send new campaigns to people in a specific department or group.
 :::
 
-Gerenciar quais atributos dos contatos serão monitorados em listas automáticas.
+Manage which contacts attributes will be monitored in automatic lists.
 
-1. Acessar o menu **Pessoas** -> **Inteligente**.
+1. Access the menu **People** -> **Smart**.
 
-   ![Inteligente](https://cdn.phishx.io/phishx-docs/images/phishx_lists_smart_01.webp)
+   ![Smart](https://cdn.phishx.io/phishx-docs/images/phishx_lists_smart_01.webp)
 
-2. Clicar **Editar**.
+2. Click **Edit**.
 
-3. Em **Editar Lista**:
+3. In **Edit List**:
 
-   Em **Grupo** definir quais atributos serão monitorados.
+   In **Group** define which attributes will be monitored.
 
-   Em **Principais** definir quantidade máximo de listas por grupo.
+   In **Top** define maximum number of lists per group.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Editar Lista](https://cdn.phishx.io/phishx-docs/images/phishx_lists_smart_02.webp)
+   ![Edit List](https://cdn.phishx.io/phishx-docs/images/phishx_lists_smart_02.webp)

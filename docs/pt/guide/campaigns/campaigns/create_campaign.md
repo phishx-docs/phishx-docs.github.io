@@ -6,7 +6,7 @@ tags:
 ---
 # Criar Campanha
 
-::: tip Novas Sugestões
+::: tip Novas sugestões
 O time de Customer Success da PhishX produz novas sugestões todos os meses.<br>
 Se você não achou uma sugestão, ou tem uma ideia interessante, converse com [PhishX Support](mailto:support@phishx.io).
 :::
