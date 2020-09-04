@@ -1,12 +1,12 @@
 ---
-title: Results Lists
+title: Results lists
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Results Lists
+# Results lists
 
 ::: tip Results of your campaigns
 Result lists help to send new campaigns to people who have not been trained or interacted with your message.

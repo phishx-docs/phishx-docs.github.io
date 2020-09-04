@@ -1,12 +1,12 @@
 ---
-title: Export List
+title: Export list
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Export List
+# Export list
 
 ::: tip Multiple formats
 You can export your lists in multiple formats, depending on the tool you are going to use.<br>

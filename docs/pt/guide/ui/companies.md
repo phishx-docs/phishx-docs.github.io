@@ -1,5 +1,5 @@
 ---
-title: Alterar a Empresa
+title: Alterar empresa
 tags:
   - Experiência
   - Usuário
@@ -7,7 +7,7 @@ tags:
   - UI
   - UX
 ---
-# Alterar a Empresa
+# Alterar empresa
 
    ::: tip Empresas e ambientes
    Sua empresa pode ter acesso a múltiplos ambientes.

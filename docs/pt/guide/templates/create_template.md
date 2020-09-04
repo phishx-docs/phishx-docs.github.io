@@ -1,10 +1,10 @@
 ---
-title: Criar Modelo
+title: Criar modelo
 tags:
   - Modelos
   - Editor
 ---
-# Criar Modelo
+# Criar modelo
 
 ::: tip Precisa de ajuda?
 Nosso time de Customer Success está pronto para ajudar na criação ou colaborar com o seu time para você utilizar o modelo ideal em sua próxima campanha.<br>

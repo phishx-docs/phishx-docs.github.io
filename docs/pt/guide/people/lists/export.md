@@ -1,12 +1,12 @@
 ---
-title: Exportar Lista
+title: Exportar lista
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Exportar Lista
+# Exportar lista
 
 ::: tip Múltiplos formatos
 Você pode exportar suas listas em múltiplos formatos, de acordo com a ferramenta que vai utilizar.<br>

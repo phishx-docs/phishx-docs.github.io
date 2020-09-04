@@ -1,5 +1,5 @@
 ---
-title: Change Company
+title: Change company
 tags:
   - Experience
   - User
@@ -7,7 +7,7 @@ tags:
   - UI
   - UX
 ---
-# Change Company
+# Change company
 
    ::: tip Companies and environments
    Your company can have access to multiple environments.

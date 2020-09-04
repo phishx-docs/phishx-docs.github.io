@@ -1,12 +1,12 @@
 ---
-title: Registro de Aplicações
+title: Registro de aplicações
 tags:
   # - Integrações
   - Microsoft
   - Azure
   - AD
 ---
-# Registro de Aplicações
+# Registro de aplicações
 
 ## Resumo
 

@@ -1,11 +1,11 @@
 ---
 layout: TableLayout-2-25_75
-title: Types and Objectives
+title: Types and objectives
 tags:
   - Templates
   - Editor
 ---
-# Types and Objectives
+# Types and objectives
 
 ::: tip Organize the templates
 You can organize the templates using the Types, Objectives and Labels applied.

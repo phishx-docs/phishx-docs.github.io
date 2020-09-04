@@ -1,12 +1,12 @@
 ---
-title: Delete List
+title: Delete list
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Delete List
+# Delete list
 
 ::: tip Results remain
 Even if you delete a list and your contacts, all results from campaigns already sent remain on the platform.<br>

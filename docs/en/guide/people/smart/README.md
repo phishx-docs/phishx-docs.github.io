@@ -1,12 +1,12 @@
 ---
-title: Smart Lists
+title: Smart lists
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Smart Lists
+# Smart lists
 
 ::: tip Automatic lists
 Smart lists help you send new campaigns to people in a specific department or group.

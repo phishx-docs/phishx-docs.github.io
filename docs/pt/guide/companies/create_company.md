@@ -1,10 +1,10 @@
 ---
-title: Criar uma empresa
+title: Criar empresa
 tags:
   - Empresa
   - Configurações
 ---
-# Criar uma empresa
+# Criar empresa
 
 ::: tip Redefina as configurações
 Você pode redefinir a qualquer momento as configurações da empresa.

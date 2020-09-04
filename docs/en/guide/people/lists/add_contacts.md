@@ -1,12 +1,12 @@
 ---
-title: Add Contacts
+title: Add contacts
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Add Contacts
+# Add contacts
 
 ::: tip Multiple contacts
 If you are importing multiple contacts or attributes, we suggest importing via a list in xlsx format.

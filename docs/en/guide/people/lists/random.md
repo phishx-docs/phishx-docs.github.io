@@ -1,12 +1,12 @@
 ---
-title: Random Lists
+title: Random lists
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Random Lists
+# Random lists
 
 ::: tip Multiple campaigns
 Random lists help to segment your contacts to send multiple campaigns in parallel.

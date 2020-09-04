@@ -1,12 +1,12 @@
 ---
-title: Listas de Resultados
+title: Listas de resultados
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Listas de Resultados
+# Listas de resultados
 
 ::: tip Resultados de suas campanhas
 As listas de resultados ajudam no envio de novas campanhas para pessoas que não fizeram um treinamento ou interagiram com a sua mensagem.

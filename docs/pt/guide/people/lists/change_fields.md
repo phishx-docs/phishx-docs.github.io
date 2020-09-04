@@ -1,12 +1,12 @@
 ---
-title: Mudar Campos
+title: Mudar campos
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Mudar Campos
+# Mudar campos
 
 ::: tip Padronizar campos
 Você pode alterar e padronizar os atributos dos contatos mudando o nome original deles.

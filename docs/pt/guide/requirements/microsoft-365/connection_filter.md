@@ -1,12 +1,12 @@
 ---
-title: Filtro de Conexão
+title: Filtro de conexão
 tags:
   # - Requirements
   - Microsoft
   - Office
   - 365
 ---
-# Filtro de Conexão
+# Filtro de conexão
 
 ## Resumo
 

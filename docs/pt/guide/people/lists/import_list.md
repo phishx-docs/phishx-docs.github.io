@@ -1,12 +1,12 @@
 ---
-title: Importar Lista
+title: Importar lista
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Importar Lista
+# Importar lista
 
 ::: tip Adicionar novas informações
 Você pode importar e atualizar informações dos contatos existentes com o mesmo e-mail.

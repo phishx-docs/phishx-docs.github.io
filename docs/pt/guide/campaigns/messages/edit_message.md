@@ -1,10 +1,10 @@
 ---
-title: Editar Mensagem
+title: Editar mensagem
 tags:
   - Campanhas
   - Mensagens
 ---
-## Editar Mensagem
+## Editar mensagem
 
 ::: tip Reenvie suas mensagens
 Você pode reenviar qualquer mensagem caso necessário.

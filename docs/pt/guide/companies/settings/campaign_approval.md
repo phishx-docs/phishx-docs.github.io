@@ -1,10 +1,10 @@
 ---
-title: Aprovações de Campanhas
+title: Aprovações de campanhas
 tags:
   - Empresa
   - Configurações
 ---
-# Aprovações de Campanhas
+# Aprovações de campanhas
 
 ::: tip Aprovações adicionais
 Antes de uma campanha oficial ser enviada, recomendamos definir um processo de aprovação formal.<br>

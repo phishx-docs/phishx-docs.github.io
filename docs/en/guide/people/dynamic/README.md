@@ -1,12 +1,12 @@
 ---
-title: Dynamic Lists
+title: Dynamic lists
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Dynamic Lists
+# Dynamic lists
 
 ::: tip Lists based on business rules
 Dynamic lists help you create lists based on a series of business rules.<br>

@@ -1,5 +1,5 @@
 ---
-title: Importar Diretório
+title: Importar diretório
 tags:
   - Pessoas
   - Listas
@@ -8,7 +8,7 @@ tags:
   - Microsoft 365
   - Google G Suite
 ---
-# Importar Diretório
+# Importar diretório
 
 ::: tip Importar todos os contatos
 Você pode importar todos os contatos de seus diretórios do Google G Suite ou do Microsoft 365.

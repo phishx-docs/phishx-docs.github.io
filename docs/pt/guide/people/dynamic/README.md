@@ -1,12 +1,12 @@
 ---
-title: Listas Dinâmicas
+title: Listas dinâmicas
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Listas Dinâmicas
+# Listas dinâmicas
 
 ::: tip Listas baseadas em regras de negócio
 As listas dinâmicas ajudam a criar listas baseadas em uma série de regras de negócio.<br>

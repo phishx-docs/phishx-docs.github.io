@@ -1,12 +1,12 @@
 ---
-title: Aplicações da Empresa
+title: Aplicações da empresa
 tags:
   # - Integrações
   - Microsoft
   - Azure
   - AD
 ---
-# Aplicações da Empresa
+# Aplicações da empresa
 
 ## Resumo
 

@@ -1,5 +1,5 @@
 ---
-title: Alterar o Idioma
+title: Alterar idioma
 tags:
   - Experiência
   - Usuário
@@ -7,7 +7,7 @@ tags:
   - UI
   - UX
 ---
-# Alterar o Idioma
+# Alterar idioma
 
    ::: tip Idioma
    A plataforma por padrão identifica o idioma do seu navegador e já altera para o idioma disponível.

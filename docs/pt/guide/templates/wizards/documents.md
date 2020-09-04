@@ -1,11 +1,11 @@
 ---
-title: Documentos e Políticas
+title: Documentos e políticas
 tags:
   - Modelos
   - Editor
   - Assistentes
 ---
-# Documentos e Políticas
+# Documentos e políticas
 
 ::: tip Aceite online de documentos e políticas
 Você pode publicar e recolher o aceite online de documentos e políticas da sua empresa em PDF.

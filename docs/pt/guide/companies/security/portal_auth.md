@@ -1,10 +1,10 @@
 ---
-title: Autenticação do Portal
+title: Autenticação do portal
 tags:
   - Empresa
   - Configurações
 ---
-# Autenticação do Portal
+# Autenticação do portal
 
 ::: tip Identificação do usuário
 Você pode permitir que o usuário sem conta ou e-mail acesse o seu conteúdo, se identificando com um ID como crachá ou outro registro único.<br>

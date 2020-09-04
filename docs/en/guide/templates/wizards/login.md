@@ -1,11 +1,11 @@
 ---
-title: Login Pages
+title: Login pages
 tags:
   - Templates
   - Editor
   - Wizards
 ---
-# Login Pages
+# Login pages
 
 ::: tip Internal applications or external services
 You can simulate a login page for an internal application or an external service like your email.

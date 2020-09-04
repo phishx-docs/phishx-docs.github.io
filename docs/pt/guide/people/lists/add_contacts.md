@@ -1,12 +1,12 @@
 ---
-title: Adicionar Contatos
+title: Adicionar contatos
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Adicionar Contatos
+# Adicionar contatos
 
 ::: tip Muitos contatos
 Se você for importar múltiplos contatos ou atributos, sugerimos importar via uma lista no formato xlsx.

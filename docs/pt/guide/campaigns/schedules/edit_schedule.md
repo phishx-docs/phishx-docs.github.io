@@ -1,10 +1,10 @@
 ---
-title: Editar Agendamento
+title: Editar agendamento
 tags:
   - Campanhas
   - Agendamentos
 ---
-# Editar Agendamento
+# Editar agendamento
 
 ::: tip Altere seus agendamentos
 Você pode reenviar ou alterar qualquer agendamento caso necessário.

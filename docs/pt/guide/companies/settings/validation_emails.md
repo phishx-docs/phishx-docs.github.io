@@ -1,10 +1,10 @@
 ---
-title: E-mails de Validação
+title: E-mails de validação
 tags:
   - Empresa
   - Configurações
 ---
-# E-mails de Validação
+# E-mails de validação
 
 ::: tip Time de validação
 Recomendamos verificar e aprovar todas as mensagens antes do envio oficial.<br>

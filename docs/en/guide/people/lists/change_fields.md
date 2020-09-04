@@ -1,12 +1,12 @@
 ---
-title: Change Fields
+title: Change fields
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Change Fields
+# Change fields
 
 ::: tip Standardize fields
 You can change and standardize the attributes of contacts by changing their original name.

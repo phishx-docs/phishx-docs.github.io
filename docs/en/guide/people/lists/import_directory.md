@@ -1,5 +1,5 @@
 ---
-title: Import Directory
+title: Import directory
 tags:
   - People
   - Lists
@@ -8,7 +8,7 @@ tags:
   - Microsoft 365
   - Google G Suite
 ---
-# Import Directory
+# Import directory
 
 ::: tip Import all contacts
 You can import all contacts from your Google G Suite or Microsoft 365 directories.

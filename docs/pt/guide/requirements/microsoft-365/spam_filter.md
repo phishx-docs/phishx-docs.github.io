@@ -1,12 +1,12 @@
 ---
-title: Filtro de Spam
+title: Filtro de spam
 tags:
   # - Requirements
   - Microsoft
   - Office
   - 365
 ---
-# Filtro de Spam
+# Filtro de spam
 
 ## Resumo
 

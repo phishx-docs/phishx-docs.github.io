@@ -1,12 +1,12 @@
 ---
-title: Remover Lista
+title: Remover lista
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Remover Lista
+# Remover lista
 
 ::: tip Resultados permanecem
 Mesmo que você exclua uma lista e seus contatos, todos os resultados de campanhas já enviadas permanecem na plataforma.<br>

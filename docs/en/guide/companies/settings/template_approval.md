@@ -1,10 +1,10 @@
 ---
-title: Aprovações de Modelos
+title: Aprovações de modelos
 tags:
   - Empresa
   - Configurações
 ---
-# Aprovações de Modelos
+# Aprovações de modelos
 
 ::: tip Aprovações adicionais
 Antes de um modelo oficial ser utilizado, recomendamos definir um processo de aprovação formal.<br>

@@ -1,10 +1,10 @@
 ---
-title: Controle de Acesso por Horário
+title: Controle de acesso por horário
 tags:
   - Empresa
   - Configurações
 ---
-# Controle de Acesso por Horário
+# Controle de acesso por horário
 
 ::: tip Vários fusos horários
 Cada país ou região possuem diversos fusos horários.<br>

@@ -1,10 +1,10 @@
 ---
-title: Perfil da Empresa
+title: Perfil da empresa
 tags:
   - Empresa
   - Configurações
 ---
-# Perfil da Empresa
+# Perfil da empresa
 
 ::: tip Redefina as configurações
 Você pode redefinir a qualquer momento as configurações da empresa.

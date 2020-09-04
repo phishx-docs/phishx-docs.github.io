@@ -1,10 +1,10 @@
 ---
-title: Criar Campanha
+title: Criar campanha
 tags:
   - Campanhas
   - Editor
 ---
-# Criar Campanha
+# Criar campanha
 
 ::: tip Novas sugestões
 O time de Customer Success da PhishX produz novas sugestões todos os meses.<br>

@@ -1,12 +1,12 @@
 ---
-title: Listas Aleatórias
+title: Listas aleatórias
 tags:
   - Pessoas
   - Listas
   - Alvos
   - Contatos
 ---
-# Listas Aleatórias
+# Listas aleatórias
 
 ::: tip Múltiplas campanhas
 As listas aleatórias ajudam a segmentar os seus contatos para enviar múltiplas campanhas em paralelo.

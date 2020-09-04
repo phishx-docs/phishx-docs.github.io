@@ -1,11 +1,11 @@
 ---
 layout: TableLayout-2-25_75
-title: Tipos e Objetivos
+title: Tipos e objetivos
 tags:
   - Modelos
   - Editor
 ---
-# Tipos e Objetivos
+# Tipos e objetivos
 
 ::: tip Organizar os modelos
 Você pode organizar os modelos através dos Tipos, Objetivos e Etiquetas aplicadas.

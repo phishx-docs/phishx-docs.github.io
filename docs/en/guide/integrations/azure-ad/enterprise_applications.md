@@ -1,12 +1,12 @@
 ---
-title: Enterprise Applications
+title: Enterprise applications
 tags:
   # - Intregrations
   - Microsoft
   - Azure
   - AD
 ---
-# Enterprise Applications
+# Enterprise applications
 
 ## TL;DR
 

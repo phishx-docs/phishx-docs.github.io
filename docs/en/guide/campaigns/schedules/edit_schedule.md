@@ -1,10 +1,10 @@
 ---
-title: Edit Schedule
+title: Edit schedule
 tags:
   - Campaigns
   - Schedules
 ---
-# Edit Schedule
+# Edit schedule
 
 ::: tip Change your schedules
 You can resend or change any schedule if necessary.

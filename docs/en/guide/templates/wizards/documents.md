@@ -1,11 +1,11 @@
 ---
-title: Documents and Policies
+title: Documents and policies
 tags:
   - Templates
   - Editor
   - Wizards
 ---
-# Documents and Policies
+# Documents and policies
 
 ::: tip Online acceptance of documents and policies
 You can publish and collect the online acceptance of your company's documents and policies in PDF.

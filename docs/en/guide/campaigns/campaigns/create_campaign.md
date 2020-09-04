@@ -1,10 +1,10 @@
 ---
-title: Create Campaign
+title: Create campaign
 tags:
   - Campaigns
   - Editor
 ---
-# Create Campaign
+# Create campaign
 
 ::: tip New suggestions
 The PhishX Customer Success team produces new suggestions every month.<br>

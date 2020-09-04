@@ -1,12 +1,12 @@
 ---
-title: Import List
+title: Import list
 tags:
   - People
   - Lists
   - Targets
   - Contacts
 ---
-# Import List
+# Import list
 
 ::: tip Add new information
 You can import and update information from existing contacts with the same email.

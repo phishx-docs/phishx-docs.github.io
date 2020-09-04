@@ -1,12 +1,12 @@
 ---
-title: Application Registration
+title: Application registration
 tags:
   # - Intregrations
   - Microsoft
   - Azure
   - AD
 ---
-# Application Registration
+# Application registration
 
 ## TL;DR
 

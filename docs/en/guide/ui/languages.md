@@ -1,5 +1,5 @@
 ---
-title: Change Language
+title: Change language
 tags:
   - Experience
   - User
@@ -7,7 +7,7 @@ tags:
   - UI
   - UX
 ---
-# Change Language
+# Change language
 
    ::: tip Language
    The platform by default identifies the language of your browser and changes to the available language.

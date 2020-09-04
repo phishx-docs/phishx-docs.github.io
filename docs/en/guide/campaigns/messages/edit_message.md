@@ -1,10 +1,10 @@
 ---
-title: Edit Message
+title: Edit message
 tags:
   - Campaigns
   - Messages
 ---
-## Edit Message
+## Edit message
 
 ::: tip Resend your messages
 You can resend any message if necessary.
