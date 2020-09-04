@@ -1,29 +1,29 @@
 ---
 layout: TableLayout-2-25_75
-title: Resumo
+title: Summary
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Resumo
+# Summary
 
-Gerenciar usuários e permissões.
+Manage users and permissions.
 
-## Módulos
+## Modules
 <br>
 
-| Módulo | Descrição |
+| Module | Description |
 | :--- | :--- |
-| [Primeiro Acesso](first_access/) | Como fazer o primeiro acesso. |
-| [Login](login/) | Como acessar sua plataforma. |
-| [Perfil do Usuário](profile/) | Como gerenciar seu perfil do usuário. |
-| [Autenticação](authentication/) | Como se autenticar de forma segura. |
-| [Autorização](authorization/) | Permissões de Usuários |
-| [Reiniciar sua Senha](reset_password/) | Reiniciar a senha do seu usuário. |
-| [Desbloquear seu Usuário](unlock_account/) | Como desbloquear o seu usuário. |
-| [Criar Usuário](create_user/) | Como criar um novo usuário. |
-| [Enviar nova Senha](send_password/) | Reiniciar a senha de um usuário. |
+| [First access](first_access/) | How to make the first access. |
+| [Login](login/) | How to access your platform. |
+| [User profile](profile/) | How to manage your user profile. |
+| [Authentication](authentication/) | How to securely authenticate. |
+| [Authorization](authorization/) | User permissions. |
+| [Reset your password](reset_password/) | Reset your user's password. |
+| [Unlock your user](unlock_account/) | How to unlock your user. |
+| [Create user](create_user/) | How to create a new user. |
+| [Send new password](send_password/) | Reset a user's password. |
 <br>
 
-   ![Módulos](https://cdn.phishx.io/phishx-docs/images/phishx_settings_users_menu_01.webp)
+   ![Modules](https://cdn.phishx.io/phishx-docs/images/phishx_settings_users_menu_01.webp)

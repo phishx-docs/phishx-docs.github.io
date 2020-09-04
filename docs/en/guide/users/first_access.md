@@ -1,65 +1,65 @@
 ---
-title: Primeiro Acesso
+title: First access
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Primeiro Acesso
+# First access
 
-::: tip Várias formas de acessar
-Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>
-Converse com o seu time ou com o [PhishX Support](mailto:support@phishx.io).
+::: tip Several ways to access
+You can log in with your traditional e-mail or internal company account.<br>
+Talk to your team or to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Como fazer o primeiro acesso.
+How to make the first access.
 
-1. Acessar o e-mail de boas-vindas.
+1. Access the welcome email.
 
-   Anotar a sua **senha temporária**.
+   Copy your **temporary password**.
 
-   Clicar **Acessar o PhishX**.
+   Click **Access PhishX**.
 
    ![E-mail](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)
 
-2. Na página de login de sua plataforma.
+2. On your platform's login page.
 
-   Inserir o seu **e-mail** e **senha temporária**.
+   Insert your **email** and **temporary password**.
 
-   Clicar **Entrar** -> **Entrar**.
+   Click **Log in** -> **Log in**.
 
-   ![Login Temporário](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_02.webp)
+   ![Temporary Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_02.webp)
 
-3. Escolher uma nova senha forte.
+3. Define a new strong password.
 
-   Inserir uma **nova senha** em ambos os campos **Senha**.
+   Insert a **new password** in both fields **Password**.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_03.webp)
+   ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_03.webp)
 
-   ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_04.webp)
+   ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_04.webp)
 
-4. Faça o seu primeiro login.
+4. Make your first login.
 
-   Inserir o seu **e-mail** e **nova senha**.
+   Insert your **email** and **new password**.
 
-   Clicar **Entrar** -> **Entrar**.
+   Click **Log in** -> **Log in**.
 
-   ![Primeiro Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_05.webp)
+   ![First Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_05.webp)
 
-5. Leia com atenção os termos da plataforma.
+5. Read the terms of the platform carefully.
 
-   Clicar **Aceitar**.
+   Click **Accept**.
 
-   ![Termos](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_06.webp)
+   ![Terms](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_06.webp)
 
-6. Leia com atenção as notícias da plataforma.
+6. Read the platform news carefully.
 
-   Clicar **Avançar**.
+   Click **Proceed**.
 
-   ![Notícias](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_07.webp)
+   ![News](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_07.webp)
 
-7. Seja **bem-vindo** a plataforma.
+7. **Welcome** to the platform.
 
-   ![Bem-vindo](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_08.webp)
+   ![Welcome](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_08.webp)

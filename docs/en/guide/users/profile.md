@@ -1,73 +1,73 @@
 ---
-title: Perfil do Usuário
+title: User profile
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Perfil do Usuário
+# User profile
 
-::: tip Múltiplo fator de autenticação
-Recomendamos habilitar o seu Múltiplo Fator de Autenticação.<br>
-Siga o procedimento com o seu aplicativo móvel de Autenticação.
+::: tip Multiple authentication factor
+We recommend enabling your Multiple Authentication Factor.<br>
+Follow the procedure with your mobile Authentication app.
 :::
 
-Como gerenciar seu perfil do usuário.
+How to manage your user profile.
 
-1. No menu do **Usuário**.
+1. In the **User** menu.
 
-   Clicar **Perfil**.
+   Click **Profile**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_01.webp)
+   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_01.webp)
 
-2. Em **Perfil de Usuário**.
+2. In **User Profile**.
 
-   Em **Nome** definir o seu nome.
+   In **Name** define your a name.
 
-   Em **Gênero** definir o seu gênero.
+   In **Gender** define your gender.
 
-   Opcionalmente em **Senha** e **Confirmar Senha** alterar sua senha forte.
+   Optionally in **Password** and **Confirm Password** change your strong password.
 
-   Opcionalmente em **Telefone** inserir um telefone válido.
+   Optionally in **Phone** insert a valid phone.
 
-   ::: details Telefones
-   O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
+   ::: details Phones
+   The phone needs to be informed in the international format. (Ex: +5511951570615)
    :::
 
-   Opcionalmente em **Nascimento** inserir a data de nascimento do usuário.
+   Optionally in **Birth** insert your date of birth.
 
-   Opcionalmente em **Comunicações** definir quais tipos de comunicações da PhishX você quer receber.
+   Optionally in **Communications** define which types of PhishX communications you want to receive.
 
-   Em **País** definir o seu país.
+   In **Country** define your country.
 
-   Em **Idioma** definir o seu idioma.
+   In **Language** define your language.
 
-   Opcionalmente em **Imagem** arrastar sua foto.
+   Optionally in **Image** drag your photo.
 
-   ![Novo Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_02.webp)
+   ![New User](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_02.webp)
 
-3. Opcionalmente definir seu Múltiplo Fator de Autenticação.
+3. Optionally define your Multiple Authentication Factor.
 
-   Clicar **Autenticador**.
+   Click **Authenticator**.
 
-   Escanear o QR Code com o seu aplicativo de autenticação móvel.
+   Scan the QR Code with your mobile authentication application.
 
-   ::: details Aplicativos de autenticação móvel
-   Procure na loja de aplicativos por **Google Authenticator** ou **Microsoft Authenticator**.
+   ::: details Mobile authentication apps
+   Search the app store for **Google Authenticator** or **Microsoft Authenticator**.
    :::
 
-   Inserir o código temporário que aparecerá em seu aplicativo.
+   Insert the temporary code that will appear in your application.
 
-   Clicar **Verificar**.
+   Click **Verify**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_03.webp)
+   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_03.webp)
 
-   Ao confirmar que o botão **Habilitado** ficou marcado, clicar em **Voltar**.
+   When you confirm that the **Enabled** button has been checked, click **Back**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_04.webp)
+   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_04.webp)
 
-4. Salvar o seu perfil.
+4. Save your profile.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_05.webp)
+   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_05.webp)

@@ -1,58 +1,58 @@
 ---
 title: Login
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
 # Login
 
-::: tip Várias formas de acessar
-Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>
-Converse com o seu time ou com o [PhishX Support](mailto:support@phishx.io).
+::: tip Several ways to access
+You can log in with your traditional e-mail or internal company account.<br>
+Talk to your team or to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Como acessar sua plataforma.
+How to access your platform.
 
-1. Acessar o seu ambiente PhishX.
+1. Access your PhishX environment.
 
-   Acessar no seu navegador o endereço **SUBDOMÍNIO.phishx.io**.
+   Access the address **SUBDOMAIN.phishx.io** in your browser.
 
-   ::: details Subdomínio
-   O seu ambiente no PhishX é identificado pelo seu subdomínio.<br>
-   Geralmente o seu subdomínio será o mesmo do domínio principal da página de sua empresa. (Ex: www.**phishx**.io -> **phishx**.phishx.io)<br>
-   Caso sua empresa possua mais de uma ambiente no PhishX, você pode confirmar com o seu time, ou com o [PhishX Support](mailto:support@phishx.io), qual seu endereço de acesso.
+   ::: details SUBDOMAIN
+   Your PhishX environment is identified by its subdomain.<br>
+   Generally, your subdomain will be the same as the main domain of your company page. (Ex: www.**phishx**.io -> **phishx**.phishx.io)<br>
+   If your company has more than one PhishX environment, you can confirm with your team, or with [PhishX Support](mailto:support@phishx.io), your access address.
    :::
 
    ![Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_01.webp)
 
-2. Escolher a opção de **autenticação** disponível.
+2. Choose the available **authentication** option.
 
    ![Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_02.webp)
 
-   Caso você utilize **autenticação da PhishX**, inserir o seu **e-mail** e **senha**.
+   If you use **PhishX authentication**, enter your **email** and **password**.
 
-   Clicar **Entrar** -> **Entrar**.
+   Click **Log in** -> **Log in**.
 
-   ![Interno](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_05.webp)
+   ![Internal](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_05.webp)
 
-   Caso você utilize uma **múltiplo fator de autenticação da PhishX**, inserir seu **token temporário**.
+   If you use a **multiple PhishX authentication factor**, insert your **temporary token**.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
    ![Token](https://cdn.phishx.io/phishx-docs/images/phishx_user_login_token_01.webp)
 
-   Caso você utilize uma **autenticação integrada com nossos parceiros**, será direcionado ao **respectivo portal de autenticação**.
+   If you use **integrated authentication with our partners**, you will be directed to **the respective authentication portal**.
 
-   ::: details Acessos externos
-   Você precisa se autenticar com uma conta externa com o mesmo e-mail da sua conta PhishX.
+   ::: details External accesses
+   You need to authenticate with an external account using the same email address as your PhishX account.
    :::
-<br>
+   <br>
 
    ![Google](https://cdn.phishx.io/phishx-docs/images/phishx_login_external_01.webp)
 
    ![Microsoft](https://cdn.phishx.io/phishx-docs/images/phishx_login_external_02.webp)
 
-3. Seja **bem-vindo** a plataforma.
+3. **Welcome** to the platform.
 
-   ![Bem-vindo](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_08.webp)
+   ![Welcome](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_08.webp)

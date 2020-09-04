@@ -1,11 +1,11 @@
 ---
-title: Reiniciar sua Senha
+title: Reiniciar sua senha
 tags:
   - Usuários
   - Times
   - Permissões
 ---
-# Reiniciar sua Senha
+# Reiniciar sua senha
 
 ::: tip Várias formas de acessar
 Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>

@@ -1,11 +1,11 @@
 ---
-title: Primeiro Acesso
+title: Primeiro acesso
 tags:
   - Usuários
   - Times
   - Permissões
 ---
-# Primeiro Acesso
+# Primeiro acesso
 
 ::: tip Várias formas de acessar
 Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>
@@ -16,7 +16,7 @@ Como fazer o primeiro acesso.
 
 1. Acessar o e-mail de boas-vindas.
 
-   Anotar a sua **senha temporária**.
+   Copie a sua **senha temporária**.
 
    Clicar **Acessar o PhishX**.
 

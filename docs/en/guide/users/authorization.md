@@ -1,38 +1,38 @@
 ---
 layout: TableLayout-2-25_75
-title: Autorização
+title: Authorization
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Autorização
+# Authorization
 
-::: tip Várias perfis de acesso
-O PhishX possui vários de perfis de acesso, que vão desde somente leitura, acessos específicos à criação de conteúdo, acesso total de administrador e vários outros perfis.
+::: tip Several access profiles
+PhishX has several access profiles, ranging from read-only, specific access to content creation, full administrator access and several other profiles.
 :::
 
-Permissões de Usuários
+User Permissions.
 
-## Empresa
+## Company
 
-Permissões de Usuários para o ambiente da sua Empresa.
+User permissions for your company environment.
 
-| Permissão | Descrição |
+| Permission | Description |
 | :--- | :--- |
-| Usuário da Conta | Perfil com acesso somente leitura. |
-| Editor de modelos da Conta | Perfil com permissão para criar conteúdo. |
-| Editor de pessoas da Conta | Perfil com permissão para gerenciar listas de contatos. |
-| Editor de campanha da Conta | Perfil com permissão para criar campanhas. |
-| Administrador da Conta | Perfil com permissão administrativa e acesso de escrita. |
-| Supervisor da Conta | Perfil Administrador de conta com permissão para excluir objetos. |
+| Account user | Profile with read-only access. |
+| Account template editor | Profile with permission to create content. |
+| Account people editor | Profile with permission to manage contact lists. |
+| Account campaign editor | Profile with permission to create campaigns. |
+| Account administrator | Profile with administrative permission and write access. |
+| Account supervisor | Account Administrator profile with permission to delete objects. |
 
-## Grupo de Negócios
+## Business Group
 
-Permissões de Usuários para o grupo de negócios da sua Empresa.
+User permissions for your company's business group.
 
-| Permissão | Descrição |
+| Permission | Description |
 | :--- | :--- |
-| Usuário do Grupo | Perfil com acesso somente leitura. |
-| Administrador do Grupo | Perfil com permissão administrativa e acesso de escrita. |
-| Supervisor do Grupo | Perfil Administrador de conta com permissão para excluir objetos. |
+| Group user | Profile with read-only access. |
+| Group administrator | Profile with administrative permission and write access. |
+| Group supervisor | Account Administrator profile with permission to delete objects. |

@@ -1,33 +1,33 @@
 ---
-title: Enviar nova Senha
+title: Send a new password
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Enviar nova Senha
+# Send a new password
 
-::: tip Várias formas de acessar
-Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>
-Converse com o seu time ou com o [PhishX Support](mailto:support@phishx.io).
+::: tip Several ways to access
+You can log in with your traditional e-mail or internal company account.<br>
+Talk to your team or to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Reiniciar a senha de um usuário.
+Reset a user's password.
 
-1. Acessar o menu **Configurações** -> **Usuários** -> **Usuários**.
+1. Access the menu **Settings** -> **Users** -> **Users**.
 
-2. No menu do **Usuário**.
+2. In the **User** menu.
 
-   Clicar **Nova Senha**.
+   Click **New Password**.
 
-   ![Enviar nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_01.webp)
+   ![Send a new password](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_01.webp)
 
-3. Confirmar sua ação.
+3. Confirm your action.
 
-   Clicar **Sim**.
+   Click **Sim**.
 
-   ![Enviar nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_02.webp)
+   ![Send a new password](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_02.webp)
 
-4. Solicitar ao usuário que verifique na sua caixa postal o email de reset de senhas.
+4. Ask the user to check the password reset email in their mailbox.
 
-   ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_reset_02.webp)
+   ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_reset_02.webp)

@@ -1,28 +1,28 @@
 ---
 layout: TableLayout-2-25_75
-title: Autenticação
+title: Authentication
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
   - Microsoft
   - Google
   - Active Directory
   - Azure
 ---
-# Autenticação
+# Authentication
 
-::: tip Várias formas de acesso seguro
-O PhishX tem vários controles de segurança aderentes à política de segurança da sua empresa.
+::: tip Various ways of secure access
+PhishX has several security controls adhering to your company's security policy.
 :::
 
-Como se autenticar de forma segura.
+How to securely authenticate.
 
-| Autenticação | Descrição |
+| Authentication | Description |
 | :--- | :--- |
-| PhishX - Credenciais | Autenticação interna configurável e segura de acordo com a política de segurança da empresa. A senha pode seguir o padrão de histórico, prazo, tamanho e complexidade de acordo com a política de segurança. |
-| PhishX - Múltiplos Fatores (2FA) | Camada interna adicional as credenciais para utilização de múltiplos fatores de autenticação (2FA) através de tokens e aplicativos móveis. |
-| Google | Integração com autenticação segura da Google G Suite. |
-| Microsoft 365 | Integração com autenticação segura do Microsoft 365. |
-| Microsoft Active Directory | Integração com autenticação segura do Microsoft Active Directory (AD) via Active Directory Federation Services (ADFS). |
-| Microsoft Azure AD | Integração com autenticação segura do Microsoft Azure AD. |
+| PhishX - Credentials | Configurable and secure internal authentication according to the company's security policy. The password can follow the pattern of history, term, size and complexity according to the security policy. |
+| PhishX - Multiple Factors (2FA) | Additional internal layer credentials for using multiple authentication factors (2FA) through tokens and mobile applications. |
+| Google | Integration with secure Google G Suite authentication. |
+| Microsoft 365 | Integration with Microsoft 365 secure authentication. |
+| Microsoft Active Directory | Integration with Microsoft Active Directory (AD) secure authentication via Active Directory Federation Services (ADFS). |
+| Microsoft Azure AD | Integration with Microsoft Azure AD secure authentication. |

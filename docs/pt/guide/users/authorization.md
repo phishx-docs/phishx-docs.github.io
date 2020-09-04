@@ -12,11 +12,11 @@ tags:
 O PhishX possui vários de perfis de acesso, que vão desde somente leitura, acessos específicos à criação de conteúdo, acesso total de administrador e vários outros perfis.
 :::
 
-Permissões de Usuários
+Permissões de usuários.
 
 ## Empresa
 
-Permissões de Usuários para o ambiente da sua Empresa.
+Permissões de usuários para o ambiente da sua empresa.
 
 | Permissão | Descrição |
 | :--- | :--- |
@@ -29,7 +29,7 @@ Permissões de Usuários para o ambiente da sua Empresa.
 
 ## Grupo de Negócios
 
-Permissões de Usuários para o grupo de negócios da sua Empresa.
+Permissões de usuários para o grupo de negócios da sua empresa.
 
 | Permissão | Descrição |
 | :--- | :--- |

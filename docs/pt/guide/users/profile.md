@@ -1,11 +1,11 @@
 ---
-title: Perfil do Usuário
+title: Perfil do usuário
 tags:
   - Usuários
   - Times
   - Permissões
 ---
-# Perfil do Usuário
+# Perfil do usuário
 
 ::: tip Múltiplo fator de autenticação
 Recomendamos habilitar o seu Múltiplo Fator de Autenticação.<br>
@@ -34,7 +34,7 @@ Como gerenciar seu perfil do usuário.
    O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
    :::
 
-   Opcionalmente em **Nascimento** inserir a data de nascimento do usuário.
+   Opcionalmente em **Nascimento** inserir a data do seu nascimento.
 
    Opcionalmente em **Comunicações** definir quais tipos de comunicações da PhishX você quer receber.
 

@@ -1,11 +1,11 @@
 ---
-title: Enviar nova Senha
+title: Enviar nova senha
 tags:
   - Usuários
   - Times
   - Permissões
 ---
-# Enviar nova Senha
+# Enviar nova senha
 
 ::: tip Várias formas de acessar
 Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>

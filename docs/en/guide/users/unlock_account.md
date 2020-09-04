@@ -1,53 +1,53 @@
 ---
-title: Desbloquear seu Usuário
+title: Unlock your user
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Desbloquear seu Usuário
+# Unlock your user
 
-::: tip Várias formas de acessar
-Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>
-Converse com o seu time ou com o [PhishX Support](mailto:support@phishx.io).
+::: tip Several ways to access
+You can log in with your traditional e-mail or internal company account.<br>
+Talk to your team or to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Como desbloquear o seu usuário.
+How to unlock your user.
 
-1. Acessar o seu ambiente PhishX.
+1. Access your PhishX environment.
 
-   Acessar no seu navegador o endereço **SUBDOMÍNIO.phishx.io**.
+   Access the address **SUBDOMAIN.phishx.io** in your browser.
 
-   ::: details Subdomínio
-   O seu ambiente no PhishX é identificado pelo seu subdomínio.<br>
-   Geralmente o seu subdomínio será o mesmo do domínio principal da página de sua empresa. (Ex: www.**phishx**.io -> **phishx**.phishx.io)<br>
-   Caso sua empresa possua mais de uma ambiente no PhishX, você pode confirmar com o seu time, ou com o [PhishX Support](mailto:support@phishx.io), qual seu endereço de acesso.
+   ::: details SUBDOMAIN
+   Your PhishX environment is identified by its subdomain.<br>
+   Generally, your subdomain will be the same as the main domain of your company page. (Ex: www.**phishx**.io -> **phishx**.phishx.io)<br>
+   If your company has more than one PhishX environment, you can confirm with your team, or with [PhishX Support](mailto:support@phishx.io), your access address.
    :::
 
    ![Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_01.webp)
 
-2. Acessar o menu de ajuda em **Ajuda ?** e **Desbloquear Conta**.
+2. Access the menu **Help ?** and **Unlock Account**.
 
-   ![Ajuda](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_01.webp)
+   ![Help](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_01.webp)
 
-3. Inserir o seu **e-mail**.
+3. Insert your **email**.
 
-   Clicar **Desbloquear**.
+   Click **Unlock**.
 
-  ![Desbloqueio](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
+  ![Unlock](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
 
-4. Acessar o e-mail de desbloqueio de conta.
+4. Access your account unlock email.
 
-   Clicar **Escolher nova Senha**.
+   Click **Choose new Password**.
 
-   ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_unlock_02.webp)
+   ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_unlock_02.webp)
 
-5. Escolher uma nova senha forte.
+5. Choose a new strong password.
 
-   Inserir uma **nova senha** em ambos os campos **Senha**.
+   Insert a **new password** in both fields **Password**.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_03.webp)
+   ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_03.webp)
 
-   ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_04.webp)
+   ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_04.webp)

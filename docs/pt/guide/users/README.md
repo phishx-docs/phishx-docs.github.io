@@ -15,15 +15,15 @@ Gerenciar usuários e permissões.
 
 | Módulo | Descrição |
 | :--- | :--- |
-| [Primeiro Acesso](first_access/) | Como fazer o primeiro acesso. |
+| [Primeiro acesso](first_access/) | Como fazer o primeiro acesso. |
 | [Login](login/) | Como acessar sua plataforma. |
-| [Perfil do Usuário](profile/) | Como gerenciar seu perfil do usuário. |
+| [Perfil do usuário](profile/) | Como gerenciar seu perfil do usuário. |
 | [Autenticação](authentication/) | Como se autenticar de forma segura. |
-| [Autorização](authorization/) | Permissões de Usuários |
-| [Reiniciar sua Senha](reset_password/) | Reiniciar a senha do seu usuário. |
-| [Desbloquear seu Usuário](unlock_account/) | Como desbloquear o seu usuário. |
-| [Criar Usuário](create_user/) | Como criar um novo usuário. |
-| [Enviar nova Senha](send_password/) | Reiniciar a senha de um usuário. |
+| [Autorização](authorization/) | Permissões de usuários |
+| [Reiniciar sua senha](reset_password/) | Reiniciar a senha do seu usuário. |
+| [Desbloquear seu usuário](unlock_account/) | Como desbloquear o seu usuário. |
+| [Criar usuário](create_user/) | Como criar um novo usuário. |
+| [Enviar nova senha](send_password/) | Reiniciar a senha de um usuário. |
 <br>
 
    ![Módulos](https://cdn.phishx.io/phishx-docs/images/phishx_settings_users_menu_01.webp)

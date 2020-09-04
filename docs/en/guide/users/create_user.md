@@ -1,55 +1,54 @@
 ---
-title: Criar Usuário
+title: Create user
 tags:
-  - Usuários
-  - Times
-  - Permissões
+  - Users
+  - Teams
+  - Permissions
 ---
-# Criar Usuário
+# Create user
 
-::: tip Demais configurações do usuário
-As configurações avançadas, como token de acesso, reset de senhas, imagem do usuário, dentre outras, o próprio usuário poderá configurar no seu perfil.
+::: tip Other user settings
+Advanced settings, such as access token, password reset, user image, among others, the user himself can configure in his profile.
 :::
 
-Como criar um novo usuário.
+How to create a new user.
 
-1. Acessar o menu **Configurações** -> **Usuários** -> **Usuários**.
+1. Access the menu **Settings** -> **Users** -> **Users**.
 
-2. Clicar **Novo**.
+2. Click **New**.
 
-   ![Novo Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_01.webp)
+   ![New User](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_01.webp)
 
-3. Em **Novo Usuário**.
+3. In **New User**.
 
-   Em **E-mail** definir um e-mail válido para o usuário.
+   In **Email** define a valid email for the user.
 
-   Em **Nome** definir um nome para o usuário.
+   In **Name** define a name for the user.
 
-   Em **Gênero** definir um gênero para o usuário.
+   In **Gender** define a gender for the user.
 
-   Em **Permissões** definir uma permissão para o usuário. [Autorização](authorization/)
+   In **Permissions** define a permission for the user. [Authorization](authorization/)
 
-   Opcionalmente em **Telefone** inserir um telefone válido.
+   Optionally in **Phone** define a valid phone.
 
-   ::: details Telefones
-   O telefone precisa ser informado no formato internacional. (Ex: +5511951570615)
+   ::: details Phones
+   The phone needs to be informed in the international format. (Ex: +5511951570615)
    :::
 
-   Opcionalmente em **Nascimento** inserir a data de nascimento do usuário.
+   Optionally in **Birth** define the user's date of birth.
 
-   Opcionalmente em **Comunicações** definir quais tipos de comunicações da PhishX o usuário vai receber.
+   Optionally in **Communications** define which types of PhishX communications the user will receive.
 
-   Em **País** definir o país do usuário.
+   In **Country** define the user's country.
 
-   Em **Idioma** definir o idioma do usuário.
+   In **Language** define the user's language.
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Novo Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_02.webp)
+   ![New User](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_02.webp)
 
-   ![Novo Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_03.webp)
+   ![New User](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_03.webp)
 
+5. Ask the user to check the welcome email in their mailbox.
 
-5. Solicitar ao usuário que verifique na sua caixa postal o email de boas-vindas.
-
-   ![Boas-vindas](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)
+   ![Welcome](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)

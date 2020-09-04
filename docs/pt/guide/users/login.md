@@ -47,7 +47,7 @@ Como acessar sua plataforma.
    ::: details Acessos externos
    Você precisa se autenticar com uma conta externa com o mesmo e-mail da sua conta PhishX.
    :::
-<br>
+   <br>
 
    ![Google](https://cdn.phishx.io/phishx-docs/images/phishx_login_external_01.webp)
 

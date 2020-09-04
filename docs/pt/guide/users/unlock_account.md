@@ -1,11 +1,11 @@
 ---
-title: Desbloquear seu Usuário
+title: Desbloquear seu usuário
 tags:
   - Usuários
   - Times
   - Permissões
 ---
-# Desbloquear seu Usuário
+# Desbloquear seu usuário
 
 ::: tip Várias formas de acessar
 Você pode logar com a sua conta tradicional de e-mail ou interna de sua empresa.<br>
