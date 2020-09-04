@@ -1,8 +1,8 @@
 ---
 title: Azure AD
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
 # Azure AD
 
@@ -13,12 +13,12 @@ Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@ph
 
 Gerenciar a autenticação segura com o seu Azure AD.
 
-1. Em **Segurança** -> **Azure AD**.
+1. In **Settings**  -> **Azure AD**.
 
-   Em **Diretório** definir o ID do seu diretório.
+   In **Directory** definir o ID do seu diretório.
 
-   Em **ID do Cliente** definir o seu ID do Cliente.
+   In **Client ID** definir o seu ID do Cliente.
 
-   Em **Segredo do Cliente** definir o seu Segredo do Cliente.
+   In **Client Secret** definir o seu Segredo do Cliente.
 
    ![Azure AD](https://cdn.phishx.io/phishx-docs/images/phishx_companies_azure_ad_01.webp)

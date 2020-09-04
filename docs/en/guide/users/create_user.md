@@ -1,11 +1,11 @@
 ---
-title: Create user
+title: Create an user
 tags:
   - Users
   - Teams
   - Permissions
 ---
-# Create user
+# Create an user
 
 ::: tip Other user settings
 Advanced settings, such as access token, password reset, user image, among others, the user himself can configure in his profile.
@@ -21,7 +21,7 @@ How to create a new user.
 
 3. In **New User**.
 
-   In **Email** define a valid email for the user.
+   In **e-mail** define a valid e-mail for the user.
 
    In **Name** define a name for the user.
 
@@ -49,6 +49,6 @@ How to create a new user.
 
    ![New User](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_03.webp)
 
-5. Ask the user to check the welcome email in their mailbox.
+5. Ask the user to check the welcome e-mail in their mailbox.
 
    ![Welcome](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)

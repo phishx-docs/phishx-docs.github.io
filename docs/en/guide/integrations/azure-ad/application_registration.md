@@ -98,7 +98,7 @@ tags:
 
    In **Token type** select **ID**.
 
-   In **Claim** select **email**, **given_name**, **family_name**, **sid** and **upn**.
+   In **Claim** select **e-mail**, **given_name**, **family_name**, **sid** and **upn**.
 
    Click **Add**.
 

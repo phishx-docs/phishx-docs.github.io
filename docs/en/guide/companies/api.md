@@ -1,34 +1,34 @@
 ---
 title: API
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
 # API
 
-::: tip Seus dados dentro da empresa
-Com nossa API você pode acessar os seus dados em tempo real direto nas plataformas de dados da sua empresa.
+::: tip Your data within the company
+With our API you can access your data in real time directly on your company's data platforms.
 :::
 
-Gerenciar o seu Token de acesso a API.
+Manage your API access Token.
 
-1. No perfil da empresa em **API**.
+1. In the company profile in **API**.
 
    ![API](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_api_01.webp)
 
-2. Clicar **Novo** para gerar um novo token de acesso.
+2. Click **New** to generate a new access token.
 
-   ::: tip Validade do token da API
-   Seu token da API é válido por um ano<br>
-   Você pode renovar ou revogar os seus tokens. Saiba mais em: [Tokens](tokens)
+   ::: tip Validity of the API token
+   Your API token is valid for one year<br>
+   You can renew or revoke your tokens. Learn more at[Tokens](tokens)
    :::
 
-   Copiar o seu token de acesso.
+   Copy your access token.
 
    ![API](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_api_02.webp)
 
-3. Clicar **Habilitar** para habilitar o seu token de acesso.
+3. Click **Enabled** to enable your access token.
 
    ![API](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_api_03.webp)
 
-4. Clicar **Voltar** e continuar as configurações da empresa.
+4. Click **Back** and continue the company settings.

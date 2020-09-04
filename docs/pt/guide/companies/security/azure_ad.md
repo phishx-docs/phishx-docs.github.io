@@ -1,7 +1,7 @@
 ---
 title: Azure AD
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Azure AD

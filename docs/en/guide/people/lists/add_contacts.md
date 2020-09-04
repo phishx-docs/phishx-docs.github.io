@@ -28,7 +28,7 @@ Add contacts to a list.
 
 4. In every contact:
 
-   In **Email** insert a valid email.
+   In **E-mail** insert a valid e-mail.
 
    Optionally in **Phone** insert a valid phone.
 

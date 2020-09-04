@@ -30,7 +30,7 @@ How to access your platform.
 
    ![Login](https://cdn.phishx.io/phishx-docs/images/phishx_login_02.webp)
 
-   If you use **PhishX authentication**, enter your **email** and **password**.
+   If you use **PhishX authentication**, enter your **e-mail** and **password**.
 
    Click **Log in** -> **Log in**.
 
@@ -45,7 +45,7 @@ How to access your platform.
    If you use **integrated authentication with our partners**, you will be directed to **the respective authentication portal**.
 
    ::: details External accesses
-   You need to authenticate with an external account using the same email address as your PhishX account.
+   You need to authenticate with an external account using the same e-mail address as your PhishX account.
    :::
    <br>
 

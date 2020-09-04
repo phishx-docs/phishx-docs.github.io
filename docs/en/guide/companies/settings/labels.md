@@ -1,21 +1,21 @@
 ---
-title: Etiquetas
+title: Labels
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Etiquetas
+# Labels
 
-::: tip Organizar com etiquetas customizadas
-Sua empresa poderá organizar o seu conteúdo e campanhas com etiquetas customizadas.
+::: tip Organize with custom labels
+Your company will be able to organize your content and campaigns with customized labels.
 :::
 
-Gerenciar as etiquetas customizadas da sua empresa.
+Manage your company's customized labels.
 
-1. Em **Configurações** -> **Etiquetas**.
+1. In **Settings** -> **Labels**.
 
-   Adicionar uma nova. Clicar **+**.
+   Add a new. Click **+**.
 
-   Inserir a **etiqueta**.
+   Insert a **Label**.
 
-   ![Etiquetas](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_labels_01.webp)
+   ![Labels](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_labels_01.webp)

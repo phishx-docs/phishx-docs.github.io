@@ -1,7 +1,7 @@
 ---
 title: Aprovações de campanhas
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Aprovações de campanhas

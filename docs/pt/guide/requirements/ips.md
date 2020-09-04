@@ -10,7 +10,7 @@ tags:
 Todos os IPs da PhishX são exclusivos e seguros.
 :::
 
-## Provedores de Email
+## Provedores de E-mail
 
 ### Separado por vírgulas
 <br>
@@ -53,8 +53,8 @@ Todos os IPs da PhishX são exclusivos e seguros.
 
 | IP | PROVEDOR | SERVIÇO |
 | :--- | :--- | :--- |
-| 168.245.39.85/32 | SENDGRID | EMAIL |
-| 149.72.191.22/32 | SENDGRID | EMAIL |
+| 168.245.39.85/32 | SENDGRID | E-MAIL |
+| 149.72.191.22/32 | SENDGRID | E-MAIL |
 | 35.247.194.186/32 | GOOGLE CLOUD PLATFORM | CLUSTER LOAD BALANCER |
 | 35.247.220.239/32 | GOOGLE CLOUD PLATFORM | CLUSTER NODES |
 | 35.247.244.78/32 | GOOGLE CLOUD PLATFORM | CLUSTER NODES |

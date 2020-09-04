@@ -2,7 +2,7 @@
 title: Logout
 tags:
   - Experience
-  - User
+  - Users
   - Interface
   - UI
   - UX

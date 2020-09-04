@@ -1,7 +1,7 @@
 ---
 title: E-mails de validação
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # E-mails de validação
@@ -14,10 +14,10 @@ Verifique quantas vezes forem necessárias e consiga a aprovação sem se preocu
 
 Gerenciar os e-mails de validação da sua empresa.
 
-1. Em **Configurações** -> **Emails de Validação**.
+1. Em **Configurações** -> **E-mails de Validação**.
 
    Adicionar um novo. Clicar **+**.
 
-   Inserir o **email**.
+   Inserir o **e-mail**.
 
-   ![Emails de Validação](https://cdn.phishx.io/phishx-docs/images/phishx_companies_validation_emails_01.webp)
+   ![E-mails de Validação](https://cdn.phishx.io/phishx-docs/images/phishx_companies_validation_emails_01.webp)

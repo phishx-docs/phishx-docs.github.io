@@ -1,26 +1,26 @@
 ---
-title: Marca
+title: Branding
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Marca
+# Branding
 
-::: tip Identidade visual da marca
-Para melhorar os modelos dinâmicos e deixar o seu ambiente com a cara da sua empresa, você pode configurar as principais logos, imagens e cores da sua empresa.<br>
-Se precisar de apoio adicional na customização dos seus modelos, envie o seu guia de identidade visual oficial e converse com o [PhishX Support](mailto:support@phishx.io).
+::: tip Brand visual identity
+To improve the dynamic models and make your environment look like your company, you can configure the main logos, images and colors of your company.<br>
+If you need additional support in customizing your models, send your official branding guide and talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerenciar a identidade visual padrão de sua marca.
+Manage your brand's standard visual identity.
 
-1. Em **Customizações** -> **Marca**.
+1. In **Customizations** -> **Branding**.
 
-   Em **Logo** arrastar uma imagem do seu logo.
+   In **Logo** drag an image of your logo.
 
-   Em **Papel de parede** arrastar uma imagem para o seu ambiente.
+   In **Background** drag an image to your environment.
 
-   Em **Cor 1** definir sua cor primária.
+   In **Color 1** define your primary color.
 
-   Em **Cor 2** definir sua cor secundária.
+   In **Color 2** define your secondary color.
 
-   ![Marca](https://cdn.phishx.io/phishx-docs/images/phishx_companies_branding_01.webp)
+   ![Branding](https://cdn.phishx.io/phishx-docs/images/phishx_companies_branding_01.webp)

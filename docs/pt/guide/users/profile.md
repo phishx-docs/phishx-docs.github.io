@@ -18,7 +18,7 @@ Como gerenciar seu perfil do usuário.
 
    Clicar **Perfil**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_01.webp)
+   ![Perfil do usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_01.webp)
 
 2. Em **Perfil de Usuário**.
 
@@ -60,14 +60,14 @@ Como gerenciar seu perfil do usuário.
 
    Clicar **Verificar**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_03.webp)
+   ![Perfil do usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_03.webp)
 
    Ao confirmar que o botão **Habilitado** ficou marcado, clicar em **Voltar**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_04.webp)
+   ![Perfil do usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_04.webp)
 
 4. Salvar o seu perfil.
 
    Clicar **Enviar**.
 
-   ![Perfil do Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_05.webp)
+   ![Perfil do usuário](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_05.webp)

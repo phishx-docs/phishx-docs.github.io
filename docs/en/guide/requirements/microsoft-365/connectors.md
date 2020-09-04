@@ -38,13 +38,13 @@ tags:
 
    ![Connector name](https://cdn.phishx.io/phishx-docs/images/microsoft_365_04.webp)
 
-5. In **Authenticating sent email** select **By verifying that the IP address of the sending server matches one of the following IP addresses, which belong to your partner organization**. Add our current IPs list: [IPs](../ips.html#separated-by-lines).
+5. In **Authenticating sent e-mail** select **By verifying that the IP address of the sending server matches one of the following IP addresses, which belong to your partner organization**. Add our current IPs list: [IPs](../ips.html#separated-by-lines).
 
    Click **Next**.
 
-   ![Authenticating sent email](https://cdn.phishx.io/phishx-docs/images/microsoft_365_05.webp)
+   ![Authenticating sent e-mail](https://cdn.phishx.io/phishx-docs/images/microsoft_365_05.webp)
 
-6. In **Security restrictions** select **Reject email messages if they aren't sent over TLS**.
+6. In **Security restrictions** select **Reject e-mail messages if they aren't sent over TLS**.
 
    Click **Next**.
 

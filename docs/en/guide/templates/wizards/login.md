@@ -8,7 +8,7 @@ tags:
 # Login pages
 
 ::: tip Internal applications or external services
-You can simulate a login page for an internal application or an external service like your email.
+You can simulate a login page for an internal application or an external service like your e-mail.
 :::
 
 Templates to simulate login pages.

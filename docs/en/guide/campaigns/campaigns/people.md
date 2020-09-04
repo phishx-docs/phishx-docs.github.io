@@ -8,7 +8,7 @@ tags:
 
 ::: tip Multiple lists
 You can have multiple contact lists as the target audience for your campaign.<br>
-PhishX will not send any duplicate messages to contacts with the same email.
+PhishX will not send any duplicate messages to contacts with the same e-mail.
 :::
 
 Manage your contact lists.

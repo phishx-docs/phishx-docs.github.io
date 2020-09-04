@@ -1,8 +1,8 @@
 ---
 title: Redes
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
 # Redes
 
@@ -14,14 +14,14 @@ Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@ph
 
 Gerenciar a proteção de acesso através de redes (**Firewall**).
 
-1. Em **Segurança** -> **Redes**.
+1. In **Settings** -> **Networks**.
 
-   Adicionar uma nova. Clicar **+**.
+   Add a new. Click **+**.
 
-   Inserir a **rede** no formato **CIDR**. (Ex: **10.0.0.0/8**)
+   Inserir a **network** no formato **CIDR**. (Ex: **10.0.0.0/8**)
 
-   Inserir uma **descrição**.
+   Inserir uma **description**.
 
-   ![Redes](https://cdn.phishx.io/phishx-docs/images/phishx_companies_networks_01.webp)
+   ![Networks](https://cdn.phishx.io/phishx-docs/images/phishx_companies_networks_01.webp)
 
 2. Opcionalmente configurar as proteções para os módulos **Redes My PhishX** e **Redes API**.

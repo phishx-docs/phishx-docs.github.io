@@ -1,7 +1,7 @@
 ---
 title: Redes
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Redes

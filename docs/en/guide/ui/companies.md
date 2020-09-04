@@ -2,7 +2,7 @@
 title: Change company
 tags:
   - Experience
-  - User
+  - Users
   - Interface
   - UI
   - UX

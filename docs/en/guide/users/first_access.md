@@ -14,7 +14,7 @@ Talk to your team or to [PhishX Support](mailto:support@phishx.io).
 
 How to make the first access.
 
-1. Access the welcome email.
+1. Access the welcome e-mail.
 
    Copy your **temporary password**.
 
@@ -24,7 +24,7 @@ How to make the first access.
 
 2. On your platform's login page.
 
-   Insert your **email** and **temporary password**.
+   Insert your **e-mail** and **temporary password**.
 
    Click **Log in** -> **Log in**.
 
@@ -42,7 +42,7 @@ How to make the first access.
 
 4. Make your first login.
 
-   Insert your **email** and **new password**.
+   Insert your **e-mail** and **new password**.
 
    Click **Log in** -> **Log in**.
 

@@ -52,7 +52,7 @@ This model CONTRACT is applied equally to all P2 customers. Its format is alread
 
 1.3.1. The CONTRACTING PARTY may also contract specific services to create personalized training, models of phishing simulations (type of cyber attack), communications, training, templates of complete Campaigns, among other types of digital creations.
 
-1.3.2. The CONTRACTING PARTY shall request a specific budget from the CONTRACTOR through the email ventas@phishx.io, with the necessary information about the specific services. The contracting of such services will be effected through formalization of a specific document with values and schedule, which are not part of this CONTRACT.
+1.3.2. The CONTRACTING PARTY shall request a specific budget from the CONTRACTOR through the e-mail ventas@phishx.io, with the necessary information about the specific services. The contracting of such services will be effected through formalization of a specific document with values and schedule, which are not part of this CONTRACT.
 
 
 2. SECOND CLAUSE - INTELLECTUAL PROPERTY
@@ -100,7 +100,7 @@ This model CONTRACT is applied equally to all P2 customers. Its format is alread
 
 3.2.1.2. Take all necessary measures to ensure that PHISHX is used in compliance with the General Terms and Conditions of Use and will be responsible for any infringements of the intellectual property of the CONTRACTOR or any third party. Otherwise, the CONTRACTOR may, without prior notice to the CONTRACTOR, block or suspend the use of PHISHX by the CONTRACTOR for an indefinite period, and the CONTRACTOR shall be solely and exclusively liable for any damages that may be suffered by the improper use of PHISHX. For the purposes of this AGREEMENT, misuse, but not limited to, importing unauthorized list of training targets, sending SPAM, using third-party images and / or publishing offensive and illegal content is understood.
 
-3.2.1.3. Always keep updated your registration with the CONTRACTOR by the site: phishx.io communicating, immediately, whenever there are any changes in your data, including but not limited to address, telephone, email, area and person responsible for contact.
+3.2.1.3. Always keep updated your registration with the CONTRACTOR by the site: phishx.io communicating, immediately, whenever there are any changes in your data, including but not limited to address, telephone, e-mail, area and person responsible for contact.
 
 3.2.1.4. To be fully and exclusively responsible for the acts practiced by users and third parties authorized by the CONTRACTING PARTY to access PHISHX through the creation of new user accounts.
 

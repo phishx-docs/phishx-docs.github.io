@@ -2,7 +2,7 @@
 title: Search
 tags:
   - Experience
-  - User
+  - Users
   - Interface
   - UI
   - UX

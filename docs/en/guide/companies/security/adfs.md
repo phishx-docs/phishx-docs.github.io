@@ -1,8 +1,8 @@
 ---
 title: Active Directory
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
 # Active Directory
 
@@ -13,12 +13,12 @@ Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@ph
 
 Gerenciar a autenticação segura com o seu Active Directory.
 
-1. Em **Segurança** -> **Active Directory**.
+1. In **Settings** -> **Active Directory**.
 
-   Em **URL** definir o endereço público do seu ambiente.
+   In **URL** definir o endereço público do seu ambiente.
 
-   Em **ID do Cliente** definir o seu ID do Cliente.
+   In **Client ID** definir o seu ID do Cliente.
 
-   Em **Segredo do Cliente** definir o seu Segredo do Cliente.
+   In **Client Secret** definir o seu Segredo do Cliente.
 
    ![Active Directory](https://cdn.phishx.io/phishx-docs/images/phishx_companies_adfs_01.webp)

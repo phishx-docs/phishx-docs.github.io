@@ -1,43 +1,43 @@
 ---
-title: Perfil da empresa
+title: Company profile
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Perfil da empresa
+# Company profile
 
-::: tip Redefina as configurações
-Você pode redefinir a qualquer momento as configurações da empresa.
+::: tip Reset the settings
+You can reset company settings at any time.
 :::
 
-Gerenciar o perfil da sua empresa.
+Manage your company profile.
 
-1. Acessar o menu **Configurações** -> **Empresas** -> **Perfil**.
+1. Access the menu **Settings** -> **Companies**  -> **Profile**.
 
-2. Em **Informações**:
+2. In **Informations**:
 
-   ::: tip Mudar o subdomínio
-   Se sua empresa mudou de nome e precisar mudar o seu subdomínio, enviar um e-mail para [PhishX Support](mailto:support@phishx.io).
+   ::: tip Change the subdomain
+   If your company has changed its name and needs to change its subdomain, send an email to [PhishX Support](mailto:support@phishx.io).
    :::
 
-   Em **Nome** definir um nome para a empresa.
+   In **Name** define a name for the company.
 
-   Opcionalmente definir o seu Token da API. [API](api)
+   Optionally define your API Token. [API](api)
 
-   Opcionalmente em **Caminho** definir as outras empresas que terão acesso ao ambiente.
+   Optionally in **Path** define the other companies that will have access to the environment.
 
-   Em **Página** definir a página oficial da empresa. (Ex: **https://www.phishx.io/**)
+   In **Page** define the official page of the company. (Ex: **https://www.phishx.io/**)
 
-   Em **Segmento** definir o segmento da empresa.
+   In **Segment** define the company segment.
 
-   Em **País** definir o país da empresa.
+   In **Country** define the country of the company.
 
-   Opcionalmente em **Todos os Idiomas** definir se a empresa pode acessar todos os idiomas disponíveis.
+   Optionally in **All Languages** define whether the company can access all available languages.
 
-   Opcionalmente em **Idioma da Interface** definir quais idiomas para a interface da empresa.
+   Optionally in **Interface Language** define which languages for the company interface.
 
-   Opcionalmente em **Idioma do Conteúdo** definir quais idiomas para os conteúdos da empresa.
+   Optionally in **Content Language** define which languages for company content.
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Perfil da Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_profile_menu_01.webp)
+   ![Company profile](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_profile_menu_01.webp)

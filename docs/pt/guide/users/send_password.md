@@ -28,6 +28,6 @@ Reiniciar a senha de um usuário.
 
    ![Enviar nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_02.webp)
 
-4. Solicitar ao usuário que verifique na sua caixa postal o email de reset de senhas.
+4. Solicitar ao usuário que verifique na sua caixa postal o e-mail de reset de senhas.
 
    ![Nova Senha](https://cdn.phishx.io/phishx-docs/images/phishx_login_reset_02.webp)

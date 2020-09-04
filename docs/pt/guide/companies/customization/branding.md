@@ -1,7 +1,7 @@
 ---
 title: Marca
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Marca

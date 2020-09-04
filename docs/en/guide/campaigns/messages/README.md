@@ -19,7 +19,7 @@ Manage outgoing messages.
 | [Edit](edit_message) | Edit the message. |
 | Disable | Disable the message. |
 | Delete | Delete the message. |
-| Delete All | Remove all unsent messages. |
+| Delete all | Remove all unsent messages. |
 <br>
 
    ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)

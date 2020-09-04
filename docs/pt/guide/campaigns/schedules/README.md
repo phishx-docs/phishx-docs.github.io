@@ -19,7 +19,7 @@ Gerenciar os agendamentos enviados.
 | [Editar](edit_schedule) | Editar o agendamento. |
 | Desabilitar | Desabilitar o agendamento. |
 | Remover | Remover o agendamento. |
-| Remover Todos | Remover todos agendamentos não enviados. |
+| Remover todos | Remover todos agendamentos não enviados. |
 <br>
 
    ![Agendamentos](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)

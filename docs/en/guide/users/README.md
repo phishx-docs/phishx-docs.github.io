@@ -22,7 +22,7 @@ Manage users and permissions.
 | [Authorization](authorization/) | User permissions. |
 | [Reset your password](reset_password/) | Reset your user's password. |
 | [Unlock your user](unlock_account/) | How to unlock your user. |
-| [Create user](create_user/) | How to create a new user. |
+| [Create an user](create_user/) | How to create a new user. |
 | [Send new password](send_password/) | Reset a user's password. |
 <br>
 

@@ -30,13 +30,13 @@ How to unlock your user.
 
    ![Help](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_01.webp)
 
-3. Insert your **email**.
+3. Insert your **e-mail**.
 
    Click **Unlock**.
 
   ![Unlock](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
 
-4. Access your account unlock email.
+4. Access your account unlock e-mail.
 
    Click **Choose new Password**.
 

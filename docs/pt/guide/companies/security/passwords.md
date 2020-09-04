@@ -1,7 +1,7 @@
 ---
 title: Senhas
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Senhas

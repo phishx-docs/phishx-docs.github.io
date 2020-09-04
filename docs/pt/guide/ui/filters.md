@@ -2,7 +2,7 @@
 title: Filtros
 tags:
   - Experiência
-  - Usuário
+  - Usuários
   - Interface
   - UI
   - UX

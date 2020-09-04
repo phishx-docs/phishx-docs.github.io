@@ -1,33 +1,33 @@
 ---
 title: Tokens
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
 # Tokens
 
-::: tip Revogar ou renovar os acessos
-Você pode revogar ou renovar qualquer acesso dos usuários ou da API.
+::: tip Revoke or renew access
+You can revoke or renew any user or API access.
 :::
 
-Gerenciar os tokens dos usuários e da API.
+Manage user and API tokens.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Tokens**.
+1. Access the menu **Settings** -> **Companies**  -> **Tokens**.
 
    ![Tokens](https://cdn.phishx.io/phishx-docs/images/phishx_companies_tokens_01.webp)
 
-2. No menu do **Token**.
+2. In the **Token** menu.
 
-   Clicar **Renovar Acesso** para extender o acesso.
+   Click **Renew Access** to extend access.
 
-   Clicar **Revogar Acesso** para revogar o acesso.
+   Click **Revoke Access** to revoke access.
 
    ![Tokens](https://cdn.phishx.io/phishx-docs/images/phishx_companies_tokens_02.webp)
 
-3. Opcionalmente no botão **Ações**.
+3. Optionally on the **Actions** button.
 
-   Clicar **Renovar Meu Acesso** para extender o seu acesso.
+   Click **Renew My Access** to extend your access.
 
-   Clicar **Revogar Todos** para revogar todos os acessos.
+   Click **Revoke All** to revoke all access.
 
    ![Tokens](https://cdn.phishx.io/phishx-docs/images/phishx_companies_tokens_03.webp)

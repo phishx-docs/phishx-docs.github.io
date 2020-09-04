@@ -1,10 +1,10 @@
 ---
-title: Criar empresa
+title: Criar uma empresa
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
-# Criar empresa
+# Criar uma empresa
 
 ::: tip Redefina as configurações
 Você pode redefinir a qualquer momento as configurações da empresa.
@@ -58,7 +58,7 @@ Criar uma nova empresa no seu grupo de negócios.
 
 5. Em **Customizações**:
 
-   Opcionalmente definir as customizações adicionais. [Customizações](customization/emails)
+   Opcionalmente definir as customizações adicionais. [Customizações](customization/e-mails)
 
    Clicar **Próximo**.
 

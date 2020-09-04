@@ -1,7 +1,7 @@
 ---
 title: E-mails
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # E-mails
@@ -14,8 +14,8 @@ Gerenciar os e-mails que receberão comunicados da PhishX.
 
 1. Em **Customizações** -> **E-mails**.
 
-   Em **Email de Suporte** inserir o seu e-mail principal de suporte.
+   Em **E-mail de Suporte** inserir o seu e-mail principal de suporte.
 
-   Em **Email de Relatório** inserir o seu e-mail principal para receber os relatórios dos usuários.
+   Em **E-mail de Relatório** inserir o seu e-mail principal para receber os relatórios dos usuários.
 
    ![E-mails](https://cdn.phishx.io/phishx-docs/images/phishx_companies_emails_01.webp)

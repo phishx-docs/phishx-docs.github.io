@@ -1,35 +1,35 @@
 ---
-title: Assinaturas
+title: Subscriptions
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Assinaturas
+# Subscriptions
 
-::: tip Sua assinatura pode crescer a qualquer momento
-Se sua empresa precisar de mais assinatura, seja por que contratou mais pessoas, uma nova empresa entrou no seu grupo de negócios ou precisa utilizar as demais funcionalidades, como novos canais de comunicação, entre em contato com [PhishX Support](mailto:support@phishx.io).
+::: tip Your subscription can grow at any time
+If your company needs more subscription, either because you have hired more people, a new company has joined your business group or needs to use the other features, such as new communication channels, contact [PhishX Support](mailto:support@phishx.io).
 :::
 
-Monitorar a utilização de suas assinaturas.
+Monitor the use of your subscriptions.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Assinaturas**.
+1. Access the menu **Settings** -> **Companies**  -> **Subscriptions**.
 
-   ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_01.webp)
+   ![Subscriptions](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_01.webp)
 
-2. Na sua assinatura.
+2. In your subscription.
 
-   Monitorar a validade em **Validade**.
+   Monitor the validity in **Validity**.
 
-   Clicar **...**.
+   Click **...**.
 
-   Monitorar o consumo em **Uso**.
+   Monitor consumption in **Usage**.
 
-   ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_04.webp)
+   ![Subscriptions](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_04.webp)
 
-3. Opcionalmente no menu da sua **Assinatura**.
+3. Optionally in your **Subscription** menu.
 
-   Clicar **Detalhes**.
+   Click **Details**.
 
-   ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_02.webp)
+   ![Subscriptions](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_02.webp)
 
-   ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_03.webp)
+   ![Subscriptions](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_03.webp)

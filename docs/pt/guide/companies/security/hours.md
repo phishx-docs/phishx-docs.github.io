@@ -1,7 +1,7 @@
 ---
 title: Controle de acesso por horário
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Controle de acesso por horário

@@ -1,34 +1,34 @@
 ---
-title: Empresas
+title: Companies
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Empresas
+# Companies
 
-::: tip Várias empresas
-Você pode ter múltiplas empresas no seu grupo de negócios, segmentando as informações e casos de uso.<br>
-Para compartilhar sua assinatura entre em contato com [PhishX Support](mailto:support@phishx.io).
+::: tip Several companies
+You can have multiple companies in your business group, segmenting information and use cases.<br>
+To share your subscription, contact [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerenciar as empresas do grupo de negócios.
+Manage the companies in the business group.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Empresas**.
+1. Access the menu **Settings** -> **Companies**  -> **Companies**.
 
-   ![Empresas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_01.webp)
+   ![Companies](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_01.webp)
 
-2. No menu da **Empresa**.
+2. In the **Company** menu.
 
-   Clicar **Usuários** para gerenciar os usuários da empresa.
+   Click **Users** to manage the company's users.
 
-   ::: tip Gerenciar usuários
-   Você pode criar ou gerenciar usuários das outras empresas do mesmo jeito que gerencia os seus usuários. Saiba mais em: [Perfil do Usuário](../users/profile)
+   ::: tip Manage users
+   You can create or manage users from other companies in the same way that you manage your users. Learn more at: [User profile](../users/profile)
    :::
 
-   Clicar **Editar** para gerenciar a empresa.
+   Click **Edit** to manage the company.
 
-   ::: tip Gerenciar empresa
-   Você pode gerenciar outras empresas do mesmo jeito que gerencia a sua empresa. Saiba mais em: [Perfil da Empresa](profile)
+   ::: tip Manage company
+   You can manage other companies in the same way that you manage your company. Find out more at [Company profile](profile)
    :::
 
-   ![Empresas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_02.webp)
+   ![Companies](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_02.webp)

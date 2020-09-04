@@ -30,7 +30,7 @@ Você pode importar e atualizar informações dos contatos existentes com o mesm
 
    Opcionalmente em **Etiquetas** definir etiquetas para categorizar sua lista.
 
-   Opcionalmente em **Padrão** definir o padrão do seu email e campos.
+   Opcionalmente em **Padrão** definir o padrão do seu e-mail e campos.
 
    Clicar **Ações** -> **Importar Arquivo**.
 
@@ -45,9 +45,9 @@ Você pode importar e atualizar informações dos contatos existentes com o mesm
    ::: details Arquivo no formato XLSX
    Seu arquivo precisa ter apenas uma aba principal.<br>
    Seu arquivo não pode ter nenhuma proteção por senhas.<br>
-   Seu arquivo precisa ter no mínimo uma coluna com o cabeçalho **email** e o respectivo email válido do contato.<br>
+   Seu arquivo precisa ter no mínimo uma coluna com o cabeçalho **e-mail** e o respectivo e-mail válido do contato.<br>
    Opcionalmente inserir no cabeçalho **phone** um telefone válido.<br>
-   Não importaremos contatos com emails duplicados.
+   Não importaremos contatos com e-mails duplicados.
    :::
 
    ::: details Telefones

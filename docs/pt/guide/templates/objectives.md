@@ -17,7 +17,7 @@ Tipos de modelos.
 
 | Tipo | Descrição |
 | :--- | :--- |
-| Email | Mensagens com layout avançado (**HTML**). |
+| E-mail | Mensagens com layout avançado (**HTML**). |
 | Texto | Mensagens com layout simplificado (**Texto**). |
 | Anexo | Anexos com layout avançado (**HTML**). |
 | Ação | Etapa da trilha de conhecimento com layout avançado (**HTML**). |

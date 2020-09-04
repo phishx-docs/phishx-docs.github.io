@@ -1,7 +1,7 @@
 ---
 title: Aprovações de modelos
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Aprovações de modelos

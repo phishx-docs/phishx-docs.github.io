@@ -7,7 +7,7 @@ tags:
 # Authenticate
 
 ::: tip User ID
-You can share a single authentication address for your campaign and allow each user without an account or email to access your content by identifying themselves with an ID such as a badge or other unique record, including secure authentication in your environment.<br>
+You can share a single authentication address for your campaign and allow each user without an account or e-mail to access your content by identifying themselves with an ID such as a badge or other unique record, including secure authentication in your environment.<br>
 If you need additional support talk to [PhishX Support](mailto:support@phishx.io).
 :::
 

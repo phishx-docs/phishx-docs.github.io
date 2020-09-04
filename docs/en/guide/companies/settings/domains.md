@@ -1,21 +1,21 @@
 ---
-title: Domínios
+title: Domains
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Domínios
+# Domains
 
-::: tip Vários domínios
-Sua empresa poderá utilizar quantos domínios forem necessários.
+::: tip Multiple domains
+Your company can use as many domains as needed.
 :::
 
-Gerenciar os domínios da sua empresa.
+Manage your company's domains.
 
-1. Em **Configurações** -> **Domínios**.
+1. In **Settings** -> **Domains**.
 
-   Adicionar um novo. Clicar **+**.
+   Add a new. Click **+**.
 
-   Inserir o **domínio**.
+   Insert a **domain**.
 
-   ![Domínios](https://cdn.phishx.io/phishx-docs/images/phishx_companies_domains_01.webp)
+   ![Domains](https://cdn.phishx.io/phishx-docs/images/phishx_companies_domains_01.webp)

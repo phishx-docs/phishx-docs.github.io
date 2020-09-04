@@ -38,11 +38,11 @@ tags:
 
    ![Nome do Conector](https://cdn.phishx.io/phishx-docs/images/microsoft_365_04.webp)
 
-5. Em **Autenticando email enviado** selecionar **Verificar se o endereço IP do servidor de envio corresponde a um dos seguintes endereços IP, que pertencem à sua organização parceira**. Adicionar nossa lista de IPs atual: [IPs](../ips.html#separado-por-linhas).
+5. Em **Autenticando e-mail enviado** selecionar **Verificar se o endereço IP do servidor de envio corresponde a um dos seguintes endereços IP, que pertencem à sua organização parceira**. Adicionar nossa lista de IPs atual: [IPs](../ips.html#separado-por-linhas).
 
    Clicar **Próximo**.
 
-   ![Autenticando email enviado](https://cdn.phishx.io/phishx-docs/images/microsoft_365_05.webp)
+   ![Autenticando e-mail enviado](https://cdn.phishx.io/phishx-docs/images/microsoft_365_05.webp)
 
 6. Em **Restrições de Segurança** selecionar **Rejeitar mensagens de e-mail se não forem enviadas por TLS**.
 

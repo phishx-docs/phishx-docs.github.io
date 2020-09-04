@@ -2,7 +2,7 @@
 title: Menus
 tags:
   - Experience
-  - User
+  - Users
   - Interface
   - UI
   - UX

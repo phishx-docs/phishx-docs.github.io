@@ -2,7 +2,7 @@
 title: Alterar empresa
 tags:
   - Experiência
-  - Usuário
+  - Usuários
   - Interface
   - UI
   - UX

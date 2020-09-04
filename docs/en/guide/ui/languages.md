@@ -2,7 +2,7 @@
 title: Change language
 tags:
   - Experience
-  - User
+  - Users
   - Interface
   - UI
   - UX

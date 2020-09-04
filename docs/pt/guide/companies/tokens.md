@@ -1,7 +1,7 @@
 ---
 title: Tokens
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Tokens

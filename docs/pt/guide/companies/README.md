@@ -2,7 +2,7 @@
 layout: TableLayout-2-25_75
 title: Resumo
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Resumo
@@ -14,8 +14,8 @@ Gerenciar empresas e configurações.
 
 | Módulo | Descrição |
 | :--- | :--- |
-| [Perfil da Empresa](profile/) | Gerenciar o perfil da sua empresa. |
-| [Criar uma Empresa](create_company/) | Criar uma nova empresa no seu grupo de negócios. |
+| [Perfil da empresa](profile/) | Gerenciar o perfil da sua empresa. |
+| [Criar uma empresa](create_company/) | Criar uma nova empresa no seu grupo de negócios. |
 | [API](api/) | Gerenciar o seu Token de acesso a API. |
 | [Empresas](companies/) | Gerenciar as empresas do grupo de negócios. |
 | [Assinaturas](subscriptions) | Monitorar a utilização de suas assinaturas. |

@@ -1,26 +1,26 @@
 ---
 layout: TableLayout-2-25_75
-title: Resumo
+title: Summary
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Resumo
+# Summary
 
-Gerenciar empresas e configurações.
+Manage companies and settings.
 
-## Módulos
+## Modules
 <br>
 
-| Módulo | Descrição |
+| Module | Description |
 | :--- | :--- |
-| [Perfil da Empresa](profile/) | Gerenciar o perfil da sua empresa. |
-| [Criar uma Empresa](create_company/) | Criar uma nova empresa no seu grupo de negócios. |
-| [API](api/) | Gerenciar o seu Token de acesso a API. |
-| [Empresas](companies/) | Gerenciar as empresas do grupo de negócios. |
-| [Assinaturas](subscriptions) | Monitorar a utilização de suas assinaturas. |
-| [Tokens](tokens/) | Gerenciar os tokens dos usuários e da API. |
-| [Auditoria](audit/) | Monitorar a auditoria. |
+| [Company profile](profile/) | Manage your company profile. |
+| [Create a company](create_company/) | Create a new company in your business group. |
+| [API](api/) | Manage your API access Token. |
+| [Companies](companies/) | Manage the companies in the business group. |
+| [Subscriptions](subscriptions) | Monitor the use of your subscriptions. |
+| [Tokens](tokens/) | Manage user and API tokens. |
+| [Audit](audit/) | Monitor the audit. |
 <br>
 
-   ![Módulos](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_menu_01.webp)
+   ![Modules](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_menu_01.webp)

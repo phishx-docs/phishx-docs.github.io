@@ -96,7 +96,7 @@ function config_locales(locale, extra) {
             children: [
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/`,
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/image_url`,
-              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/email_whitelist`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/e-mail_whitelist`,
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/spam`,
             ]
           },
@@ -272,7 +272,7 @@ function config_locales(locale, extra) {
                 `/${locale}/${dir_guide}/${dir_companies}/${dir_settings}/campaign_approval`,
                 `/${locale}/${dir_guide}/${dir_companies}/${dir_settings}/template_approval`,
                 `/${locale}/${dir_guide}/${dir_companies}/${dir_settings}/domains`,
-                `/${locale}/${dir_guide}/${dir_companies}/${dir_settings}/validation_emails`,
+                `/${locale}/${dir_guide}/${dir_companies}/${dir_settings}/validation_e-mails`,
                 `/${locale}/${dir_guide}/${dir_companies}/${dir_settings}/labels`,
                 ],
               },
@@ -281,7 +281,7 @@ function config_locales(locale, extra) {
                 collapsable: true,
                 sidebarDepth: 0,
                 children: [
-                  `/${locale}/${dir_guide}/${dir_companies}/${dir_customization}/emails`,
+                  `/${locale}/${dir_guide}/${dir_companies}/${dir_customization}/e-mails`,
                   `/${locale}/${dir_guide}/${dir_companies}/${dir_customization}/branding`,
                 ],
               },

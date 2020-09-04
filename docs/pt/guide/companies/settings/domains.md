@@ -1,7 +1,7 @@
 ---
 title: Domínios
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Domínios

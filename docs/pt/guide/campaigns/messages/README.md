@@ -19,7 +19,7 @@ Gerenciar as mensagens enviadas.
 | [Editar](edit_message) | Editar a mensagem. |
 | Desabilitar | Desabilitar a mensagem. |
 | Remover | Remover a mensagem. |
-| Remover Todas | Remover todas mensagens não enviadas. |
+| Remover todas | Remover todas mensagens não enviadas. |
 <br>
 
    ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)

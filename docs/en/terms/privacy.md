@@ -27,11 +27,11 @@ This instrument contains the PRIVACY POLICY of the sites "phishx.io", "www.phish
 
 2.1. On our sites, information is collected in the following ways:
 
-2.1.1. Information provided by you: We collect personally identifiable information, such as: name, phone number, email address, company you work for and position - fill in the application form (APP or portal) and through the forms for downloading our free content . Eventually, requests for some information may be made through P2's direct contact with users via email, telephone, or other electronic means.
+2.1.1. Information provided by you: We collect personally identifiable information, such as: name, phone number, e-mail address, company you work for and position - fill in the application form (APP or portal) and through the forms for downloading our free content . Eventually, requests for some information may be made through P2's direct contact with users via e-mail, telephone, or other electronic means.
 
 2.1.2. Site navigation information: When you visit our site, a cookie is placed on your browser through Google Analytics software to identify how many times you return to our address. Information such as IP address, geographic location, reference source, type of browser, duration of the visit and pages visited are collected anonymously.
 
-2.1.3. Contact history: Here at P2 we store information about all contacts already made with our users, such as content downloaded from our pages and interactions via email.
+2.1.3. Contact history: Here at P2 we store information about all contacts already made with our users, such as content downloaded from our pages and interactions via e-mail.
 
 
 3. About the use of personal information
@@ -44,7 +44,7 @@ This instrument contains the PRIVACY POLICY of the sites "phishx.io", "www.phish
 
 3.4. The download data may be disclosed as research and statistics, and no personal information is disclosed openly unless explicitly authorized.
 
-3.5. Collaborators and / or P2 Partners may eventually contact you via email or telephone to research or submit products and services.
+3.5. Collaborators and / or P2 Partners may eventually contact you via e-mail or telephone to research or submit products and services.
 
 3.6. When you request a free trial of the PhishX platform, you will receive a membership agreement that specifies the extra information that will be requested to use the trial, as well as your privacy policy and the secrecy with which this information will be handled.
 
@@ -67,18 +67,18 @@ This instrument contains the PRIVACY POLICY of the sites "phishx.io", "www.phish
 
 6. About the use of information provided to our customers
 
-6.1. P2 makes available to its customers, through the PhishX platform, tools for creating emails, Landing Pages, training, sending educational messages, among others that involve the personal information management of users with whom their clients maintain business relationships and / or employer. However, P2 does not control the requested information using your system. This data belongs to customers, who use, disclose and protect it in accordance with their privacy policies. They are also responsible for collecting, managing and processing confidential information.
+6.1. P2 makes available to its customers, through the PhishX platform, tools for creating e-mails, Landing Pages, training, sending educational messages, among others that involve the personal information management of users with whom their clients maintain business relationships and / or employer. However, P2 does not control the requested information using your system. This data belongs to customers, who use, disclose and protect it in accordance with their privacy policies. They are also responsible for collecting, managing and processing confidential information.
 
 
 7. About the cancellation of the signature and change / exclusion of personal information
 
-7.1. You can choose to no longer receive any type of email from P2.
+7.1. You can choose to no longer receive any type of e-mail from P2.
 
-7.2. In all the emails that we send there is always a link to cancel the signature available in the last lines. By clicking this link you will automatically be unsubscribed from the list.
+7.2. In all the e-mails that we send there is always a link to cancel the signature available in the last lines. By clicking this link you will automatically be unsubscribed from the list.
 
-7.3. It is important to mention that when filling in any form again, it will be characterized the reinsertion of your email to the list. Therefore, the cancellation request must be retaken if it is of your interest.
+7.3. It is important to mention that when filling in any form again, it will be characterized the reinsertion of your e-mail to the list. Therefore, the cancellation request must be retaken if it is of your interest.
 
-7.4. To change your personal information or even delete it from our database, simply send an email to meajude@phishx.io.
+7.4. To change your personal information or even delete it from our database, simply send an e-mail to meajude@phishx.io.
 
 
 8. Changes to the Privacy Policy
@@ -90,7 +90,7 @@ This instrument contains the PRIVACY POLICY of the sites "phishx.io", "www.phish
 
 9. Contact with P2 for clarification of doubts
 
-9.1. Any doubt regarding our PRIVACY POLICY can be clarified through direct contact with us through the email meajude@phishx.io.
+9.1. Any doubt regarding our PRIVACY POLICY can be clarified through direct contact with us through the e-mail meajude@phishx.io.
 
 
 PhishX | Cybersecurity for People

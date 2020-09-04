@@ -30,4 +30,4 @@ PhishX integrates the conscious human intelligence of your organization, with th
 
 Get in touch now and better understand how to be part of this new world of opportunities with PhishX, Cybersecurity for People.
 
-If you have additional questions, we can make a conference call or send an email to [PhishX Support](mailto:support@phishx.io).
+If you have additional questions, we can make a conference call or send an e-mail to [PhishX Support](mailto:support@phishx.io).

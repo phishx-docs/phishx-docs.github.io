@@ -1,19 +1,19 @@
 ---
-title: Autenticação
+title: Authentication
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Autenticação
+# Authentication
 
 ::: tip Autenticação segura
-Você pode saber conhecer todas as formas de autenticação segura disponíveis em: [Autenticação](../../users/authentication)<br>
+Você pode saber conhecer todas as formas de autenticação segura disponíveis em: [Authentication](../../users/authentication)<br>
 Se sua empresa possui uma necessidade adicional, converse com o [PhishX Support](mailto:support@phishx.io).
 :::
 
 Gerenciar as opções de autenticação disponíveis no ambiente.
 
-1. Em **Segurança** -> **Autenticação**.
+1. In **Settings** -> **Authentication**.
 
    Escolher **Mágico** para permitir a autenticação através de e-mail com link mágico.
 
@@ -25,4 +25,4 @@ Gerenciar as opções de autenticação disponíveis no ambiente.
 
    Escolher **Azure AD** para permitir a autenticação através de uma conta Microsoft Azure AD. Saiba mais em: [Azure AD](../../integrations/azure-ad/)
 
-   ![Autenticação](https://cdn.phishx.io/phishx-docs/images/phishx_companies_auth_01.webp)
+   ![Authentication](https://cdn.phishx.io/phishx-docs/images/phishx_companies_auth_01.webp)

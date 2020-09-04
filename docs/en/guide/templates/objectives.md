@@ -17,7 +17,7 @@ Templates types.
 
 | Type | Description |
 | :--- | :--- |
-| Email | Messages with advanced layout (**HTML**). |
+| E-mail | Messages with advanced layout (**HTML**). |
 | Text | Messages with simplified layout (**Text**). |
 | Attachment | Attachments with advanced layout (**HTML**). |
 | Action | Step of the learning path with advanced layout (**HTML**). |

@@ -28,7 +28,7 @@ Adicione contatos em uma lista.
 
 4. Em cada contato:
 
-   Em **Email** inserir um email válido.
+   Em **E-mail** inserir um e-mail válido.
 
    Opcionalmente em **Telefone** inserir um telefone válido.
 

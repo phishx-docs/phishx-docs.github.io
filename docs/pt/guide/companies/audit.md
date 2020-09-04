@@ -1,7 +1,7 @@
 ---
 title: Auditoria
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Auditoria

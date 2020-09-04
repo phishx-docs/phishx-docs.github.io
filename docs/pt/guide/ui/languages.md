@@ -2,7 +2,7 @@
 title: Alterar idioma
 tags:
   - Experiência
-  - Usuário
+  - Usuários
   - Interface
   - UI
   - UX

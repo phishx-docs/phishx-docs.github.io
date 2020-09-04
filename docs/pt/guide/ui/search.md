@@ -2,7 +2,7 @@
 title: Pesquisar
 tags:
   - Experiência
-  - Usuário
+  - Usuários
   - Interface
   - UI
   - UX

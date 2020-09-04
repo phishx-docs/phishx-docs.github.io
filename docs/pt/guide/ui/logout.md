@@ -2,7 +2,7 @@
 title: Sair
 tags:
   - Experiência
-  - Usuário
+  - Usuários
   - Interface
   - UI
   - UX

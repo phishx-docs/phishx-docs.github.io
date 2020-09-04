@@ -16,9 +16,9 @@ Assistentes para criação modelos simplificados.
 | Módulo | Descrição |
 | :--- | :--- |
 | [Redirecionamento](redirection/) | Modelos para redirecionamento. |
-| [Documentos e Políticas](documents/) | Modelos para documentos ou políticas em PDF. |
+| [Documentos e políticas](documents/) | Modelos para documentos ou políticas em PDF. |
 | [Videos](videos/) | Modelos para vídeos. |
-| [Páginas de Login](login/) | Modelos para simular páginas de login. |
+| [Páginas de login](login/) | Modelos para simular páginas de login. |
 <br>
 
    ![Assistentes](https://cdn.phishx.io/phishx-docs/images/phishx_templates_actions_02.webp)

@@ -1,8 +1,8 @@
 ---
 title: Controle de acesso por horário
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
 # Controle de acesso por horário
 
@@ -14,15 +14,15 @@ Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@ph
 
 Gerenciar a disponibilidade de acesso aos conteúdos e portais de conhecimento da PhishX baseado no horário de acesso.
 
-1. Em **Segurança** -> **Controle de Acesso por Horário**.
+1. In **Settings** -> **Controle de Acesso por Horário**.
 
-   Em **Habilitado** definir se o módulo estará habilitado.
+   Em **Enabled** definir se o módulo estará habilitado.
 
    Em **Global** definir se apenas a configuração global estará ativa.
 
-   Em **Dias** definir os dias específicos.
+   Em **Days** definir os dias específicos.
 
-   Em **Horas** definir as horas específicas. As horas globais são baseadas no horário global **UTC**.
+   Em **Hours** definir as horas específicas. As horas globais são baseadas no horário global **UTC**.
 
    ![Controle de Acesso por Horário](https://cdn.phishx.io/phishx-docs/images/phishx_companies_hours_01.webp)
 
@@ -30,11 +30,11 @@ Gerenciar a disponibilidade de acesso aos conteúdos e portais de conhecimento d
 
    Adicionar um novo. Clicar **+**.
 
-   Em **Fuso Horário** definir o novo fuso horário.
+   Em **Time Zone** definir o novo fuso horário.
 
-   Em **Dias** definir os dias específicos.
+   Em **Days** definir os dias específicos.
 
-   Em **Horas** definir as horas específicas. As horas do fuso horário são baseadas no horário do **fuso horário**.
+   Em **Hours** definir as horas específicas. As horas do fuso horário são baseadas no horário do **fuso horário**.
 
    ::: details Controle por fuso horário
    Caso a opção de habilitado global estiver desmarcada, se houver uma política específica para o fuso horário, ela sobrescreve a política global.<br>

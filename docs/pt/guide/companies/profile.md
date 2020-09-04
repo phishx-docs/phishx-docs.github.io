@@ -1,7 +1,7 @@
 ---
 title: Perfil da empresa
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Perfil da empresa
@@ -40,4 +40,4 @@ Gerenciar o perfil da sua empresa.
 
    Clicar **Próximo**.
 
-   ![Perfil da Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_profile_menu_01.webp)
+   ![Perfil da empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_profile_menu_01.webp)

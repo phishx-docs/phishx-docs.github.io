@@ -1,26 +1,26 @@
 ---
-title: Criar uma empresa
+title: Create a company
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Criar uma empresa
+# Create a company
 
-::: tip Redefina as configurações
-Você pode redefinir a qualquer momento as configurações da empresa.
+::: tip Reset the settings
+You can reset company settings at any time.
 :::
 
-Criar uma nova empresa no seu grupo de negócios.
+Create a new company in your business group.
 
-1. Acessar o menu **Configurações** -> **Empresas** -> **Empresas**.
+1. Access the menu **Settings** -> **Companies**  -> **Companies**.
 
-   Clicar **Novo**.
+   Click **New**.
 
-   ![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_01.webp)
+   ![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_01.webp)
 
-2. Em **Informações**:
+2. In **Informations**:
 
-   Em **Subdomínio** definir um subdomínio único e válido para a empresa.
+   In **Subdomain** define a name for the company.
 
    ::: details Subdomínio
    O seu ambiente no PhishX é identificado pelo seu subdomínio.<br>
@@ -28,46 +28,46 @@ Criar uma nova empresa no seu grupo de negócios.
    Para criar um novo ambiente para a mesma empresa, recomendamos o padrão **subdomínio-objetivo**. Exemplo: **phishx-compliance**.
    :::
 
-   Em **Nome** definir um nome para a empresa.
+   In **Name** definir um nome para a empresa.
 
-   Opcionalmente em **Caminho** definir as outras empresas que terão acesso ao ambiente.
+   Optionally in **Path** define the other companies that will have access to the environment.
 
-   Em **Página** definir a página oficial da empresa. (Ex: **https://www.phishx.io/**)
+   In **Page** define the official page of the company. (Ex: **https://www.phishx.io/**)
 
-   Em **Segmento** definir o segmento da empresa.
+   In **Segment** define the company segment.
 
-   Em **País** definir o país da empresa.
+   In **Country** define the country of the company.
 
-   Opcionalmente em **Todos os Idiomas** definir se a empresa pode acessar todos os idiomas disponíveis.
+   Optionally in **All Languages** define whether the company can access all available languages.
 
-   Opcionalmente em **Idioma da Interface** definir quais idiomas para a interface da empresa.
+   Optionally in **Interface Language** define which languages for the company interface.
 
-   Opcionalmente em **Idioma do Conteúdo** definir quais idiomas para os conteúdos da empresa.
+   Optionally in **Content Language** define which languages for company content.
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-  ![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_02.webp)
+  ![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_02.webp)
 
-4. Em **Configurações**:
+4. In **Settings**:
 
-   Opcionalmente definir as configurações adicionais. [Configurações](settings/campaign_approval)
+   Optionally define additional settings. [Settings](settings/campaign_approval)
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_03.webp)
+   ![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_03.webp)
 
-5. Em **Customizações**:
+5. In **Customizations**:
 
-   Opcionalmente definir as customizações adicionais. [Customizações](customization/emails)
+   Optionally define additional customizations. [Customizations](customization/e-mails)
 
-   Clicar **Próximo**.
+   Click **Next**.
 
-   ![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_04.webp)
+   ![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_04.webp)
 
-6. Em **Segurança**:
+6. In **Security**:
 
-   Opcionalmente definir as configurações de segurança adicionais. [Segurança](security/providers)
+   Optionally define additional security settings. [Security](security/providers)
 
-   Clicar **Enviar**.
+   Click **Submit**.
 
-   ![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_05.webp)
+   ![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_05.webp)

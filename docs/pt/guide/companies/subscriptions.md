@@ -1,7 +1,7 @@
 ---
 title: Assinaturas
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Assinaturas

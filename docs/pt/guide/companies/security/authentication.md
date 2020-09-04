@@ -1,7 +1,7 @@
 ---
 title: Autenticação
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Autenticação

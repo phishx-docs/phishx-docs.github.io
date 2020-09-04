@@ -1,7 +1,7 @@
 ---
 title: Etiquetas
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Etiquetas

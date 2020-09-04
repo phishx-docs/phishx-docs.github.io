@@ -15,7 +15,7 @@ You can request new exclusions from people who left your company, releasing your
 
 Manage contacts that have been deleted in the environment.
 
-If you have additional questions, we can make a conference call or send an email to [PhishX Support](mailto:support@phishx.io).
+If you have additional questions, we can make a conference call or send an e-mail to [PhishX Support](mailto:support@phishx.io).
 
 1. Access the menu **People** -> **Exclusions**.
 

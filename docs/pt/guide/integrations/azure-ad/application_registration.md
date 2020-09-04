@@ -98,7 +98,7 @@ tags:
 
    Em **Tipo do token** selecionar **ID**.
 
-   Em **Reivindicação** selecionar **email**, **given_name**, **family_name**, **sid** e **upn**.
+   Em **Reivindicação** selecionar **e-mail**, **given_name**, **family_name**, **sid** e **upn**.
 
    Clicar **Adicionar**.
 

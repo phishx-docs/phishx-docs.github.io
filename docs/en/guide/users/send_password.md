@@ -28,6 +28,6 @@ Reset a user's password.
 
    ![Send a new password](https://cdn.phishx.io/phishx-docs/images/phishx_users_password_02.webp)
 
-4. Ask the user to check the password reset email in their mailbox.
+4. Ask the user to check the password reset e-mail in their mailbox.
 
    ![New Password](https://cdn.phishx.io/phishx-docs/images/phishx_login_reset_02.webp)

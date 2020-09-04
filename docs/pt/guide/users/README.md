@@ -22,7 +22,7 @@ Gerenciar usuários e permissões.
 | [Autorização](authorization/) | Permissões de usuários |
 | [Reiniciar sua senha](reset_password/) | Reiniciar a senha do seu usuário. |
 | [Desbloquear seu usuário](unlock_account/) | Como desbloquear o seu usuário. |
-| [Criar usuário](create_user/) | Como criar um novo usuário. |
+| [Criar um usuário](create_user/) | Como criar um novo usuário. |
 | [Enviar nova senha](send_password/) | Reiniciar a senha de um usuário. |
 <br>
 

@@ -31,7 +31,7 @@ You can choose "phishx.io" and any other domain available as a minimum requireme
 If you need to allow only fully qualified domain name (FQDN), choose a hostname (Ex: "host"), and allow only "cdn.phishx.io" and "host.PHISHX_CHOSEN_DOMAIN".
 :::
 
-If you have additional questions, we can make a conference call or send an email to [PhishX Support](mailto:support@phishx.io).
+If you have additional questions, we can make a conference call or send an e-mail to [PhishX Support](mailto:support@phishx.io).
 
 > We are available to help your teams.
 

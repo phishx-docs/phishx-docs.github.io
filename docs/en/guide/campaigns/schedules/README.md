@@ -19,7 +19,7 @@ Manage submitted schedules.
 | [Edit](edit_schedule) | Edit the schedule. |
 | Disable | Disable the schedule. |
 | Delete | Remove the schedule. |
-| Delete All | Remove all unsent schedules. |
+| Delete all | Remove all unsent schedules. |
 <br>
 
    ![Schedules](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)

@@ -1,25 +1,25 @@
 ---
-title: Auditoria
+title: Audit
 tags:
-  - Empresa
-  - Configurações
+  - Companies
+  - Settings
 ---
-# Auditoria
+# Audit
 
-::: tip Auditoria completa
-Você pode acessar sua auditoria completa direto na plataforma, exportar como relatório ou acessar através de nossa API.
+::: tip Complete audit
+You can access your complete audit directly on the platform, export as a report or access through our API.
 :::
 
-Monitorar a auditoria.
+Monitor the audit.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Auditoria**.
+1. Access the menu **Settings** -> **Companies**  -> **Audit**.
 
-   ![Auditoria](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_01.webp)
+   ![Audit](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_01.webp)
 
-2. Filtrar sua auditoria por **Tipo** ou em **Pesquisar**.
+2. Filter your audit by **Type** or **Search**.
 
-   ![Auditoria](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_02.webp)
+   ![Audit](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_02.webp)
 
-   Clicar **...** para obter mais detalhes.
+   Click **...** for more details.
 
-   ![Auditoria](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_03.webp)
+   ![Audit](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_03.webp)

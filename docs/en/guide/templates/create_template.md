@@ -1,10 +1,10 @@
 ---
-title: Create template
+title: Create a template
 tags:
   - Templates
   - Editor
 ---
-# Create template
+# Create a template
 
 ::: tip Need help?
 Our Customer Success team is ready to help you create or collaborate with your team so that you can use the ideal template in your next campaign.<br>

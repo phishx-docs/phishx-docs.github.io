@@ -1,10 +1,10 @@
 ---
-title: Create campaign
+title: Create a campaign
 tags:
   - Campaigns
   - Editor
 ---
-# Create campaign
+# Create a campaign
 
 ::: tip New suggestions
 The PhishX Customer Success team produces new suggestions every month.<br>
@@ -25,9 +25,9 @@ How to create a campaign.
 
    In **Type** define the campaign type.
 
-   In **From** define how your campaign will appear in the email client.
+   In **From** define how your campaign will appear in the e-mail client.
 
-   In **Subject** define which subject will appear in the email client.
+   In **Subject** define which subject will appear in the e-mail client.
 
    In **Category** define the campaign category. (Ex: **Official** for official campaigns)
 

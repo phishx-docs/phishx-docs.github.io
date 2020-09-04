@@ -32,7 +32,7 @@ tags:
 
    ![Name](https://cdn.phishx.io/phishx-docs/images/microsoft_365_12.webp)
 
-4. In **new spam filter policy** -> **Domains allow list** -> **Always deliver email from the following domains to the inbox**.
+4. In **new spam filter policy** -> **Domains allow list** -> **Always deliver e-mail from the following domains to the inbox**.
 
    Click **+**.
 

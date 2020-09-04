@@ -175,7 +175,7 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 17. Notifications
 
-17.1. Notifications can be given by US or YOU by email. OUR address for this purpose is: meajuda@phishx.io.
+17.1. Notifications can be given by US or YOU by e-mail. OUR address for this purpose is: meajuda@phishx.io.
 
 
 18. General Provisions

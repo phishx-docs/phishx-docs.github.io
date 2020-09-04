@@ -18,7 +18,7 @@ How to manage your user profile.
 
    Click **Profile**.
 
-   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_01.webp)
+   ![User profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_01.webp)
 
 2. In **User Profile**.
 
@@ -60,14 +60,14 @@ How to manage your user profile.
 
    Click **Verify**.
 
-   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_03.webp)
+   ![User profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_03.webp)
 
    When you confirm that the **Enabled** button has been checked, click **Back**.
 
-   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_04.webp)
+   ![User profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_04.webp)
 
 4. Save your profile.
 
    Click **Submit**.
 
-   ![User Profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_05.webp)
+   ![User profile](https://cdn.phishx.io/phishx-docs/images/phishx_user_profile_05.webp)

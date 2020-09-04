@@ -1,7 +1,7 @@
 ---
 title: API
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # API

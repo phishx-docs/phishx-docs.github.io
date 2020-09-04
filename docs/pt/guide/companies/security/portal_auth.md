@@ -1,7 +1,7 @@
 ---
 title: Autenticação do portal
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Autenticação do portal

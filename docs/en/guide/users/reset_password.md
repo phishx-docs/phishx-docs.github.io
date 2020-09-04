@@ -30,13 +30,13 @@ Reset your user's password.
 
    ![Help](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_01.webp)
 
-3. Insert your **email**.
+3. Insert your **e-mail**.
 
    Click **Reset**.
 
   ![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
 
-4. Access the password reset email.
+4. Access the password reset e-mail.
 
    Click **Choose new Password**.
 

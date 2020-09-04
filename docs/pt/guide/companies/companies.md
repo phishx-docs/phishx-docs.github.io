@@ -1,7 +1,7 @@
 ---
 title: Empresas
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Empresas
@@ -22,13 +22,13 @@ Gerenciar as empresas do grupo de negócios.
    Clicar **Usuários** para gerenciar os usuários da empresa.
 
    ::: tip Gerenciar usuários
-   Você pode criar ou gerenciar usuários das outras empresas do mesmo jeito que gerencia os seus usuários. Saiba mais em: [Perfil do Usuário](../users/profile)
+   Você pode criar ou gerenciar usuários das outras empresas do mesmo jeito que gerencia os seus usuários. Saiba mais em: [Perfil do usuário](../users/profile)
    :::
 
    Clicar **Editar** para gerenciar a empresa.
 
    ::: tip Gerenciar empresa
-   Você pode gerenciar outras empresas do mesmo jeito que gerencia a sua empresa. Saiba mais em: [Perfil da Empresa](profile)
+   Você pode gerenciar outras empresas do mesmo jeito que gerencia a sua empresa. Saiba mais em: [Perfil da empresa](profile)
    :::
 
    ![Empresas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_02.webp)

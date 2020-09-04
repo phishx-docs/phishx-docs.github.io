@@ -1,7 +1,7 @@
 ---
 title: Provedores
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Provedores
@@ -15,7 +15,7 @@ Gerenciar os provedores de envio de mensagens.
 
 1. Em **Segurança** -> **Provedores**.
 
-   Opcionalmente em **Provedor de Email** selecionar um provedor.
+   Opcionalmente em **Provedor de E-mail** selecionar um provedor.
 
    Opcionalmente em **Provedor de Mensagem** selecionar um provedor.
 

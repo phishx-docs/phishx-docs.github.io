@@ -9,7 +9,7 @@ tags:
 # Import list
 
 ::: tip Add new information
-You can import and update information from existing contacts with the same email.
+You can import and update information from existing contacts with the same e-mail.
 :::
 
 1. Access the menu **People** -> **Lists**.
@@ -30,7 +30,7 @@ You can import and update information from existing contacts with the same email
 
    Optionally in **Labels** define labels to categorize your list.
 
-   Optionally in **Pattern** define the pattern for your email and fields.
+   Optionally in **Pattern** define the pattern for your e-mail and fields.
 
    Click **Actions** -> **Import File**.
 
@@ -45,9 +45,9 @@ You can import and update information from existing contacts with the same email
    ::: details File in XLSX format
    Your file needs to have only one main tab.<br>
    Your file cannot have any password protection.<br>
-   Your file must have at least one column with the header **email** and the respective valid email address for the contact.<br>
+   Your file must have at least one column with the header **e-mail** and the respective valid e-mail address for the contact.<br>
    Optionally insert a valid phone number in the **phone** header. <br>
-   We will not import contacts with duplicate emails.
+   We will not import contacts with duplicate e-mails.
    :::
 
    ::: details Phones

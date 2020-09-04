@@ -1,7 +1,7 @@
 ---
 title: Active Directory
 tags:
-  - Empresa
+  - Empresas
   - Configurações
 ---
 # Active Directory

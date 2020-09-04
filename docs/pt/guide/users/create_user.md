@@ -1,11 +1,11 @@
 ---
-title: Criar usuário
+title: Criar um usuário
 tags:
   - Usuários
   - Times
   - Permissões
 ---
-# Criar usuário
+# Criar um usuário
 
 ::: tip Demais configurações do usuário
 As configurações avançadas, como token de acesso, reset de senhas, imagem do usuário, dentre outras, o próprio usuário poderá configurar no seu perfil.
@@ -49,6 +49,6 @@ Como criar um novo usuário.
 
    ![Novo Usuário](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_03.webp)
 
-5. Solicitar ao usuário que verifique na sua caixa postal o email de boas-vindas.
+5. Solicitar ao usuário que verifique na sua caixa postal o e-mail de boas-vindas.
 
    ![Boas-vindas](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)
