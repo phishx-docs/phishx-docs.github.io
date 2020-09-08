@@ -21,7 +21,7 @@ Gerenciar a política de senhas de contas internas no PhishX.
 
    Em **Complexidade Mínima** definir a complexidade mínima permitida para a senha.
 
-   Em **Tamanho mínimo** definir o tamanho mínimo permitido para a senha.
+   Em **Tamanho Mínimo** definir o tamanho mínimo permitido para a senha.
 
    Em **Máximo de Dias** definir a duração máxima em dias antes que o usuário precise trocar a sua senha.
 

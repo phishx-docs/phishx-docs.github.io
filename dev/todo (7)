@@ -1,0 +1,147 @@
+/node_modules/vuepress-theme-succinct/components/Home.vue
+<template>
+  <main
+    class="home"
+    aria-labelledby="main-title"
+  >
+    <script>
+      var user_language
+      try {
+        user_language = navigator.language.split("-")[0]
+      } catch(err) {
+        user_language = "en"
+      }
+      var pathArray
+      var newPathArray
+      try {
+        pathArray = window.location.pathname.split('/')
+        newPathArray = pathArray.slice(1,16)[0]
+        if (newPathArray == "") {
+          newPathArray = null
+        }
+      } catch(err) {
+        newPathArray = null
+      }
+      var new_path
+      if (newPathArray) {
+      } else {
+        switch (user_language) {
+          case ("en"):
+            new_path = document.location.href + "en/"
+            break
+          case ("pt"):
+            new_path = document.location.href + "pt/"
+            break
+          default:
+            new_path = document.location.href + "en/"
+            break
+        }
+        console.log(new_path)
+        window.location = new_path
+      }
+    </script>
+
+node_modules/vuepress-theme-succinct/components/NavLinks.vue
+
+              // fallback to homepage
+              if (!routes.some(route => route.path === link)) {
+                try {
+                  var new_path
+                  switch (locale.lang) {
+                    case ('English'):
+                      new_path = '/en/'
+                      break
+                    case ('Português'):
+                      new_path = '/pt/'
+                      break
+                    default:
+                      new_path = '/en/'
+                      break
+                  }
+                  var pathArray = window.location.pathname.split('/')
+                  var newPathArray = pathArray.slice(2,16)
+                  newPathArray.unshift(new_path)
+                  var newPathString = newPathArray.join('/')
+                  newPathString = newPathString.replace('//', '/')
+                  link = newPathString
+                } catch(e) {
+                  console.log(e)
+                  link = path
+                }
+              }
+
+node_modules/vuepress-theme-succinct/components/ThemeSwitcher.vue
+
+  parent aria-label
+
+<template>
+  <a role="button" @click.prevent="switchTheme()" :aria-label="'Switch to ' + nextTheme + ' mode'" class="nav-link">
+    <script>
+      function phishx_change_locale(id, theme) {
+        var logo_item = document.getElementsByClassName('logo')[0]
+        var logo_src
+        switch (theme) {
+          case ('light'):
+            logo_src = 'https://cdn.phishx.io/phishx-docs/images/phishx_logo_gray.webp'
+            break
+          case ('dark'):
+            logo_src = 'https://cdn.phishx.io/phishx-docs/images/phishx_logo_white.webp'
+            break
+          default:
+            logo_src = 'https://cdn.phishx.io/phishx-docs/images/phishx_logo_gray.webp'
+            break
+        }
+        logo_item.src = logo_src
+        var pathLang
+        var userLang = navigator.language || navigator.userLanguage
+        userLang = userLang.split('-')[0] || 'en'
+        var item = document.getElementById(id)
+        var pathArray = window.location.pathname.split('/')
+        var pathLocale = pathArray[1]
+        var path
+        switch (pathLocale) {
+          case ('en'):
+            path = 'en'
+            break
+          case ('pt'):
+            path = 'pt'
+            break
+          default:
+            path = null
+            break
+        }
+        var locale = path || userLang
+        var text
+        var check = locale + theme
+        var base_image = '<img src="https://cdn.phishx.io/icons/palette-light.webp" style="height:18px!important;width:18px!important;" width="18px" height="18px" />'
+        switch (check) {
+          case ('endark'):
+            text = 'Switch to light mode'
+            break
+          case ('enlight'):
+            text = 'Switch to dark mode'
+            break
+          case ('ptdark'):
+            text = 'Mudar para tema claro'
+            break
+          case ('ptlight'):
+            text = 'Mudar para tema escuro'
+            break
+          case ('en'):
+            text = 'Switch theme'
+            break
+          case ('pt'):
+            text = 'Mudar o tema'
+          default:
+            text = ''
+            break
+        }
+        text = base_image
+        item.innerHTML = text
+      }
+    </script>
+    <span key="dark" v-if="theme === 'dark'" id="templateThemePhishX1"><script>phishx_change_locale('templateThemePhishX1', 'dark')</script></span>
+    <span key="light" v-else-if="theme === 'light'" id="templateThemePhishX2"><script>phishx_change_locale('templateThemePhishX2', 'light')</script></span>
+    <span key="light" v-else id="templateThemePhishX3"><script>phishx_change_locale('templateThemePhishX3', '')</script></span>
+  </a>
+</template>

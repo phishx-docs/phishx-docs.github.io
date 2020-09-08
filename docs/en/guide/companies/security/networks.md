@@ -1,27 +1,27 @@
 ---
-title: Redes
+title: Networks
 tags:
   - Companies
   - Settings
 ---
-# Redes
+# Networks
 
-::: tip Cuidado ao configurar as redes confiáveis
-Se você configurar alguma rede, nosso firewall vai bloquear os demais acessos públicos de acordo com o módulo habilitado.<br>
-Verifique com o seu time quais redes são confiáveis e se realmente precisa habilitar as mesmas em nossa proteção.<br>
-Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
+::: tip Be careful when configuring trusted networks
+If you configure any network, our firewall will block other public accesses according to the enabled module.<br>
+Check with your team which networks are reliable and whether you really need to enable them in our protection.<br>
+If you need additional support, talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerenciar a proteção de acesso através de redes (**Firewall**).
+Manage access protection through networks (**Firewall**).
 
 1. In **Settings** -> **Networks**.
 
    Add a new. Click **+**.
 
-   Inserir a **network** no formato **CIDR**. (Ex: **10.0.0.0/8**)
+   Insert **network** in **CIDR** format. (Ex: **10.0.0.0/8**)
 
-   Inserir uma **description**.
+   Insert a **description**.
 
    ![Networks](https://cdn.phishx.io/phishx-docs/images/phishx_companies_networks_01.webp)
 
-2. Opcionalmente configurar as proteções para os módulos **Redes My PhishX** e **Redes API**.
+2. Optionally configure the protections for the **My PhishX Networks** and **API Networks** modules.

@@ -1,42 +1,42 @@
 ---
-title: Controle de acesso por horário
+title: Access time control
 tags:
   - Companies
   - Settings
 ---
-# Controle de acesso por horário
+# Access time control
 
-::: tip Vários fusos horários
-Cada país ou região possuem diversos fusos horários.<br>
-Recomendamos habilitar as horas globais baseadas na menor e maior hora dentro de sua região para suportar todos os seus usuários.<br>
-Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
+::: tip Multiple time zones
+Each country or region has different time zones.<br>
+We recommend enabling global hours based on the shortest and longest hours within your region to support all your users.<br>
+If you need additional support, talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerenciar a disponibilidade de acesso aos conteúdos e portais de conhecimento da PhishX baseado no horário de acesso.
+Manage availability of PhishX content and knowledge portals based on access time.
 
-1. In **Settings** -> **Controle de Acesso por Horário**.
+1. In **Settings** -> **Access Time Control**.
 
-   Em **Enabled** definir se o módulo estará habilitado.
+   In **Enabled** define whether the module will be enabled.
 
-   Em **Global** definir se apenas a configuração global estará ativa.
+   In **Global** define whether only the global configuration will be active.
 
-   Em **Days** definir os dias específicos.
+   In **Days** define the specific days.
 
-   Em **Hours** definir as horas específicas. As horas globais são baseadas no horário global **UTC**.
+   In **Hours** define the specific hours. Global times are based on **UTC** global time.
 
-   ![Controle de Acesso por Horário](https://cdn.phishx.io/phishx-docs/images/phishx_companies_hours_01.webp)
+   ![Access time control](https://cdn.phishx.io/phishx-docs/images/phishx_companies_hours_01.webp)
 
-2. Opcionalmente adicionar configurações específicas por fuso horário.
+2. Optionally add specific time zone settings.
 
-   Adicionar um novo. Clicar **+**.
+   Add a new one. Click **+**.
 
-   Em **Time Zone** definir o novo fuso horário.
+   In **Time Zone** define the new time zone.
 
-   Em **Days** definir os dias específicos.
+   In **Days** define the specific days.
 
-   Em **Hours** definir as horas específicas. As horas do fuso horário são baseadas no horário do **fuso horário**.
+   In **Hours** define the specific hours. Time zone hours are based on **time zone** time.
 
-   ::: details Controle por fuso horário
-   Caso a opção de habilitado global estiver desmarcada, se houver uma política específica para o fuso horário, ela sobrescreve a política global.<br>
-   O fuso horário poderá ser identificado pelo acesso público do usuário (IP de origem), quando disponível.
+   ::: details Time zone control
+   If the global enabled option is cleared, and there is a specific time zone policy, it overrides the global policy.<br>
+   The time zone can be identified by the user's public access (source IP), when available.
    :::

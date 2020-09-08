@@ -6,23 +6,23 @@ tags:
 ---
 # Authentication
 
-::: tip Autenticação segura
-Você pode saber conhecer todas as formas de autenticação segura disponíveis em: [Authentication](../../users/authentication)<br>
-Se sua empresa possui uma necessidade adicional, converse com o [PhishX Support](mailto:support@phishx.io).
+::: tip Secure authentication
+You can learn about all ways of secure authentication available at: [Authentication](../../users/authentication)<br>
+If your company has an additional need, talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerenciar as opções de autenticação disponíveis no ambiente.
+Manage the authentication options available in the environment.
 
 1. In **Settings** -> **Authentication**.
 
-   Escolher **Mágico** para permitir a autenticação através de e-mail com link mágico.
+   Choose **Magic** to allow authentication via email with a magic link.
 
-   Escolher **Google** para permitir a autenticação através de uma conta Google. Saiba mais em: [Google](../../requirements/google-gsuite/)
+   Choose **Google** to allow authentication using a Google account. Learn more at: [Google](../../requirements/google-gsuite/)
 
-   Escolher **Microsoft** para permitir a autenticação através de uma conta Microsoft. Saiba mais em: [Microsoft 365](../../requirements/microsoft-365/)
+   Choose **Microsoft** to allow authentication through a Microsoft account. Learn more at: [Microsoft 365](../../requirements/microsoft-365/)
 
-   Escolher **Active Directory** para permitir a autenticação através de uma conta Microsoft Active Directory. Saiba mais em: [ADFS](../../integrations/adfs/)
+   Choose **Active Directory** to allow authentication through a Microsoft Active Directory account. Learn more at: [ADFS](../../integrations/adfs/)
 
-   Escolher **Azure AD** para permitir a autenticação através de uma conta Microsoft Azure AD. Saiba mais em: [Azure AD](../../integrations/azure-ad/)
+   Choose **Azure AD** to allow authentication through a Microsoft Azure AD account. Learn more at: [Azure AD](../../integrations/azure-ad/)
 
    ![Authentication](https://cdn.phishx.io/phishx-docs/images/phishx_companies_auth_01.webp)

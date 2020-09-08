@@ -6,25 +6,25 @@ tags:
 ---
 # Portal authentication
 
-::: tip Identificação do usuário
-Você pode permitir que o usuário sem conta ou e-mail acesse o seu conteúdo, se identificando com um ID como crachá ou outro registro único.<br>
-Se precisar de apoio adicional converse com o [PhishX Support](mailto:support@phishx.io).
+::: tip User identification
+You can allow the user without an account or email to access your content by identifying yourself with an ID such as a badge or other unique registration.<br>
+If you need additional support, talk to [PhishX Support](mailto:support@phishx.io).
 :::
 
-Gerenciar a autenticação do portal de conhecimento em campanhas.
+Manage knowledge portal authentication in campaigns.
 
-1. In **Settings** -> **Portal authentication**.
+1. In **Settings** -> **Portal Authentication**.
 
-   In **Enabled** definir se o módulo estará habilitado.
+   In **Enabled** define whether the module will be enabled.
 
-   In **Providers** definir quais provedores serão disponíveis. Você precisa habilitar os provedores também nas opções de Autenticação. [Authentication](authentication)
+   In **Providers** define which providers will be available. You need to enable the providers also in the Authentication options. [Authentication](authentication)
 
    ![Portal authentication](https://cdn.phishx.io/phishx-docs/images/phishx_companies_portal_auth_01.webp)
 
-2. Opcionalmente se o provedor **User** tiver habilitado.
+2. Optionally if the **User** provider is enabled.
 
-   In **Tamanho mínimo do Usuário** definir o tamanho mínimo da identificação.
+   In **Minimum User Size** define the minimum identification size.
 
-   In **Tamanho máximo do Usuário** definir o tamanho máximo da identificação.
+   In **Maximum User Size** define the maximum identification size.
 
-   Optionally in **Mask** definir a máscara para identificação no formato **REGEX**.
+   Optionally in **Mask** define the mask for identification in **REGEX** format.

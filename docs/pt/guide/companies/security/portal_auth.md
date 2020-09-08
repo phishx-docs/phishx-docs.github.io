@@ -23,8 +23,8 @@ Gerenciar a autenticação do portal de conhecimento em campanhas.
 
 2. Opcionalmente se o provedor **Usuário** tiver habilitado.
 
-   Em **Tamanho mínimo do Usuário** definir o tamanho mínimo da identificação.
+   Em **Tamanho Mínimo do Usuário** definir o tamanho mínimo da identificação.
 
-   Em **Tamanho máximo do Usuário** definir o tamanho máximo da identificação.
+   Em **Tamanho Máximo do Usuário** definir o tamanho máximo da identificação.
 
    Opcionalmente em **Máscara** definir a máscara para identificação no formato **REGEX**.
