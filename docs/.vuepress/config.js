@@ -30,6 +30,10 @@ function config_locales(locale, extra) {
   var dir_campaigns = 'campaigns'
   var dir_schedules = 'schedules'
   var dir_messages = 'messages'
+  var dir_results = 'results'
+  var dir_dashboards = 'dashboards'
+  var dir_events = 'events'
+  var dir_reports = 'reports'
   var dir_ui = 'ui'
   var config = {
     description: extra.description,
@@ -124,6 +128,77 @@ function config_locales(locale, extra) {
           `/${locale}/${dir_guide}/${dir_ui}/languages`,
           `/${locale}/${dir_guide}/${dir_ui}/companies`,
           `/${locale}/${dir_guide}/${dir_ui}/logout`,
+        ]
+      },
+      {
+        title: extra.results,
+        collapsable: true,
+        sidebarDepth: 0,
+        children: [
+          `/${locale}/${dir_guide}/${dir_results}/`,
+          {
+            title: extra.dashboards,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/charts`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/filters`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/change_kpis`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/export`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/drilldown`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/change_group`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/main`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/realtime`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/groups`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/answers`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/events`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/devices`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/locations`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/security`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/others`,
+            ]
+          },
+          {
+            title: extra.events,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/actions`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/sent`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/delivered`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/reported`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/devices`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/locations`,
+
+            ]
+          },
+          {
+            title: extra.reports,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/types`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/formats`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/global`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/company`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/storage`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/results`,
+            ]
+          },
+          {
+            title: extra.settings,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_settings}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_settings}/edit_settings`,
+            ]
+          },
+          `/${locale}/${dir_guide}/${dir_results}/actions`,
+          `/${locale}/${dir_guide}/${dir_results}/faq`,
         ]
       },
       {
@@ -374,6 +449,11 @@ var config_locales_en = config_locales('en', {
   schedules: 'Schedules',
   messages: 'Messages',
   suggestions: 'Suggestions',
+  results: 'Results',
+  dashboards: 'Dashboards',
+  events: 'Events',
+  reports: 'Reports',
+  settings: 'Settings',
   searchPlaceholder: 'Search...'
 })
 var config_locales_pt = config_locales('pt', {
@@ -408,6 +488,11 @@ var config_locales_pt = config_locales('pt', {
   schedules: 'Agendamentos',
   messages: 'Mensagens',
   suggestions: 'Sugestões',
+  results: 'Resultados',
+  dashboards: 'Painéis',
+  events: 'Eventos',
+  reports: 'Relatórios',
+  settings: 'Configurações',
   searchPlaceholder: 'Procurar...'
 })
 var config_base_locales_en = config_base_locales({

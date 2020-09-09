@@ -17,8 +17,8 @@ Gerenciar e exportar os resultados em relatórios.
 | :--- | :--- |
 | [Tipos de relatórios](types) | Relatórios com dados específicos para sua análise. |
 | [Formatos de relatórios](formats) | Vários formatos de relatórios para facilitar sua análise. |
-| [Global](global) | Como exportar um relatório global disponível. |
-| [Empresa](company) | Como criar um relatório específico para a sua empresa. |
+| [Relatórios globais](global) | Como exportar um relatório global disponível. |
+| [Relatórios da empresa](company) | Como criar um relatório específico para a sua empresa. |
 | [Armazenamento](storage) | Gerenciar arquivos de seus relatórios. |
 | [Resultados](results) | Descrição das principais informações em seu relatório. |
 
