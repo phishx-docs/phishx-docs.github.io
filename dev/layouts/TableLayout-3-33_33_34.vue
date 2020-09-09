@@ -5,16 +5,6 @@
     @touchstart="onTouchStart"
     @touchend="onTouchEnd"
   >
-    <!-- EXTRA LAYOUT BEGIN -->
-    <style lang="stylus">
-      tr td:nth-child(1), tr th:nth-child(1)
-        width: 33%
-      tr td:nth-child(2), tr th:nth-child(2)
-        width: 33%
-      tr td:nth-child(3), tr th:nth-child(3)
-        width: 34%
-    </style>
-    <!-- EXTRA LAYOUT END -->
     <Navbar
       v-if="shouldShowNavbar"
       @toggle-sidebar="toggleSidebar"
@@ -30,6 +20,19 @@
       @toggle-sidebar="toggleSidebar"
     >
       <template #top>
+        <!-- EXTRA LAYOUT BEGIN -->
+        <style>
+          tr td:nth-child(1), tr th:nth-child(1) {
+            width: 33%;
+          }
+          tr td:nth-child(2), tr th:nth-child(2) {
+            width: 33%;
+          }
+          tr td:nth-child(3), tr th:nth-child(3) {
+            width: 34%;
+          }
+        </style>
+        <!-- EXTRA LAYOUT END -->
         <slot name="sidebar-top" />
       </template>
       <template #bottom>
@@ -58,7 +61,7 @@ import Home from '@theme/components/Home.vue'
 import Navbar from '@theme/components/Navbar.vue'
 import Page from '@theme/components/Page.vue'
 import Sidebar from '@theme/components/Sidebar.vue'
-import { resolveSidebarItems } from '../util'
+import { resolveSidebarItems } from '@theme/util'
 
 export default {
   name: 'TableLayout-3-33_33_34',
