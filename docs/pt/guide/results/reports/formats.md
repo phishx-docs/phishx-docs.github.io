@@ -20,6 +20,6 @@ Vários formatos de relatórios para facilitar sua análise.
 
 | Formato | Descrição |
 | :--- | :--- |
-| **XLSX** | Tabela no formato XLSX. Recomendado para analisar em tabelas dinâmicas. |
-| **CSV** | Tabela no formato CSV.|
-| **JSON** | Dados não estruturados no formato JSON. Recomendado para importar em outras ferramentas de dados. |
+| XLSX | Tabela no formato XLSX. Recomendado para analisar em tabelas dinâmicas. |
+| CSV | Tabela no formato CSV.|
+| JSON | Dados não estruturados no formato JSON. Recomendado para importar em outras ferramentas de dados. |

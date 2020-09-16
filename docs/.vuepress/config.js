@@ -171,23 +171,22 @@ function config_locales(locale, extra) {
           //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/reported`,
           //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/devices`,
           //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/locations`,
-
           //   ]
           // },
-          // {
-          //   title: extra.reports,
-          //   collapsable: true,
-          //   sidebarDepth: 0,
-          //   children: [
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/types`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/formats`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/global`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/company`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/storage`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/results`,
-          //   ]
-          // },
+          {
+            title: extra.reports,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/types`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/formats`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/global`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/company`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/storage`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/results`,
+            ]
+          },
           {
             title: extra.settings,
             collapsable: true,

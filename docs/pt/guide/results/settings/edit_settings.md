@@ -23,4 +23,4 @@ Gerenciar as configurações da empresa e do seu usuário.
 
 3. Opcionalmente em **Usuário** definir os filtros padrão para os painéis para o seu usuário.
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_02.webp)
+   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_02.webp)

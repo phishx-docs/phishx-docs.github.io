@@ -17,4 +17,4 @@ Gerenciar as configurações dos resultados.
 | :--- | :--- |
 | [Editar configurações](edit_settings) | Gerenciar as configurações da empresa e do seu usuário. |
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_01.webp)
+   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_01.webp)

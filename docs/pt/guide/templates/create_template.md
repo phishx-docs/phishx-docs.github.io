@@ -21,7 +21,7 @@ Como criar um modelo.
 
    Em **Nome** definir um nome único para o modelo.
 
-   Opcionalmente em **Acesso** definir o acesso permitido para edição do modelo.
+   Opcionalmente em **Acessar** definir o acesso permitido para edição do modelo.
 
    Opcionalmente em **Habilitado** definir se o modelo será habilitado.
 

@@ -22,4 +22,4 @@ Gerenciar e exportar os resultados em relatórios.
 | [Armazenamento](storage) | Gerenciar arquivos de seus relatórios. |
 | [Resultados](results) | Descrição das principais informações em seu relatório. |
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_menu_03_reports.webp)
+   ![Relatórios](https://cdn.phishx.io/phishx-docs/images/phishx_results_menu_03_reports.webp)

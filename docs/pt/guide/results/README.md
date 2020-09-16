@@ -23,4 +23,4 @@ Gerenciar os resultados e ações em painéis, indicadores, tabelas e relatório
 | [Ações](actions) | Definições das ações que geram os resultados. |
 | [Perguntas e respostas](faq) | Principais dúvidas e suas respostas. |
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_menu_01.webp)
+   ![Resultados](https://cdn.phishx.io/phishx-docs/images/phishx_results_menu_01.webp)
