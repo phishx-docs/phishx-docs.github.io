@@ -136,58 +136,58 @@ function config_locales(locale, extra) {
         sidebarDepth: 0,
         children: [
           `/${locale}/${dir_guide}/${dir_results}/`,
-          {
-            title: extra.dashboards,
-            collapsable: true,
-            sidebarDepth: 0,
-            children: [
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/charts`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/filters`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/change_kpis`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/export`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/drilldown`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/change_group`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/main`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/realtime`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/groups`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/answers`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/events`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/devices`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/locations`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/security`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/others`,
-            ]
-          },
-          {
-            title: extra.events,
-            collapsable: true,
-            sidebarDepth: 0,
-            children: [
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/actions`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/sent`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/delivered`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/reported`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/devices`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/locations`,
+          // {
+          //   title: extra.dashboards,
+          //   collapsable: true,
+          //   sidebarDepth: 0,
+          //   children: [
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/charts`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/filters`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/change_kpis`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/export`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/drilldown`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/change_group`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/main`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/realtime`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/groups`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/answers`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/events`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/devices`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/locations`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/security`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/others`,
+          //   ]
+          // },
+          // {
+          //   title: extra.events,
+          //   collapsable: true,
+          //   sidebarDepth: 0,
+          //   children: [
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/actions`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/sent`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/delivered`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/reported`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/devices`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/locations`,
 
-            ]
-          },
-          {
-            title: extra.reports,
-            collapsable: true,
-            sidebarDepth: 0,
-            children: [
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/types`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/formats`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/global`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/company`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/storage`,
-              `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/results`,
-            ]
-          },
+          //   ]
+          // },
+          // {
+          //   title: extra.reports,
+          //   collapsable: true,
+          //   sidebarDepth: 0,
+          //   children: [
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/types`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/formats`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/global`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/company`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/storage`,
+          //     `/${locale}/${dir_guide}/${dir_results}/${dir_reports}/results`,
+          //   ]
+          // },
           {
             title: extra.settings,
             collapsable: true,
