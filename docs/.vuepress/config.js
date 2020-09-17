@@ -159,20 +159,20 @@ function config_locales(locale, extra) {
           //     `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/others`,
           //   ]
           // },
-          // {
-          //   title: extra.events,
-          //   collapsable: true,
-          //   sidebarDepth: 0,
-          //   children: [
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/actions`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/sent`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/delivered`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/reported`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/devices`,
-          //     `/${locale}/${dir_guide}/${dir_results}/${dir_events}/locations`,
-          //   ]
-          // },
+          {
+            title: extra.events,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/actions`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/sent`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/delivered`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/reported`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/devices`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_events}/locations`,
+            ]
+          },
           {
             title: extra.reports,
             collapsable: true,
