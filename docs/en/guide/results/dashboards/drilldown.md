@@ -11,19 +11,20 @@ tags:
 ---
 # Drilldown
 
+::: tip Análise rápida ou detalhada
+Você pode fazer uma análise rápida com poucos resultados fazendo o drilldown direto em nossa plataforma.<br>
+Além disso você pode fazer uma análise detalhada de todos os seus resultados exportando nossos relatórios ou acessando os seus dados através API.<br>
+Se tiver dúvidas, converse com o [PhishX Support](mailto:support@phishx.io).
+:::
+
 Como fazer o drilldown em seus indicadores.
 
-| Indicador | Descrição |
-| :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+1. Acessar o menu **Resultados** -> **Painéis** -> **Principal**.
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboard_main_11_drilldown.webp)
+   Clicar em uma **série do indicador**.
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboard_main_12_drilldown.webp)
+   ![Drilldown](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboard_main_11_drilldown.webp)
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboard_main_13_drilldown.webp)
+2. Analisar os resultados detalhados do seu drilldown.
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboard_main_14_drilldown.webp)
+   ![Drilldown](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboard_main_12_drilldown.webp)
