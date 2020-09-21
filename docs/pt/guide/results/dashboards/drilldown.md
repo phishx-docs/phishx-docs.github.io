@@ -13,7 +13,7 @@ tags:
 
 ::: tip Análise rápida ou detalhada
 Você pode fazer uma análise rápida com poucos resultados fazendo o drilldown direto em nossa plataforma.<br>
-Além disso você pode fazer uma análise detalhada de todos os seus resultados exportando nossos relatórios ou acessando os seus dados através API.<br>
+Além disso você pode fazer uma análise detalhada de todos os seus resultados exportando nossos relatórios ou acessando os seus dados através da API.<br>
 Se tiver dúvidas, converse com o [PhishX Support](mailto:support@phishx.io).
 :::
 

@@ -11,16 +11,22 @@ tags:
 ---
 # Tempo real
 
+::: tip Alterar o início da análise
+Você pode fazer alterar o tempo inicial para analisar outros períodos de tempo.<br>
+Você pode integrar nossos resultados em tempo real a sua plataforma de dados via nossa API.<br>
+Para saber mais, converse com o [PhishX Support](mailto:support@phishx.io).
+:::
+
 Painel para acompanhamento de resultados em tempo real.
 
 | Indicador | Descrição |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Todos | Todos os resultados consolidados. |
+| Grupos | Resultados segmentados pelo filtro Grupos. |
+| Eventos | Eventos detalhados. |
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_realtime_01.webp)
+1. Acessar o menu **Resultados** -> **Painéis** -> **Tempo Real**.
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_realtime_02.webp)
+   ![Tempo Real](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_realtime_01.webp)
 
+   ![Tempo Real](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_realtime_02.webp)

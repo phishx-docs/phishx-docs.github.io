@@ -11,16 +11,27 @@ tags:
 ---
 # Principal
 
+::: tip Análise rápida ou detalhada
+Você pode fazer uma análise rápida com poucos resultados fazendo o drilldown direto em nossa plataforma.<br>
+Além disso você pode fazer uma análise detalhada de todos os seus resultados exportando nossos relatórios ou acessando os seus dados através da API.<br>
+Se tiver dúvidas, converse com o [PhishX Support](mailto:support@phishx.io).
+:::
+
 Painel com os principais indicadores.
 
 | Indicador | Descrição |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Resultados | Todos os resultados consolidados. |
+| Linha do Tempo | Resultados pela linha de tempo. |
+| Grupos | Resultados segmentados pelo filtro Grupos. |
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_main_01.webp)
+1. Acessar o menu **Resultados** -> **Painéis** -> **Principal**.
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_main_02.webp)
+   ![Principal](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_main_01.webp)
+
+2. Opcionalmente no filtro **Grupos**.
+
+   Escolher o agrupamento desejado.
+
+   ![Principal](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_main_02.webp)
 
