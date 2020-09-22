@@ -153,8 +153,8 @@ function config_locales(locale, extra) {
               `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/groups`,
               `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/answers`,
               `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/events`,
-              // `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/devices`,
-              // `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/locations`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/devices`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/locations`,
               // `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/security`,
               // `/${locale}/${dir_guide}/${dir_results}/${dir_dashboards}/others`,
             ]
