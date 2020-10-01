@@ -1,10 +1,10 @@
 # Introdução
 
 <video id="video" controls controlsList="nodownload" preload="auto" width="100%" crossorigin="anonymous">
-  <source id="video_source" src="https://cdn.phishx.io/videos/PhishX-Phishing-1080p-pt.mp4" type="video/mp4">
-  <track label="Português" kind="subtitles" type="text/vtt" srclang="pt" src="https://cdn.phishx.io/videos/PhishX-Phishing-pt.vtt" default>
-  <track label="English" kind="subtitles" type="text/vtt" srclang="en" src="https://cdn.phishx.io/videos/PhishX-Phishing-en.vtt">
-  <track label="Español" kind="subtitles" type="text/vtt" srclang="es" src="https://cdn.phishx.io/videos/PhishX-Phishing-es.vtt">
+  <source id="video_source" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-1080p-pt.mp4" type="video/mp4">
+  <track label="Português" kind="subtitles" type="text/vtt" srclang="pt" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-pt.vtt" default>
+  <track label="English" kind="subtitles" type="text/vtt" srclang="en" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-en.vtt">
+  <track label="Español" kind="subtitles" type="text/vtt" srclang="es" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-es.vtt">
 </video>
 
 Em uma sociedade digital, é preciso elaborar estratégias abrangentes para proteger seus colaboradores, clientes, parceiros, dados, informações e negócios, contra ameaças cibernéticas.

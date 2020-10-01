@@ -31,3 +31,13 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | REPUTAÇÃO NAS REDES SOCIAIS | <a href="https://cdn.phishx.io/videos/PhishX-Social_Reputation-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Social_Reputation-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
 | ACESSOS SEGUROS | <a href="https://cdn.phishx.io/videos/PhishX-Passwords-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Passwords-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
 | ORGANIZAR SUA VIDA DIGITAL | <a href="https://cdn.phishx.io/videos/PhishX-Digital_Declutter-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Digital_Declutter-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
+
+## Temporada 3
+<br>
+
+| Conteúdo | Vídeo | PDF |
+| :--- | :---: | :---: |
+| PAGAMENTOS ONLINE |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Payments-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
+| CLASSIFICAÇÃO DA INFORMAÇÃO |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Classification-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
+| REUNIÕES DIGITAIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Digital_Meetings-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
+| POLÍTICA DE SEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Security_Policy-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-light.png" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
