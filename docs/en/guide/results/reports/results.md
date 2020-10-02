@@ -2,12 +2,12 @@
 layout: TableLayout-2-25_75
 title: Resultados
 tags:
-  - Resultados
-  - Painéis
-  - Indicadores
-  - Relatórios
-  - Eventos
-  - Exportar
+  - Results
+  - Panels
+  - Indicators
+  - Reports
+  - Events
+  - Export
 ---
 # Resultados
 

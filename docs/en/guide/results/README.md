@@ -1,26 +1,25 @@
 ---
 layout: TableLayout-2-25_75
-title: Resumo
+title: Summary
 tags:
-  - Resultados
-  - Painéis
-  - Indicadores
-  - Relatórios
-  - Eventos
-  - Exportar
+  - Results
+  - Panels
+  - Indicators
+  - Reports
+  - Events
+  - Export
 ---
-# Resumo
+# Summary
 
-Gerenciar os resultados e ações em painéis, indicadores, tabelas e relatórios exportáveis.
+Manage results and actions in exportable panels, indicators, tables and reports.
 
-| Módulo | Descrição |
+| Module | Description |
 | :--- | :--- |
-|  |  |
-| [Painéis](dashboards/) | Visualizar os resultados em painéis e indicadores. |
-| [Eventos](events/) | Visualizar os resultados em tabelas. |
-| [Relatórios](reports/) | Gerenciar e exportar os resultados em relatórios. |
-| [Configurações](settings/) | Gerenciar as configurações dos resultados. |
-| [Ações](actions) | Definições das ações que geram os resultados. |
-| [Perguntas e respostas](faq) | Principais dúvidas e suas respostas. |
+| [Dashboards](dashboards/) | View the results in panels and indicators. |
+| [Events](events/) | View the results in tables. |
+| [Reports](reports/) | Manage and export the results in reports. |
+| [Settings](settings/) | Manage the results settings. |
+| [Actions](actions) | Definitions of the actions that generate the results. |
+| [Questions and answers](faq) | Main questions and their answers. |
 
-   ![Resultados](https://cdn.phishx.io/phishx-docs/images/phishx_results_menu_01.webp)
+   ![Results](https://cdn.phishx.io/phishx-docs/images/phishx_results_menu_01.webp)

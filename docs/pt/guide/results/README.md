@@ -15,7 +15,6 @@ Gerenciar os resultados e ações em painéis, indicadores, tabelas e relatório
 
 | Módulo | Descrição |
 | :--- | :--- |
-|  |  |
 | [Painéis](dashboards/) | Visualizar os resultados em painéis e indicadores. |
 | [Eventos](events/) | Visualizar os resultados em tabelas. |
 | [Relatórios](reports/) | Gerenciar e exportar os resultados em relatórios. |

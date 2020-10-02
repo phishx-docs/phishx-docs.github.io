@@ -2,12 +2,12 @@
 layout: TableLayout-2-25_75
 title: Tipos de indicadores
 tags:
-  - Resultados
-  - Painéis
-  - Indicadores
-  - Relatórios
-  - Eventos
-  - Exportar
+  - Results
+  - Panels
+  - Indicators
+  - Reports
+  - Events
+  - Export
 ---
 # Tipos de indicadores
 

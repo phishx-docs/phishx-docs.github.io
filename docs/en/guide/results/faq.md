@@ -1,46 +1,46 @@
 ---
-title: Perguntas e respostas
+title: Questions and answers
 tags:
-  - Resultados
-  - Painéis
-  - Indicadores
-  - Relatórios
-  - Eventos
-  - Exportar
+  - Results
+  - Panels
+  - Indicators
+  - Reports
+  - Events
+  - Export
 ---
-# Perguntas e respostas
+# Questions and answers
 
 ::: tip Dúvidas adicionais
-Você possui alguma dúvida adicional para a plataforma ou para analisar os resultados?<br>
-Ajude os outros usuários da plataforma compartilhando sua dúvida com o [PhishX Support](mailto:support@phishx.io).
+Do you have any additional questions for the platform or to analyze the results?<br>
+Help other platform users by sharing your question with [PhishX Support](mailto:support@phishx.io).
 :::
 
-Principais dúvidas e suas respostas.
+Main questions and their answers.
 
-## Como acesso os resultados detalhados?
+## How do I access detailed results?
 
-   Você pode consultar os dados online direto em nossos painéis na plataforma, exportar relatórios em diversos formatos ou integrar nossos dados via API.
+   You can consult data online directly on our dashboards on the platform, export reports in various formats or integrate our data via API.
 
-## Quais ações são recomendadas por padrão para minha campanha?
+## What actions are recommended by default for my campaign?
 
-   Recomendamos para sua trilha de conhecimento uma ação principal, como um treinamento, questionário, política, etc., e uma ação de interação, como um feedback ou NPS.
+   We recommend a main action for your knowledge trail, such as training, questionnaire, policy, etc., and an interaction action, such as feedback or NPS.
 
-   Todos os modelos podem ser customizados e adequados ao seu planejamento.
+   All models can be customized and adapted to your planning.
 
-## Quais e quantas pessoas clicaram em algum link na mensagem (caíram na simulação)?
+## Which and how many people clicked on any link in the message (they fell into the simulation)?
 
-   São as pessoas que atingiram a primeira ação de acordo com a campanha, após interagir (clicar) em algum link da mensagem.
+   The people who reached the first action according to the campaign, after interacting (clicking) on a link in the message.
 
-   Em campanhas que possuem um treinamento na primeira ação o resultado será **data.1** ou **data.training**.
+   In campaigns that have training in the first action, the result will be **data.1** or **data.training**.
 
-## Quais e quantas pessoas fizeram o treinamento por completo?
+## Which and how many people did the training completely?
 
-   São as pessoas que terminaram a primeira ação de acordo com a campanha, e foram encaminhadas para a segunda ação.
+   The people who finished the first action according to the campaign, and were referred to the second action.
 
-   Em campanhas que possuem duas ou mais ações, sendo o treinamento a primeira ação e um encerramento na segunda ação, o resultado será **data.2** ou **data.closure**.
+   In campaigns that have two or more actions, with training being the first action and closing in the second action, the result will be **data.2** or **data.closure**.
 
-## Quais e quantas pessoas terminaram todas as ações de uma campanha?
+## Who and how many people ended all actions in a campaign?
 
-   São as pessoas que terminaram todas as ações de acordo com a campanha, e foram encaminhadas para a página configurada (por padrão o site da empresa).
+   The people who finished all the actions according to the campaign, and were sent to the configured page (by default the company's website).
 
-   Em campanhas que não possuem uma ação formal final, como um redirecionamento para outra página, o resultado será **data.last**.
+   In campaigns that do not have a final formal action, such as redirecting to another page, the result will be **data.last**.

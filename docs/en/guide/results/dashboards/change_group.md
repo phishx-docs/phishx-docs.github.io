@@ -2,12 +2,12 @@
 layout: TableLayout-2-25_75
 title: Mudar o grupo
 tags:
-  - Resultados
-  - Painéis
-  - Indicadores
-  - Relatórios
-  - Eventos
-  - Exportar
+  - Results
+  - Panels
+  - Indicators
+  - Reports
+  - Events
+  - Export
 ---
 # Mudar o grupo
 
