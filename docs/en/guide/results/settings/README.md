@@ -1,6 +1,6 @@
 ---
 layout: TableLayout-2-25_75
-title: Resumo
+title: Summary
 tags:
   - Results
   - Panels
@@ -9,12 +9,12 @@ tags:
   - Events
   - Export
 ---
-# Resumo
+# Summary
 
-Gerenciar as configurações dos resultados.
+Manage the results settings.
 
-| Módulo | Descrição |
+| Module | Description |
 | :--- | :--- |
-| [Editar configurações](edit_settings) | Gerenciar as configurações da empresa e do seu usuário. |
+| [Edit settings](edit_settings) | Manage company and user settings. |
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_01.webp)
+   ![Settings](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_01.webp)

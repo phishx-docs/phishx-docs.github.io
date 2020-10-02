@@ -18,7 +18,7 @@ Vocês podem focar tanto nas etapas que as pessoas fizeram, ao atingir a mesma, 
 Definições das ações que geram os resultados.
 
 ::: details Ordem das ações
-Na plataforma não existe uma ordem única, as ações são de acordo com as definidas em sua campanha.
+Na plataforma não existe uma ordem única, as ações são de acordo com as definidas em sua campanha.<br>
 Por definições de governança e conformidade apenas quando a pessoa de fato interagir com a campanha, clicando em botões, ou enviando informações, por exemplo é que ela muda de ação.
 :::
 

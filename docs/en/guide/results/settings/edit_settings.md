@@ -1,5 +1,5 @@
 ---
-title: Editar configurações
+title: Edit settings
 tags:
   - Results
   - Panels
@@ -8,19 +8,19 @@ tags:
   - Events
   - Export
 ---
-# Editar configurações
+# Edit settings
 
-::: tip Painéis padrão
-Os painéis por padrão apresentam os resultados de suas campanhas oficiais dos últimos 3 meses com as cores padrão de sua empresa.<br>
-Você pode filtrar rapidamente em qualquer painel para obter os resultados desejados, e opcionalmente exportar os indicadores ou relatórios, ou salvar essas configurações para usar no futuro.
+::: tip Standard dashboards
+The dashboards by default show the results of your official campaigns for the past 3 months in your company's standard colors.<br>
+You can quickly filter on any panel to get the results you want, and optionally export the indicators or reports, or save these settings for use in the future.
 :::
 
-Gerenciar as configurações da empresa e do seu usuário.
+Manage company and user settings.
 
-1. Acessar o menu **Resultados** -> **Configurações**.
+1. Access the **Results** -> **Settings** menu.
 
-2. Em **Empresa** definir os filtros padrão para os painéis da empresa.
+2. In **Company** define the standard filters for the company's dashboards.
 
-3. Opcionalmente em **Usuário** definir os filtros padrão para os painéis para o seu usuário.
+3. Optionally in **User** define the default filters for the dashboards for your user.
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_02.webp)
+   ![Settings](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_02.webp)
