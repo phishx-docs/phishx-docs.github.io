@@ -62,6 +62,7 @@ viagemagora.xyz/
 <br>
 
 | DOMÍNIO | FQDN |
+| :--- | :--- |
 | ajuda.info | em4336.ajuda.info |
 | apptech.best | em3650.apptech.best |
 | bankonline.best | em4998.bankonline.best |
