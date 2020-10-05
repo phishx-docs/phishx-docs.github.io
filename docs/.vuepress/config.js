@@ -14,6 +14,7 @@ function config_locales(locale, extra) {
   var dir_requirements = 'requirements'
   var dir_google_gsuite = 'google-gsuite'
   var dir_microsoft_365 = 'microsoft-365'
+  var dir_slack = 'slack'
   var dir_azure_ad = 'azure-ad'
   var dir_integrations = 'integrations'
   var dir_content = 'content'
@@ -401,6 +402,20 @@ function config_locales(locale, extra) {
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/communications`,
             ]
           },
+          {
+            title: extra.slack,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/connect`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/import`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/channels`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/users`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/message`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_slack}/lists`,
+            ]
+          },
         ]
       },
       {
@@ -428,6 +443,7 @@ var config_locales_en = config_locales('en', {
   google_gsuite: 'Google G Suite',
   microsoft_365: 'Microsoft 365',
   azure_ad: 'Azure AD',
+  slack: 'Slack',
   content: 'Content',
   serviceWorker_message: 'New content is available.',
   serviceWorker_buttonText: 'Refresh',
@@ -467,6 +483,7 @@ var config_locales_pt = config_locales('pt', {
   google_gsuite: 'Google G Suite',
   microsoft_365: 'Microsoft 365',
   azure_ad: 'Azure AD',
+  slack: 'Slack',
   content: 'Conteúdo',
   serviceWorker_message: 'Novo conteúdo disponível.',
   serviceWorker_buttonText: 'Atualizar',
