@@ -5,6 +5,7 @@ lastUpdated: false
 
 CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TREINAMENTO EM INFORMÁTICA VIA SAAS
 CONDIÇÕES GERAIS DO CONTRATO
+
 Última modificação: 15 de dezembro de 2020
 
 Bem-vindo ao ecossistema PHISHX!
@@ -12,7 +13,8 @@ Bem-vindo ao ecossistema PHISHX!
 Agradecemos por usar nossos produtos e serviços ("SERVIÇOS"). Os SERVIÇOS serão fornecidos pela P2 TECHNOLOGY INFORMÁTICA LTDA ("P2 TECHNOLOGY" ou "P2" ou “PHISHX”), através da sua plataforma de segurança digital para pessoas, denominada "PHISHX" ou "PLATAFORMA"
 
 Ao usar nossos SERVIÇOS, PLATAFORMA SaaS e/ou PRODUTOS, você está concordando com estes termos. Leia-os com atenção.
-NOSSOS SERVIÇOS são muito diversos, portanto, às vezes, podem aplicar-se termos adicionais ou exigências de produtos (inclusive exigências de idade). Os termos adicionais estarão disponíveis com os SERVIÇOS relevantes e esses termos adicionais se tornarão parte de nosso CONTRATO com você, caso você use esses SERVIÇOS. Você pode encontrar os termos adicionais, como termo de uso, política de privacidade, contrato e outros documentos atualizados em: docs.phishx.io. 
+
+NOSSOS SERVIÇOS são muito diversos, portanto, às vezes, podem aplicar-se termos adicionais ou exigências de produtos (inclusive exigências de idade). Os termos adicionais estarão disponíveis com os SERVIÇOS relevantes e esses termos adicionais se tornarão parte de nosso CONTRATO com você, caso você use esses SERVIÇOS. Você pode encontrar os termos adicionais, como termo de uso, política de privacidade, contrato e outros documentos atualizados em: docs.phishx.io.
 
 Por este instrumento particular de CONTRATO ("CONTRATO"), na melhor forma do Direito, por estarem de acordo com todas as cláusulas que se seguem, tendo por PARTES:
 
@@ -22,10 +24,10 @@ Por este instrumento particular de CONTRATO ("CONTRATO"), na melhor forma do Dir
 
 CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como "PARTE" e, em conjunto, como "PARTES".
 
-Este modelo de CONTRATO é aplicado, de forma igualitária, a todos os clientes da PHISHX. Seu formato já é adaptado para ser o mais coeso possível, para os nossos clientes e/ou parceiros, provendo-lhes a devida segurança jurídica e considerando os requisitos mínimos para a viabilidade do modelo de negócios da PHISHX. Neste âmbito, não há possibilidade de serem realizadas alterações ou adendos. Este contrato, em sua versão atualizada, pode ser encontrado no site: docs.phishx.io 
+Este modelo de CONTRATO é aplicado, de forma igualitária, a todos os clientes da PHISHX. Seu formato já é adaptado para ser o mais coeso possível, para os nossos clientes e/ou parceiros, provendo-lhes a devida segurança jurídica e considerando os requisitos mínimos para a viabilidade do modelo de negócios da PHISHX. Neste âmbito, não há possibilidade de serem realizadas alterações ou adendos. Este contrato, em sua versão atualizada, pode ser encontrado no site: docs.phishx.io
 
- 
 CLÁUSULA PRIMEIRA - DO OBJETO
+
 1.1. Sob os termos e condições adiante, a CONTRATADA prestará ao CONTRATANTE os serviços de treinamento em informática previstos no uso da plataforma PHISHX (ou simplesmente "PHISHX"), conforme especificações previstas na Cotação ("COTAÇÃO" ou "QUOTE"), Proposta Comercial ("PROPOSTA COMERCIAL"), Proposta Técnica ("PROPOSTA TÉCNICA") e/ou eventual(is) ANEXO(s), aceito(s) pelo CONTRATANTE e que faz PARTE deste CONTRATO.
 
 1.1.1. Forma e Limites de Utilização: os treinamentos, comunicados, testes e/ou demais interações serão disponibilizados ao CONTRATANTE por meio de acesso remoto ao servidor da CONTRATADA, com observância de todos os termos e condições estabelecidos nos Termos Gerais e Condições de Uso disponível no seguinte site: contrato.phishx.io, PARTE integrante deste CONTRATO.
@@ -49,7 +51,9 @@ CLÁUSULA PRIMEIRA - DO OBJETO
 1.3.1. O CONTRATANTE poderá, ainda, contratar serviços específicos de criação de treinamentos personalizados, modelos de simulações de phishing (tipo de ataque cibernético), comunicados, treinamentos, templates (modelos) de Campanhas completas, conteúdos diversos, dentre outros tipos de criações digitais.
 
 1.3.2. O CONTRATANTE deverá solicitar orçamento específico à CONTRATADA através do e-mail vendas@phishx.io, com as informações necessárias sobre os serviços específicos. A contratação de tais serviços será efetuada mediante formalização de documento específico com valores e cronograma, os quais não fazem PARTE deste CONTRATO.
+
 CLÁUSULA SEGUNDA - DA PROPRIEDADE INTELECTUAL
+
 2.1. Titularidade dos direitos de propriedade intelectual
 
 2.1.1. A utilização de direitos de propriedade intelectual que apareçam ou estejam de alguma forma ligados à prestação de serviços ora contratados, deverão ter utilização restrita ao objeto do presente CONTRATO e respectiva(s) COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s), de acordo com as condições estabelecidas, devendo as PARTES preservar tais direitos da contraparte, seja de suas marcas, direitos autorais, programas de computador, bem como demais direitos de propriedade intelectual aqui mencionados e relacionados ao PHISHX.
@@ -61,6 +65,7 @@ CLÁUSULA SEGUNDA - DA PROPRIEDADE INTELECTUAL
 2.2.1. O CONTRATANTE não poderá, de maneira alguma, copiar, reproduzir, traduzir, adaptar, modificar, alienar, vender, locar, sublocar, ceder, transferir, decompilar ou fazer engenharia reversa do PHISHX, no todo ou em PARTE, ou usar o PHISHX para qualquer propósito diverso do que lhe foi especificamente autorizado, tampouco permitir que qualquer terceiro o faça.
 
 CLÁUSULA TERCEIRA - DAS OBRIGAÇÕES E RESPONSABILIDADES
+
 3.1. Obrigações da CONTRATADA
 
 3.1.1. Além das obrigações previstas neste CONTRATO, caberá à CONTRATADA:
@@ -106,6 +111,7 @@ CLÁUSULA TERCEIRA - DAS OBRIGAÇÕES E RESPONSABILIDADES
 3.3.1.3. A execução deste CONTRATO não infringe direitos de propriedade intelectual, patentes, marcas, segredos comerciais ou equivalentes, de terceiros, sob pena de indenização das perdas e danos apurados.
 
 CLÁUSULA QUARTA - DO VALOR
+
 4.1. Pelos serviços contratados, o CONTRATANTE pagará à CONTRATADA o valor previsto e nos prazos estabelecidos na(o)(s) COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s).
 
 4.2. O pagamento do valor previsto no item anterior se dará através de transferência eletrônica financeira (PIX e/ou TED), quitação de boleto bancário emitido pela CONTRATADA e encaminhado por e-mail para o CONTRATANTE, ou através de cartão de crédito, mediante autorização do CONTRATANTE e da CONTRATADA, conforme opção disponível e negociada no momento da contratação.
@@ -125,12 +131,12 @@ CLÁUSULA QUARTA - DO VALOR
 4.5. Fica autorizada a CONTRATADA desde já, a seu exclusivo critério, a descontar, caucionar, ceder, transferir, por endosso ou cessão civil de crédito, no todo ou em PARTE, todos os direitos de crédito e garantia decorrentes do presente CONTRATO, independente de anuência do CONTRATANTE, ficando os cessionários credores e beneficiários do crédito sub-rogados em todos os direitos de crédito deste instrumento.
 
 CLÁUSULA QUINTA - DO PRAZO E RESCISÃO
+
 5.1. Prazo
 
 5.1.1. O prazo de vigência deste CONTRATO inicia na data de faturamento da Nota Fiscal. O acesso ao PHISHX, entretanto, será disponibilizado apenas quando houver a confirmação do pagamento do faturamento, garantindo, a partir daí, o prazo total da prestação do serviço, pelo prazo total previsto na(o)(s) COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s).
 
 5.1.2. Caso nenhuma das PARTES notifique a outra, com prazo mínimo de 30 (trinta) dias antes do término do período de vigência deste CONTRATO, este será renovado automaticamente por prazo indeterminado.
-
 5.1.3. Os serviços da P2 são pré-pagos, salvo negociação específica prevista em COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s).
 
 5.2. Rescisão
@@ -146,6 +152,7 @@ CLÁUSULA QUINTA - DO PRAZO E RESCISÃO
 5.2.1.4. No caso de pagamento padrão, ou seja, pagamento pré-pago de assinatura anual, bianual, trienal ou de prazo superior, ou pagamento excepcionalmente parcelado, não será efetivada nenhuma espécie de devolução e/ou estorno do(s) pagamento(s) efetuado, por PARTE da CONTRATADA à CONTRATANTE.
 
 CLÁUSULA SEXTA - DA CONFIDENCIALIDADE E PROTEÇÃO DE DADOS
+
 6.1. Confidencialidade
 
 6.1.1. Cada PARTE se compromete a manter e tratar como confidencial e não revelar a terceiros qualquer Informação Confidencial relacionada ao PHISHX, serviços, produtos, propostas, contratos, documentos, dados de usuários, templates, segredo de indústria e outros, ou usar referidas informações para qualquer propósito que não aquele previsto no presente CONTRATO.
@@ -173,6 +180,7 @@ CLÁUSULA SEXTA - DA CONFIDENCIALIDADE E PROTEÇÃO DE DADOS
 6.4.1. Em razão do item acima, é inconcebível e inaceitável que uma das PARTES não adote práticas de proteção e privacidade de dados pessoais compatíveis com o seu negócio, segmento, complexidade, atividades e capacidade técnico-econômica, razão pela qual, de boa-fé, as PARTES declaram estar em conformidade com as normas aplicáveis, e, a qualquer tempo, a ausência de demonstração disso, mediante simples pedido, sujeitará a PARTE faltosa a suportar os ônus da rescisão por justa causa deste instrumento, além daqueles razoavelmente decorrentes de prejuízos  que vier a causar à outra PARTE.
 
 CLÁUSULA SÉTIMA - DAS DISPOSIÇÕES GERAIS
+
 7.1. Sucessão
 
 7.1.1. Este CONTRATO vincula as PARTES e seus sucessores, sejam eles a qualquer título.
@@ -219,7 +227,6 @@ CLÁUSULA SÉTIMA - DAS DISPOSIÇÕES GERAIS
 
 7.7.1. Se alguma cláusula deste instrumento for considerada ilegal, nula ou incapaz de ser cumprida por qualquer motivo, esta previsão será considerada uma cláusula independente da PARTE remanescente deste CONTRATO e não afetará a validade ou a aplicabilidade do cumprimento dos termos do restante do presente.
 
-
 7.8. Modificação do Contrato
 
 7.8.1. Este CONTRATO poderá ser modificado a qualquer momento e o aditamento contendo as cláusulas então vigentes será disponibilizado aos titulares por meio do site docs.phishx.io.
@@ -233,27 +240,26 @@ CLÁUSULA SÉTIMA - DAS DISPOSIÇÕES GERAIS
 7.10.1. O presente CONTRATO e o cumprimento das obrigações nele previstas serão regidos pelas leis da República Federativa do Brasil e interpretados de acordo com suas disposições.
 
 CLÁUSULA OITAVA – DO COMPLIANCE
+
 8.1. Compliance
 
 8.1.1. No desempenho de suas funções, as PARTES obrigam-se a não pagar, oferecer, promover ou autorizar o pagamento de qualquer quantia, objeto de valor pecuniário ou outros benefícios, como presentes, favores, promessas ou vantagens, direta ou indiretamente, a qualquer funcionário uma da outra ou ainda a servidores públicos, oficiais, candidatos políticos, partidos políticos e/ou qualquer pessoa que atue em nome de uma organização pública nacional ou internacional, seus familiares ou amigos, se tais pagamentos, favores ou presentes forem ou puderem ser considerados ilegais ou tiverem a finalidade de obter ou retribuir qualquer tipo de favorecimento dado ou prometido às qualquer Parte deste Contrato (“COMPLIANCE”).
- 
+
 8.1.2. Além das hipóteses de rescisão previstas no presente Contrato, qualquer uma das PARTES terá o direito de rescindir o Contrato, imediatamente e sem aviso prévio ou envio de notificação, nas seguintes hipóteses: (i) descumprimento de qualquer norma de Compliance definida na cláusula acima; (ii) caso qualquer uma das PARTES envolva-se ou seja envolvida publicamente em um caso de Compliance, independentemente do fato ou ato que tenha motivado o caso; ou (iii) qualquer das Partes for investigada oficialmente pelas autoridades públicas em razão de alguma violação às normas de Compliance, moralidade ou ética empresarial, ou à legislação vigente.
 
 CLÁUSULA NONA – DA ASSINATURA, ACEITE E/OU DE ACORDO ELETRÔNICOS
+
 9.1. Assinatura, Aceite e/ou De Acordo eletrônicos
 
 9.1.1. As PARTES expressamente concordam em utilizar e reconhecem como válidas as assinaturas e/ou aceites eletrônicos como forma de comprovação de anuência aos termos ora acordados em formato eletrônico. A formalização dos termos na maneira supra acordada será suficiente para a validade e integral vinculação das PARTES ao presente CONTRATO.
 
-
 CLÁUSULA DÉCIMA – DO FORO
-10.1. Fica eleito o Foro da Comarca de São Paulo, no Estado de São Paulo, para dirimir quaisquer pleitos oriundos do presente CONTRATO, com renúncia a qualquer outro, por mais privilegiado que seja ou venha a sê-lo.
 
+10.1. Fica eleito o Foro da Comarca de São Paulo, no Estado de São Paulo, para dirimir quaisquer pleitos oriundos do presente CONTRATO, com renúncia a qualquer outro, por mais privilegiado que seja ou venha a sê-lo.
 
 Este CONTRATO considerar-se-á celebrado e obrigatório entre as PARTES no momento em que o CONTRATANTE der o de acordo, aceite e/ou assinatura eletrônicos na(o)(s) COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s), ou ao concluir o seu cadastro e o procedimento previsto no site phishx.io, o primeiro que for efetuado, sendo certo que, assim procedendo, o CONTRATANTE declara ter lido e compreendido todos os termos e condições deste CONTRATO, razão pela qual é recomendável que o CONTRATANTE imprima uma cópia deste documento para futura referência e mantenha a observância e ciência da atualização deste CONTRATO no site: docs.phishx.io.
 
-
 São Paulo, SP, Brasil, 15 de dezembro de 2020.
-
 
 TIME PHISHX 💚🦈
 P2 TECHNOLOGY INFORMÁTICA LTDA.
