@@ -1,10 +1,10 @@
 # Introduction
 
 <video id="video" controls controlsList="nodownload" preload="auto" width="100%" crossorigin="anonymous">
-  <source id="video_source" src="https://cdn.phishx.io/videos/PhishX-Phishing-1080p-en.mp4" type="video/mp4">
-  <track label="English" kind="subtitles" type="text/vtt" srclang="en" src="https://cdn.phishx.io/videos/PhishX-Phishing-en.vtt" default>
-  <track label="Português" kind="subtitles" type="text/vtt" srclang="pt" src="https://cdn.phishx.io/videos/PhishX-Phishing-pt.vtt">
-  <track label="Español" kind="subtitles" type="text/vtt" srclang="es" src="https://cdn.phishx.io/videos/PhishX-Phishing-es.vtt">
+  <source id="video_source" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-1080p-en.mp4" type="video/mp4">
+  <track label="English" kind="subtitles" type="text/vtt" srclang="en" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-en.vtt" default>
+  <track label="Português" kind="subtitles" type="text/vtt" srclang="pt" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-pt.vtt">
+  <track label="Español" kind="subtitles" type="text/vtt" srclang="es" src="https://cdn.phishx.io/videos/PhishX-Cybersecurity_for_People-es.vtt">
 </video>
 
 In a digital society, comprehensive strategies must be devised to protect its employees, customers, partners, data, information, and business from cyber threats.
