@@ -2,3 +2,6 @@ docs/
 node_modules/
 dev/
 !.gitignore
+temp/
+src/.vuepress/dist/
+*.sh
