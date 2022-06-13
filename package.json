@@ -1,0 +1,24 @@
+{
+  "name": "PhishX",
+  "version": "0.0.5",
+  "description": "PhishX Documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "Pedro Vieira",
+    "email": "devops@phishx.io"
+  },
+  "repository": "https://github.com/phishx-docs/phishx-docs.github.io/phishx-docs.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "moment": "^2.29.3",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-theme-succinct": "^1.7.2"
+  }
+}
