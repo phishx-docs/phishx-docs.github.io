@@ -1,2 +1,2 @@
 set -e
-./build.sh && ./build_push.sh
+./build.sh && ./build_push.sh && ./deploy.sh
