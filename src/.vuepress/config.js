@@ -78,6 +78,7 @@ function config_locales(locale, extra) {
         children: [
           `/${locale}/${dir_terms}/`,
           `/${locale}/${dir_terms}/contract`,
+          `/${locale}/${dir_terms}/ethics`,
           `/${locale}/${dir_terms}/privacy`,
         ]
       },
