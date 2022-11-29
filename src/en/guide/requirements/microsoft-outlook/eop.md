@@ -8,9 +8,10 @@ tags:
   - Outlook
   - 365
 ---
+
 # Exchange Online Protection
 
-## TL;DR
+## TL","DR
 
 1. **Configure** and **Deploy** the allowed domains in your online mailboxes.
 
@@ -48,7 +49,7 @@ Connect-ExchangeOnline -UserPrincipalName <ADMIN@DOMAIN.COM>
 $All = Get-Mailbox -RecipientTypeDetails UserMailbox -ResultSize Unlimited
 ```
 
-   To apply only to a group of users.
+To apply only to a group of users.
 
 ```
 $All = Get-UnifiedGroupLinks -Identity '<GROUP>' -LinkType Members -ResultSize Unlimited
@@ -61,7 +62,7 @@ $All = Get-UnifiedGroupLinks -Identity '<GROUP>' -LinkType Members -ResultSize U
    Optionally add other internal and third-party domains to be trusted via the Safe Senders List.
 
 ```
-$All | foreach {Set-MailboxJunkEmailConfiguration $_.Name -ErrorAction SilentlyContinue -TrustedSendersAndDomains @{Add="phishx.io","phishx.com","anbiental.com","appnews.cloud","appto.click","bankto.me","datagov.online","dealsnow.space","festivalnews.online","goonline.quest","govonline.click","linknew.live","mailnews.store","mailto.website","marketonline.one","messageapp.store","moneyme.site","newstoday.click","phishing.com.br","portalnoticias.cloud","privacydata.online","professionalcareer.one","salesstudio.live","securedevice.site","securityapp.cloud","sharesocial.online","socialtoday.xyz","techsol.click","techtips.one","travelforme.cloud","utilitiesonline.site","varejoonline.club","viagemagora.club","webportal.one"}}
+$All | foreach {Set-MailboxJunkEmailConfiguration $_.Name -ErrorAction SilentlyContinue -TrustedSendersAndDomains @{Add="phishx.io","phishx.com","appstudio.shop","banknow.cloud","datagov.click","dealsnews.club","festivalnews.online","goonline.help","linkdata.live","mailnews.store","mailto.site","marketonline.one","messageapp.store","newstoday.click","peoplex.io,phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","professionalopportunity.store","securedevice.site","securityapp.cloud","sharemessages.online","techtips.one","techtips.shop","travelforme.cloud","varejoonline.club","viagemagora.xyz","webportal.one"}}
 ```
 
 5. **Validate** a user's domains.
@@ -72,8 +73,8 @@ $All | foreach {Set-MailboxJunkEmailConfiguration $_.Name -ErrorAction SilentlyC
 Get-MailboxJunkEmailConfiguration -Identity "<MAILBOXIDENTITY>" | Format-List trusted*
 ```
 
-   Optionally confirm in user's Outlook.
+Optionally confirm in user's Outlook.
 
-   Go to **Home** -> **Junk** -> **Junk E-mail Options** -> **Safe Senders**.
+Go to **Home** -> **Junk** -> **Junk E-mail Options** -> **Safe Senders**.
 
-   ![Microsoft Outlook](https://cdn.phishx.io/phishx-docs/images/phishx_settings_docs_safe_senders_list_03.jpg)
+![Microsoft Outlook](https://cdn.phishx.io/phishx-docs/images/phishx_settings_docs_safe_senders_list_03.jpg)

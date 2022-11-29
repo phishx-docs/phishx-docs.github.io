@@ -3,6 +3,7 @@ title: Domains
 tags:
   - Requirements
 ---
+
 # Domains
 
 ::: tip Tip
@@ -10,135 +11,118 @@ All PhishX Domains are exclusive and secure.
 :::
 
 ### Separated by spaces
+
 <br>
 
 ```
-anbiental.com appnews.cloud appto.click bankto.me datagov.online dealsnow.space festivalnews.online goonline.quest govonline.click linknew.live mailnews.store mailto.website marketonline.one messageapp.store moneyme.site newstoday.click phishing.com.br phishx.com phishx.io portalnoticias.cloud privacydata.online professionalcareer.one salesstudio.live securedevice.site securityapp.cloud sharesocial.online socialtoday.xyz techsol.click techtips.one travelforme.cloud utilitiesonline.site varejoonline.club viagemagora.club webportal.one
+appstudio.shop banknow.cloud datagov.click dealsnews.club festivalnews.online goonline.help linkdata.live mailnews.store mailto.site marketonline.one messageapp.store newstoday.click peoplex.io,phishing.com.br phishx.com phishx.com.br phishx.io privacynow.click professionalopportunity.store securedevice.site securityapp.cloud sharemessages.online techtips.one techtips.shop travelforme.cloud varejoonline.club viagemagora.xyz webportal.one
 ```
 
 ### Separated by semi-colons
+
 <br>
 
 ```
-anbiental.com;appnews.cloud;appto.click;bankto.me;datagov.online;dealsnow.space;festivalnews.online;goonline.quest;govonline.click;linknew.live;mailnews.store;mailto.website;marketonline.one;messageapp.store;moneyme.site;newstoday.click;phishing.com.br;phishx.com;phishx.io;portalnoticias.cloud;privacydata.online;professionalcareer.one;salesstudio.live;securedevice.site;securityapp.cloud;sharesocial.online;socialtoday.xyz;techsol.click;techtips.one;travelforme.cloud;utilitiesonline.site;varejoonline.club;viagemagora.club;webportal.one
+appstudio.shop;banknow.cloud;datagov.click;dealsnews.club;festivalnews.online;goonline.help;linkdata.live;mailnews.store;mailto.site;marketonline.one;messageapp.store;newstoday.click;peoplex.io,phishing.com.br;phishx.com;phishx.com.br;phishx.io;privacynow.click;professionalopportunity.store;securedevice.site;securityapp.cloud;sharemessages.online;techtips.one;techtips.shop;travelforme.cloud;varejoonline.club;viagemagora.xyz;webportal.one
 ```
 
 ### Separated by lines
+
 <br>
 
 ```
-anbiental.com/
-appnews.cloud/
-appto.click/
-bankto.me/
-datagov.online/
-dealsnow.space/
+appstudio.shop/
+banknow.cloud/
+datagov.click/
+dealsnews.club/
 festivalnews.online/
-goonline.quest/
-govonline.click/
-linknew.live/
+goonline.help/
+linkdata.live/
 mailnews.store/
-mailto.website/
+mailto.site/
 marketonline.one/
 messageapp.store/
-moneyme.site/
 newstoday.click/
+peoplex.io/
 phishing.com.br/
 phishx.com/
 phishx.io/
-portalnoticias.cloud/
-privacydata.online/
-professionalcareer.one/
-salesstudio.live/
+privacynow.click/
+professionalopportunity.store/
 securedevice.site/
 securityapp.cloud/
-sharesocial.online/
-socialtoday.xyz/
-techsol.click/
+sharemessages.online/
 techtips.one/
+techtips.shop/
 travelforme.cloud/
-utilitiesonline.site/
 varejoonline.club/
-viagemagora.club/
+viagemagora.xyz/
 webportal.one/
 ```
 
 ### Safe Senders List
+
 <br>
 
 ```
-@anbiental.com
-@appnews.cloud
-@appto.click
-@bankto.me
-@datagov.online
-@dealsnow.space
+@appstudio.shop
+@banknow.cloud
+@datagov.click
+@dealsnews.club
 @festivalnews.online
-@goonline.quest
-@govonline.click
-@linknew.live
+@goonline.help
+@linkdata.live
 @mailnews.store
-@mailto.website
+@mailto.site
 @marketonline.one
 @messageapp.store
-@moneyme.site
 @newstoday.click
+@peoplex.io
 @phishing.com.br
 @phishx.com
 @phishx.io
-@portalnoticias.cloud
-@privacydata.online
-@professionalcareer.one
-@salesstudio.live
+@privacynow.click
+@professionalopportunity.store
 @securedevice.site
 @securityapp.cloud
-@sharesocial.online
-@socialtoday.xyz
-@techsol.click
+@sharemessages.online
 @techtips.one
+@techtips.shop
 @travelforme.cloud
-@utilitiesonline.site
 @varejoonline.club
-@viagemagora.club
+@viagemagora.xyz
 @webportal.one
 ```
 
 ## FQDN
+
 <br>
 
-| DOMAIN | FQDN |
-| :--- | :--- |
-| anbiental.com | phx.anbiental.com |
-| appnews.cloud | phx.appnews.cloud |
-| appto.click | phx.appto.click |
-| bankto.me | phx.bankto.me |
-| datagov.online | phx.datagov.online |
-| dealsnow.space | phx.dealsnow.space |
-| festivalnews.online | phx.festivalnews.online |
-| goonline.quest | phx.goonline.quest |
-| govonline.click | phx.govonline.click |
-| linknew.live | phx.linknew.live |
-| mailnews.store | phx.mailnews.store |
-| mailto.website | phx.mailto.website |
-| marketonline.one | phx.marketonline.one |
-| messageapp.store | phx.messageapp.store |
-| moneyme.site | phx.moneyme.site |
-| newstoday.click | phx.newstoday.click |
-| phishing.com.br | sendgrid.phishing.com.br |
-| phishx.io | sendgrid.phishx.io |
-| phishx.com | em3534.phishx.com |
-| portalnoticias.cloud | phx.portalnoticias.cloud |
-| privacydata.online | phx.privacydata.online |
-| professionalcareer.one | phx.professionalcareer.one |
-| salesstudio.live | phx.salesstudio.live |
-| securedevice.site | phx.securedevice.site |
-| securityapp.cloud | phx.securityapp.cloud |
-| sharesocial.online | phx.sharesocial.online |
-| socialtoday.xyz | phx.socialtoday.xyz |
-| techsol.click | phx.techsol.click |
-| techtips.one | phx.techtips.one |
-| travelforme.cloud | phx.travelforme.cloud |
-| utilitiesonline.site | phx.utilitiesonline.site |
-| varejoonline.club | phx.varejoonline.club |
-| viagemagora.club | phx.viagemagora.club |
-| webportal.one | phx.webportal.one |
+| DOMÍNIO                       | FQDN                              |
+| :---------------------------- | :-------------------------------- |
+| appstudio.shop                | phx.appstudio.shop                |
+| banknow.cloud                 | phx.banknow.cloud                 |
+| datagov.click                 | phx.datagov.click                 |
+| dealsnews.club                | phx.dealsnews.club                |
+| festivalnews.online           | phx.festivalnews.online           |
+| goonline.help                 | phx.goonline.help                 |
+| linkdata.live                 | phx.linkdata.live                 |
+| mailnews.store                | phx.mailnews.store                |
+| mailto.site                   | phx.mailto.site                   |
+| marketonline.one              | phx.marketonline.one              |
+| messageapp.store              | phx.messageapp.store              |
+| newstoday.click               | phx.newstoday.click               |
+| phishing.com.br               | phx.sendgrid.phishing.com.br      |
+| phishx.io                     | phx.sendgrid.phishx.io            |
+| privacynow.click              | phx.privacynow.click              |
+| professionalopportunity.store | phx.professionalopportunity.store |
+| securedevice.site             | phx.securedevice.site             |
+| securityapp.cloud             | phx.securityapp.cloud             |
+| sharemessages.online          | phx.sharemessages.online          |
+| socialtoday.xyz               | phx.socialtoday.xyz               |
+| techtips.one                  | phx.techtips.one                  |
+| techtips.shop                 | phx.techtips.shop                 |
+| travelforme.cloud             | phx.travelforme.cloud             |
+| varejoonline.club             | phx.varejoonline.club             |
+| viagemagora.xyz               | phx.viagemagora.xyz               |
+| webportal.one                 | phx.webportal.one                 |
