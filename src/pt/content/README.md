@@ -103,6 +103,12 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | METAVERSO | <a href="https://cdn.phishx.io/videos/PhishX-Metaverse-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Metaverse-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="../content/quiz.html#metaverso"><img src="https://cdn.phishx.io/icons/question-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
 | SAÚDE MENTAL E PRODUTIVIDADE | <a href="https://cdn.phishx.io/videos/PhishX-Health_Productivity-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Health_Productivity-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="../content/quiz.html#saude-mental-e-produtividade"><img src="https://cdn.phishx.io/icons/question-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
 
+## Temporada 10
+<br>
 
-
-
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| COMO RECONHECER E SE PROTEGER DE DEEPFAKE |  | <a href="https://cdn.phishx.io/docs/PhishX-Deepfake-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO RECONHECER E SE PROTEGER DE ASSÉDIO |  | <a href="https://cdn.phishx.io/docs/PhishX-Harassment-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO UTILIZAR DE FORMA SEGURA O OPEN FINANCE |  | <a href="https://cdn.phishx.io/docs/PhishX-Open_Finance-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO PROTEGER SUA CASA |  | <a href="https://cdn.phishx.io/docs/PhishX-Home_Security-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
