@@ -112,3 +112,13 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | COMO RECONHECER E SE PROTEGER DE ASSÉDIO |  | <a href="https://cdn.phishx.io/docs/PhishX-Harassment-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO UTILIZAR DE FORMA SEGURA O OPEN FINANCE |  | <a href="https://cdn.phishx.io/docs/PhishX-Open_Finance-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO PROTEGER SUA CASA |  | <a href="https://cdn.phishx.io/docs/PhishX-Home_Security-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 11
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| COMO UTILIZAR DE FORMA SEGURA QR CODES |  | <a href="https://cdn.phishx.io/docs/PhishX-QR_Code-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO UTILIZAR DE FORMA SEGURA INTERNET DAS COISAS |  | <a href="https://cdn.phishx.io/docs/PhishX-IoT-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| DICAS DE CIBERSEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO RECONHECER E SE PROTEGER DE AMEAÇAS INTERNAS E EXTERNAS |  | <a href="https://cdn.phishx.io/docs/PhishX-Threats-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
