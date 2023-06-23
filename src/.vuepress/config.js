@@ -18,6 +18,7 @@ function config_locales(locale, extra) {
   var dir_microsoft_outlook = "microsoft-outlook";
   var dir_slack = "slack";
   var dir_azure_ad = "azure-ad";
+  var dir_microsoft_sync = "microsoft-sync";
   var dir_assistant = "assistant";
   var dir_google = "google";
   var dir_microsoft = "microsoft";
@@ -434,6 +435,16 @@ function config_locales(locale, extra) {
             ],
           },
           {
+            title: extra.microsoft_sync,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/powershell`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/settings`,
+            ],
+          },
+          {
             title: extra.slack,
             collapsable: true,
             sidebarDepth: 0,
@@ -511,6 +522,7 @@ var config_locales_en = config_locales("en", {
   microsoft_365: "Microsoft 365",
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
+  microsoft_sync: "Microsoft Sync",
   slack: "Slack",
   content: "Content",
   serviceWorker_message: "New content is available.",
@@ -556,6 +568,7 @@ var config_locales_es = config_locales("es", {
   microsoft_365: "Microsoft 365",
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
+  microsoft_sync: "Microsoft Sync",
   slack: "Slack",
   content: "Contenido",
   serviceWorker_message: "Hay contenido nuevo disponible.",
@@ -601,6 +614,7 @@ var config_locales_pt = config_locales("pt", {
   microsoft_365: "Microsoft 365",
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
+  microsoft_sync: "Microsoft Sync",
   slack: "Slack",
   content: "Conteúdo",
   serviceWorker_message: "Novo conteúdo disponível.",
