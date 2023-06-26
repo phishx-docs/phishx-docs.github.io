@@ -20,6 +20,7 @@ As configurações de registro de aplicações são mais fáceis através de com
 
 | Método | Descrição |
 | :--- | :--- |
+| [Azure](azure/) | Configure através do portal da Azure. |
 | [Powershell](powershell/) | Executar as configurações através do Powershell. |
 | [Configurações](settings/) | Gerencie as configurações. |
 <br>

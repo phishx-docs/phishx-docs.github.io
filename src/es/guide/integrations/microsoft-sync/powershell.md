@@ -129,7 +129,7 @@ Para facilitar, você pode fazer o download dos scripts em [Scripts Powershell](
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_004.png)
 
-5. Registre seu **Segredo da Aplicação**.
+6. Registre seu **Segredo da Aplicação**.
 
 <br>
 
@@ -150,7 +150,7 @@ Para facilitar, você pode fazer o download dos scripts em [Scripts Powershell](
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_005.png)
 
-5. Adicione as **Permissões**.
+7. Adicione as **Permissões**.
 
 <br>
 
@@ -174,7 +174,7 @@ Para facilitar, você pode fazer o download dos scripts em [Scripts Powershell](
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_006.png)
 
-6. Conceda o **consentimento** através do link gerado.
+8. Conceda o **consentimento** através do link gerado.
 
 <br>
 
@@ -215,4 +215,4 @@ Para facilitar, você pode fazer o download dos scripts em [Scripts Powershell](
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_008.png)
 
-7. Visualize as **configurações** em: [Configurações](settings).
+9. Visualize as **configurações** em: [Configurações](settings).

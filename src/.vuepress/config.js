@@ -440,6 +440,7 @@ function config_locales(locale, extra) {
             sidebarDepth: 0,
             children: [
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/azure`,
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/powershell`,
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/settings`,
             ],
