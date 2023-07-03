@@ -197,7 +197,7 @@ $secret = Get-Content -Raw $secretfile | ConvertFrom-Json
 $client_secret = $secret.Value
 $urlstate = $subdomain + "|" + $client_id + "|" + $object_id + "|" + $client_secret + "|" + $tenant + "|" + $tenantname + "|" + $tenantdomain
 $urlstateencoded = [System.Web.HttpUtility]::UrlEncode($urlstate)
-$urlredirect = "https://" + $subdomain + ".phishx.io/live/en/microsoftgraph"
+$urlredirect = "https://auth.phishx.io/live/en/microsoftgraph"
 $url = "https://login.microsoftonline.com/" + $tenant + "/adminconsent?client_id=" + $client_id + "&state=" + $urlstate + "&redirect_uri=" + $urlredirect
 Write-Output "-------------------------------"
 Write-Output "Admin Consent URL:"
