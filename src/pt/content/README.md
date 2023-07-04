@@ -132,3 +132,13 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | COMO PROTEGER SEUS DADOS PESSOAIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Personal_Data-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO PROTEGER A SUA PRIVACIDADE NO MUNDO DIGITAL |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Privacy-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO PROTEGER A SUA REPUTAÇÃO NO MUNDO DIGITAL |  | <a href="https://cdn.phishx.io/docs/PhishX-Social_Media_Presence-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 13
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| POLÍTICA ANTICORRUPÇÃO |  | <a href="https://cdn.phishx.io/docs/PhishX-Anti_Corruption-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO INSTALAR SOFTWARES DE FORMA SEGURA |  | <a href="https://cdn.phishx.io/docs/PhishX-Software_Installation-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| MEDIDAS DE SEGURANÇA PARA UTILIZAR CRIPTOMOEDAS |  | <a href="https://cdn.phishx.io/docs/PhishX-Cryptocurrency-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| POLÍTICA DE CONFLITO DE INTERESSES |  | <a href="https://cdn.phishx.io/docs/PhishX-Conflict_Interests-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
