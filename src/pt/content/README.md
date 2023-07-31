@@ -119,16 +119,16 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | Conteúdo | Vídeo | PDF | Quiz |
 | :--- | :---: | :---: | :---: |
 | COMO UTILIZAR DE FORMA SEGURA QR CODES | <a href="https://cdn.phishx.io/videos/PhishX-QR_Code-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-QR_Code-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
-| COMO UTILIZAR DE FORMA SEGURA INTERNET DAS COISAS |  | <a href="https://cdn.phishx.io/docs/PhishX-IoT-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
-| DICAS DE CIBERSEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
-| COMO RECONHECER E SE PROTEGER DE AMEAÇAS INTERNAS E EXTERNAS |  | <a href="https://cdn.phishx.io/docs/PhishX-Threats-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO UTILIZAR DE FORMA SEGURA INTERNET DAS COISAS | <a href="https://cdn.phishx.io/videos/PhishX-IoT-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-IoT-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| DICAS DE CIBERSEGURANÇA | <a href="https://cdn.phishx.io/videos/PhishX-Cybersecurity-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO RECONHECER E SE PROTEGER DE AMEAÇAS INTERNAS E EXTERNAS | <a href="https://cdn.phishx.io/videos/PhishX-Threats-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Threats-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 
 ## Temporada 12
 <br>
 
 | Conteúdo | Vídeo | PDF | Quiz |
 | :--- | :---: | :---: | :---: |
-| COMO OS ALGORITMOS FUNCIONAM |  | <a href="https://cdn.phishx.io/docs/PhishX-Algorithms-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO OS ALGORITMOS FUNCIONAM | <a href="https://cdn.phishx.io/videos/PhishX-Algorithms-1080p-pt.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Algorithms-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO PROTEGER SEUS DADOS PESSOAIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Personal_Data-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO PROTEGER A SUA PRIVACIDADE NO MUNDO DIGITAL |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Privacy-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO PROTEGER A SUA REPUTAÇÃO NO MUNDO DIGITAL |  | <a href="https://cdn.phishx.io/docs/PhishX-Social_Media_Presence-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
@@ -142,3 +142,13 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | COMO INSTALAR SOFTWARES DE FORMA SEGURA |  | <a href="https://cdn.phishx.io/docs/PhishX-Software_Installation-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | MEDIDAS DE SEGURANÇA PARA UTILIZAR CRIPTOMOEDAS |  | <a href="https://cdn.phishx.io/docs/PhishX-Cryptocurrency-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | POLÍTICA DE CONFLITO DE INTERESSES |  | <a href="https://cdn.phishx.io/docs/PhishX-Conflict_Interests-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 14
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| DICAS PARA ACEITAR CONTRATOS ONLINE COM SEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Contracts-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| DICAS PARA EVITAR RISCOS EM JOGOS ONLINE |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Gaming-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| DICAS PARA ENTENDER O CICLO DE VIDA DAS INFORMAÇÕES |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Lifecycle-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| DICAS PARA PREVENIR ROUBO DE INFORMAÇÕES |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Theft-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
