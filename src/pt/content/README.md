@@ -152,3 +152,13 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | DICAS PARA EVITAR RISCOS EM JOGOS ONLINE |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Gaming-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | DICAS PARA ENTENDER O CICLO DE VIDA DAS INFORMAÇÕES |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Lifecycle-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | DICAS PARA PREVENIR ROUBO DE INFORMAÇÕES |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Theft-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 15
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| DESVENDANDO OS PRINCIPAIS MITOS SOBRE CIBERSEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity_Myths-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO ABORDAR A CIBERSEGURANÇA COM SEUS CLIENTES DE FORMA EFICAZ |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity_Talks-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO SE PROTEGER CONTRA MENSAGENS SUSPEITAS |  | <a href="https://cdn.phishx.io/docs/PhishX-Suspicious_Messages-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO REMOVER SEUS DADOS PESSOAIS DA INTERNET |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Deletion-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
