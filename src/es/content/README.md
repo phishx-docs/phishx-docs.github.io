@@ -102,3 +102,36 @@ tags:
 | SOSTENIBILIDAD Y GOBERNANZA | <a href="https://cdn.phishx.io/videos/PhishX-Sustainability_Governance-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Sustainability_Governance-es.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="../content/quiz.html#sustentabilidade-e-governanca"><img src="https://cdn.phishx.io/icons/question-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
 | METAVERSO | <a href="https://cdn.phishx.io/videos/PhishX-Metaverse-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Metaverse-es.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="../content/quiz.html#metaverso"><img src="https://cdn.phishx.io/icons/question-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
 | SALUD MENTAL Y PRODUCTIVIDAD | <a href="https://cdn.phishx.io/videos/PhishX-Health_Productivity-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="https://cdn.phishx.io/docs/PhishX-Health_Productivity-es.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> | <a href="../content/quiz.html#saude-mental-e-produtividade"><img src="https://cdn.phishx.io/icons/question-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |
+
+## Temporada 10
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| CÓMO RECONOCER Y PROTEGERSE DE DEEPFAKE | <a href="https://cdn.phishx.io/videos/PhishX-Deepfake-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO RECONOCER Y PROTEGERSE DEL ACOSO | <a href="https://cdn.phishx.io/videos/PhishX-Harassment-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO UTILIZAR LAS FINANZAS ABIERTAS DE FORMA SEGURA | <a href="https://cdn.phishx.io/videos/PhishX-Open_Finance-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO PROTEGER TU CASA | <a href="https://cdn.phishx.io/videos/PhishX-Home_Security-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+
+## Temporada 11
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| CÓMO UTILIZAR CÓDIGOS QR DE FORMA SEGURA | <a href="https://cdn.phishx.io/videos/PhishX-QR_Code-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO USAR EL INTERNET DE LAS COSAS DE FORMA SEGURA | <a href="https://cdn.phishx.io/videos/PhishX-IoT-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CONSEJOS DE CIBERSEGURIDAD | <a href="https://cdn.phishx.io/videos/PhishX-Cybersecurity-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO RECONOCER Y PROTEGERSE DE AMENAZAS INTERNAS Y EXTERNAS | <a href="https://cdn.phishx.io/videos/PhishX-Threats-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+
+## Temporada 12
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| CÓMO FUNCIONAN LOS ALGORITMOS | <a href="https://cdn.phishx.io/videos/PhishX-Algorithms-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO PROTEGER TUS DATOS PERSONALES | <a href="https://cdn.phishx.io/videos/PhishX-Personal_Data-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO PROTEGER TUS DATOS PERSONALES | <a href="https://cdn.phishx.io/videos/PhishX-Online_Privacy-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+| CÓMO PROTEGER TU REPUTACIÓN EN EL MUNDO DIGITAL | <a href="https://cdn.phishx.io/videos/PhishX-Social_Media_Presence-1080p-es.mp4" target="_blanc"><img src="https://cdn.phishx.io/icons/file-video-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |  |
+
+
+
