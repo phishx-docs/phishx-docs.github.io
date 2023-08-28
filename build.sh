@@ -4,8 +4,8 @@
 set -e
 
 # build
-NODE_OPTIONS=--openssl-legacy-provider yarn build
-# yarn build
+# NODE_OPTIONS=--openssl-legacy-provider yarn build
+yarn build
 
 # copy
 rm -rf ../phishx-docs.github.io-temp/
