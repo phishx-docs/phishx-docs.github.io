@@ -25,6 +25,8 @@ tags:
 
 2. **Instale** os requisitos para executar os comandos via **Powershell**.
 
+   OBS: Powershell precisa ser atualizado.
+
 ```
 Install-PackageProvider -Name NuGet -Force
 Install-Module -Name PowerShellGet -Force
