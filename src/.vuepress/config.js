@@ -120,6 +120,7 @@ function config_locales(locale, extra) {
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_defender}/`,
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_defender}/spam_filter`,
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_defender}/connection_filter`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_defender}/advanced_delivery`,
             ],
           },
           {
