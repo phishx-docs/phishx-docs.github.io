@@ -162,3 +162,23 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | COMO ABORDAR A CIBERSEGURANÇA DE FORMA EFICAZ |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity_Talks-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO SE PROTEGER CONTRA MENSAGENS SUSPEITAS |  | <a href="https://cdn.phishx.io/docs/PhishX-Suspicious_Messages-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | COMO REMOVER SEUS DADOS PESSOAIS DA INTERNET |  | <a href="https://cdn.phishx.io/docs/PhishX-Data_Deletion-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 16
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| QUAIS SÃO AS SUAS RESPONSABILIDADES INDIVIDUAIS PARA MANTER A CIBERSEGURANÇA DA NOSSA ORGANIZAÇÃO |  | <a href="https://cdn.phishx.io/docs/PhishX-Individual_Responsibilities-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| O QUE SÃO COOKIES E COMO ELES AFETAM NOSSA PRIVACIDADE ONLINE |  | <a href="https://cdn.phishx.io/docs/PhishX-Cookies-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO CONTROLAR A SUA PEGADA DIGITAL: UM GUIA PRÁTICO |  | <a href="https://cdn.phishx.io/docs/PhishX-Digital_Footprint-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO MANTER UM ESTILO DE VIDA SEGURO NA ERA DIGITAL |  | <a href="https://cdn.phishx.io/docs/PhishX-Digital_Lifestyle-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 17
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| COMO RESPONDER A INCIDENTES DE CIBERSEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity_Incidents-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| INFORMAÇÕES QUE NÃO DEVEM SER COMPARTILHADAS POR DISPOSITIVOS MÓVEIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Information_Devices-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| O QUE SÃO INFORMAÇÕES DE IDENTIFICAÇÃO PESSOAL (IIP)? |  | <a href="https://cdn.phishx.io/docs/PhishX-Identifiable_Information-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| MELHORES PRÁTICAS E DICAS DE SEGURANÇA EM NUVENS |  | <a href="https://cdn.phishx.io/docs/PhishX-Cloud_Security-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
