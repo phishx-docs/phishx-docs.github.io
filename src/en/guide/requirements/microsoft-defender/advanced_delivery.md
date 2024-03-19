@@ -39,7 +39,7 @@ Para manter sua organização segura por padrão, o Exchange Online Protection (
 
 3. Adicionar os **Domínios**.
 
-   Adicionar nossa lista atual de domínios: [Domínios](../domains.html#separado-por-linhas)
+   Adicionar nossa lista atual de domínios FQDN - Mail From: [FQDN - MAIL FROM](../domains.html#fqdn-mail-from)
 
    **Observação**: É necessário entrar um domínio por vez no formato **phishx.io**. Pressionar **enter** para inserir o domínio.
 
