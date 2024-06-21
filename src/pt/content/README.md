@@ -182,3 +182,53 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | INFORMAÇÕES QUE NÃO DEVEM SER COMPARTILHADAS POR DISPOSITIVOS MÓVEIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Information_Devices-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | O QUE SÃO INFORMAÇÕES DE IDENTIFICAÇÃO PESSOAL (IIP)? |  | <a href="https://cdn.phishx.io/docs/PhishX-Identifiable_Information-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
 | MELHORES PRÁTICAS E DICAS DE SEGURANÇA EM NUVENS |  | <a href="https://cdn.phishx.io/docs/PhishX-Cloud_Security-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 18
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| DICAS DE SEGURANÇA PARA DIRETORES EXECUTIVOS |  | <a href="https://cdn.phishx.io/docs/PhishX-Security_Executive_Directors-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO IDENTIFICAR UM ATAQUE DE SPEAR PHISHING |  | <a href="https://cdn.phishx.io/docs/PhishX-Spear_Phishing-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| POLÍTICA DE SEGURANÇA EM NUVEM |  | <a href="https://cdn.phishx.io/docs/PhishX-Cloud_Policy-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO DENUNCIAR INCIDENTES DE SEGURANÇA |  | <a href="https://cdn.phishx.io/docs/PhishX-Report_Incidents-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 19
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| O QUE É VISHING |  | <a href="https://cdn.phishx.io/docs/PhishX-Vishing-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| PRINCIPAIS GOLPES APLICADOS NAS FESTAS DE FINAL DE ANO |  | <a href="https://cdn.phishx.io/docs/PhishX-Holidays_Threats-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| O QUE FAZER QUANDO PERDER O CONTROLE DAS MINHAS REDES SOCIAIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Control_Social_Media-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO SE PROTEGER DE GOLPES TELEFÔNICOS |  | <a href="https://cdn.phishx.io/docs/PhishX-Phone_Scams-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 20
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| POR QUE QUEREM TE HACKEAR? |  | <a href="https://cdn.phishx.io/docs/PhishX-Hack_You-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| O QUE É FRAUDE POR CORRESPONDÊNCIA E COMO VOCÊ PODE SE PROTEGER? |  | <a href="https://cdn.phishx.io/docs/PhishX-Mail_Fraud-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO IMPLEMENTAR MODELOS ADMINISTRATIVOS COM MENOS PRIVILÉGIOS |  | <a href="https://cdn.phishx.io/docs/PhishX-Least_Privileged-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| DICAS DE SEGURANÇA CIBERNÉTICA PARA PROFISSIONAIS DA SAÚDE |  | <a href="https://cdn.phishx.io/docs/PhishX-Cybersecurity_Healthcare-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 21
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| DICAS DE SEGURANÇA PARA GERENCIADORES DE SENHA |  | <a href="https://cdn.phishx.io/docs/PhishX-Password_Managers-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| MELHORES PRÁTICAS DE SEGURANÇA PARA ROTEADORES |  | <a href="https://cdn.phishx.io/docs/PhishX-Security_Routers-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| SE PROTEGENDO DE ROUBOS DE IDENTIDADE ONLINE |  | <a href="https://cdn.phishx.io/docs/PhishX-Online_Identity_Theft-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| COMO AS ATUALIZAÇÕES GARANTEM A SEGURANÇA DOS SEUS DISPOSITIVOS |  | <a href="https://cdn.phishx.io/docs/PhishX-Device_Updates-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+
+## Temporada 22
+<br>
+
+| Conteúdo | Vídeo | PDF | Quiz |
+| :--- | :---: | :---: | :---: |
+| 5 REGRAS ESSENCIAIS PARA A SEGURANÇA EM DISPOSITIVOS PESSOAIS |  | <a href="https://cdn.phishx.io/docs/PhishX-Rules_Personal_Devices-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| 5 REGRAS PARA MANTER SEU BACKUP PESSOAL ATUALIZADO |  | <a href="https://cdn.phishx.io/docs/PhishX-Rules_Backup-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| 5 REGRAS PRIMÁRIAS PARA SEGURANÇA DE APLICATIVOS |  | <a href="https://cdn.phishx.io/docs/PhishX-Rules_Applications-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
+| 5 REGRAS PARA EVITAR ATAQUES DE PHISHING |  | <a href="https://cdn.phishx.io/docs/PhishX-Rules_Phishing-pt.pdf" target="_blanc"><img src="https://cdn.phishx.io/icons/file-pdf-duotone.svg" style="height:32px!important;width:24px!important;" width="24px" height="32px" /></a> |  |
