@@ -67,7 +67,7 @@ Clicar em **Add a permission**.
 
    Clicar em **New Client Secret**.
 
-   Em **Description**, inserir: **PhishX-Azure-Contacts-2023**
+   Em **Description**, inserir: **PhishX-Azure-Contacts-2024**
 
    Em **Expires**, selecionar **730 days (24 months)**.
 
