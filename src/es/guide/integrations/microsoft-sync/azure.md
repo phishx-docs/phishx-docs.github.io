@@ -24,11 +24,11 @@ As configurações de registro de aplicações são mais fáceis através de com
 
 2. Configurar o novo aplicativo.
 
-   Em **Name**, inserir: **PhishX - Azure Contacts Integration - 2023**
+   Em **Name**, inserir: **PhishX - Azure Contacts Integration - 2024**
 
    Em **Supported account types**, escolher de acordo com a sua organização: **Accounts in this organizational directory only (phishxmsdev only - Single tenant)**
 
-   Em **Redirect URI (optional)**, escolher o tipo **Web** e inserir a url **https://auth.phishx.io/live/en/microsoftgraph**
+   Em **Redirect URI (optional)**, escolher o tipo **Web** e inserir a url com o seu subdomínio: **https://{subdomain}.phishx.io/live/en/microsoftgraph**
 
    Clicar em **Register**.
 
