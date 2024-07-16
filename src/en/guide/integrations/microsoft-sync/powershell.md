@@ -18,7 +18,7 @@ Para facilitar, você pode fazer o download dos scripts em [Scripts Powershell](
 
 1. **Configure as suas informações** em um arquivo **settings.json**.
 
-   Altere o seu subdomínio.
+   Altere o seu subdomínio e o seu domínio principal.
 
 <br>
 
@@ -26,10 +26,11 @@ Para facilitar, você pode fazer o download dos scripts em [Scripts Powershell](
 {
 "TenantJSONFile": "tenant.json",
 "APPJSONFile": "app.json",
+"MAINDOMAIN": "phishxnew.onmicrosoft.com",
 "SECRETJSONfile": "appsecret.json",
 "PhishXSubdomain": "phishx",
-"appName": "PhishX - Contacts Integration - 2023",
-"appKey": "PhishX-Contacts-2023",
+"appName": "PhishX - Contacts Integration - 2024",
+"appKey": "PhishX-Contacts-2024",
 "appHomePageUrl": "https://www.phishx.io/"
 }
 ```
@@ -67,7 +68,8 @@ catch [Microsoft.Open.Azure.AD.CommonLibrary.AadNeedAuthenticationException]
 {
    Write-Host "You're not connected.";
    Write-Output "Connecting to Azure AD"
-   Connect-AzureAD
+	Connect-AzAccount -AuthScope MicrosoftGraphEndpointResourceId
+	Connect-AzureAD
 }
 ```
 
@@ -104,8 +106,8 @@ $settingsfile = "settings.json"
 $settings = Get-Content -Raw $settingsfile | ConvertFrom-Json
 $TenantJSONFile = $settings.TenantJSONFile
 $tenant = Get-Content -Raw $TenantJSONFile | ConvertFrom-Json
-$appName = $settings.appName
-$appURI = "https://" + $settings.PhishXSubdomain + "." + $tenant.domain
+$appName = $settings.appName + "-" + $settings.random
+$appURI = "https://" + $settings.PhishXSubdomain + "." + $settings.MAINDOMAIN
 $appHomePageUrl = $settings.appHomePageUrl
 $appReplyURLs = @("https://" + $settings.PhishXSubdomain + ".phishx.io/live/en/microsoftgraph")
 Write-Output "App Registration"
@@ -116,12 +118,12 @@ $OutputURI = "URI: " + $appURI
 Write-Output $OutputURI
 if(!($myApp = Get-AzureADApplication -Filter "IdentifierUris eq '$($appURI)'" -ErrorAction SilentlyContinue))
 {
-$myApp = New-AzureADApplication -DisplayName $appName -IdentifierUris $appURI -Homepage $appHomePageUrl -ReplyUrls $appReplyURLs
+  $myApp = New-AzureADApplication -DisplayName $appName -IdentifierUris $appURI -Homepage $appHomePageUrl -ReplyUrls $appReplyURLs
 }
 $data = [pscustomobject] @{
-AppId = $myApp.AppId
-ObjectId = $myApp.ObjectId
-name = $myApp.DisplayName
+  AppId = $myApp.AppId
+  ObjectId = $myApp.ObjectId
+  name = $myApp.DisplayName
 }
 $APPJSONFile = $settings.APPJSONFile
 $data | ConvertTo-Json -Compress | Out-File $APPJSONFile
@@ -187,7 +189,7 @@ $TenantJSONFile = $settings.TenantJSONFile
 $tenantobj = Get-Content -Raw $TenantJSONFile | ConvertFrom-Json
 $tenant = $tenantobj.id
 $tenantname = $tenantobj.name
-$tenantdomain = $tenantobj.domain
+$tenantdomain = $settings.MAINDOMAIN
 $appfile = $settings.APPJSONFile
 $app = Get-Content -Raw $appfile | ConvertFrom-Json
 $client_id = $app.AppId
@@ -197,15 +199,23 @@ $secret = Get-Content -Raw $secretfile | ConvertFrom-Json
 $client_secret = $secret.Value
 $urlstate = $subdomain + "|" + $client_id + "|" + $object_id + "|" + $client_secret + "|" + $tenant + "|" + $tenantname + "|" + $tenantdomain
 $urlstateencoded = [System.Web.HttpUtility]::UrlEncode($urlstate)
-$urlredirect = "https://auth.phishx.io/live/en/microsoftgraph"
-$url = "https://login.microsoftonline.com/" + $tenant + "/adminconsent?client_id=" + $client_id + "&state=" + $urlstate + "&redirect_uri=" + $urlredirect
+$urlredirect = "https://" + $subdomain + ".phishx.io/live/en/microsoftgraph"
+$url = "https://login.microsoftonline.com/" + $tenant + "/adminconsent?client_id=" + $client_id + "&state=" + $urlstateencoded + "&redirect_uri=" + $urlredirect
 Write-Output "-------------------------------"
 Write-Output "Admin Consent URL:"
 $url | Write-Output
 Write-Output "-------------------------------"
 Write-Output "Admin Console URL:"
-$consoleurl = "https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/~/Overview/appId/" + $app.AppId + "/isMSAApp~/false"
+$consoleurl = "https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/~/CallAnAPI/appId/" + $app.AppId + "/isMSAApp~/false"
 $consoleurl | Write-Output
+Write-Output "-------------------------------"
+Write-Output "subdomain: $subdomain"
+Write-Output "tenant_id: $tenant"
+Write-Output "tenant_name: $tenantname"
+Write-Output "tenant_domain: $tenantdomain"
+Write-Output "client_id: $client_id"
+Write-Output "object_id: $object_id"
+Write-Output "Secret Value: $client_secret"
 Write-Output "-------------------------------"
 ```
 
