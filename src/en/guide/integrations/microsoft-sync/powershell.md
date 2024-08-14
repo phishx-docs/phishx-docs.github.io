@@ -1,5 +1,5 @@
 ---
-title: Microsoft Sync - Poweshell
+title: Microsoft Sync - Powershell
 tags:
   - Integrações
   - Microsoft

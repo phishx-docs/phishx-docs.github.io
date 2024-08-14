@@ -19,6 +19,7 @@ function config_locales(locale, extra) {
   var dir_slack = "slack";
   var dir_azure_ad = "azure-ad";
   var dir_microsoft_sync = "microsoft-sync";
+  var dir_microsoft_teams = "microsoft-teams";
   var dir_assistant = "assistant";
   var dir_google = "google";
   var dir_microsoft = "microsoft";
@@ -448,6 +449,18 @@ function config_locales(locale, extra) {
             ],
           },
           {
+            title: extra.microsoft_teams,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_teams}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_teams}/tenant`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_teams}/user`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_teams}/import`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_teams}/message`,
+            ],
+          },
+          {
             title: extra.slack,
             collapsable: true,
             sidebarDepth: 0,
@@ -526,6 +539,7 @@ var config_locales_en = config_locales("en", {
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
   microsoft_sync: "Microsoft Sync",
+  microsoft_teams: "Microsoft Teams",
   slack: "Slack",
   content: "Content",
   serviceWorker_message: "New content is available.",
@@ -572,6 +586,7 @@ var config_locales_es = config_locales("es", {
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
   microsoft_sync: "Microsoft Sync",
+  microsoft_teams: "Microsoft Teams",
   slack: "Slack",
   content: "Contenido",
   serviceWorker_message: "Hay contenido nuevo disponible.",
@@ -618,6 +633,7 @@ var config_locales_pt = config_locales("pt", {
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
   microsoft_sync: "Microsoft Sync",
+  microsoft_teams: "Microsoft Teams",
   slack: "Slack",
   content: "Conteúdo",
   serviceWorker_message: "Novo conteúdo disponível.",
