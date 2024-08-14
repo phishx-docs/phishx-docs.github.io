@@ -23,6 +23,7 @@ function config_locales(locale, extra) {
   var dir_assistant = "assistant";
   var dir_google = "google";
   var dir_microsoft = "microsoft";
+  var dir_new_microsoft = "new_microsoft";
   var dir_integrations = "integrations";
   var dir_content = "content";
   var dir_people = "people";
@@ -424,18 +425,18 @@ function config_locales(locale, extra) {
         collapsable: true,
         sidebarDepth: 0,
         children: [
-          {
-            title: extra.azure_ad,
-            collapsable: true,
-            sidebarDepth: 0,
-            children: [
-              `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/`,
-              `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/application_registration`,
-              `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/enterprise_applications`,
-              `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/phishx`,
-              `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/communications`,
-            ],
-          },
+          // {
+          //   title: extra.azure_ad,
+          //   collapsable: true,
+          //   sidebarDepth: 0,
+          //   children: [
+          //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/`,
+          //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/application_registration`,
+          //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/enterprise_applications`,
+          //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/phishx`,
+          //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_azure_ad}/communications`,
+          //   ],
+          // },
           {
             title: extra.microsoft_sync,
             collapsable: true,
@@ -479,16 +480,27 @@ function config_locales(locale, extra) {
             collapsable: true,
             sidebarDepth: 0,
             children: [
+              // {
+              //   title: extra.microsoft,
+              //   collapsable: true,
+              //   sidebarDepth: 0,
+              //   children: [
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/requirements`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/single`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/global`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/user`,
+              //   ],
+              // },
               {
-                title: extra.microsoft,
+                title: extra.new_microsoft,
                 collapsable: true,
                 sidebarDepth: 0,
                 children: [
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/requirements`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/single`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/global`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/user`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/settings`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/microsoft365`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/outlook`,
                 ],
               },
               {
@@ -533,6 +545,7 @@ var config_locales_en = config_locales("en", {
   google_gsuite: "Google G Suite",
   google: "Google",
   microsoft: "Microsoft",
+  new_microsoft: "Microsoft",
   assistant: "Assistant",
   microsoft_defender: "Microsoft Defender",
   microsoft_365: "Microsoft 365",
@@ -580,6 +593,7 @@ var config_locales_es = config_locales("es", {
   google: "Google",
   google_gsuite: "Google G Suite",
   microsoft: "Microsoft",
+  new_microsoft: "Microsoft",
   assistant: "Assistant",
   microsoft_defender: "Microsoft Defender",
   microsoft_365: "Microsoft 365",
@@ -627,6 +641,7 @@ var config_locales_pt = config_locales("pt", {
   google: "Google",
   google_gsuite: "Google G Suite",
   microsoft: "Microsoft",
+  new_microsoft: "Microsoft",
   assistant: "Assistant",
   microsoft_defender: "Microsoft Defender",
   microsoft_365: "Microsoft 365",
