@@ -6,12 +6,13 @@ tags:
   - Alvos
   - Contatos
   - Microsoft 365
-  - Google G Suite
+  - Workspace
 ---
+
 # Importar diretório
 
 ::: tip Importar todos os contatos
-Você pode importar todos os contatos de seus diretórios do Google G Suite ou do Microsoft 365.
+Você pode importar todos os contatos de seus diretórios do Google Workspace ou do Microsoft 365.
 :::
 
 1. Acessar o menu **Pessoas** -> **Listas**.

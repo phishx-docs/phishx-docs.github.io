@@ -3,9 +3,10 @@ title: Instalação Global
 tags:
   - Integrações
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Instalação Global
 
 ::: tip Abordagem recomendada

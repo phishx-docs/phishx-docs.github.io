@@ -1,12 +1,13 @@
 ---
-title: Google G Suite
+title: Google Workspace
 tags:
   - Requisitos
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
-# Google G Suite
+
+# Google Workspace
 
 ## Resumo
 
@@ -18,10 +19,10 @@ tags:
 
    [Admin Console](https://admin.google.com)
 
-   ![Admin Console](https://cdn.phishx.io/phishx-docs/images/google_admin_01.webp)
+   ![Admin Console](https://cdn.phishx.io/phishx-docs/images/google_workplace_001.png)
 
 2. Acessar as **Configurações do Gmail** no menu: **Apps -> Google Workspace -> Gmail**.
 
    [Configurações do Gmail](https://admin.google.com/u/0/ac/appsettings/740348119625)
 
-   ![Configurações do Gmail](https://cdn.phishx.io/phishx-docs/images/google_admin_02.webp)
+   ![Configurações do Gmail](https://cdn.phishx.io/phishx-docs/images/google_workplace_002.png)

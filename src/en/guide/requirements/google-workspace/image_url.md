@@ -1,11 +1,12 @@
 ---
-title: Lista de permissões de proxy do URL da imagem
+title: Proxy de Imagem
 tags:
   - Requisitos
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Lista de permissões de proxy do URL da imagem
 
 ## Resumo
@@ -18,7 +19,7 @@ tags:
 
    [Acesso do usuário final](https://admin.google.com/u/0/ac/apps/gmail/enduseraccess)
 
-   ![Acesso do usuário final](https://cdn.phishx.io/phishx-docs/images/google_admin_03.webp)
+   ![Acesso do usuário final](https://cdn.phishx.io/phishx-docs/images/google_workplace_003.png)
 
 2. Editar **Lista de permissões de proxy do URL da imagem** -> **Digite os padrões do URL da imagem. Os URLs correspondentes ignoram o proxy de imagem.**.
 
@@ -26,6 +27,6 @@ tags:
 
 3. Adicionar nossa lista atual de domínios: [Domínios](../domains.html#separado-por-linhas)
 
-   ![Lista de permissões de proxy do URL da imagem](https://cdn.phishx.io/phishx-docs/images/google_admin_04.webp)
+   ![Lista de permissões de proxy do URL da imagem](https://cdn.phishx.io/phishx-docs/images/google_workplace_004.png)
 
 4. Clicar **Salvar**.

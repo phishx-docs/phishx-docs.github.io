@@ -12,7 +12,7 @@ function config_locales(locale, extra) {
   var dir_guide = "guide";
   var dir_terms = "terms";
   var dir_requirements = "requirements";
-  var dir_google_gsuite = "google-gsuite";
+  var dir_google_workspace = "google-workspace";
   var dir_microsoft_defender = "microsoft-defender";
   var dir_microsoft_365 = "microsoft-365";
   var dir_microsoft_outlook = "microsoft-outlook";
@@ -104,14 +104,15 @@ function config_locales(locale, extra) {
             ],
           },
           {
-            title: extra.google_gsuite,
+            title: extra.google_workspace,
             collapsable: true,
             sidebarDepth: 0,
             children: [
-              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/`,
-              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/image_url`,
-              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/e-mail_whitelist`,
-              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_gsuite}/spam`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_workspace}/`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_workspace}/image_url`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_workspace}/e-mail_whitelist`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_workspace}/inbound_gateway`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_google_workspace}/spam`,
             ],
           },
           {
@@ -542,7 +543,7 @@ var config_locales_en = config_locales("en", {
   requirements: "Requirements",
   global: "General",
   intregrations: "Intregrations",
-  google_gsuite: "Google G Suite",
+  google_workspace: "Google Workspace",
   google: "Google",
   microsoft: "Microsoft",
   new_microsoft: "Microsoft",
@@ -591,7 +592,7 @@ var config_locales_es = config_locales("es", {
   global: "General",
   intregrations: "Intregraciones",
   google: "Google",
-  google_gsuite: "Google G Suite",
+  google_workspace: "Google Workspace",
   microsoft: "Microsoft",
   new_microsoft: "Microsoft",
   assistant: "Assistant",
@@ -639,7 +640,7 @@ var config_locales_pt = config_locales("pt", {
   global: "Gerais",
   intregrations: "Integrações",
   google: "Google",
-  google_gsuite: "Google G Suite",
+  google_workspace: "Google Workspace",
   microsoft: "Microsoft",
   new_microsoft: "Microsoft",
   assistant: "Assistant",

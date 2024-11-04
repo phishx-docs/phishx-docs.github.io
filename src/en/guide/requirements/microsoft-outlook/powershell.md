@@ -105,6 +105,11 @@ Add-Content $localfile 'technews.rest'
 Add-Content $localfile 'techwave.pics'
 Add-Content $localfile 'traveltips.quest'
 Add-Content $localfile 'trendalert.store'
+Add-Content $localfile 'businessuniversity.tech'
+Add-Content $localfile 'trainingportal.me'
+Add-Content $localfile 'cloudacademy.live'
+Add-Content $localfile 'microlearning.academy'
+Add-Content $localfile 'digitaleducation.digital'
 
 ### REGISTRY
 ## https://support.microsoft.com/en-us/topic/how-to-deploy-junk-email-settings-such-as-the-safe-senders-list-by-using-group-policy-d17e49fb-af72-c796-6295-4da6d89ef5fa

@@ -4,9 +4,10 @@ title: Google Gmail
 tags:
   - Integrações
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Google Gmail
 
 ::: tip Ajude seu time de segurança
@@ -21,12 +22,13 @@ PhishX Assistant ajuda as pessoas a analisar ameaças e reportá-las à equipe d
 
    [Google Workspace Marketplace](https://workspace.google.com/marketplace/)
 
-| Método | Descrição |
-| :--- | :--- |
-| [Pessoal](single/) | Cada pessoa pode adicionar o complemento manualmente. |
-| [Global](global/) | O administrador pode disponibilizar e instalar automaticamente para todos os colaboradores. |
-| [Requisitos](requirements/) | Requisitos para utilizar o complemento. |
-| [Utilização](user/) | Como usar o complemento. |
+| Método                      | Descrição                                                                                   |
+| :-------------------------- | :------------------------------------------------------------------------------------------ |
+| [Pessoal](single/)          | Cada pessoa pode adicionar o complemento manualmente.                                       |
+| [Global](global/)           | O administrador pode disponibilizar e instalar automaticamente para todos os colaboradores. |
+| [Requisitos](requirements/) | Requisitos para utilizar o complemento.                                                     |
+| [Utilização](user/)         | Como usar o complemento.                                                                    |
+
 <br>
 
 2. **Verifique seu complemento** no Google Gmail.

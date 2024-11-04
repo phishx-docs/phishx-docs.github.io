@@ -1,11 +1,12 @@
 ---
-title: Lista de e-mails permitidos
+title: E-mails Permitidos
 tags:
   - Requisitos
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Lista de e-mails permitidos
 
 ## Resumo
@@ -16,9 +17,9 @@ tags:
 
 1. Ir para **Spam, phishing e malware**.
 
-   [Configurações avançadas](https://admin.google.com/u/0/ac/apps/gmail/spam)
+   [Spam, phishing e malware](https://admin.google.com/u/0/ac/apps/gmail/spam)
 
-   ![Configurações avançadas](https://cdn.phishx.io/phishx-docs/images/google_admin_05.webp)
+   ![Spam, phishing e malware](https://cdn.phishx.io/phishx-docs/images/google_workplace_005.png)
 
 2. Editar **Lista de e-mails permitidos**.
 
@@ -26,6 +27,6 @@ tags:
 
 3. Adicionar nossa lista atual de IPs: [IPs](../ips.html#separado-por-virgulas)
 
-   ![Lista de e-mails permitidos](https://cdn.phishx.io/phishx-docs/images/google_admin_06.webp)
+   ![Lista de e-mails permitidos](https://cdn.phishx.io/phishx-docs/images/google_workplace_006.png)
 
 4. Clicar **Salvar**.

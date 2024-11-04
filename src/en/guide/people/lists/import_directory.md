@@ -6,12 +6,13 @@ tags:
   - Targets
   - Contacts
   - Microsoft 365
-  - Google G Suite
+  - Google Workspace
 ---
+
 # Import directory
 
 ::: tip Import all contacts
-You can import all contacts from your Google G Suite or Microsoft 365 directories.
+You can import all contacts from your Google Workspace or Microsoft 365 directories.
 :::
 
 1. Access the menu **People** -> **Lists**.
@@ -42,4 +43,4 @@ You can import all contacts from your Google G Suite or Microsoft 365 directorie
 
    ![Attributes](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_import_03.webp)
 
-7. Your contacts will soon be available in  **People** -> **Lists**.
+7. Your contacts will soon be available in **People** -> **Lists**.

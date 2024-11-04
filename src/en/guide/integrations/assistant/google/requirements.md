@@ -4,9 +4,10 @@ title: Requisitos
 tags:
   - Integrações
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Requisitos
 
 ::: tip Apenas clientes oficiais
@@ -17,16 +18,17 @@ Os complementos do Google Workspace só funcionam em clientes oficiais da Google
 
    [Google Workspace Add-ons](https://workspace.google.com/products/add-ons/)
 
-| Plataforma | Versão |
-| :--- | :--- |
-| Desktop (Web) | Google Gmail. |
-| Google Gmail no iOS | Disponível na App Store. |
+| Plataforma              | Versão                     |
+| :---------------------- | :------------------------- |
+| Desktop (Web)           | Google Gmail.              |
+| Google Gmail no iOS     | Disponível na App Store.   |
 | Google Gmail no Android | Disponível na Google Play. |
+
 <br>
 
-   **Observação**: Algumas funcionalidades podem não estar disponíveis de acordo com a plataforma.
+**Observação**: Algumas funcionalidades podem não estar disponíveis de acordo com a plataforma.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_11.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_11.png)
 
 2. Informar para a PhishX quais **domínios são permitidos**.
 

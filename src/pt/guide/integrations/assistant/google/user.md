@@ -4,9 +4,10 @@ title: Utilização
 tags:
   - Integrações
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Utilização
 
 ::: tip Ajude seu time de segurança
@@ -15,47 +16,47 @@ PhishX Assistant ajuda as pessoas a analisar ameaças e reportá-las à equipe d
 
 ## Módulos
 
-| Módulo | Descrição |
-| :--- | :--- |
+| Módulo                      | Descrição                                                   |
+| :-------------------------- | :---------------------------------------------------------- |
 | [Informações](#informacoes) | Informações adicionais de certificados e links da mensagem. |
-| [Analisar](#analisar) | Solicitar análise dos links pela PhishX. |
-| [Relatar](#relatar) | Relatar mensagem suspeita ao seu time de cibersegurança. |
-| [Baixar](#baixar) | Baixar o conteúdo ou cabeçalhos da mensagem para análise. |
+| [Analisar](#analisar)       | Solicitar análise dos links pela PhishX.                    |
+| [Relatar](#relatar)         | Relatar mensagem suspeita ao seu time de cibersegurança.    |
+| [Baixar](#baixar)           | Baixar o conteúdo ou cabeçalhos da mensagem para análise.   |
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_11.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_11.png)
 
 ## Informações
 
-   Você pode obter **informações adicionais** dos links e certificados da mensagem.
+Você pode obter **informações adicionais** dos links e certificados da mensagem.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_12.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_12.png)
 
 ## Analisar
 
-   Você pode **solicitar a análise** dos links da mensagem para a **PhishX**.
+Você pode **solicitar a análise** dos links da mensagem para a **PhishX**.
 
-   Executamos uma **análise na reputação** e **boas práticas de segurança** para recomendar se você deveria **confiar ou não** na mensagem.
+Executamos uma **análise na reputação** e **boas práticas de segurança** para recomendar se você deveria **confiar ou não** na mensagem.
 
-   **Observação**: Esta ação consultará online a PhishX, enviando somente os dados necessários da mensagem.
+**Observação**: Esta ação consultará online a PhishX, enviando somente os dados necessários da mensagem.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_13.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_13.png)
 
 ## Relatar
 
-   Você pode relatar **mensagens suspeitas** para o seu time analisar.
+Você pode relatar **mensagens suspeitas** para o seu time analisar.
 
-   Caso mensagem seja uma **simulação aprovada**, você receberá um **agradecimento especial** por ter identificado e relatado a mensagem.
+Caso mensagem seja uma **simulação aprovada**, você receberá um **agradecimento especial** por ter identificado e relatado a mensagem.
 
-  **Observação**: Esta ação consultará online a PhishX, enviando somente os dados necessários da mensagem.
+**Observação**: Esta ação consultará online a PhishX, enviando somente os dados necessários da mensagem.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_14.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_14.png)
 
 ## Baixar
 
-   Para baixar o conteúdo da mensagem no formato HTML, clicar em **Código**.
+Para baixar o conteúdo da mensagem no formato HTML, clicar em **Código**.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_16.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_16.png)
 
-   Para baixar os cabeçalhos da mensagem no formato JSON, clicar em **Cabeçalhos**.
+Para baixar os cabeçalhos da mensagem no formato JSON, clicar em **Cabeçalhos**.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_17.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_17.png)

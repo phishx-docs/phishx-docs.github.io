@@ -6,12 +6,13 @@ tags:
   - Objetos
   - Contactos
   - Microsoft 365
-  - Google G Suite
+  - Google Workspace
 ---
+
 # Importar directorio
 
 ::: tip Importar todos los contactos
-Puedes importar todos los contactos de tus directorios de Google G Suite o Microsoft 365.
+Puedes importar todos los contactos de tus directorios de Google Workspace o Microsoft 365.
 :::
 
 1. Acceder al menú **Personas** -> **Listas**.

@@ -15,7 +15,7 @@ All PhishX Domains are exclusive and secure.
 <br>
 
 ```
-appstudio.shop banknow.cloud datagov.click dealsnews.club festivalnews.online goonline.help linkdata.live mailnews.store mailto.site marketonline.one messageapp.store newstoday.click peoplex.io,phishing.com.br phishx.com phishx.com.br phishx.io privacynow.click professionalopportunity.store securedevice.site securityapp.cloud sharemessages.online techtips.one techtips.shop travelforme.cloud varejoonline.club viagemagora.xyz webportal.one appcentral.info apphub.lat bizconnect.click cloudconnect.cfd datalink.lol datasync.store datatips.pro devicecloud.life deviceguard.pro infoportal.live linkhub.digital mailvault.site messagevault.store newsbyte.click newsflash.click newslink.digital onlineguide.one privacyportal.store privatemessage.cloud privatemessage.lat professionalhub.click proopportunity.one quicktips.site securetech.lat shopsmart.bond smartdevice.live technews.rest techwave.pics traveltips.quest trendalert.store
+appstudio.shop banknow.cloud datagov.click dealsnews.club festivalnews.online goonline.help linkdata.live mailnews.store mailto.site marketonline.one messageapp.store newstoday.click peoplex.io,phishing.com.br phishx.com phishx.com.br phishx.io privacynow.click professionalopportunity.store securedevice.site securityapp.cloud sharemessages.online techtips.one techtips.shop travelforme.cloud varejoonline.club viagemagora.xyz webportal.one appcentral.info apphub.lat bizconnect.click cloudconnect.cfd datalink.lol datasync.store datatips.pro devicecloud.life deviceguard.pro infoportal.live linkhub.digital mailvault.site messagevault.store newsbyte.click newsflash.click newslink.digital onlineguide.one privacyportal.store privatemessage.cloud privatemessage.lat professionalhub.click proopportunity.one quicktips.site securetech.lat shopsmart.bond smartdevice.live technews.rest techwave.pics traveltips.quest trendalert.store businessuniversity.tech trainingportal.me cloudacademy.live microlearning.academy digitaleducation.digital
 ```
 
 ### Separated by semi-colons
@@ -23,7 +23,7 @@ appstudio.shop banknow.cloud datagov.click dealsnews.club festivalnews.online go
 <br>
 
 ```
-appstudio.shop;banknow.cloud;datagov.click;dealsnews.club;festivalnews.online;goonline.help;linkdata.live;mailnews.store;mailto.site;marketonline.one;messageapp.store;newstoday.click;peoplex.io,phishing.com.br;phishx.com;phishx.com.br;phishx.io;privacynow.click;professionalopportunity.store;securedevice.site;securityapp.cloud;sharemessages.online;techtips.one;techtips.shop;travelforme.cloud;varejoonline.club;viagemagora.xyz;webportal.one;appcentral.info;apphub.lat;bizconnect.click;cloudconnect.cfd;datalink.lol;datasync.store;datatips.pro;devicecloud.life;deviceguard.pro;infoportal.live;linkhub.digital;mailvault.site;messagevault.store;newsbyte.click;newsflash.click;newslink.digital;onlineguide.one;privacyportal.store;privatemessage.cloud;privatemessage.lat;professionalhub.click;proopportunity.one;quicktips.site;securetech.lat;shopsmart.bond;smartdevice.live;technews.rest;techwave.pics;traveltips.quest;trendalert.store
+appstudio.shop;banknow.cloud;datagov.click;dealsnews.club;festivalnews.online;goonline.help;linkdata.live;mailnews.store;mailto.site;marketonline.one;messageapp.store;newstoday.click;peoplex.io,phishing.com.br;phishx.com;phishx.com.br;phishx.io;privacynow.click;professionalopportunity.store;securedevice.site;securityapp.cloud;sharemessages.online;techtips.one;techtips.shop;travelforme.cloud;varejoonline.club;viagemagora.xyz;webportal.one;appcentral.info;apphub.lat;bizconnect.click;cloudconnect.cfd;datalink.lol;datasync.store;datatips.pro;devicecloud.life;deviceguard.pro;infoportal.live;linkhub.digital;mailvault.site;messagevault.store;newsbyte.click;newsflash.click;newslink.digital;onlineguide.one;privacyportal.store;privatemessage.cloud;privatemessage.lat;professionalhub.click;proopportunity.one;quicktips.site;securetech.lat;shopsmart.bond;smartdevice.live;technews.rest;techwave.pics;traveltips.quest;trendalert.store;businessuniversity.tech;trainingportal.me;cloudacademy.live;microlearning.academy;digitaleducation.digital
 ```
 
 ### Separated by lines
@@ -88,6 +88,11 @@ technews.rest/
 techwave.pics/
 traveltips.quest/
 trendalert.store/
+businessuniversity.tech/
+trainingportal.me/
+cloudacademy.live/
+microlearning.academy/
+digitaleducation.digital/
 ```
 
 ### Safe Senders List
@@ -152,6 +157,11 @@ trendalert.store/
 @techwave.pics
 @traveltips.quest
 @trendalert.store
+@businessuniversity.tech
+@trainingportal.me
+@cloudacademy.live
+@microlearning.academy
+@digitaleducation.digital
 ```
 
 ## FQDN - MAIL FROM
@@ -208,3 +218,8 @@ trendalert.store/
 | trendalert.store              | em7826.trendalert.store           |
 | varejoonline.club             | phx.varejoonline.club             |
 | webportal.one                 | phx.webportal.one                 |
+| businessuniversity.tech       | phx.businessuniversity.tech       |
+| trainingportal.me             | phx.trainingportal.me             |
+| cloudacademy.live             | phx.cloudacademy.live             |
+| microlearning.academy         | phx.microlearning.academy         |
+| digitaleducation.digital      | phx.digitaleducation.digital      |

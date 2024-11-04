@@ -3,9 +3,10 @@ title: Instalação Manual
 tags:
   - Integrações
   - Google
-  - G Suite
+  - Workspace
   - Gmail
 ---
+
 # Instalação Manual
 
 ::: tip Replicação para outros dispositivos e plataformas
@@ -58,4 +59,4 @@ Após a instalação de um suplemento, ele aparecerá nas demais plataformas de 
 
 10. Abrir uma **mensagem** para analisar.
 
-   ![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_11.png)
+![Google Gmail](https://cdn.phishx.io/phishx-docs/images/google_assistant_11.png)
