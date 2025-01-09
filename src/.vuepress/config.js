@@ -19,6 +19,7 @@ function config_locales(locale, extra) {
   var dir_slack = "slack";
   var dir_azure_ad = "azure-ad";
   var dir_microsoft_sync = "microsoft-sync";
+  var dir_google_sync = "google-sync";
   var dir_microsoft_teams = "microsoft-teams";
   var dir_assistant = "assistant";
   var dir_google = "google";
@@ -439,6 +440,15 @@ function config_locales(locale, extra) {
           //   ],
           // },
           {
+            title: extra.google_sync,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_sync}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_sync}/settings`,
+            ],
+          },
+          {
             title: extra.microsoft_sync,
             collapsable: true,
             sidebarDepth: 0,
@@ -552,6 +562,7 @@ var config_locales_en = config_locales("en", {
   microsoft_365: "Microsoft 365",
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
+  google_sync: "Google Sync",
   microsoft_sync: "Microsoft Sync",
   microsoft_teams: "Microsoft Teams",
   slack: "Slack",
@@ -600,6 +611,7 @@ var config_locales_es = config_locales("es", {
   microsoft_365: "Microsoft 365",
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
+  google_sync: "Google Sync",
   microsoft_sync: "Microsoft Sync",
   microsoft_teams: "Microsoft Teams",
   slack: "Slack",
@@ -648,6 +660,7 @@ var config_locales_pt = config_locales("pt", {
   microsoft_365: "Microsoft 365",
   microsoft_outlook: "Microsoft Outlook",
   azure_ad: "Azure AD",
+  google_sync: "Google Sync",
   microsoft_sync: "Microsoft Sync",
   microsoft_teams: "Microsoft Teams",
   slack: "Slack",
