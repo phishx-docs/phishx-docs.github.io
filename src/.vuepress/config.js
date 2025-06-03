@@ -21,6 +21,7 @@ function config_locales(locale, extra) {
   var dir_microsoft_sync = "microsoft-sync";
   var dir_google_sync = "google-sync";
   var dir_microsoft_teams = "microsoft-teams";
+  var dir_google_chat = "google-chat";
   var dir_assistant = "assistant";
   var dir_google = "google";
   var dir_microsoft = "microsoft";
@@ -449,6 +450,18 @@ function config_locales(locale, extra) {
             ],
           },
           {
+            title: extra.google_chat,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_chat}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_chat}/tenant`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_chat}/user`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_chat}/message`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_google_chat}/syntax`,
+            ],
+          },
+          {
             title: extra.microsoft_sync,
             collapsable: true,
             sidebarDepth: 0,
@@ -565,6 +578,7 @@ var config_locales_en = config_locales("en", {
   google_sync: "Google Sync",
   microsoft_sync: "Microsoft Sync",
   microsoft_teams: "Microsoft Teams",
+  google_chat: "Google Chat",
   slack: "Slack",
   content: "Content",
   serviceWorker_message: "New content is available.",
@@ -614,6 +628,7 @@ var config_locales_es = config_locales("es", {
   google_sync: "Google Sync",
   microsoft_sync: "Microsoft Sync",
   microsoft_teams: "Microsoft Teams",
+  google_chat: "Google Chat",
   slack: "Slack",
   content: "Contenido",
   serviceWorker_message: "Hay contenido nuevo disponible.",
@@ -663,6 +678,7 @@ var config_locales_pt = config_locales("pt", {
   google_sync: "Google Sync",
   microsoft_sync: "Microsoft Sync",
   microsoft_teams: "Microsoft Teams",
+  google_chat: "Google Chat",
   slack: "Slack",
   content: "Conteúdo",
   serviceWorker_message: "Novo conteúdo disponível.",
