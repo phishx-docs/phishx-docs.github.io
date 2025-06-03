@@ -4,9 +4,9 @@
 set -e
 
 # commit
-DATE=`date "+%Y%m%d-%H"`
+DATE=$(date "+%Y%m%d-%H")
 git checkout gh-pages
-cp -R ../phishx-docs.github.io-temp/dist/* ./
+cp -R ../phishx-docs.github.io-temp/* ./
 git add .
 git commit -m deploy_$DATE
 git push https://phishx-docs:$GHDOCSTOKEN@github.com/phishx-docs/phishx-docs.github.io.git gh-pages
