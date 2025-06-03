@@ -15,11 +15,11 @@ Cada usuário cadastrado consome uma assinatura válida do seu contrato com a Go
 
 ## Configurações
 
-| Método                | Descrição                          |
-| :-------------------- | :--------------------------------- |
-| [Tenant](tenant/)     | Configurações do Google Workspace. |
-| [Usuário](user/)      | Configurações dos Usuários.        |
-| [Formatação](syntax/) | Formatação de mensages.            |
-| [Mensagem](message/)  | Envio de mensagens de teste.       |
+| Método                      | Descrição                          |
+| :-------------------------- | :--------------------------------- |
+| [Google Workspace](tenant/) | Configurações do Google Workspace. |
+| [Usuário](user/)            | Configurações dos Usuários.        |
+| [Mensagem](message/)        | Envio de mensagens de teste.       |
+| [Formatação](syntax/)       | Formatação de mensages.            |
 
 <br>

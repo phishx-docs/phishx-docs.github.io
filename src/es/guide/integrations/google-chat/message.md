@@ -8,8 +8,8 @@ tags:
 
 # Google Chat - Mensagem
 
-::: tip Usuário e Importação
-Você precisa ter cadastrado pelo menos um usuário e ter acesso a outro usuário para enviar uma mensagem de teste.
+::: tip Formatação de Mensagens
+Com o Google Chat, você pode adicionar formatação básica a uma mensagem de texto, incluindo negrito, itálico e tachado, usando um pequeno subconjunto da sintaxe Markdown.
 :::
 
 ## Configurações
@@ -20,14 +20,14 @@ Você precisa ter cadastrado pelo menos um usuário e ter acesso a outro usuári
 
    Escolher o **Usuário** e clicar no menu de opções em **Mensagem**.
 
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_401.png)
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_201.png)
 
 2. Preencher o **e-mail** da pessoa que vai receber e a **mensagem**.
 
    Clicar em **Enviar**.
 
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_402.png)
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_202.png)
 
 3. A pessoa vai receber a mensagem em seu **Google Chat**.
 
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_403.png)
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_203.png)

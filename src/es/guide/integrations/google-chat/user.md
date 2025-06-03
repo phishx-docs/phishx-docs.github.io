@@ -18,22 +18,18 @@ Você pode cadastrar múltiplos usuários que servirão de "vozes" para suas men
 
    Ir em **Integrações**, **Google Chat** e **Usuários**.
 
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_201.png)
+   Clicar em **Ações** e **Adicionar**.
 
-   Clicar em **Ações** e **Autenticar**.
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_101.png)
 
-2. Autenticar com o **usuário** que vai enviar as mensagens e campanhas.
+2. Inserir o **email** do contato a ser utilizado e os **domínios** (separados por espaços) que poderão receber mesnagens desse usuário.
 
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_202.png)
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_102.png)
 
-   Clicar em **Aceitar**.
+   Clicar em **Atualizar**.
 
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_203.png)
-
-3. Acessar a **Plataforma PhishX**.
+3. Opcionalmente, verificar os **usuários** e **domínios** na **Plataforma PhishX**.
 
    Ir em **Integrações**, **Google Chat** e **Usuários**.
 
-   Visualizar o novo **usuário**.
-
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_204.png)
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_103.png)

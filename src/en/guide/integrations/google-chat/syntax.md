@@ -1,33 +1,23 @@
 ---
-title: Google Chat - Importar Contatos
+title: Google Chat - Formatação de Mensagens
 tags:
   - Integrações
   - Google
   - Chat
 ---
 
-# Google Chat - Importar Contatos
+# Google Chat - Formatação de Mensagens
 
-::: tip Importação pode levar alguns minutos
-Dependendo do volume de usuários e canais, a importação pode levar alguns minutos para concluir. Você receberá uma notificação e poderá acompanhar as novas listas de contatos.
+::: tip Formatação de Mensagens
+Com o Google Chat, você pode adicionar formatação básica a uma mensagem de texto, incluindo negrito, itálico e tachado, usando um pequeno subconjunto da sintaxe Markdown.
 :::
 
-## Configurações
+[Referência](https://developers.google.com/workspace/chat/format-messages)
 
-1. Acessar a **Plataforma PhishX**.
+## Formatação
 
-   Ir em **Integrações**, **Google Chat** e **Ambientes**.
-
-   Escolher o **Ambiente** e clicar no menu de opções em **Importar**.
-
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_301.png)
-
-2. Após alguns minutos, você receberá a notificação de importação concluída.
-
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_303.png)
-
-3. Você poderá visualizar as novas listas de contatos em **Pessoas** e **Listas**.
-
-   Para facilitar, você pode filtrar pelo nome **Google Chat**.
-
-   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/microsoft_teams_304.png)
+| Formatação | Símbolo Google Chat | Exemplo Resultante |
+| :--------- | :------------------ | :----------------- |
+| Negrito    | `*PhishX*`          | **PhishX**         |
+| Itálico    | `_PhishX_`          | _PhishX_           |
+| Tachado    | `~PhishX~`          | ~~PhishX~~         |
