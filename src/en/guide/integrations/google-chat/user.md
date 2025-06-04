@@ -33,3 +33,7 @@ Você pode cadastrar múltiplos usuários que servirão de "vozes" para suas men
    Ir em **Integrações**, **Google Chat** e **Usuários**.
 
    ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_103.png)
+
+4. **OBS**: Usuários recém criados podem ser adicionados, embora o envio de mensagens pode ser necessário aguardar a replicação interna do seu ambiente Google. Recomendamos testar o envio de mensagens de teste na plataforma antes do envio oficial de uma campanha. Essa replicação pode levar até algumas horas.
+
+   ![Google Chat](https://cdn.phishx.io/phishx-docs/images/google_chat_104.png)
