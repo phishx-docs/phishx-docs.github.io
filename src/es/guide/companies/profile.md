@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Perfil de la empresa
 
 ::: tip Redefina las configuraciones

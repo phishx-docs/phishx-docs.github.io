@@ -7,6 +7,7 @@ tags:
   - Azure
   - AD
 ---
+
 # Communications
 
 ::: tip Tip
@@ -14,9 +15,10 @@ All PhishX Web Servers uses SSL Certificates.
 :::
 
 ## Users
+
 <br>
 
-| SOURCE | DESTINATION | SERVICE |
-| :--- | :--- | :---: |
-| ANY | PHISHX WEB SERVERS | 443/TCP (HTTPS) |
-| ANY | MICROSOFT SERVERS | 443/TCP (HTTPS) |
+| SOURCE | DESTINATION        |     SERVICE     |
+| :----- | :----------------- | :-------------: |
+| ANY    | PHISHX WEB SERVERS | 443/TCP (HTTPS) |
+| ANY    | MICROSOFT SERVERS  | 443/TCP (HTTPS) |

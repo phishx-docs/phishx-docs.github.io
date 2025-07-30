@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Company profile
 
 ::: tip Reset the settings
@@ -12,7 +13,7 @@ You can reset company settings at any time.
 
 Manage your company profile.
 
-1. Access the menu **Settings** -> **Companies**  -> **Profile**.
+1. Access the menu **Settings** -> **Companies** -> **Profile**.
 
 2. In **Informations**:
 

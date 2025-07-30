@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Listas aleatorias
 
 ::: tip Múltiplas campañhas
@@ -28,7 +29,7 @@ Generar nuevas listas aleatorias a partir de una lista.
 
    En **Listas** definir la cantidad de nuevas listas.
 
-   Opcionalmente en *** Límite **** definir la cantidad máxima de contactos por lista.
+   Opcionalmente en **\* Límite \*\*** definir la cantidad máxima de contactos por lista.
 
    Hacer clic en **Enviar**.
 

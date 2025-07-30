@@ -8,6 +8,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Personal
 
 ## TL;DR
@@ -24,11 +25,12 @@ tags:
 
    ![Microsoft Outlook](https://cdn.phishx.io/phishx-docs/images/phishx_settings_docs_outlook_safe_senders_list_02.jpg)
 
-| Option | Description |
-| :--- | :--- |
-| Download Pictures | Only download pictures for this message. |
-| Add Sender to Safe Senders List | Download and trust for any message from this sender. |
+| Option                              | Description                                                           |
+| :---------------------------------- | :-------------------------------------------------------------------- |
+| Download Pictures                   | Only download pictures for this message.                              |
+| Add Sender to Safe Senders List     | Download and trust for any message from this sender.                  |
 | Add the domain to Safe Senders List | Download and trust for any message from this domain. **Best option**. |
+
 <br>
 
 3. **View** your message with all the pictures and corrected content.

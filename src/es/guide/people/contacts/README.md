@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Contatos
 
 ::: tip Informaciones consolidadas

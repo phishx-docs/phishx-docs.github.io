@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Exportar
 
 ::: tip Exporta el indicador listo o los resultados completos

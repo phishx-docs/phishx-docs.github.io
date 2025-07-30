@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Branding
 
 ::: tip Brand visual identity

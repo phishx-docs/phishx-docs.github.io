@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Tokens
 
 ::: tip Revoke or renew access
@@ -12,7 +13,7 @@ You can revoke or renew any user or API access.
 
 Manage user and API tokens.
 
-1. Access the menu **Settings** -> **Companies**  -> **Tokens**.
+1. Access the menu **Settings** -> **Companies** -> **Tokens**.
 
    ![Tokens](https://cdn.phishx.io/phishx-docs/images/phishx_companies_tokens_01.webp)
 

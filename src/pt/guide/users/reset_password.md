@@ -5,6 +5,7 @@ tags:
   - Times
   - Permissões
 ---
+
 # Reiniciar sua senha
 
 ::: tip Várias formas de acessar
@@ -34,7 +35,7 @@ Reiniciar a senha do seu usuário.
 
    Clicar **Reiniciar**.
 
-  ![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
+![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
 
 4. Acessar o e-mail de reset de senhas.
 

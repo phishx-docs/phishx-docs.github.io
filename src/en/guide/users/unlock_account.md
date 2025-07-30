@@ -5,6 +5,7 @@ tags:
   - Teams
   - Permissions
 ---
+
 # Unlock your user
 
 ::: tip Several ways to access
@@ -34,7 +35,7 @@ How to unlock your user.
 
    Click **Unlock**.
 
-  ![Unlock](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
+![Unlock](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
 
 4. Access your account unlock e-mail.
 

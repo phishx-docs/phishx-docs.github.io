@@ -7,6 +7,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Registro
 
 ## Resumen
@@ -31,7 +32,7 @@ Windows Registry Editor Version 5.00
 "JunkMailSafeSendersFile"="d:\\SafeSenders.txt"
 ```
 
-   ![Registro](https://cdn.phishx.io/phishx-docs/images/phishx_settings_docs_safe_senders_list_02.jpg)
+![Registro](https://cdn.phishx.io/phishx-docs/images/phishx_settings_docs_safe_senders_list_02.jpg)
 
 3. Defina esas configuraciones como estandar y aplicalas a **todos los usuarios**.
 

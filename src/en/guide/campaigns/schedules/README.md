@@ -5,6 +5,7 @@ tags:
   - Campaigns
   - Schedules
 ---
+
 # Schedules
 
 ::: tip Change your schedules
@@ -13,16 +14,17 @@ You can resend or change any schedule if necessary.
 
 Manage submitted schedules.
 
-| Action | Description |
-| :--- | :--- |
-| View | View the schedule's message. |
-| [Edit](edit_schedule) | Edit the schedule. |
-| Disable | Disable the schedule. |
-| Delete | Remove the schedule. |
-| Delete all | Remove all unsent schedules. |
+| Action                | Description                  |
+| :-------------------- | :--------------------------- |
+| View                  | View the schedule's message. |
+| [Edit](edit_schedule) | Edit the schedule.           |
+| Disable               | Disable the schedule.        |
+| Delete                | Remove the schedule.         |
+| Delete all            | Remove all unsent schedules. |
+
 <br>
 
-   ![Schedules](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)
+![Schedules](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)
 
 ## View the Schedule's Message
 

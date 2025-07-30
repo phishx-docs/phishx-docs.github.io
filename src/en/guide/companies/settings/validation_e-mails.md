@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Validations e-mails
 
 ::: tip Validation team

@@ -5,6 +5,7 @@ tags:
   - Campaigns
   - Messages
 ---
+
 # Messages
 
 ::: tip Resend your messages
@@ -13,16 +14,17 @@ You can resend any message if necessary.
 
 Manage outgoing messages.
 
-| Action | Description |
-| :--- | :--- |
-| View | View the message. |
-| [Edit](edit_message) | Edit the message. |
-| Disable | Disable the message. |
-| Delete | Delete the message. |
-| Delete all | Remove all unsent messages. |
+| Action               | Description                 |
+| :------------------- | :-------------------------- |
+| View                 | View the message.           |
+| [Edit](edit_message) | Edit the message.           |
+| Disable              | Disable the message.        |
+| Delete               | Delete the message.         |
+| Delete all           | Remove all unsent messages. |
+
 <br>
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)
+![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)
 
 ## View Message
 

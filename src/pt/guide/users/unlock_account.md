@@ -5,6 +5,7 @@ tags:
   - Times
   - Permissões
 ---
+
 # Desbloquear seu usuário
 
 ::: tip Várias formas de acessar
@@ -34,7 +35,7 @@ Como desbloquear o seu usuário.
 
    Clicar **Desbloquear**.
 
-  ![Desbloqueio](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
+![Desbloqueio](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
 
 4. Acessar o e-mail de desbloqueio de conta.
 

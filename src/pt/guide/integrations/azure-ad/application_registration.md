@@ -6,6 +6,7 @@ tags:
   - Azure
   - AD
 ---
+
 # Registro de aplicações
 
 ## Resumo

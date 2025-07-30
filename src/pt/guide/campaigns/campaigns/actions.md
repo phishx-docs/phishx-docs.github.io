@@ -4,6 +4,7 @@ tags:
   - Campanhas
   - Editor
 ---
+
 ## Ações
 
 ::: tip Múltiplas ações

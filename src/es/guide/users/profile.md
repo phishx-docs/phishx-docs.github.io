@@ -5,7 +5,9 @@ tags:
   - Equipos
   - Permisos
 ---
+
 # Perfil del usuario
+
 ::: tip Múltiple fator de autenticación
 Te recomendamos habilitar tu Múltiple Fator de Autenticación.<br>
 Sigue el procedimiento con tu aplicación móvil de Autenticación.

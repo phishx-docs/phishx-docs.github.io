@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Aprovações de campanhas
 
 ::: tip Aprovações adicionais

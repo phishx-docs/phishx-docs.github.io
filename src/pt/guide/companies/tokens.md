@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Tokens
 
 ::: tip Revogar ou renovar os acessos
@@ -12,7 +13,7 @@ Você pode revogar ou renovar qualquer acesso dos usuários ou da API.
 
 Gerenciar os tokens dos usuários e da API.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Tokens**.
+1. Acessar o menu **Configurações** -> **Empresas** -> **Tokens**.
 
    ![Tokens](https://cdn.phishx.io/phishx-docs/images/phishx_companies_tokens_01.webp)
 

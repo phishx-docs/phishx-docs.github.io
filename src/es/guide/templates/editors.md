@@ -4,6 +4,7 @@ tags:
   - Modelos
   - Editor
 ---
+
 # Editores
 
 ::: tip Necesitas ayuda?
@@ -47,4 +48,4 @@ Puedes acceder a nuestro editor visual en un nuevo modelo.
 
 Puedes copiar y pegar un código listo en nuestros editores.
 
-   ![Código](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_04.webp)
+![Código](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_04.webp)

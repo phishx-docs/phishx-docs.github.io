@@ -6,6 +6,7 @@ tags:
   - Targets
   - Contacts
 ---
+
 # Results lists
 
 ::: tip Results of your campaigns

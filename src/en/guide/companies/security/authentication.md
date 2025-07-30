@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Authentication
 
 ::: tip Secure authentication

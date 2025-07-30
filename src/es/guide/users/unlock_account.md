@@ -5,6 +5,7 @@ tags:
   - Times
   - Permissões
 ---
+
 # Desbloquear tu usuario
 
 ::: tip Várias formas de acceder
@@ -19,7 +20,7 @@ Como desbloquear tu usuario.
    Acceder en tu navegador a la dirección **SUBDOMINIO.phishx.io**.
 
    ::: details Subdominio
-  Tu entorno PhishX se identifica por tu subdominio.<br>
+   Tu entorno PhishX se identifica por tu subdominio.<br>
    Generalmente, tu subdominio será el mismo que el dominio principal de la página de tu empresa. (Ej: www.**phishx**.io -> **phishx**.phishx.io)<br>
    Si tu empresa tiene más de un entorno en PhishX, puedes confirmar con tu equipo o con [Customer Success](mailto:cs@phishx.io), cuál es su dirección de acceso.
    :::
@@ -34,7 +35,7 @@ Como desbloquear tu usuario.
 
    Hacer clic en **Desbloquear**.
 
-  ![Desbloqueo](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
+![Desbloqueo](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_03_unlock.webp)
 
 4. Acceder al correo electrónico de desbloqueoo de cuenta.
 

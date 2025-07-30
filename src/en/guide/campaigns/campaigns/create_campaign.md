@@ -4,11 +4,12 @@ tags:
   - Campaigns
   - Editor
 ---
+
 # Create a campaign
 
 ::: tip New suggestions
 The PhishX Customer Success team produces new suggestions every month.<br>
-If you didn't find a suggestion, or have an interesting idea, talk to  [Customer Success](mailto:cs@phishx.io).
+If you didn't find a suggestion, or have an interesting idea, talk to [Customer Success](mailto:cs@phishx.io).
 :::
 
 How to create a campaign.

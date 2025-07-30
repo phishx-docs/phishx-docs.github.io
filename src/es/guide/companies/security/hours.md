@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Control de acceso por horario
 
 ::: tip Múltiples huso horarios

@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Listas dinámicas
 
 ::: tip Listas basadas en reglas comerciales

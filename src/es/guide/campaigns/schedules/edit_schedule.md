@@ -4,13 +4,14 @@ tags:
   - Campañas
   - Horarios
 ---
+
 # Editar programación
 
 ::: tip Cambia tus horarios
 Puedes reenviar o cambiar cualquier horario si es necesario.
 :::
 
-1. Acceder al menú **Campañas* -> **Horarios**.
+1. Acceder al menú **Campañas\* -> **Horarios\*\*.
 
 2. En el menú de **Programación**.
 

@@ -8,6 +8,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Armazenamento
 
 ::: tip Relatórios seguros

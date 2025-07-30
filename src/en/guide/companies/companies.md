@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Companies
 
 ::: tip Several companies
@@ -13,7 +14,7 @@ To share your subscription, contact [Customer Success](mailto:cs@phishx.io).
 
 Manage the companies in the business group.
 
-1. Access the menu **Settings** -> **Companies**  -> **Companies**.
+1. Access the menu **Settings** -> **Companies** -> **Companies**.
 
    ![Companies](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_01.webp)
 

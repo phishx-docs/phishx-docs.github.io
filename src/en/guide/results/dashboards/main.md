@@ -9,6 +9,7 @@ tags:
   - Events
   - Export
 ---
+
 # Principal
 
 ::: tip Análise rápida ou detalhada
@@ -19,11 +20,11 @@ Se tiver dúvidas, converse com o [Customer Success](mailto:cs@phishx.io).
 
 Painel com os principais indicadores.
 
-| Indicador | Descrição |
-| :--- | :--- |
-| Resultados | Todos os resultados consolidados. |
-| Linha do Tempo | Resultados pela linha de tempo. |
-| Grupos | Resultados segmentados pelo filtro Grupos. |
+| Indicador      | Descrição                                  |
+| :------------- | :----------------------------------------- |
+| Resultados     | Todos os resultados consolidados.          |
+| Linha do Tempo | Resultados pela linha de tempo.            |
+| Grupos         | Resultados segmentados pelo filtro Grupos. |
 
 1. Acessar o menu **Resultados** -> **Painéis** -> **Principal**.
 
@@ -34,4 +35,3 @@ Painel com os principais indicadores.
    Escolher o agrupamento desejado.
 
    ![Principal](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_main_02.webp)
-

@@ -1,6 +1,7 @@
 ---
 lastUpdated: false
 ---
+
 # Política de Privacidad
 
 POLÍTICA DE PRIVACIDAD
@@ -15,13 +16,11 @@ Al utilizar nuestros SERVICIOS y / o PRODUCTOS, acepta estos términos. Por favo
 
 NUESTROS SERVICIOS son muy diversos, por lo que a veces se pueden aplicar términos o requisitos de productos adicionales (incluidos los requisitos de edad). Los términos adicionales estarán disponibles con los SERVICIOS relevantes y esos términos adicionales pasarán a formar parte de nuestro ACUERDO con usted si utiliza esos SERVICIOS.
 
-Este instrumento contiene la POLÍTICA DE PRIVACIDAD de los sitios web "phishx.io", "www.phishx.io" y "* .phishx.io" (en conjunto, los "SITIOS WEB", o, individual e indistintamente, el "SITIO WEB"), así como los servicios ofrecidos a través de dichos SITIOS WEB (los "SERVICIOS"), dentro del alcance de la PLATAFORMA PHISHX (la "PLATAFORMA" o el "PHISHX").
-
+Este instrumento contiene la POLÍTICA DE PRIVACIDAD de los sitios web "phishx.io", "www.phishx.io" y "\* .phishx.io" (en conjunto, los "SITIOS WEB", o, individual e indistintamente, el "SITIO WEB"), así como los servicios ofrecidos a través de dichos SITIOS WEB (los "SERVICIOS"), dentro del alcance de la PLATAFORMA PHISHX (la "PLATAFORMA" o el "PHISHX").
 
 1. Política de privacidad
 
-1.1. En P2 estamos comprometidos a proteger su privacidad. El propósito de este documento es aclarar qué información se recopila de los usuarios de nuestros sitios web: phishx.io, www.phishx.io y * .phishx.io, y sus respectivos servicios, y cómo se manipulan y utilizan estos datos.
-
+1.1. En P2 estamos comprometidos a proteger su privacidad. El propósito de este documento es aclarar qué información se recopila de los usuarios de nuestros sitios web: phishx.io, www.phishx.io y \* .phishx.io, y sus respectivos servicios, y cómo se manipulan y utilizan estos datos.
 
 2. Acerca de la recopilación de datos
 
@@ -32,7 +31,6 @@ Este instrumento contiene la POLÍTICA DE PRIVACIDAD de los sitios web "phishx.i
 2.1.2. Información de navegación del sitio: cuando visita nuestro sitio, se coloca una "cookie" en su navegador a través del software Google Analytics para identificar la frecuencia con la que regresa a nuestra dirección. La información como la dirección IP, la ubicación geográfica, la fuente de referencia, el tipo de navegador, la duración de la visita y las páginas visitadas se recopilan de forma anónima.
 
 2.1.3. Historial de contactos: aquí en P2 almacenamos información sobre todos los contactos ya realizados con nuestros usuarios, como el contenido descargado de nuestras páginas y las interacciones por correo electrónico.
-
 
 3. Sobre el uso de información personal
 
@@ -50,7 +48,6 @@ Este instrumento contiene la POLÍTICA DE PRIVACIDAD de los sitios web "phishx.i
 
 3.7. Su información personal será compartida con nuestros socios solo cuando la asociación sea explícita en la página donde aparece el formulario para recibir contenido educativo y / o estadístico.
 
-
 4. Acerca del acceso a su información personal
 
 4.1. Solo los empleados y socios autorizados de P2 podrán ver su información personal. Eventualmente, si la inserción de su información se lleva a cabo en acciones creadas en asociaciones, los socios explícitamente identificados también tendrán acceso a la información. No se puede divulgar públicamente información personal.
@@ -59,16 +56,13 @@ Este instrumento contiene la POLÍTICA DE PRIVACIDAD de los sitios web "phishx.i
 
 4.3. Además, aunque trabajamos con buenas prácticas de protección y seguridad, ningún servicio web tiene una garantía del 100% contra intrusiones y no podemos responsabilizarnos si esto ocurre.
 
-
 5. Acerca de compartir contenido en las redes sociales
 
 5.1. Al hacer clic en los botones para compartir contenido de las redes sociales disponibles en nuestras páginas, el usuario publicará el contenido a través de su perfil en la red seleccionada. P2 no tiene acceso al nombre de usuario y contraseña de los usuarios en estas redes, ni publicará contenido en nombre del usuario sin que el usuario realice esta acción.
 
-
 6. Sobre el uso de la información proporcionada a nuestros clientes
 
 6.1. P2 pone a disposición de sus clientes, a través de la plataforma PhishX, herramientas para la creación de correos electrónicos, Landing Pages, capacitación, envío de mensajes educativos, entre otros que involucran el manejo de información personal de los usuarios con quienes sus clientes mantienen relaciones comerciales y / o empleador. . Sin embargo, P2 no controla la información solicitada utilizando su sistema. Estos datos pertenecen a los clientes, quienes los utilizan, los divulgan y los protegen de acuerdo con sus políticas de privacidad. También son responsables de recopilar, gestionar y procesar información confidencial.
-
 
 7. Acerca de cancelar la suscripción y cambiar / eliminar información personal
 
@@ -80,18 +74,15 @@ Este instrumento contiene la POLÍTICA DE PRIVACIDAD de los sitios web "phishx.i
 
 7.4. Para cambiar su información personal o incluso eliminarla de nuestra base de datos, simplemente envíe un correo electrónico a meajude@phishx.io.
 
-
 8. Cambios en la Política de privacidad
 
 8.1. Esta POLÍTICA DE PRIVACIDAD puede actualizarse. Por lo tanto, recomendamos visitar periódicamente esta página para informarle sobre los cambios.
 
 8.2. Antes de utilizar información para fines distintos a los definidos en esta POLÍTICA DE PRIVACIDAD, le solicitaremos su autorización.
 
-
 9. Comuníquese con P2 para aclarar dudas
 
 9.1. Cualquier duda sobre nuestra POLÍTICA DE PRIVACIDAD puede aclararse poniéndose en contacto con nosotros directamente a través del correo electrónico meajude@phishx.io.
-
 
 PhishX | Cybersecurity para Personas
 Creado por nuestro Equipo Legal

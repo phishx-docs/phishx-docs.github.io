@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Grupos
 
 ::: tip Evaluación comparativa
@@ -17,12 +18,11 @@ Además de poder comparar la cantidad numérica directa de los resultados de tus
 
 Panel para comparar resultados con la historia de la empresa y global.
 
-| Indicador | Descripción |
-| :--- | :--- |
-| Todos | Todos los resultados consolidados. |
-| Grupos | Resultados segmentados por el filtro Grupos. |
+| Indicador | Descripción                                  |
+| :-------- | :------------------------------------------- |
+| Todos     | Todos los resultados consolidados.           |
+| Grupos    | Resultados segmentados por el filtro Grupos. |
 
 1. Acceder al menú **Resultados** -> **Paneles** -> **Grupos**.
 
    ![Grupos](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_groups_01.webp)
-

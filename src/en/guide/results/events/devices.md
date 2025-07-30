@@ -8,6 +8,7 @@ tags:
   - Events
   - Export
 ---
+
 # Dispositivos
 
 ::: tip Relatórios detalhados

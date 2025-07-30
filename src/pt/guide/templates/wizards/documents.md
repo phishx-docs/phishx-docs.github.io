@@ -5,6 +5,7 @@ tags:
   - Editor
   - Assistentes
 ---
+
 # Documentos e políticas
 
 ::: tip Aceite online de documentos e políticas

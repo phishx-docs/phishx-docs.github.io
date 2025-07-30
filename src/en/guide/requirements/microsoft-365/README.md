@@ -6,6 +6,7 @@ tags:
   - Office
   - 365
 ---
+
 # Microsoft 365
 
 ## TL;DR

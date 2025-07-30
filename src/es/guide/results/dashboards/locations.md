@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Ubicaciones
 
 ::: tip Ubicaciones detalladas
@@ -18,13 +19,13 @@ Para saber más como exportar tu informe: [Informes](../reports/global)
 
 Panel con indicadores de la ubicación de las personas.
 
-| Indicador | Descripción |
-| :--- | :--- |
-| Mapa | Todos los resultados por país y con drilldown por estado. |
-| Organizaciones | Todos los resultados por organización. |
-| Ubicaciones | Todos los resultados por ubicación. |
-| Ubicacion | Todos los resultados por tipo de ubicación. |
-| Grupos | Resultados segmentados por el filtro Grupos y Ubicacion. |
+| Indicador      | Descripción                                               |
+| :------------- | :-------------------------------------------------------- |
+| Mapa           | Todos los resultados por país y con drilldown por estado. |
+| Organizaciones | Todos los resultados por organización.                    |
+| Ubicaciones    | Todos los resultados por ubicación.                       |
+| Ubicacion      | Todos los resultados por tipo de ubicación.               |
+| Grupos         | Resultados segmentados por el filtro Grupos y Ubicacion.  |
 
 1. Acceder al menú **Resultados** -> **Paneles** -> **Ubicaciones**.
 

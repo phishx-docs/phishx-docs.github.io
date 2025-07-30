@@ -1,6 +1,7 @@
 ---
 lastUpdated: false
 ---
+
 # Contrato
 
 CONTRATO DE PRESTACIÓN DE SERVICIOS DE ENTRENAMIENTOS INFORMÁTICA VÍA SAAS

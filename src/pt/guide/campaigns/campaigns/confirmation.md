@@ -4,6 +4,7 @@ tags:
   - Campanhas
   - Editor
 ---
+
 ## Confirmação
 
 ::: tip Confirmar uma ação

@@ -8,6 +8,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Política de Grupo
 
 ## Resumo
@@ -26,12 +27,13 @@ tags:
 
 3. **Configure** sua nova política do Outlook..
 
-| Política | Configurações |
-| :--- | :--- |
-| Substituir ou anexar lista de importação de lixo eletrônico | Categoria: Lixo Eletrônico<br>Caminho: Microsoft Outlook 2016\Outlook Options\Preferências\Lixo Eletrônico<br>Configurações: Não configurada (Padrão é anexar) |
-| Especifique o caminho para a Lista de Remetentes Confiáveis  | Categoria: Lixo Eletrônico<br>Caminho: Microsoft Outlook 2016\Outlook Options\Preferências\Lixo Eletrônico<br>Configurações: Habilitado (Seu Caminho local) |
-| Disparar para aplicar configurações da lista de lixo eletrônico | Categoria: Lixo Eletrônico<br>Caminho: Microsoft Outlook 2016\Outlook Options\Preferências\Lixo Eletrônico<br>Configurações: Habilitado |
+| Política                                                                                                            | Configurações                                                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Substituir ou anexar lista de importação de lixo eletrônico                                                         | Categoria: Lixo Eletrônico<br>Caminho: Microsoft Outlook 2016\Outlook Options\Preferências\Lixo Eletrônico<br>Configurações: Não configurada (Padrão é anexar)               |
+| Especifique o caminho para a Lista de Remetentes Confiáveis                                                         | Categoria: Lixo Eletrônico<br>Caminho: Microsoft Outlook 2016\Outlook Options\Preferências\Lixo Eletrônico<br>Configurações: Habilitado (Seu Caminho local)                  |
+| Disparar para aplicar configurações da lista de lixo eletrônico                                                     | Categoria: Lixo Eletrônico<br>Caminho: Microsoft Outlook 2016\Outlook Options\Preferências\Lixo Eletrônico<br>Configurações: Habilitado                                      |
 | Baixar automaticamente conteúdo para e-mail de pessoas na categoria Listas de remetentes e destinatários confiáveis | Categoria: Automatic Picture Download Configurações<br>Caminho: Microsoft Outlook 2016\Segurança\Configurações de download automático de imagem<br>Configurações: Habilitado |
+
 <br>
 
 4. **Teste** sua política e **distribua** em seu ambiente.

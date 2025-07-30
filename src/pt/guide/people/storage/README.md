@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Armazenamento
 
 ::: tip Remover os arquivos

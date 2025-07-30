@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Auditoria
 
 ::: tip Auditoria completa
@@ -12,7 +13,7 @@ Você pode acessar sua auditoria completa direto na plataforma, exportar como re
 
 Monitorar a auditoria.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Auditoria**.
+1. Acessar o menu **Configurações** -> **Empresas** -> **Auditoria**.
 
    ![Auditoria](https://cdn.phishx.io/phishx-docs/images/phishx_companies_audit_01.webp)
 

@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Listas aleatórias
 
 ::: tip Múltiplas campanhas

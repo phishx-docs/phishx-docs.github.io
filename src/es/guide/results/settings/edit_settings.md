@@ -8,6 +8,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Editar configuraciones
 
 ::: tip Paneles estándar

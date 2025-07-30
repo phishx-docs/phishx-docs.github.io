@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Portal authentication
 
 ::: tip User identification

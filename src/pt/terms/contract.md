@@ -1,6 +1,7 @@
 ---
 lastUpdated: false
 ---
+
 # Contrato
 
 CONTRATO DE FORNECIMENTO DE LICENÇA DE SOFTWARE DE TI PARA TREINAMENTO EM INFORMÁTICA EM CYBERSECURITY VIA SAAS COM ARQUITETURA CLOUD COMPUTING
@@ -13,9 +14,9 @@ Agradecemos por usar nossos produtos e serviços ("SERVIÇOS"). Os “SERVIÇOS�
 
 Por este Instrumento particular de “CONTRATO” (“CONTRATO”), na melhor forma do Direito, por estarem de acordo com todas as cláusulas que se seguem, tendo como Partes “CONTRATANTE” e “CONTRATADA” doravante referidas, individual e indistintamente, como "PARTE" e, em conjunto, como "PARTES”:
 
-(a)	“CONTRATANTE”, qualificado de acordo com o cadastro eletrônico realizado no site “phishx.io”, doravante denominado "CONTRATANTE".
+(a) “CONTRATANTE”, qualificado de acordo com o cadastro eletrônico realizado no site “phishx.io”, doravante denominado "CONTRATANTE".
 
-(b)	P2 TECHNOLOGY INFORMÁTICA LTDA, uma empresa constituída e existente sob as leis da República Federativa do Brasil, com sede no Estado de São Paulo, na Cidade de Cotia, à Rua Jacareí, nº 41, Bairro: Parque Dom Henrique, CEP: 06.716-310 e inscrita no CNPJ: 24.843.289/0001-79, (doravante referida como "P2 TECHNOLOGY" ou “PHISHX”), neste ato representada na forma de seus atos constitutivos, doravante denominada "CONTRATADA", "P2 TECHNOLOGY" ou "P2".
+(b) P2 TECHNOLOGY INFORMÁTICA LTDA, uma empresa constituída e existente sob as leis da República Federativa do Brasil, com sede no Estado de São Paulo, na Cidade de Cotia, à Rua Jacareí, nº 41, Bairro: Parque Dom Henrique, CEP: 06.716-310 e inscrita no CNPJ: 24.843.289/0001-79, (doravante referida como "P2 TECHNOLOGY" ou “PHISHX”), neste ato representada na forma de seus atos constitutivos, doravante denominada "CONTRATADA", "P2 TECHNOLOGY" ou "P2".
 
 CLÁUSULA PRIMEIRA - DO OBJETO
 
@@ -175,11 +176,11 @@ CLÁUSULA SEXTA - DA CONFIDENCIALIDADE E DA PROTEÇÃO DE DADOS
 
 6.3. As “PARTES” obrigam-se a proteger os dados pessoais de seus clientes; usuários; fornecedores; empregados e outras pessoas físicas, através de políticas e práticas adequadas, assertivas, transparentes e de acordo com as exigências legais. Faz parte integrante e vinculante ao presente “CONTRATO”, a “POLÍTICA DE PRIVACIDADE” disponível no seguinte site: “contrato.phishx.io”, cujo cumprimento deverá ser efetuado pelas “PARTES”.
 
-6.3.1. Em função deste compromisso, nas situações que vierem a demandar a atuação conjunta das “PARTES” para comprovar suas políticas e práticas, assim como, o correto tratamento de dados - mesmo que de um determinado titular que, em razão deste “CONTRATO”, possa reclamar em face das 02 (duas) empresas -  nenhuma das “PARTES” poderá deixar de colaborar para elucidação e prestação de esclarecimentos aos próprios titulares ou agentes públicos investidos no poder-dever de atuar, direta ou indiretamente, na proteção da privacidade, nos limites de sua responsabilidade efetiva e do esforço possível e razoável, sem qualquer prejuízo de, noutra esfera, responder, individualmente, por obrigação imputável apenas à uma delas, em razão do dever da proteção do direito dos titulares.
+6.3.1. Em função deste compromisso, nas situações que vierem a demandar a atuação conjunta das “PARTES” para comprovar suas políticas e práticas, assim como, o correto tratamento de dados - mesmo que de um determinado titular que, em razão deste “CONTRATO”, possa reclamar em face das 02 (duas) empresas - nenhuma das “PARTES” poderá deixar de colaborar para elucidação e prestação de esclarecimentos aos próprios titulares ou agentes públicos investidos no poder-dever de atuar, direta ou indiretamente, na proteção da privacidade, nos limites de sua responsabilidade efetiva e do esforço possível e razoável, sem qualquer prejuízo de, noutra esfera, responder, individualmente, por obrigação imputável apenas à uma delas, em razão do dever da proteção do direito dos titulares.
 
 6.4. Tendo em vista que cada signatário possui suas políticas e práticas de proteção de dados pessoais e que, pelo princípio da multiplicação, ambas devem assegurar que os seus parceiros de negócio cumpram os deveres de proteção de dados pessoais, as “PARTES”, no que não houver incompatibilidade em razão do tipo de negócio; ambiente; tecnologia aplicada; espécie de tratamento; obrigações com outros clientes e parceiros; capacidade econômica; etc., observarão, no que couber e, nos limites de suas responsabilidades, as políticas uma da outra, bem como cumprirão as disposições legais previstas, contribuindo para que as pessoas físicas afetadas por este “CONTRATO” estejam, nos ambientes das 02 (duas) “PARTES”, protegidas e respeitadas.
 
-6.4.1. Em razão do item acima, é inconcebível e inaceitável que uma das “PARTES” não adote práticas de proteção e privacidade de dados pessoais compatíveis com o seu negócio; segmento; complexidade; atividades e capacidade técnico-econômica, razão pela qual, de boa-fé, as “PARTES” declaram estar em conformidade com as normas aplicáveis e, a qualquer tempo, a ausência de demonstração disso, mediante simples pedido, sujeitará a “PARTE” faltosa a suportar os ônus da resolução por justa causa deste Instrumento, além daqueles, razoavelmente, decorrentes de prejuízos  que vier a causar à outra “PARTE”.
+6.4.1. Em razão do item acima, é inconcebível e inaceitável que uma das “PARTES” não adote práticas de proteção e privacidade de dados pessoais compatíveis com o seu negócio; segmento; complexidade; atividades e capacidade técnico-econômica, razão pela qual, de boa-fé, as “PARTES” declaram estar em conformidade com as normas aplicáveis e, a qualquer tempo, a ausência de demonstração disso, mediante simples pedido, sujeitará a “PARTE” faltosa a suportar os ônus da resolução por justa causa deste Instrumento, além daqueles, razoavelmente, decorrentes de prejuízos que vier a causar à outra “PARTE”.
 
 CLÁUSULA SÉTIMA – DA CONDUTA ÉTICA E ANTICORRUPÇÃO
 
@@ -265,11 +266,9 @@ CLÁUSULA OITAVA - DAS DISPOSIÇÕES GERAIS
 
 8.12.1. As “PARTES”, expressamente, concordam em utilizar e reconhecem como válidas as assinaturas e/ou aceites eletrônicos como forma de comprovação de anuência aos termos, ora acordados, em formato eletrônico. A formalização dos termos na maneira supra acordada será suficiente para a validade e integral vinculação das “PARTES” ao presente “CONTRATO”.
 
-
-
 8.13. Adesão Online
 
-8.13.1. Este “CONTRATO” considerar-se-á celebrado e obrigatório entre as “PARTES”, ainda, na hipótese de modalidade de Adesão Online, o qual dar-se-á no momento em que a “CONTRATANTE” (i) der o “de acordo”, aceite e/ou assinatura, em sua forma eletrônica, na(o)(s) COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s) ou (ii) concluir o seu cadastro e o procedimento previsto no site “phishx.io”, o primeiro que for efetuado, sendo certo que, assim procedendo, a “CONTRATANTE” declara ter lido,  compreendido e anuído todos os termos e condições deste “CONTRATO”, razão pela qual, exclusivamente nessa hipótese, é recomendável que a “CONTRATANTE” imprima 01 (uma) cópia deste Instrumento para futura referência e mantenha a observância e ciência da atualização deste “CONTRATO” no site: “contrato.phishx.io”.
+8.13.1. Este “CONTRATO” considerar-se-á celebrado e obrigatório entre as “PARTES”, ainda, na hipótese de modalidade de Adesão Online, o qual dar-se-á no momento em que a “CONTRATANTE” (i) der o “de acordo”, aceite e/ou assinatura, em sua forma eletrônica, na(o)(s) COTAÇÃO, PROPOSTA COMERCIAL, PROPOSTA TÉCNICA e/ou ANEXO(s) ou (ii) concluir o seu cadastro e o procedimento previsto no site “phishx.io”, o primeiro que for efetuado, sendo certo que, assim procedendo, a “CONTRATANTE” declara ter lido, compreendido e anuído todos os termos e condições deste “CONTRATO”, razão pela qual, exclusivamente nessa hipótese, é recomendável que a “CONTRATANTE” imprima 01 (uma) cópia deste Instrumento para futura referência e mantenha a observância e ciência da atualização deste “CONTRATO” no site: “contrato.phishx.io”.
 
 8.14. Obrigações após encerramento do Acordo
 
@@ -279,9 +278,7 @@ CLÁUSULA OITAVA - DAS DISPOSIÇÕES GERAIS
 
 8.14.1. Fica eleito o Foro da Comarca de São Paulo, no Estado de São Paulo, para dirimir quaisquer pleitos oriundos do presente “CONTRATO”, com renúncia a qualquer outro, por mais privilegiado que seja ou venha a sê-lo.
 
-
 Brasil - São Paulo/SP - 30 de junho de 2022.
-
 
 TIME PHISHX LEGAL & COMPLIANCE
 

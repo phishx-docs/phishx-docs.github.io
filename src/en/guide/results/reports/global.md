@@ -8,6 +8,7 @@ tags:
   - Events
   - Export
 ---
+
 # Relatórios globais
 
 ::: tip Relatórios da Empresa

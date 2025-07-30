@@ -4,13 +4,14 @@ tags:
   - Campañas
   - Editor
 ---
+
 ## Editor
 
 ::: tip Reutilize los modelos
 Puedes realizar cambios específicos para el modelo de una campaña o utilizar modelos en múltiplas campañas.
 :::
 
-Gestione las personalizaciones del modelo de la campaña. 
+Gestione las personalizaciones del modelo de la campaña.
 
 1. En **Modelo**.
 

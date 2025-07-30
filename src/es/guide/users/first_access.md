@@ -5,6 +5,7 @@ tags:
   - Equipos
   - Permisos
 ---
+
 # Primer acceso
 
 ::: tip Várias formas de acceder

@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Listas de resultados
 
 ::: tip Resultados de tus campañas
@@ -14,7 +15,7 @@ Las listas de resultados ayudan a enviar nuevas campañas a personas que no hici
 
 Gestionar basado en los resultados de la campaña.
 
-1. Acceder al menú **Personas* -> **Resultados**.
+1. Acceder al menú **Personas\* -> **Resultados\*\*.
 
    ![Resultados](https://cdn.phishx.io/phishx-docs/images/phishx_lists_results_01.webp)
 

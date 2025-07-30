@@ -3,6 +3,7 @@ title: Certificados
 tags:
   - Requisitos
 ---
+
 # Certificados
 
 ## Resumo

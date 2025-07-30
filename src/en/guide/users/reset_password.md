@@ -5,6 +5,7 @@ tags:
   - Teams
   - Permissions
 ---
+
 # Reset your password
 
 ::: tip Several ways to access
@@ -34,7 +35,7 @@ Reset your user's password.
 
    Click **Reset**.
 
-  ![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
+![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
 
 4. Access the password reset e-mail.
 

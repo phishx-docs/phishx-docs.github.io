@@ -5,6 +5,7 @@ tags:
   - Equipos
   - Permisos
 ---
+
 # Enviar nueva contraseña
 
 ::: tip Várias formas de acceder

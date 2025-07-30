@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Suscripciones
 
 ::: tip Tu suscripción puede crecer en cualquier momento
@@ -12,7 +13,7 @@ Si tu empresa necesita más suscripción, ya sea porque ha contratado a más per
 
 Monitorear utilización de tus suscripciones.
 
-1. Acceder al menú **Configuraciones** -> **Empresas**  -> **Suscripciones**.
+1. Acceder al menú **Configuraciones** -> **Empresas** -> **Suscripciones**.
 
    ![Suscripciones](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_01.webp)
 

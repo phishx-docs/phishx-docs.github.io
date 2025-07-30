@@ -7,14 +7,15 @@ tags:
   - UI
   - UX
 ---
+
 # Alterar empresa
 
-   ::: tip Empresas e ambientes
-   Sua empresa pode ter acesso a múltiplos ambientes.
-   :::
+::: tip Empresas e ambientes
+Sua empresa pode ter acesso a múltiplos ambientes.
+:::
 
-   Dentro do Menu do Usuário, clicar em **Empresa**.
+Dentro do Menu do Usuário, clicar em **Empresa**.
 
-   Escolher a nova empresa.
+Escolher a nova empresa.
 
-   ![Alterar a Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_ui_companies_01.webp)
+![Alterar a Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_ui_companies_01.webp)

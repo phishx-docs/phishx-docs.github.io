@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Subscriptions
 
 ::: tip Your subscription can grow at any time
@@ -12,7 +13,7 @@ If your company needs more subscription, either because you have hired more peop
 
 Monitor the use of your subscriptions.
 
-1. Access the menu **Settings** -> **Companies**  -> **Subscriptions**.
+1. Access the menu **Settings** -> **Companies** -> **Subscriptions**.
 
    ![Subscriptions](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_01.webp)
 

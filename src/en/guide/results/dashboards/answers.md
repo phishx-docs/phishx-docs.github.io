@@ -9,6 +9,7 @@ tags:
   - Events
   - Export
 ---
+
 # Respostas
 
 ::: tip Respostas detalhadas
@@ -18,14 +19,14 @@ Para saber mais como exportar seu relatório: [Relatórios](../reports/global)
 
 Painel com todas as respostas dos usuários para os feedbacks, pesquisas, aceite de políticas e demais interações.
 
-| Indicador | Descrição |
-| :--- | :--- |
-| Feedback | Opinião das pessoas baseada em sentimentos: Ótimo, bom, regular e ruim. |
-| NPS | Opinião das pessoas baseada em NPS: 0 a 10. |
-| Aceites | Resultados dos aceites online de documentos e políticas. |
-| Simulação Web | Resultados das páginas falsas. |
-| Questionários | Resultados dos questionários. |
-| Outros | Demais resultados baseados nas informações disponíveis nos modelos de mensagens, como onde a pessoa clicou. |
+| Indicador     | Descrição                                                                                                   |
+| :------------ | :---------------------------------------------------------------------------------------------------------- |
+| Feedback      | Opinião das pessoas baseada em sentimentos: Ótimo, bom, regular e ruim.                                     |
+| NPS           | Opinião das pessoas baseada em NPS: 0 a 10.                                                                 |
+| Aceites       | Resultados dos aceites online de documentos e políticas.                                                    |
+| Simulação Web | Resultados das páginas falsas.                                                                              |
+| Questionários | Resultados dos questionários.                                                                               |
+| Outros        | Demais resultados baseados nas informações disponíveis nos modelos de mensagens, como onde a pessoa clicou. |
 
 1. Acessar o menu **Resultados** -> **Painéis** -> **Respostas**.
 

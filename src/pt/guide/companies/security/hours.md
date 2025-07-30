@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Controle de acesso por horário
 
 ::: tip Vários fusos horários

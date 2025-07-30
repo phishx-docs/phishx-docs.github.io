@@ -5,6 +5,7 @@ tags:
   - Editor
   - Assistentes
 ---
+
 # Vídeos
 
 ::: tip Arquivos de vídeos ou Youtube

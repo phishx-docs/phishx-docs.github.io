@@ -6,6 +6,7 @@ tags:
   - Targets
   - Contacts
 ---
+
 # Smart lists
 
 ::: tip Automatic lists

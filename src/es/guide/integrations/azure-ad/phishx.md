@@ -6,6 +6,7 @@ tags:
   - Azure
   - AD
 ---
+
 # PhishX Azure AD
 
 ## Resumen

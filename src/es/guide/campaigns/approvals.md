@@ -4,6 +4,7 @@ tags:
   - Campañas
   - Aprobaciones
 ---
+
 # Aprobaciones
 
 ::: tip Aprobaciones adicionales

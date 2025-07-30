@@ -7,14 +7,15 @@ tags:
   - UI
   - UX
 ---
+
 # Change company
 
-   ::: tip Companies and environments
-   Your company can have access to multiple environments.
-   :::
+::: tip Companies and environments
+Your company can have access to multiple environments.
+:::
 
-   Within the User Menu, click on **Company**.
+Within the User Menu, click on **Company**.
 
-   Choose the new company.
+Choose the new company.
 
-   ![Change Company](https://cdn.phishx.io/phishx-docs/images/phishx_ui_companies_01.webp)
+![Change Company](https://cdn.phishx.io/phishx-docs/images/phishx_ui_companies_01.webp)

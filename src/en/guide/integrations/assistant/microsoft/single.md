@@ -7,6 +7,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Instalação Manual
 
 ::: tip Replicação para outros dispositivos e plataformas

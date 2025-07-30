@@ -5,6 +5,7 @@ tags:
   - Modelos
   - Editor
 ---
+
 # Bibliotecas
 
 ::: tip Comparte tus modelos
@@ -14,11 +15,12 @@ Comparte tus modelos publicándolos en la biblioteca global.
 
 Tipos de bibliotecas de modelos.
 
-| Biblioteca | Descripción |
-| :--- | :--- |
-| Global | Modelos globales que todos pueden utilizar. |
-| Grupo | Modelos compartidas en tu grupo negocios. |
-| Empresa | Modelos exclusivos de tu empresa. |
+| Biblioteca | Descripción                                 |
+| :--------- | :------------------------------------------ |
+| Global     | Modelos globales que todos pueden utilizar. |
+| Grupo      | Modelos compartidas en tu grupo negocios.   |
+| Empresa    | Modelos exclusivos de tu empresa.           |
+
 <br>
 
-   ![Bibliotecas](https://cdn.phishx.io/phishx-docs/images/phishx_templates_global_01.webp)
+![Bibliotecas](https://cdn.phishx.io/phishx-docs/images/phishx_templates_global_01.webp)

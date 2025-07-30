@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Domínios
 
 ::: tip Vários domínios

@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Create a company
 
 ::: tip Reset the settings
@@ -12,7 +13,7 @@ You can reset company settings at any time.
 
 Create a new company in your business group.
 
-1. Access the menu **Settings** -> **Companies**  -> **Companies**.
+1. Access the menu **Settings** -> **Companies** -> **Companies**.
 
    Click **New**.
 
@@ -46,7 +47,7 @@ Create a new company in your business group.
 
    Click **Next**.
 
-  ![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_02.webp)
+![Company](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_02.webp)
 
 4. In **Settings**:
 

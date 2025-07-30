@@ -5,6 +5,7 @@ tags:
   - Equipos
   - Permisos
 ---
+
 # Crear un usuario
 
 ::: tip Otras configuraciones de usuario
@@ -49,6 +50,6 @@ Como crear um nuevo usuario.
 
    ![Nuevo Usuario](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_03.webp)
 
-5. Solicitar al usuario que revise su correo electrónico de bienvenida en su caja de entrada.
+4. Solicitar al usuario que revise su correo electrónico de bienvenida en su caja de entrada.
 
    ![BBienvenida](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)

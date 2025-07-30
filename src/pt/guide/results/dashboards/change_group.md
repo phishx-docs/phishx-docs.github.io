@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Mudar o grupo
 
 ::: tip Adicionar informações
@@ -18,13 +19,13 @@ Carregue ou atualize suas listas de contatos com os mesmos e-mails e quaisquer o
 
 Como mudar o grupo do seus indicadores.
 
-| Grupo | Descrição |
-| :--- | :--- |
-| Campanha | Resultados segmentados por campanhas. |
-| Modelo | Resultados segmentados por modelos. |
-| Domínio | Resultados segmentados por domínios. |
-| Tipo | Resultados segmentados pelo tipo da mensagem. |
-| Outros | Resultados segmentados pelas informações disponíveis das pessoas. |
+| Grupo    | Descrição                                                         |
+| :------- | :---------------------------------------------------------------- |
+| Campanha | Resultados segmentados por campanhas.                             |
+| Modelo   | Resultados segmentados por modelos.                               |
+| Domínio  | Resultados segmentados por domínios.                              |
+| Tipo     | Resultados segmentados pelo tipo da mensagem.                     |
+| Outros   | Resultados segmentados pelas informações disponíveis das pessoas. |
 
 1. Em qualquer painel.
 

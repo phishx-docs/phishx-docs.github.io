@@ -5,6 +5,7 @@ tags:
   - Editor
   - Asistentes
 ---
+
 # Redireccionamiento
 
 ::: tip Encaminar la persona

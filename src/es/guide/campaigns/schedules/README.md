@@ -5,6 +5,7 @@ tags:
   - Campañas
   - Horarios
 ---
+
 # Horarios
 
 ::: tip Cambia tus horarios
@@ -13,16 +14,17 @@ Puedes reenviar o cambiar cualquier horario si es necesario.
 
 Gestione los horarios enviados.
 
-| Acción | Descripción |
-| :--- | :--- |
-| Visualizar | Visualizar el mensaje de programación. |
-| [Editar](edit_schedule) | Editar la programación. |
-| Deshabilitar | Deshabilitar la programación. |
-| Eliminar | Eliminar la programación. |
-| Eliminar todas | Eliminar toda la programación no enviada. |
+| Acción                  | Descripción                               |
+| :---------------------- | :---------------------------------------- |
+| Visualizar              | Visualizar el mensaje de programación.    |
+| [Editar](edit_schedule) | Editar la programación.                   |
+| Deshabilitar            | Deshabilitar la programación.             |
+| Eliminar                | Eliminar la programación.                 |
+| Eliminar todas          | Eliminar toda la programación no enviada. |
+
 <br>
 
-   ![Horarios](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)
+![Horarios](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_schedules_02.webp)
 
 ## Visualizar el mensaje de la programación
 

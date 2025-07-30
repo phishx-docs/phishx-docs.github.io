@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Exportar lista
 
 ::: tip Múltiples formatos
@@ -40,4 +41,3 @@ Exportar los contactos de una lista.
    Hacer clic en **Obtener** o **Eliminar**.
 
    ![Exportar](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)
-

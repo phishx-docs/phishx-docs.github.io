@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Remover lista
 
 ::: tip Resultados permanecem

@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Resultados
 
 ::: tip Múltiples identificación por acción
@@ -19,21 +20,21 @@ Si necesitas ayuda adicional, habla con [Customer Success](mailto:cs@phishx.io).
 
 Descripción de las principales informaciones en tu informe.
 
-| Resultado | Descripción |
-| :--- | :--- |
-| data.X | Resultados totales por acción. |
-| data_unique.X | Resultados únicos por acción. |
-| data.sent | Resultados de la acción de **Envio**. |
-| data.open_mail | Resultados de la acción de **Apertura**. |
-| data.training | Resultados de la acción de **Entrenamiento**. |
-| data.closure | Resultados de la acción de **Cierre**. |
-| data.quiz | Resultados de la acción de **Cuestionario**. |
-| data.web_simulation | Resultados de la acción de **Simulación Web**. |
-| data.document | Resultados de la acción de **Documento**. |
-| data.redirection | Resultados de la acción de **Redireccionamiento**. |
-| data.last | Resultados de la acción final **Última**. |
-| message.X | Informacionesn sobre el mensaje. |
-| target.X | Informaciones sobre el objetivo del mensaje. |
-| user.X | Informaciones adicionales sobre la persona. |
+| Resultado           | Descripción                                        |
+| :------------------ | :------------------------------------------------- |
+| data.X              | Resultados totales por acción.                     |
+| data_unique.X       | Resultados únicos por acción.                      |
+| data.sent           | Resultados de la acción de **Envio**.              |
+| data.open_mail      | Resultados de la acción de **Apertura**.           |
+| data.training       | Resultados de la acción de **Entrenamiento**.      |
+| data.closure        | Resultados de la acción de **Cierre**.             |
+| data.quiz           | Resultados de la acción de **Cuestionario**.       |
+| data.web_simulation | Resultados de la acción de **Simulación Web**.     |
+| data.document       | Resultados de la acción de **Documento**.          |
+| data.redirection    | Resultados de la acción de **Redireccionamiento**. |
+| data.last           | Resultados de la acción final **Última**.          |
+| message.X           | Informacionesn sobre el mensaje.                   |
+| target.X            | Informaciones sobre el objetivo del mensaje.       |
+| user.X              | Informaciones adicionales sobre la persona.        |
 
-   ![Excel](https://cdn.phishx.io/phishx-docs/images/phishx_results_excel_01.webp)
+![Excel](https://cdn.phishx.io/phishx-docs/images/phishx_results_excel_01.webp)

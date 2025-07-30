@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Relatados
 
 ::: tip PhishX Assistant

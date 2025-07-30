@@ -9,6 +9,7 @@ tags:
   - Events
   - Export
 ---
+
 # Mudar os indicadores
 
 ::: tip Múltiplos tipos e layout
@@ -19,11 +20,11 @@ Se precisar de tipo de indicador diferente, converse com o [Customer Success](ma
 
 Como mudar o layout de seus indicadores.
 
-| Indicador | Descrição |
-| :--- | :--- |
-| Tema | Mudar as cores do gráfico. |
-| Tipo de Gráfico | Mudar o tipo do gráfico. |
-| Etiquetas | Apresentar os resultados numéricos no gráfico. |
+| Indicador       | Descrição                                      |
+| :-------------- | :--------------------------------------------- |
+| Tema            | Mudar as cores do gráfico.                     |
+| Tipo de Gráfico | Mudar o tipo do gráfico.                       |
+| Etiquetas       | Apresentar os resultados numéricos no gráfico. |
 
 1. Em qualquer painel.
 

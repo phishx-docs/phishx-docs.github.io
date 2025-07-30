@@ -5,6 +5,7 @@ tags:
   - Equipos
   - Permisos
 ---
+
 # Restablecer tu contraseña
 
 ::: tip Várias formas de acceder
@@ -34,7 +35,7 @@ Restablecer la contraseña de tu usuario.
 
    Hacer clic en **Restablecer**.
 
-  ![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
+![Reset](https://cdn.phishx.io/phishx-docs/images/phishx_login_help_02_forgot.webp)
 
 4. Acceder al correo electrónic de reset de contraseñas.
 

@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Listas inteligentes
 
 ::: tip Listas automáticas

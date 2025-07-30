@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Proveedores
 
 ::: tip Otros proveedores

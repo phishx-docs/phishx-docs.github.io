@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Formatos de informes
 
 ::: tip Tus datos dentro de la empresa
@@ -18,8 +19,8 @@ Tus datos en la API son exportados en el formato JSON.
 
 Vários formatos de informes para facilitar tu análisis.
 
-| Formato | Descripción |
-| :--- | :--- |
-| XLSX | Tabla en formato XLSX. Recomendado para analizar en tablas dinámicas. |
-| CSV | Tabla en formato CSV.|
-| JSON | Datos no estructurados en formato JSON. Recomendado para importar a otras herramientas de datos. |
+| Formato | Descripción                                                                                      |
+| :------ | :----------------------------------------------------------------------------------------------- |
+| XLSX    | Tabla en formato XLSX. Recomendado para analizar en tablas dinámicas.                            |
+| CSV     | Tabla en formato CSV.                                                                            |
+| JSON    | Datos no estructurados en formato JSON. Recomendado para importar a otras herramientas de datos. |

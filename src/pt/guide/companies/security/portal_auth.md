@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Autenticação do portal
 
 ::: tip Identificação do usuário

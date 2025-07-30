@@ -1,11 +1,12 @@
 ---
 title: Almacenamiento
 tags:
-  - Personas  
+  - Personas
   - Listas
   - Objetos
   - Contactos
 ---
+
 # Almacenamiento
 
 ::: tip Eliminar los archivos

@@ -6,6 +6,7 @@ tags:
   - Targets
   - Contacts
 ---
+
 # Dynamic lists
 
 ::: tip Lists based on business rules

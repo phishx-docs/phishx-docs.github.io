@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # E-mails de validação
 
 ::: tip Time de validação

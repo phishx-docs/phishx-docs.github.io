@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # API
 
 ::: tip Seus dados dentro da empresa

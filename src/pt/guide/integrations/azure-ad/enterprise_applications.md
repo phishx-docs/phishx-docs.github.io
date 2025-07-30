@@ -6,6 +6,7 @@ tags:
   - Azure
   - AD
 ---
+
 # Aplicações da empresa
 
 ## Resumo
@@ -24,11 +25,11 @@ tags:
 
 3. Ir em **Propriedades**.
 
-	Em **Atribuição de usuário necessária?** selecionar **Sim**.
+   Em **Atribuição de usuário necessária?** selecionar **Sim**.
 
-	Em **Visível para os usuários?** selecionar **Não**.
+   Em **Visível para os usuários?** selecionar **Não**.
 
-	Clicar **Salvar**.
+   Clicar **Salvar**.
 
    ![Propriedades](https://cdn.phishx.io/phishx-docs/images/azure_ad_15.webp)
 

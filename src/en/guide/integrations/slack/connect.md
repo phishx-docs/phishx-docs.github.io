@@ -4,6 +4,7 @@ tags:
   - Integrações
   - Slack
 ---
+
 # Conectar um Time do Slack
 
 ::: tip Múltiplos times

@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Criar uma empresa
 
 ::: tip Redefina as configurações
@@ -46,7 +47,7 @@ Criar uma nova empresa no seu grupo de negócios.
 
    Clicar **Próximo**.
 
-  ![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_02.webp)
+![Empresa](https://cdn.phishx.io/phishx-docs/images/phishx_settings_companies_group_02.webp)
 
 4. Em **Configurações**:
 

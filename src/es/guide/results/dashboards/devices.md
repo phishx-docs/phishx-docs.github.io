@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Dispositivos
 
 ::: tip Dispositivos detallados
@@ -18,12 +19,12 @@ Para saber más como exportar tu informe: [Informes](../reports/global)
 
 Panel con los indicadores de los dispositivos de las personas.
 
-| Indicador | Descripción |
-| :--- | :--- |
-| Sistema Operativo| Todos los resultados por sistema operativo. |
-| Aplicación | Todos los resultados por aplicación. |
-| Dispositivos | Todos los resultados por tipo de dispositivo. |
-| Grupos | Resultados segmentados por el filtro Grupos y Dispositivos. |
+| Indicador         | Descripción                                                 |
+| :---------------- | :---------------------------------------------------------- |
+| Sistema Operativo | Todos los resultados por sistema operativo.                 |
+| Aplicación        | Todos los resultados por aplicación.                        |
+| Dispositivos      | Todos los resultados por tipo de dispositivo.               |
+| Grupos            | Resultados segmentados por el filtro Grupos y Dispositivos. |
 
 1. Acceder al menú **Resultados** -> **Paneles** -> **Dispositivos**.
 
@@ -34,4 +35,3 @@ Panel con los indicadores de los dispositivos de las personas.
    Elegir el agrupamiento deseado.
 
    ![Dispositivos](https://cdn.phishx.io/phishx-docs/images/phishx_results_dashboards_devices_02.webp)
-

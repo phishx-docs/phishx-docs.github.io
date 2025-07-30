@@ -5,6 +5,7 @@ tags:
   - Teams
   - Permissions
 ---
+
 # Create an user
 
 ::: tip Other user settings
@@ -49,6 +50,6 @@ How to create a new user.
 
    ![New User](https://cdn.phishx.io/phishx-docs/images/phishx_users_create_03.webp)
 
-5. Ask the user to check the welcome e-mail in their mailbox.
+4. Ask the user to check the welcome e-mail in their mailbox.
 
    ![Welcome](https://cdn.phishx.io/phishx-docs/images/phishx_login_first_access_01.webp)

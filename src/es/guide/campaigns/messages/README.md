@@ -5,6 +5,7 @@ tags:
   - Campañas
   - Mensajes
 ---
+
 # Mensajes
 
 ::: tip Reenvia tus mensajes
@@ -13,16 +14,17 @@ Puedes reenviar cualquier mensaje si es necesario.
 
 Gestiona los mensajes enviados.
 
-| Acción | Descripción |
-| :--- | :--- |
-| Visualizar | Visualizar el mensaje. |
-| [Editar](edit_message) | Editar el mensaje. |
-| Deshabilitar | Deshabilitar el mensaje. |
-| Eliminar | Eliminar el mensaje. |
-| Eliminar todos | Eliminar todos los mensajes no enviados. |
+| Acción                 | Descripción                              |
+| :--------------------- | :--------------------------------------- |
+| Visualizar             | Visualizar el mensaje.                   |
+| [Editar](edit_message) | Editar el mensaje.                       |
+| Deshabilitar           | Deshabilitar el mensaje.                 |
+| Eliminar               | Eliminar el mensaje.                     |
+| Eliminar todos         | Eliminar todos los mensajes no enviados. |
+
 <br>
 
-   ![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)
+![](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_messages_02.webp)
 
 ## Visualizar el Mensaje
 

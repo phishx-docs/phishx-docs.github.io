@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Exportar lista
 
 ::: tip Múltiplos formatos
@@ -40,4 +41,3 @@ Exportar os contatos de uma lista.
    Clicar **Obter** ou **Remover**.
 
    ![Exportar](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)
-

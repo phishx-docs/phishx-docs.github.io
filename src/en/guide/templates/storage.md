@@ -4,6 +4,7 @@ tags:
   - Templates
   - Editor
 ---
+
 # Storage
 
 ::: tip Faster images and videos

@@ -9,12 +9,13 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Resumo
 
 Gerenciar as configurações dos resultados.
 
-| Módulo | Descrição |
-| :--- | :--- |
+| Módulo                                | Descrição                                               |
+| :------------------------------------ | :------------------------------------------------------ |
 | [Editar configurações](edit_settings) | Gerenciar as configurações da empresa e do seu usuário. |
 
-   ![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_01.webp)
+![Configurações](https://cdn.phishx.io/phishx-docs/images/phishx_results_settings_01.webp)

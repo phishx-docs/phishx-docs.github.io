@@ -8,6 +8,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Microsoft Outlook
 
 ::: tip Ajude seu time de segurança
@@ -24,12 +25,13 @@ PhishX Assistant ajuda as pessoas a analisar ameaças e reportá-las à equipe d
 
    [Implantar suplementos no centro de administração](https://docs.microsoft.com/pt-br/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)
 
-| Método | Descrição |
-| :--- | :--- |
-| [Pessoal](single/) | Cada pessoa pode adicionar o suplemento manualmente. |
-| [Global](global/) | O administrador pode disponibilizar e instalar automaticamente para todos os colaboradores. |
-| [Requisitos](requirements/) | Requisitos para utilizar o suplemento. |
-| [Utilização](user/) | Como usar o suplemento. |
+| Método                      | Descrição                                                                                   |
+| :-------------------------- | :------------------------------------------------------------------------------------------ |
+| [Pessoal](single/)          | Cada pessoa pode adicionar o suplemento manualmente.                                        |
+| [Global](global/)           | O administrador pode disponibilizar e instalar automaticamente para todos os colaboradores. |
+| [Requisitos](requirements/) | Requisitos para utilizar o suplemento.                                                      |
+| [Utilização](user/)         | Como usar o suplemento.                                                                     |
+
 <br>
 
 2. **Verifique seu suplemento** no Microsoft Outlook.

@@ -5,6 +5,7 @@ tags:
   - Equipos
   - Permisos
 ---
+
 # Login
 
 ::: tip Várias formas de acceder
@@ -42,7 +43,7 @@ Cómo acceder a tu plataforma.
 
    ![Token](https://cdn.phishx.io/phishx-docs/images/phishx_user_login_token_01.webp)
 
-   Si utilizas una **autenticación integrada con nuestros socios**, será dirigido al  **respectivo portal de autenticación**.
+   Si utilizas una **autenticación integrada con nuestros socios**, será dirigido al **respectivo portal de autenticación**.
 
    ::: details Accesos externo
    Debes autenticarte con una cuenta externa con la misma dirección de correo electrónico que tu cuenta PhishX.

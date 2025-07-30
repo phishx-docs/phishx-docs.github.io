@@ -5,6 +5,7 @@ tags:
   - Editor
   - Wizards
 ---
+
 # Redirection
 
 ::: tip Redirect the person

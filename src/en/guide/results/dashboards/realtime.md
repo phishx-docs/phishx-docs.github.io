@@ -9,6 +9,7 @@ tags:
   - Events
   - Export
 ---
+
 # Tempo real
 
 ::: tip Alterar o início da análise
@@ -19,11 +20,11 @@ Para saber mais, converse com o [Customer Success](mailto:cs@phishx.io).
 
 Painel para acompanhamento de resultados em tempo real.
 
-| Indicador | Descrição |
-| :--- | :--- |
-| Todos | Todos os resultados consolidados. |
-| Grupos | Resultados segmentados pelo filtro Grupos. |
-| Eventos | Eventos detalhados. |
+| Indicador | Descrição                                  |
+| :-------- | :----------------------------------------- |
+| Todos     | Todos os resultados consolidados.          |
+| Grupos    | Resultados segmentados pelo filtro Grupos. |
+| Eventos   | Eventos detalhados.                        |
 
 1. Acessar o menu **Resultados** -> **Painéis** -> **Tempo Real**.
 

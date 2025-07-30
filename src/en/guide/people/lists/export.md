@@ -6,6 +6,7 @@ tags:
   - Targets
   - Contacts
 ---
+
 # Export list
 
 ::: tip Multiple formats
@@ -40,4 +41,3 @@ Export contacts from a list.
    Click **Get** or **Delete**.
 
    ![Export](https://cdn.phishx.io/phishx-docs/images/phishx_lists_people_export_03.webp)
-

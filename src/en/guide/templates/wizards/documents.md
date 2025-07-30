@@ -5,6 +5,7 @@ tags:
   - Editor
   - Wizards
 ---
+
 # Documents and policies
 
 ::: tip Online acceptance of documents and policies

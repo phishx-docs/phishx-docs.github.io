@@ -4,6 +4,7 @@ tags:
   - Campañas
   - Editor
 ---
+
 ## Personas
 
 ::: tip Múltiplas listas
@@ -15,6 +16,6 @@ Gestione las listas de contactos.
 
 1. En **Configuraciones** -> **Personas**.
 
-   Definir cuales listas de contactos recibirán tu campaña. 
+   Definir cuales listas de contactos recibirán tu campaña.
 
    ![Personas](https://cdn.phishx.io/phishx-docs/images/phishx_campaigns_campaigns_new_people_01.webp)

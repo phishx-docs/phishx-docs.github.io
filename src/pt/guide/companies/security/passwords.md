@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Senhas
 
 ::: tip Aderente a sua política de segurança

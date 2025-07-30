@@ -5,6 +5,7 @@ tags:
   - Teams
   - Permissions
 ---
+
 # Send a new password
 
 ::: tip Several ways to access

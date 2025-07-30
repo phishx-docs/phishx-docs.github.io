@@ -4,6 +4,7 @@ tags:
   - Templates
   - Editor
 ---
+
 # Editors
 
 ::: tip Need help?
@@ -47,4 +48,4 @@ You can access our visual editor in a new template.
 
 You can copy and paste code in our editors.
 
-   ![Code](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_04.webp)
+![Code](https://cdn.phishx.io/phishx-docs/images/phishx_templates_editor_04.webp)

@@ -10,13 +10,16 @@
   "repository": "https://github.com/phishx-docs/phishx-docs.github.io/phishx-docs.github.io",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\""
   },
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-medium-zoom": "^1.9.10",
     "moment": "^2.29.3",
+    "prettier": "^3.6.2",
     "vuepress": "^1.8.3",
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-theme-succinct": "^1.5.3"

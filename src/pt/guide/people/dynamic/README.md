@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Listas dinâmicas
 
 ::: tip Listas baseadas em regras de negócio

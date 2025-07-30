@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Assinaturas
 
 ::: tip Sua assinatura pode crescer a qualquer momento
@@ -12,7 +13,7 @@ Se sua empresa precisar de mais assinatura, seja por que contratou mais pessoas,
 
 Monitorar a utilização de suas assinaturas.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Assinaturas**.
+1. Acessar o menu **Configurações** -> **Empresas** -> **Assinaturas**.
 
    ![Assinaturas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_subs_01.webp)
 

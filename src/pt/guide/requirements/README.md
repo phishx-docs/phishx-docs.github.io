@@ -3,19 +3,20 @@ title: Requisitos
 tags:
   - Requisitos
 ---
+
 # Requisitos
 
 ## Resumo
 
 1. Copie nossas informações:
-   * Copie nossa Lista de Domínios. [Domínios](/pt/guide/requirements/domains)
-   * Copie nossa Lista de IPs. [IPs](/pt/guide/requirements/ips)
+   - Copie nossa Lista de Domínios. [Domínios](/pt/guide/requirements/domains)
+   - Copie nossa Lista de IPs. [IPs](/pt/guide/requirements/ips)
 2. Altere o seu ambiente:
-   * Configurações de proteção de E-mail.
-   * Configurações de proteção de Filtro de Conteúdo Web.
+   - Configurações de proteção de E-mail.
+   - Configurações de proteção de Filtro de Conteúdo Web.
 3. Verifique:
-   * Defina as pessoas que vão participar da validação.
-   * Acesse o portal, ou peça nosso suporte, e envie uma campanha de validação por e-mail.
+   - Defina as pessoas que vão participar da validação.
+   - Acesse o portal, ou peça nosso suporte, e envie uma campanha de validação por e-mail.
 
 ## Configurações
 
@@ -34,7 +35,3 @@ Se você precisar permitir apenas o nome de domínio totalmente qualificado (FQD
 Se você tiver perguntas adicionais, podemos fazer uma conferência ou enviar um e-mail para [Customer Success](mailto:cs@phishx.io).
 
 > Estamos à disposição para ajudar seus times.
-
-
-
-

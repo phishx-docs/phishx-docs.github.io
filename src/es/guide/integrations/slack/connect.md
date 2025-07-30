@@ -4,6 +4,7 @@ tags:
   - Integraciones
   - Slack
 ---
+
 # Conectar un Equipo del Slack
 
 ::: tip Múltiplos equipos

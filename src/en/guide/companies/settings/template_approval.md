@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Template approvals
 
 ::: tip Additional approvals

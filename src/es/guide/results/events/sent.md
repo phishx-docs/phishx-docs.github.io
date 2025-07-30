@@ -8,6 +8,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Enviados
 
 ::: tip Mensajes de la plataforma

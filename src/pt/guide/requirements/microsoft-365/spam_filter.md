@@ -6,6 +6,7 @@ tags:
   - Office
   - 365
 ---
+
 # Filtro de spam
 
 ## Resumo
@@ -28,7 +29,7 @@ tags:
 
    ![Novo Conector](https://cdn.phishx.io/phishx-docs/images/microsoft_365_11.webp)
 
-3. Em **nova política de filtro de spam** -> ***Nome** inserir "PhishX".
+3. Em **nova política de filtro de spam** -> **\*Nome** inserir "PhishX".
 
    ![Nome](https://cdn.phishx.io/phishx-docs/images/microsoft_365_12.webp)
 

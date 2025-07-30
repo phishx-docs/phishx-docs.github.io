@@ -3,6 +3,7 @@ title: Certificates
 tags:
   - Requirements
 ---
+
 # Certiticates
 
 ## TL;DR

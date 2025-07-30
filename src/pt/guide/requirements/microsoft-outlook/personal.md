@@ -8,6 +8,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Pessoal
 
 ## Resumo
@@ -24,11 +25,12 @@ tags:
 
    ![Microsoft Outlook](https://cdn.phishx.io/phishx-docs/images/phishx_settings_docs_outlook_safe_senders_list_02.jpg)
 
-| Opção | Descrição |
-| :--- | :--- |
-| Baixar imagens | Baixe apenas imagens para esta mensagem. |
-| Adicionar remetente à Lista de Remetentes Confiáveis | Baixe e confie em qualquer mensagem deste remetente. |
+| Opção                                                | Descrição                                                            |
+| :--------------------------------------------------- | :------------------------------------------------------------------- |
+| Baixar imagens                                       | Baixe apenas imagens para esta mensagem.                             |
+| Adicionar remetente à Lista de Remetentes Confiáveis | Baixe e confie em qualquer mensagem deste remetente.                 |
 | Adicionar o domínio à Lista de Remetentes Confiáveis | Baixe e confie em qualquer mensagem deste domínio. **Melhor opção**. |
+
 <br>
 
 3. **Visualize** sua mensagem com todas as fotos e conteúdo corrigido.

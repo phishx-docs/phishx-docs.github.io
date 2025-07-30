@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Empresas
 
 ::: tip Várias empresas
@@ -13,7 +14,7 @@ Para compartilhar sua assinatura entre em contato com [Customer Success](mailto:
 
 Gerenciar as empresas do grupo de negócios.
 
-1. Acessar o menu **Configurações** -> **Empresas**  -> **Empresas**.
+1. Acessar o menu **Configurações** -> **Empresas** -> **Empresas**.
 
    ![Empresas](https://cdn.phishx.io/phishx-docs/images/phishx_companies_companies_01.webp)
 

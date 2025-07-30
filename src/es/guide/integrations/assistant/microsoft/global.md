@@ -7,6 +7,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Instalação Global
 
 ::: tip Abordagem recomendada
@@ -14,7 +15,6 @@ Abordagem recomendada para a implantação de suplementos é segmentar em fases,
 :::
 
 ## Resumo
-
 
 ## Configurações
 
@@ -29,7 +29,6 @@ Abordagem recomendada para a implantação de suplementos é segmentar em fases,
 3. Em **Integração de Aplicativos**, clicar em **Subir aplicativos personalizados**.
 
    ![Outlook Web](https://cdn.phishx.io/phishx-docs/images/assistant_microsoft_global_02.png)
-
 
 4. Em **Subir Aplicativo para distribuir**, clicar em **Prover endereço do arquivo de manifesto**, inserir a URL do **PhishX Assistant** e clicar em **Validar**.
 

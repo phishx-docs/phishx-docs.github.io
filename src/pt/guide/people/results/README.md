@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Listas de resultados
 
 ::: tip Resultados de suas campanhas

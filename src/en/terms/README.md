@@ -1,6 +1,7 @@
 ---
 lastUpdated: false
 ---
+
 # Terms of Use
 
 GENERAL TERMS AND CONDITIONS OF USE OF THE PHISHX PLATFORM
@@ -15,12 +16,11 @@ By using our SERVICES and / or PRODUCTS, you are agreeing to these terms. Read t
 
 OUR SERVICES are very diverse, therefore, sometimes additional terms or product requirements (including age requirements) may apply. Additional terms will be available with the relevant SERVICES and such additional terms will become part of our AGREEMENT with you if you use these SERVICES.
 
-This instrument contains the general terms and conditions of use of the sites "phishx.io", "www.phishx.io" and "* .phishx.io" (collectively the "WEBSITES", or individually and indistinctly the " WEBSITE "), as well as the services offered through such WEBSITES (the" SERVICES "), under the PHISHX PLATFORM (the" PLATFORM "or" PHISHX ").
+This instrument contains the general terms and conditions of use of the sites "phishx.io", "www.phishx.io" and "\* .phishx.io" (collectively the "WEBSITES", or individually and indistinctly the " WEBSITE "), as well as the services offered through such WEBSITES (the" SERVICES "), under the PHISHX PLATFORM (the" PLATFORM "or" PHISHX ").
 
 1. The WEBSITES Service
 
 1.1. The WEBSITES are operated by P2 TECHNOLOGY INFORMÁTICA LTDA. ("P2", "PHISHX", "WE", "US" or "OUR", "WE"). "YOU", "YOUR", "YOUR", "USER" or "CUSTOMER" mean the party making use of the WEBSITES and / or SERVICES. Through the WEBSITE, P2 offers YOU, access to data, information regarding PLATFORM.
-
 
 2. Use of the WEBSITE and Acceptance of Terms of Use
 
@@ -32,7 +32,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 2.4. P2 may update or change these GENERAL TERMS at any time. After publication of the alteration of these TERMS OF USE on the WEBSITES, YOUR continued use of the SERVICES or WEBSITES constitutes YOUR express agreement to the TERMS OF USE, as amended.
 
-
 3. Access to the WEBSITE and the SERVICES
 
 3.1. In order to access the WEBSITE and use the SERVICES, YOU must maintain and operate the software and hardware required to do so.
@@ -40,7 +39,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 3.2. YOU are the sole and exclusive responsible for acquiring, installing and maintaining any and all software and hardware necessary to access the WEBSITE and use the SERVICES.
 
 3.3. We are not responsible for any technical difficulties you face arising from the use of these software and hardware.
-
 
 4. Registration Process
 
@@ -60,7 +58,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 4.6. We will not be liable for any loss or damage arising from YOUR failure to comply with the provisions of this section.
 
-
 5. Changes in the SERVICES or WEBSITES.
 
 5.1. P2 reserves the right to modify, suspend, terminate and / or discontinue any aspect of the WEBSITES at any time, including the availability of any SERVICES, information, features and / or features accessible through the WEBSITES.
@@ -71,7 +68,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 5.4. P2 reserves the right at any time or title to control and / or change the appearance, development and / or operations of the WEBSITE at our sole discretion, as well as to establish and modify the procedures for YOUR CONTACT, without the need for prior notification.
 
-
 6. Links to other WEBSITES
 
 6.1. The content of any websites that YOU access from OUR WEBSITES is totally outside of OUR control, being that the access and the permanence in such websites will be by YOUR own account and risk. The inclusion of these links in the WEBSITES does not imply in our endorsement or consent to any products, services, content, information or materials offered by or accessible to YOU on the websites of third parties.
@@ -79,7 +75,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 6.2. We do not represent or warrant any third party websites that YOU may access through the WEBSITES. We can not accept any responsibility or assume any obligation with respect to any material contained in any other website. Any opinions or recommendations expressed on such other websites are solely those of the independent providers and are not, nor represent, the opinions or recommendations of P2.
 
 6.3. All copyrights and trademarks accessible through the links on the WEBSITES are the property of the respective owners of the websites and / or their licensors.
-
 
 7. Intellectual Property
 
@@ -91,7 +86,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 7.4. Licenses for the use of OUR WEBSITES are granted in a non-exclusive, non-transferable, non-sublicensable manner and may be revoked at any time in relation to any and all CONTENT provided to YOU for the exclusive use in the processing of internal systems. P2 does not grant any other license or authorization on your intellectual and industrial property rights or on any other property or right related to the SERVICES and / or the WEBSITES. P2 reserves all and any right over its trademarks, copyrights, and other intellectual property rights, available on OUR WEBSITES being forbidden its use without our express authorization, under penalty of setting up civil and criminal offenses.
 
-
 8. No Warranties
 
 8.1. Although WE have made our best efforts to ensure that the WEBSITE CONTENT is reliable, no warranty (explicit or implied) is made as to its currency, accuracy, completeness or impartiality, and therefore YOU must, if necessary, obtain an independent verification of any of the information contained herein.
@@ -99,7 +93,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 8.2. WE (I) assume no liability whatsoever of any nature and title whatsoever about any CONTENT contained in the WEBSITES, or the SERVICES provided or any information provided by or through the WEBSITES, and (ii) we do not guarantee that the WEBSITE or any SERVICES or CONTENTS of it will be uninterrupted or error free, defects will be corrected or that WEBSITES, the server on which it is made available or any system connected to it, is free from viruses or other harmful components.
 
 8.3. YOU acknowledge that YOU must use the WEBSITES, its CONTENT and the SERVICES at your own risk, and that WEBSITES, its CONTENT or the SERVICES may contain technical problems or other limitations for which WE assume no responsibility and can not be held responsible for any damages that may arise from technical problems, limitations, failures, bugs, malware, malicious software and / or computer viruses, in connection with YOUR access to or use of the WEBSITES, its CONTENT and / or SERVICES.
-
 
 9. Responsibilities
 
@@ -110,7 +103,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 9.3. WE WILL NOT BE LIABLE TO YOU FOR ANY DELAY OR NON-PERFORMANCE OF THE SERVICES, OR FAILURE TO ACCESS THE WEBSITES OR ANY PART OF THE CONTENT THEREOF, ARISING OUT OF ANY CIRCUMSTANCE OTHER THAN OUR RIGHT CONTROL OR PROVIDERS OF OUR SERVICES.
 
 9.4. YOU are responsible for the content of YOUR messages or any other data, information or materials distributed through the WEBSITES. YOU are responsible for all obligations to third parties arising out of YOUR USE OF THE WEBSITES, including contractual, tax and regulatory liabilities. YOU agree to indemnify us for any costs, expenses or liabilities that WE incur, and any claims or lawsuits that may be brought against P2 as a result of YOUR USE of the SERVICES, WEBSITES or any CONTENT thereof.
-
 
 10. Acceptable Use Policy
 
@@ -134,7 +126,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 10.3. P2 works and will use its best efforts to keep the WEBSITES and SERVICES in operation, however, all online services are subject to occasional interruptions and stoppages. P2 shall not be liable for any interruption or loss YOU may suffer as a result of such interruptions or outages.
 
-
 11. Privacy
 
 11.1. We make it clear that personal data of visitors to the WEBSITE are not collected or stored when they are not voluntarily provided by the party. Personal data collected through the WEBSITES may include your name, e-mail address, contact information, your IP address and the name of the computer that is accessing, as well as other data relevant to the use of our SERVICES.
@@ -145,7 +136,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 11.4. By accepting these TERMS OF USE, by using the WEBSITES and / or SERVICES, you declare under the penalties of the law, to be 18 (eighteen) years of age or more.
 
-
 12. Use of collected data
 
 12.1. YOU hereby expressly acknowledge and authorize P2, during YOUR USE OF THE WEBSITES and THE SERVICES, to collect YOUR data, including the use of cookies, as indicated in item 13, below.
@@ -154,29 +144,23 @@ This instrument contains the general terms and conditions of use of the sites "p
 
 12.3. The data collected by P2 may be used by other companies that may arise and form an economic group with it, always respecting these TERMS OF USE. By submitting the data in the WEBSITES, you expressly agree with this modality of use. P2 will not transfer your data to third parties, outside of any economic group, without your prior and express consent, unless you are required to do so under applicable law.
 
-
 13. Cookies
 
 13.1. P2 may use the information store (known as cookies) to enable you to use our site more easily and to keep track of certain statistical data that help us to improve our WEBSITES. OUR cookies do not contain personally identifiable information. Most browsers are initially configured to accept cookies. If you wish, you can instruct your internet browser to prevent cookies from being used and delete existing cookies. However, please note that the high quality of our WEBSITES and / or SERVICES may be reduced as a result thereof. Please refer to the help guide of your internet browser for further guidance.
-
 
 14. Security
 
 14.1. P2 adopts all appropriate digital, technical, and organizational security measures to protect your data, in accordance with the best industry standards. However, you should be fully aware that no security system offers complete guarantee, so that P2 is not responsible for data leakage, when proven that it has occurred in a criminal way, by using technological resources superior to standards usually accepted by the industry and used by P2.
 
-
 15.2. YOU have the right to terminate your access to the WEBSITES and to all SERVICES by sending written notification to P2, except for specific provisions in SERVICE CONTRACT, PROPOSAL FOR ACCESSION, COMMERCIAL PROPOSAL, TECHNICAL PROPOSAL, QUOTATION ( QUOTE) and / or PRE-PROPOSAL entered into between YOU and P2.
-
 
 16. Governing Law
 
 16.1. These TERMS OF USE and all relations arising therefrom are subject to the laws of the Federative Republic of Brazil, being elected the forum of the City of São Paulo, in the state of São Paulo, to settle any controversy arising from this instrument.
 
-
 17. Notifications
 
 17.1. Notifications can be given by US or YOU by e-mail. OUR address for this purpose is: meajuda@phishx.io.
-
 
 18. General Provisions
 
@@ -189,7 +173,6 @@ This instrument contains the general terms and conditions of use of the sites "p
 18.4. These TERMS OF USE (together with any specific terms and conditions for specific services, including PROPOSAL FOR ACCESSION, COMMERCIAL PROPOSAL, TECHNICAL PROPOSAL, QUOTE, PRE-PROPOSAL and / or CONTRACT FOR THE PROVISION OF SERVICES, contain (s) the agreement between us, in relation to the SERVICES and YOUR USE OF THE WEBSITES, and, supersede all prior agreements between us in relation to them.
 
 18.5. If at any time, any provision (or part of any provision) of these TERMS OF USE is, or becomes unlawful, invalid or unenforceable in any respect, under the law of any jurisdiction, this shall not affect or impair the legality, in any or all other jurisdiction of any other provision (or any other part of the same provision) of these TERMS OF USE.
-
 
 PhishX | Cybersecurity for People
 Created by our Legal Team

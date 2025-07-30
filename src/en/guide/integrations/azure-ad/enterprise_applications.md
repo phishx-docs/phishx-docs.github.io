@@ -6,6 +6,7 @@ tags:
   - Azure
   - AD
 ---
+
 # Enterprise applications
 
 ## TL;DR
@@ -24,11 +25,11 @@ tags:
 
 3. Go to **Properties**.
 
-	In **User assignment required?** select **Yes**.
+   In **User assignment required?** select **Yes**.
 
-	In **Visible to users?** select **No**.
+   In **Visible to users?** select **No**.
 
-	Click **Save**.
+   Click **Save**.
 
    ![Properties](https://cdn.phishx.io/phishx-docs/images/azure_ad_15.webp)
 

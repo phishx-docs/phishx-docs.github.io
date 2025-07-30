@@ -9,6 +9,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Localidades
 
 ::: tip Localidades detalhadas
@@ -18,13 +19,13 @@ Para saber mais como exportar seu relatório: [Relatórios](../reports/global)
 
 Painel com os indicadores das localidades das pessoas.
 
-| Indicador | Descrição |
-| :--- | :--- |
-| Mapa | Todos os resultados por país e com drilldown por estado. |
-| Organizações | Todos os resultados por organização. |
-| Localidades | Todos os resultados por localidade. |
-| Localidade | Todos os resultados por tipo de localidade. |
-| Grupos | Resultados segmentados pelo filtro Grupos e Localidade. |
+| Indicador    | Descrição                                                |
+| :----------- | :------------------------------------------------------- |
+| Mapa         | Todos os resultados por país e com drilldown por estado. |
+| Organizações | Todos os resultados por organização.                     |
+| Localidades  | Todos os resultados por localidade.                      |
+| Localidade   | Todos os resultados por tipo de localidade.              |
+| Grupos       | Resultados segmentados pelo filtro Grupos e Localidade.  |
 
 1. Acessar o menu **Resultados** -> **Painéis** -> **Localidades**.
 

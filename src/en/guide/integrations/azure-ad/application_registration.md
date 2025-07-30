@@ -6,6 +6,7 @@ tags:
   - Azure
   - AD
 ---
+
 # Application registration
 
 ## TL;DR
@@ -30,9 +31,9 @@ tags:
 
    In **Supported account types** select **Accounts in this organizational directory only (... only - Single tenant)**.
 
-	In **Redirect URI (optional)** fill with your **PhishX URL**: **https://my_subdomain.phishx.io/azuread**.
+   In **Redirect URI (optional)** fill with your **PhishX URL**: **https://my_subdomain.phishx.io/azuread**.
 
-	Click **Register**.
+   Click **Register**.
 
    ![New Registration](https://cdn.phishx.io/phishx-docs/images/azure_ad_04.webp)
 

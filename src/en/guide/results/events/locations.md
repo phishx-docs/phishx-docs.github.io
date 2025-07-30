@@ -8,6 +8,7 @@ tags:
   - Events
   - Export
 ---
+
 # Localidades
 
 ::: tip Relatórios detalhados

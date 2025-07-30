@@ -6,6 +6,7 @@ tags:
   - Alvos
   - Contatos
 ---
+
 # Listas inteligentes
 
 ::: tip Listas automáticas

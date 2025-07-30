@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Azure AD
 
 ::: tip Microsoft Azure

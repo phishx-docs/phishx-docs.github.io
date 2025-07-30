@@ -1,6 +1,7 @@
 ---
 lastUpdated: false
 ---
+
 # Contract
 
 COMPUTER TRAINING SERVICES CONTRACT VIA SAAS
@@ -124,144 +125,143 @@ FOURTH CLAUSE - VALUE
 4.2.4. In the case of payment in installments by credit card, after the purchase authorization, no cancellation or refund of the same will be made by the CONTRACTOR to the CONTRACTING PARTY.
 
 4.3. The amounts due and not paid in a timely manner, whether referring to the services themselves or referring to the Implementation and Consultancy services, including the first installment before the release of access to PHISHX, will be subject to monetary correction according to the variation of the General Price Index - Fundação Getúlio Vargas market ("IGP-M / FGV"), between the due date and the date of actual payment, as well as a 10% (ten percent) fine and 1% (two percent) interest on month, without prejudice to any other right of the CONTRACTOR under this CONTRACT, especially those to suspend or block, after 02 (two) days of default, regardless of prior notice, access to PHISHX, as well as immediately suspend the provision of services.
- 
+
 4.4. In the event the CONTRACT is extended under the terms of CLAUSE 5.1., The amount paid for the subscription will be adjusted every 12 (twelve) months, always counting on the date of the QUOTATION, COMMERCIAL PROPOSAL, TECHNICAL PROPOSAL and / or ANNEX (s). closed, by the IGP-M / FGV, or by another official index that may replace it or, in the absence of a substitute, by the simple average of the main economic indices that determine the accumulated annual inflation.
- 
+
 4.5. The CONTRACTOR is hereby authorized, at its sole discretion, to discount, pledge, assign, transfer, by endorsement or civil credit assignment, in whole or in PART, all credit and guarantee rights arising from this CONTRACT, regardless of consent. of the CONTRACTING PARTY, the assigning creditors and beneficiaries of the credit being subrogated in all the credit rights of this instrument.
- 
+
 FIFTH CLAUSE - TERM AND TERMINATION
 
 5.1. Term
- 
+
 5.1.1. The term of this CONTRACT starts on the invoice date. Access to PHISHX, however, will only be available when the billing payment is confirmed, guaranteeing, from then on, the total term of the service provision, for the total term provided for in the QUOTATION, COMMERCIAL PROPOSAL, PROPOSAL TECHNIQUE and / or ANNEX (s).
- 
+
 5.1.2. If neither PARTY notifies the other, with a minimum term of 30 (thirty) days before the end of the term of this CONTRACT, it will be automatically renewed for an indefinite period.
- 
+
 5.1.3. P2 services are prepaid, unless specific negotiation provided for in QUOTATION, COMMERCIAL PROPOSAL, TECHNICAL PROPOSAL and / or ANNEX (s).
- 
+
 5.2. Termination
- 
+
 5.2.1. This CONTRACT may be terminated in the following circumstances:
- 
+
 5.2.1.1. At any time, in case of breach or default of its clauses and conditions, regardless of judicial or extrajudicial interpellation, as well as in case of request for judicial, extrajudicial recovery and / or bankruptcy of any of the PARTIES, under the terms of Law No. 11,101 of 02/09/2005.
- 
+
 5.2.1.2. In the event of termination for default by the CONTRACTING PARTY, a non-compensatory fine of 100% (one hundred percent) of the installments due until the regular termination of the CONTRACT will be applied.
- 
+
 5.2.1.3. In the interest of either PARTY, at any time, with formal notice to the other with 30 (thirty) days in advance. In the event of early termination required by the CONTRACTING PARTY, a non-compensatory fine will be applied to be paid by the CONTRACTING PARTY to the CONTRACTOR in the amount of 100% (one hundred percent) of the payment installment (s) due) until the regular termination of the CONTRACT, even if the termination occurs before the payment of the first and / or only installment provided for in the QUOTATION, COMMERCIAL PROPOSAL, TECHNICAL PROPOSAL and / or ANNEX (s).
- 
+
 5.2.1.4. In the case of standard payment, that is, prepaid payment for an annual, biannual, triennial, or longer-term subscription, or exceptionally installment payment, no refund and / or refund of the payment (s) made will be made., by the CONTRACTOR to the CONTRACTING PARTY.
- 
+
 SIXTH CLAUSE - CONFIDENTIALITY AND DATA PROTECTION
 
 6.1. Confidentiality
- 
+
 6.1.1. Each PARTY undertakes to keep and treat as confidential and not to reveal to third parties any Confidential Information related to PHISHX, services, products, proposals, contracts, documents, user data, templates, industry secrets and others, or to use such information for any purpose. purpose other than that provided for in this AGREEMENT.
- 
+
 6.1.2. Both the PARTIES and their legal representatives, directors, employees, analysts, agents, and consultants, including lawyers, accountants, auditors, analysts, and financial consultants, are subject to the duty of secrecy and confidentiality provided for in this AGREEMENT.
- 
+
 6.1.3. Notwithstanding the provisions of this CONTRACT, Confidential Information may be revealed in the following cases: (i) applicable legal requirement, (ii) court order or decision or in an administrative or arbitration proceeding, or (iii) request from any authority or regulatory body of Brazil. In any of the situations provided for in this clause, the PARTY that has to disclose Confidential Information will only do so to the extent required by such administrative, arbitration or judicial order, and previously guided by the opinion of its legal advisors, committing itself to take all measures reasonably necessary to preserve the confidentiality of Confidential Information, including obtaining a protective measure or other provision that can ensure the confidential treatment of Confidential Information.
- 
+
 6.1.4. The PARTIES acknowledge that any breach of the confidentiality obligations of this CONTRACT may cause damage to the other PARTY in an amount that is not readily measurable. Accordingly, the PARTIES agree, without prejudice to other applicable rights or measures, that the offending PARTY shall repair the PARTY disclosing the damage suffered by it.
- 
+
 6.1.5. The confidentiality obligation provided for herein will remain in force if the information received remains confidential.
- 
+
 6.2. Data protection
- 
+
 6.2.1. Without limiting the foregoing, the CONTRACTOR undertakes to maintain adequate administrative, physical, digital, and technical defenses to protect the security, confidentiality, integrity, and privacy of the CONTRACTING PARTY's data.
- 
+
 6.2.2. The CONTRACTOR undertakes not to (i) change the data of the CONTRACTING PARTY; (ii) disclose the data of the CONTRACTING PARTY, except as required by law, or if the CONTRACTING PARTY expressly permits; (iii) access the CONTRACTING PARTY data, except to provide the Services, Support, Curatorship or solve service and / or technical problems, or at the request of the CONTRACTING PARTY in relation to customer support aspects.
- 
+
 6.3. PARTIES undertake to protect the personal data of their customers, users, suppliers, employees and other individuals through appropriate, transparent, and publishable policies and practices upon simple request from one party to the other.
- 
+
 6.3.1. As a result of this commitment, in situations that may require the PARTIES to act jointly to prove their policies and practices as well as the correct treatment of data - even if from a certain holder who, due to this contract, can claim against both companies - none of them [parties] may fail to collaborate to elucidate and provide clarifications [to the owners or public agents invested in the power-duty to act directly or indirectly in the protection of privacy], within the limits of their effective responsibility, effort possible and reasonable for the specific situation, without prejudice to, in another sphere, responding individually for an obligation attributable to only one of them due to the duty to protect the rights of the holders.
- 
+
 6.4. Bearing in mind that each signatory has its personal data protection policies and practices and that, due to the principle of multiplication, both parties must ensure that their business partners comply with the personal data protection duties, the PARTIES, where there is no incompatibility due to the type of business, environment, applied technology, type of treatment, obligations to other customers and partners, economic capacity, etc., they will observe, as appropriate and within the limits of their responsibilities, each other's policies, contributing to individuals affected by this contract are, in the environments of the two PARTIES, protected and respected.
- 
+
 6.4.1. Due to the above item, it is inconceivable and unacceptable that one of the PARTIES does not adopt personal data protection and privacy practices compatible with its business, segment, complexity, activities and technical-economic capacity, which is why, in good faith, the PARTIES declare to be in conformity with the applicable rules, and, at any time, the absence of demonstration of this, upon simple request, will subject the defaulting PARTY to bear the burden of termination for just cause of this instrument, in addition to those reasonably resulting from losses that cause to the other PARTY.
- 
+
 SEVENTH CLAUSE - GENERAL PROVISIONS
 
 7.1. Succession
- 
+
 7.1.1. This CONTRACT is binding on the PARTIES and their successors, be they in any capacity.
- 
+
 7.2. Assignment
- 
+
 7.2.1. This CONTRACT and any rights granted in accordance with the present cannot be transferred or assigned by the CONTRACTING PARTY but can be transferred by the CONTRACTED PARTY without any restriction or prior notice.
- 
+
 7.3. Subsistence
- 
+
 7.3.1. All provisions of this CONTRACT that provide for the observance of obligations or responsibilities after the termination or termination of this CONTRACT, will continue to be terminated or terminated and will continue in full force and effect, especially regarding intellectual property, confidentiality and data privacy and information.
- 
+
 7.4. Independence of the PARTIES
- 
+
 7.4.1. Both PARTIES expressly acknowledge that the only legal link between them results from this CONTRACT or from contracts formally signed between them.
- 
+
 7.4.2. Nothing in this instrument will be interpreted in such a way as to place the Parties as partners, associates, consortium members, lenders or joint and several liability, of any kind, including, but not limited to, civil, administrative, labor and tax liability. tax.
- 
+
 7.4.3. The PARTIES will conduct their business on their own behalf and will be separately responsible for the actions and conduct of their employees and agents.
- 
+
 7.5. Labor obligations
- 
+
 7.5.1. This CONTRACT is civil in nature, with no employment relationship between the CONTRACTING PARTY and the employees, managers, or agents of the CONTRACTED PARTY and vice versa, all expenses incurred with the respective personnel, including the respective salaries, under the exclusive responsibility of the person concerned., labor, social security charges and any other portions of any nature related to the said bond.
- 
+
 7.5.1.1. Legal actions of a labor nature that may arise because of this CONTRACT will be regulated according to the provisions below:
- 
+
 7.5.1.1.1. Should the CONTRACTING PARTY be sued in court, at any time, in the labor scope by an employee, agent or third party who has rendered service to the CONTRACTOR, it is obliged to: (i) intervene voluntarily in the deed, claiming the exclusion of the CONTRACTING PARTY from the liability the respective demand; (ii) provide all collateral and guarantees ordered during the procedure, whether in the first or second instance; (iii) assume full and exclusive responsibility for the payment of pecuniary condemnations and measures sought, keeping the CONTRACTING PARTY safe and free from any liens and / or financial disbursements in any capacity related to the process in progress; and (iv) bear the procedural expenses borne by the CONTRACTING PARTY resulting from their inclusion in the referred processes, including attorney fees and other expenses necessary for the effective defense and full monitoring of the process, provided that the contracted professionals are previously appointed or hired authorized by the CONTRACTOR.
- 
+
 7.5.1.1.2. The CONTRACTED PARTY shall request the exclusion of the CONTRACTING PARTY at the first opportunity to manifest itself in the records or in a hearing in case the CONTRACTING PARTY is included in the passive pole of demands promoted by employees, collaborators and / or third parties linked to the CONTRACTOR.
- 
+
 7.5.1.2. The PARTIES further agree that other responsibilities will be governed according to the following provisions:
- 
+
 7.5.1.2.1. The CONTRACTOR shall bear the exclusive responsibility for the obligations relating to labor and social security obligations, federal, state, and municipal taxes, FGTS and any others arising from the employment relationship between the CONTRACTOR and its employees, responsible for the execution of the Services covered by this CONTRACT.
- 
+
 7.5.1.2.2. The CONTRACTOR undertakes to have its technical personnel duly registered in the Employees Registration book and undertakes to fully and accurately comply with all labor and ancillary obligations with the labor and social security inspection bodies, as well as presenting all guides evidence of tax, social security and social collections and other guides inherent to the collection of other taxes, whenever requested by the CONTRACTING PARTY, under the terms of this CONTRACT.
- 
+
 7.5.1.2.3. The CONTRACTOR will also be responsible for all and any labor and social charges related to its employees and collaborators used during the rendering of services to the CONTRACTING PARTY, among them: salaries, insurance, indemnities for dismissals or accidents at work, prior notice, 13th salary, overtime, night allowance, vacation, social and tax contributions, in addition to other charges that may not be named here, including other rights possibly provided for in collective rules of the CONTRACTOR's employees and collaborators.
- 
+
 7.6. Economic results
- 
+
 7.6.1. This CONTRACT does not bind any of the Parties with respect to the other as to the present or future economic results of their respective businesses, therefore, neither of them is responsible with respect to the other, for such results, either during the term of this CONTRACT or even after its termination, in any capacity, being certain that the provision of the Services constitutes an obligation of means and not of results.
- 
+
 7.7. Independent clauses
- 
+
 7.7.1. If any provision of this instrument is found to be illegal, void, or unable to be complied with for any reason, this provision will be deemed to be a provision independent of the remaining PART of this AGREEMENT and will not affect the validity or enforceability of compliance with the terms of the remainder of this Agreement.
- 
- 
+
 7.8. Contract Modification
- 
+
 7.8.1. This CONTRACT may be modified at any time and the amendment containing the clauses then in force will be made available to the holders through the website docs.phishx.io.
- 
+
 7.9. Revocation of Contracts and Previous Conditions
- 
+
 7.9.1. This CONTRACT and Conditions revoke, from this date, in a broad and unrestricted manner, for all legal purposes, all previous PHISHX Contracts and Additives.
- 
+
 7.10. Applicable law
- 
+
 7.10.1. This CONTRACT and the fulfillment of the obligations therein will be governed by the laws of the Federative Republic of Brazil and interpreted in accordance with its provisions.
- 
+
 CLAUSE EIGHT - COMPLIANCE
 
 8.1. Compliance
- 
+
 8.1.1. In carrying out their functions, the PARTIES undertake not to pay, offer, promote or authorize the payment of any amount, object of monetary value or other benefits, such as gifts, favors, promises or advantages, directly or indirectly, to any employee each other or to public servants, officials, political candidates, political parties and / or anyone acting on behalf of a national or international public organization, their family members or friends, if such payments, favors or gifts are or can be considered illegal or have the purpose of obtaining or returning any kind of favoritism given or promised to any Party to this Agreement (“COMPLIANCE”).
- 
+
 8.1.2. In addition to the anticipated termination hypotheses not present in the Contract, any of the PARTIES will be or directly terminated or the Contract, immediately after prior notice or sending of notification, with the following hypotheses: (i) failure to comply with any Compliance standard defined in the above clause; (ii) case any of the PARTIES is involved or is publicly involved in a Compliance case, regardless of the reason or event that has been motivated; or (iii) any of the Parties officially investigated by public authorities on the basis of some violation of Compliance standards, morality or business ethics, or current legislation.
- 
+
 CLAUSE NINE - SIGNATURE, ACCEPTANCE AND / OR ELECTRONIC AGREEMENT
 
 9.1. Electronic Signature, Acceptance and / or Agreement
- 
+
 9.1.1. The PARTIES expressly agree to use and acknowledge as valid the assurances and / or electronic oils as a form of annuity verification at the terms now agreed in electronic format. The formalization of two terms in the previously agreed manner will be sufficient for the valid and comprehensive binding of the PARTIES to this CONTRACT.
- 
+
 TENTH CLAUSE - JURISDICTION
 
 10.1. The Court of São Paulo, in the State of São Paulo, is chosen to settle any claims arising from this CONTRACT, waiving any other, however privileged it may be or may be.
- 
+
 This CONTRACT is considered to be entered into and binding between the PARTIES at no time when the CONTRACTOR derives from the agreement, oil and / or electronic assurance (s) COTAÇÃO, COMMERCIAL PROPOSAL, TECHNICAL PROPOSAL and / or ANNEX (s ), or to conclude or to register the planned procedure not on the site of phishx.io, or first that it has been carried out, being certain that, also proceeding, or CONTRACTING PARTY declares all terms and conditions of this CONTRACT to be valid and understood, reason for which it is recommended That the CONTRACTOR print a copy of this document for future reference and keep it to the observance and update of this CONTRACT no site: docs.phishx.io.
- 
+
 São Paulo, SP, Brazil, December 15, 2020.
- 
+
 PHISHX TEAM 💚🦈
 P2 TECHNOLOGY INFORMÁTICA LTDA.
 CNPJ: 24.843.289 / 0001-79

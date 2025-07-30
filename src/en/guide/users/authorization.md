@@ -6,6 +6,7 @@ tags:
   - Teams
   - Permissions
 ---
+
 # Authorization
 
 ::: tip Several access profiles
@@ -18,21 +19,21 @@ User Permissions.
 
 User permissions for your company environment.
 
-| Permission | Description |
-| :--- | :--- |
-| Account user | Profile with read-only access. |
-| Account template editor | Profile with permission to create content. |
-| Account people editor | Profile with permission to manage contact lists. |
-| Account campaign editor | Profile with permission to create campaigns. |
-| Account administrator | Profile with administrative permission and write access. |
-| Account supervisor | Account Administrator profile with permission to delete objects. |
+| Permission              | Description                                                      |
+| :---------------------- | :--------------------------------------------------------------- |
+| Account user            | Profile with read-only access.                                   |
+| Account template editor | Profile with permission to create content.                       |
+| Account people editor   | Profile with permission to manage contact lists.                 |
+| Account campaign editor | Profile with permission to create campaigns.                     |
+| Account administrator   | Profile with administrative permission and write access.         |
+| Account supervisor      | Account Administrator profile with permission to delete objects. |
 
 ## Business Group
 
 User permissions for your company's business group.
 
-| Permission | Description |
-| :--- | :--- |
-| Group user | Profile with read-only access. |
-| Group administrator | Profile with administrative permission and write access. |
-| Group supervisor | Account Administrator profile with permission to delete objects. |
+| Permission          | Description                                                      |
+| :------------------ | :--------------------------------------------------------------- |
+| Group user          | Profile with read-only access.                                   |
+| Group administrator | Profile with administrative permission and write access.         |
+| Group supervisor    | Account Administrator profile with permission to delete objects. |

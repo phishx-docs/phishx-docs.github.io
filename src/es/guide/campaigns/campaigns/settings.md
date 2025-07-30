@@ -4,6 +4,7 @@ tags:
   - Campañas
   - Editor
 ---
+
 ## Configuraciones
 
 ::: tip Múltiples dominios de simulación y su propio dominio para comunicación

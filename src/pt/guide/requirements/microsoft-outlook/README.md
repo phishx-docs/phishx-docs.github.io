@@ -8,6 +8,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Microsoft Outlook
 
 ::: tip Mensagens em sua caixa de entrada
@@ -17,7 +18,6 @@ Endereços de e-mail e nomes de domínio na Lista de Remetentes Confiáveis nunc
 ::: tip Baixe imagens e conteúdo automaticamente
 Por padrão, o Outlook não baixa imagens ou outro conteúdo automaticamente, exceto quando o conteúdo externo vem de um site na zona de Sites Confiáveis ou de um endereço ou domínio especificado na Lista de Remetentes Confiáveis.
 :::
-
 
 ## Resumo
 
@@ -33,15 +33,16 @@ Por padrão, o Outlook não baixa imagens ou outro conteúdo automaticamente, ex
 
    [Office Ferramenta de Personalização](https://docs.microsoft.com/pt-br/deployoffice/oct/oct-2016-help-overview)
 
-| Método | Descrição |
-| :--- | :--- |
-| [Pessoal](personal/) | Cada pessoa tem que confiar individualmente no remetente e / ou no domínio. |
-| [Lista](list/) | Você precisa disponibilizar uma lista atualizada. |
-| [Registro](registry/) | Você precisa alterar algumas configurações no Registro do Windows. |
-| [Powershell](powershell/) | Você altera dinamicamente algumas configurações no Registro do Windows via Powershell. |
-| Script de Logon | Crie uma forma automatizada de atualizar um arquivo local e alterar o Registro a cada logon. |
-| [Política de Grupo](gpo/) | Use um modelo administrativo oficial para implantar. |
-| [Proteção do Exchange Online](eop/) | Use a Proteção do Exchange Online para implantar. |
+| Método                              | Descrição                                                                                    |
+| :---------------------------------- | :------------------------------------------------------------------------------------------- |
+| [Pessoal](personal/)                | Cada pessoa tem que confiar individualmente no remetente e / ou no domínio.                  |
+| [Lista](list/)                      | Você precisa disponibilizar uma lista atualizada.                                            |
+| [Registro](registry/)               | Você precisa alterar algumas configurações no Registro do Windows.                           |
+| [Powershell](powershell/)           | Você altera dinamicamente algumas configurações no Registro do Windows via Powershell.       |
+| Script de Logon                     | Crie uma forma automatizada de atualizar um arquivo local e alterar o Registro a cada logon. |
+| [Política de Grupo](gpo/)           | Use um modelo administrativo oficial para implantar.                                         |
+| [Proteção do Exchange Online](eop/) | Use a Proteção do Exchange Online para implantar.                                            |
+
 <br>
 
 2. **Verifique sua lista atual** de **Remetentes Confiáveis** no Microsoft Outlook.

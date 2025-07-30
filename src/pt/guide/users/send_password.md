@@ -5,6 +5,7 @@ tags:
   - Times
   - Permissões
 ---
+
 # Enviar nova senha
 
 ::: tip Várias formas de acessar

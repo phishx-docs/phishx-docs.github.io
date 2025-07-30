@@ -8,6 +8,7 @@ tags:
   - Outlook
   - 365
 ---
+
 # Microsoft Outlook
 
 ::: tip Mensajes en tu bandeja de entrada
@@ -17,7 +18,6 @@ Direcciones de correo electrónico y nombres de dominio de la Lista de Remitente
 ::: tip Descarga imágenes y contenido automáticamente
 De forma predeterminada, Outlook no descarga automáticamente imágenes o otro contenido, excepto cuando el contenido externo proviene de un sitio web en la zona de Sitios Confiables o de una dirección o dominio especificado en la Lista de Remitentes Confiables.
 :::
-
 
 ## Resumen
 
@@ -33,15 +33,16 @@ De forma predeterminada, Outlook no descarga automáticamente imágenes o otro c
 
    [Office Herramienta de Personalización](https://docs.microsoft.com/pt-br/deployoffice/oct/oct-2016-help-overview)
 
-| Método | Descripción |
-| :--- | :--- |
-| [Personal](personal/) | Cada persona tiene que confiar en el remitente y / o el dominio individualmente. |
-| [Lista](list/) | Necesitas proporcionar una lista actualizada. |
-| [Registro](registry/) | Necesitas cambiar algunas configuraciones en el Registro del Windows. |
-| [Powershell](powershell/) | Cambia dinámicamente algunas configuraciones en el Registro de Windows a través de Powershell. |
-| Script de Logon | Crea una forma automatizada de actualizar un archivo local y cambia el registro en cada logon. |
-| [Política de Grupo](gpo/) | Usa un modelo administrativo oficial para implementar. |
-| [Exchange Online Protection](eop/) | Utilice Exchange Online Protection para implementar. |
+| Método                             | Descripción                                                                                    |
+| :--------------------------------- | :--------------------------------------------------------------------------------------------- |
+| [Personal](personal/)              | Cada persona tiene que confiar en el remitente y / o el dominio individualmente.               |
+| [Lista](list/)                     | Necesitas proporcionar una lista actualizada.                                                  |
+| [Registro](registry/)              | Necesitas cambiar algunas configuraciones en el Registro del Windows.                          |
+| [Powershell](powershell/)          | Cambia dinámicamente algunas configuraciones en el Registro de Windows a través de Powershell. |
+| Script de Logon                    | Crea una forma automatizada de actualizar un archivo local y cambia el registro en cada logon. |
+| [Política de Grupo](gpo/)          | Usa un modelo administrativo oficial para implementar.                                         |
+| [Exchange Online Protection](eop/) | Utilice Exchange Online Protection para implementar.                                           |
+
 <br>
 
 2. **Verifia tu lista actual** de **Remitentes Confiables** en Microsoft Outlook.

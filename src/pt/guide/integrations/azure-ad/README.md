@@ -6,6 +6,7 @@ tags:
   - Azure
   - AD
 ---
+
 # Azure AD
 
 ## Resumo

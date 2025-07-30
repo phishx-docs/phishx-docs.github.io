@@ -4,6 +4,7 @@ tags:
   - Campanhas
   - Editor
 ---
+
 ## Agendamento
 
 ::: tip Agendamento da campanha

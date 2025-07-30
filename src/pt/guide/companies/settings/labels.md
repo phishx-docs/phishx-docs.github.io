@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Etiquetas
 
 ::: tip Organizar com etiquetas customizadas

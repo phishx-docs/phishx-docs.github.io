@@ -4,10 +4,11 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Domínios
 
 ::: tip Varios dominios
-Tu empresa podrá utilizar tantos dominios como sea necesario. 
+Tu empresa podrá utilizar tantos dominios como sea necesario.
 :::
 
 Gestionar los dominios de tu empresa.

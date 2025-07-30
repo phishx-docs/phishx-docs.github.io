@@ -4,6 +4,7 @@ tags:
   - Companies
   - Settings
 ---
+
 # Campaign approvals
 
 ::: tip Additional approvals

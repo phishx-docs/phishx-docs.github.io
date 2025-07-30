@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Redes
 
 ::: tip Cuidado al configurar redes de confianza

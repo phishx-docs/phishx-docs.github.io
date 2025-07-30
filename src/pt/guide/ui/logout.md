@@ -7,14 +7,15 @@ tags:
   - UI
   - UX
 ---
+
 # Sair
 
-   ::: tip Sair
-   Recomendamos que você sempre saia da plataforma antes de encerrar uma sessão.
-   :::
+::: tip Sair
+Recomendamos que você sempre saia da plataforma antes de encerrar uma sessão.
+:::
 
-   Dentro do Menu do Usuário, clicar em **Sair**.
+Dentro do Menu do Usuário, clicar em **Sair**.
 
-   Clicar **Sair**.
+Clicar **Sair**.
 
-   ![Sair](https://cdn.phishx.io/phishx-docs/images/phishx_ui_logout_01.webp)
+![Sair](https://cdn.phishx.io/phishx-docs/images/phishx_ui_logout_01.webp)

@@ -30,7 +30,6 @@ tags:
 3. Adicionar a descrição **PhishX Settings**.
 
 4. Selecionar os checkboxes:
-
    - **Ignore filtros de spam para remetentes internos.**
    - **Ignore filtros de spam para mensagens de remetentes ou domínios em listas selecionadas.**
    - **Ignore filtros de spam e oculte avisos para mensagens de remetentes ou domínios em listas selecionadas.**.

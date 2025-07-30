@@ -6,6 +6,7 @@ tags:
   - Objetos
   - Contactos
 ---
+
 # Eliminar lista
 
 ::: tip Resultados permanece
@@ -15,7 +16,7 @@ Si deseas ocultar o eliminar datos de contactos que ya no forman parte de tu emp
 
 Eliminar una lista y sus contactos.
 
-1. Acceder al menú **Personas**  -> **Listas**.
+1. Acceder al menú **Personas** -> **Listas**.
 
 2. En el menú de la **Lista**.
 

@@ -8,6 +8,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Ubicaciones
 
 ::: tip Informes detallados

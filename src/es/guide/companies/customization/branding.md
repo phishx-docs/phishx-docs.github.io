@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configuraciones
 ---
+
 # Marca
 
 ::: tip Identidad visual de la marca

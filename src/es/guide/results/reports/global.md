@@ -8,6 +8,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Informes globales
 
 ::: tip Informes de la Empresa

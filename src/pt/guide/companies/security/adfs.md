@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Active Directory
 
 ::: tip Microsoft ADFS

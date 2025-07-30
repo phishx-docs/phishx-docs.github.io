@@ -4,6 +4,7 @@ tags:
   - Empresas
   - Configurações
 ---
+
 # Autenticação
 
 ::: tip Autenticação segura

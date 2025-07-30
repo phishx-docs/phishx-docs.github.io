@@ -8,6 +8,7 @@ tags:
   - Eventos
   - Exportar
 ---
+
 # Acciones
 
 ::: tip Relatórios detallados
