@@ -17,11 +17,13 @@ Connect-ExchangeOnline -UserPrincipalName $userAdmin
 
 # CONTACTS
 $All = Get-Mailbox -RecipientTypeDetails UserMailbox -ResultSize Unlimited
-$All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQty
 
 # DOMAINS
 $safeDomains = @("appcentral.info","appstudio.shop","businessuniversity.tech","cloudacademy.live","cloudconnect.cfd","dealsnews.club","deviceguard.pro","digitaleducation.digital","festivalnews.online","infoportal.live","linkdata.live","mailvault.site","marketonline.one","microlearning.academy","peoplex.io","phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","proopportunity.one","securedevice.site","securetech.lat","securityapp.cloud","smartdevice.live","technews.rest","trainingportal.me","varejoonline.club","webportal.one")
-$safeDomains | Measure-Object | Select-Object -ExpandProperty Count
+$safeDomainsQty = $safeDomains | Measure-Object | Select-Object -ExpandProperty Count
+$safeDomainsQty
 
 # PROCESS
 Clear-Content -Path $errorLogFile -ErrorAction SilentlyContinue
@@ -36,7 +38,7 @@ $All | ForEach-Object {
   $filteredSafeDomains = $safeDomains | Where-Object { $userDomains -notcontains $_ }
   $filteredSafeDomainsQty = $filteredSafeDomains | Measure-Object | Select-Object -ExpandProperty Count
   try {
-    Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$safeDomains} -ErrorAction Stop
+    Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$filteredSafeDomains} -ErrorAction Stop
     Write-Host "Successfully updated with ${filteredSafeDomainsQty} domains in junk email configuration for ${mailboxAlias}."
   }
   catch {

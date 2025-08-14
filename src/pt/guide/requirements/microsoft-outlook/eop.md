@@ -58,7 +58,7 @@ Para aplicar apenas em um grupo de usuários.
 
 ```powershell
 $All = Get-UnifiedGroupLinks -Identity '<GROUP>' -LinkType Members -ResultSize Unlimited
-$All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
 ```
 
 4. **Configure** os domínios que os usuários devem confiar em sua **Lista de Remetentes Confiáveis**.
@@ -94,7 +94,7 @@ $All | ForEach-Object {
   }
 }
 $errorsQty = Get-Content $errorLogFile | Measure-Object | Select-Object -ExpandProperty Count
-Write-Host "Script finished. Check '$errorLogFile' for any errors (${errorsQty})."
+Write-Host "Script finished (${AllQty}). Check '$errorLogFile' for any errors (${errorsQty})."
 ```
 
 5. **Valide** os domínios de um usuário.
