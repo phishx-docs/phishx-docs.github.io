@@ -65,7 +65,7 @@ $All | Measure-Object | Select-Object -ExpandProperty Count
 
    Defina os **domínios** que serão utilizados. [Domínios](../domains.html#separada-por-espacos)
 
-   Opcionalmente, adicione outros domínios internos e de terceiros para serem confiados via Lista de Remetentes Confiáveis.
+   Opcionalmente, adicione outros domínios de terceiros para serem confiados via Lista de Remetentes Confiáveis.
 
 ```powershell
 $safeDomains = @("appcentral.info","appstudio.shop","businessuniversity.tech","cloudacademy.live","cloudconnect.cfd","dealsnews.club","deviceguard.pro","digitaleducation.digital","festivalnews.online","infoportal.live","linkdata.live","mailvault.site","marketonline.one","microlearning.academy","peoplex.io","phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","proopportunity.one","securedevice.site","securetech.lat","securityapp.cloud","smartdevice.live","technews.rest","trainingportal.me","varejoonline.club","webportal.one")
