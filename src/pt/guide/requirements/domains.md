@@ -2,6 +2,7 @@
 title: Domínios
 tags:
   - Requisitos
+  - Domínios
 ---
 
 # Domínios
