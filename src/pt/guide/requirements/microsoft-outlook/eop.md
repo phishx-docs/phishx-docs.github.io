@@ -84,7 +84,7 @@ $All | ForEach-Object {
   $filteredSafeDomains = $safeDomains | Where-Object { $userDomains -notcontains $_ }
   $filteredSafeDomainsQty = $filteredSafeDomains | Measure-Object | Select-Object -ExpandProperty Count
   try {
-    Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$safeDomains} -ErrorAction Stop
+    Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$filteredSafeDomains} -ErrorAction Stop
     Write-Host "Successfully updated with ${filteredSafeDomainsQty} domains in junk email configuration for ${mailboxAlias}."
   }
   catch {
