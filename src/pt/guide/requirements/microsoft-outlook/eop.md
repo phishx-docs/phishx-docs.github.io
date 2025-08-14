@@ -51,7 +51,8 @@ Connect-ExchangeOnline -UserPrincipalName $userAdmin
 
 ```powershell
 $All = Get-Mailbox -RecipientTypeDetails UserMailbox -ResultSize Unlimited
-$All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQty
 ```
 
 Para aplicar apenas em um grupo de usuários.
@@ -59,6 +60,7 @@ Para aplicar apenas em um grupo de usuários.
 ```powershell
 $All = Get-UnifiedGroupLinks -Identity '<GROUP>' -LinkType Members -ResultSize Unlimited
 $AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQty
 ```
 
 4. **Configure** os domínios que os usuários devem confiar em sua **Lista de Remetentes Confiáveis**.
@@ -69,7 +71,8 @@ $AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
 
 ```powershell
 $safeDomains = @("appcentral.info","appstudio.shop","businessuniversity.tech","cloudacademy.live","cloudconnect.cfd","dealsnews.club","deviceguard.pro","digitaleducation.digital","festivalnews.online","infoportal.live","linkdata.live","mailvault.site","marketonline.one","microlearning.academy","peoplex.io","phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","proopportunity.one","securedevice.site","securetech.lat","securityapp.cloud","smartdevice.live","technews.rest","trainingportal.me","varejoonline.club","webportal.one")
-$safeDomains | Measure-Object | Select-Object -ExpandProperty Count
+$safeDomainsQty = $safeDomains | Measure-Object | Select-Object -ExpandProperty Count
+$safeDomainsQty
 
 $errorLogFile = ".\JunkEmailConfigErrors.txt"
 Clear-Content -Path $errorLogFile -ErrorAction SilentlyContinue
