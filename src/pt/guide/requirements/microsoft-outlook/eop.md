@@ -52,6 +52,7 @@ Connect-ExchangeOnline -UserPrincipalName $userAdmin
 ```powershell
 $All = Get-Mailbox -RecipientTypeDetails UserMailbox -ResultSize Unlimited
 $AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQtyDigits = $AllQty.ToString().Length
 $AllQty
 ```
 
@@ -60,6 +61,7 @@ Para aplicar apenas em um grupo de usuários.
 ```powershell
 $All = Get-UnifiedGroupLinks -Identity '<GROUP>' -LinkType Members -ResultSize Unlimited
 $AllQty = $All | Measure-Object | Select-Object -ExpandProperty Count
+$AllQtyDigits = $AllQty.ToString().Length
 $AllQty
 ```
 
@@ -76,10 +78,13 @@ $safeDomainsQty
 
 $errorLogFile = ".\JunkEmailConfigErrors.txt"
 Clear-Content -Path $errorLogFile -ErrorAction SilentlyContinue
+$index = 0
 $All | ForEach-Object {
+  $index++
+  $indexPadded = $index.ToString().PadLeft($AllQtyDigits, '0')
   $mailbox = $_
   $mailboxName = $mailbox.Name
-  $mailboxAlias = $_.Alias
+  $mailboxAlias = $mailbox.Alias
   $userDomains = $mailbox.EmailAddresses | ForEach-Object {
     $emailAddress = $_.ToString().Split(':')[-1]
     $emailAddress.Split('@')[-1]
@@ -88,10 +93,10 @@ $All | ForEach-Object {
   $filteredSafeDomainsQty = $filteredSafeDomains | Measure-Object | Select-Object -ExpandProperty Count
   try {
     Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$filteredSafeDomains} -ErrorAction Stop
-    Write-Host "Successfully updated with ${filteredSafeDomainsQty} domains in junk email configuration for ${mailboxAlias}."
+    Write-Host "${indexPadded} / ${AllQty}: Successfully updated with ${filteredSafeDomainsQty} domains in junk email configuration for ${mailboxAlias}."
   }
   catch {
-    $errorMessage = "Error processing $mailboxAlias (Domain: $userDomains): $($_.Exception.Message)"
+    $errorMessage = "${indexPadded} / ${AllQty}: Error processing $mailboxAlias (Domain: $userDomains): $($_.Exception.Message)"
     Write-Host "$errorMessage" -ForegroundColor Red
     $errorMessage | Out-File -FilePath $errorLogFile -Append
   }
