@@ -1,0 +1,49 @@
+# MODULE
+Install-Module -Name ExchangeOnlineManagement -Scope CurrentUser -Force -AllowClobber -AcceptLicense
+
+# CONNECT
+Set-ExecutionPolicy RemoteSigned
+Import-Module ExchangeOnlineManagement
+$userAdmin = "USER-ADMIN@DOMAIN"
+Connect-ExchangeOnline -UserPrincipalName $userAdmin
+(Get-ConnectionInformation).UserPrincipalName
+
+# GET CURRENT CONFIG
+$currentPolicy = Get-ExoPhishSimOverrideRule
+if ($null -eq $currentPolicy) {
+  $confirm = Read-Host "No current policy found. Do you want to create a new one? (Y/N)"
+  if ($confirm -ne 'Y') {
+    Write-Host "Operation cancelled."
+    exit
+  }
+  $policyName = "PhishSimOverridePolicy"
+  $currentPolicy = New-ExoPhishSimOverrideRule -Name $policyName -Policy $policyName -SenderIpRanges @("168.245.39.85/32") -Domains @("sendgrid.phishx.io")
+  Write-Host "New policy '$policyName' created."
+}
+$currentPolicy = Get-ExoPhishSimOverrideRule
+$currentPolicyIPs = $currentPolicy.SenderIpRanges
+$currentPolicyIPs
+$currentPolicyDomains = $currentPolicy.Domains
+$currentPolicyDomains
+
+# ALLOWED IPs
+$allowedIPs = @("168.245.39.85/32", "149.72.191.22/32", "159.183.145.48/32", "149.72.40.80/32")
+$updatedIPs = $currentPolicyIPs + $allowedIPs
+$uniqueSortedIPs = $updatedIPs | Sort-Object | Get-Unique
+$uniqueSortedIPsQTY = $uniqueSortedIPs | Measure-Object | Select-Object -ExpandProperty Count
+$uniqueSortedIPsQTY
+Set-ExoPhishSimOverrideRule -Identity $currentPolicy.Name -AddSenderIpRanges $uniqueSortedIPs
+Write-Host "Policy '$policyName' updated. $($uniqueSortedIPsQTY) IPs added."
+
+# ALLOWED DOMAINS
+$allowedDomains = @("phx.peoplex.io", "em3534.phishx.com", "sendgrid.phishx.io", "phx.businessuniversity.tech", "phx.trainingportal.me", "phx.cloudacademy.live", "phx.microlearning.academy", "phx.digitaleducation.digital", "em306.appcentral.info", "phx.appstudio.shop", "em655.cloudconnect.cfd", "phx.dealsnews.club", "em152.deviceguard.pro", "phx.festivalnews.online", "em5226.infoportal.live", "phx.linkdata.live", "em3887.mailvault.site", "phx.marketonline.one", "phx.privacynow.click", "em3814.proopportunity.one", "phx.securedevice.site", "em4427.securetech.lat", "phx.securityapp.cloud", "em2897.smartdevice.live", "em7851.technews.rest", "phx.varejoonline.club", "phx.webportal.one")
+$updatedDomains = $currentPolicyDomains + $allowedDomains
+$uniqueSortedDomains = $updatedDomains | Sort-Object | Get-Unique
+$uniqueSortedDomainsQTY = $uniqueSortedDomains | Measure-Object | Select-Object -ExpandProperty Count
+$uniqueSortedDomainsQTY
+Set-ExoPhishSimOverrideRule -Identity $currentPolicy.Name -AddDomains $uniqueSortedDomains
+Write-Host "Policy '$policyName' updated. $($uniqueSortedDomainsQTY) Domains added."
+
+$url = "https://security.microsoft.com/advanceddelivery?viewid=PhishingSimulation"
+Write-Host "For further configuration, visit the Advanced Delivery portal: ${url}"
+Start-Process "${url}"

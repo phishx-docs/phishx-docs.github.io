@@ -23,6 +23,8 @@ Para manter sua organização segura por padrão, o Exchange Online Protection (
 
    Acessar a **Política de entrega avançada** em **Políticas e regras** -> **Políticas de ameaças** -> **Entrega avançada**.
 
+   OBS: Temos um script exemplo que pode ajudar. [Script](https://cdn.phishx.io/test/advanceddelivery.txt).
+
    [Microsoft Defender](https://security.microsoft.com/advanceddelivery)
 
    ![Microsoft Defender](https://cdn.phishx.io/phishx-docs/images/microsoft_defender_advanced_delivery_001.png)
