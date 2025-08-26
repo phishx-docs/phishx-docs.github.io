@@ -432,3 +432,14 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | GESTÃO DE CONFORMIDADE COM POLÍTICAS ANTICORRUPÇÃO            |       |     |
 | GOVERNANÇA DIGITAL - ALINHANDO SEGURANÇA COM SUSTENTABILIDADE |       |     |
 | INTEGRANDO SEGURANÇA E ÉTICA EM CULTURAS ORGANIZACIONAIS      |       |     |
+
+## Temporada 37
+
+<br>
+
+| Conteúdo                                                    | Vídeo | PDF |
+| :---------------------------------------------------------- | :---: | :-: |
+| COMO DETECTAR UM ATAQUE DE SPEAR PHISHING                   |       |     |
+| CONFIGURANDO AUTENTICAÇÃO DE DOIS FATORES (2FA)             |       |     |
+| PROTEGENDO DADOS EM DISPOSITIVOS MÓVEIS E MÍDIAS REMOVÍVEIS |       |     |
+| TÉCNICAS PARA REMOVER DADOS PESSOAIS DE PLATAFORMAS ONLINE  |       |     |
