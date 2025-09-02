@@ -1,0 +1,37 @@
+# CREDENTIALS
+$userAdmin = "USER-ADMIN@DOMAIN"
+
+# INSTALL
+Install-Module -Name ExchangeOnlineManagement -Scope CurrentUser -Force -AllowClobber -AcceptLicense
+Connect-ExchangeOnline -UserPrincipalName $userAdmin
+
+# VARIABLES
+$ruleName = "PhishX Exceptions"
+$domainsException = @("appcentral.info","appstudio.shop","businessuniversity.tech","cloudacademy.live","cloudconnect.cfd","dealsnews.club","deviceguard.pro","digitaleducation.digital","festivalnews.online","infoportal.live","linkdata.live","mailvault.site","marketonline.one","microlearning.academy","peoplex.io","phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","proopportunity.one","securedevice.site","securetech.lat","securityapp.cloud","smartdevice.live","technews.rest","trainingportal.me","varejoonline.club","webportal.one")
+$subjectPrepend = " "
+
+# CHECK
+try {
+  $ruleExists = Get-TransportRule | Where-Object {$_.Name -eq $ruleName} -ErrorAction Stop
+  $ruleFound = $true
+}
+catch {
+  $ruleFound = $false
+}
+
+# SET
+if ($ruleFound) {
+  Write-Host "Rule '$ruleName' already exists. Editing the existing rule..." -ForegroundColor Yellow
+  Set-TransportRule -Identity $ruleName -FromScope "NotInOrganization" -SenderDomainIs $domainsException -PrependSubject $subjectPrepend
+} else {
+  Write-Host "Rule '$ruleName' not found. Creating a new rule..." -ForegroundColor Green
+  New-TransportRule -Name $ruleName -FromScope "NotInOrganization" -SenderDomainIs $domainsException -PrependSubject $subjectPrepend
+}
+Set-TransportRule -Identity $ruleName -Priority 0 -StopRuleProcessing $true
+Enable-TransportRule -Identity $ruleName
+
+# VERIFY
+Get-TransportRule | Where-Object {$_.State -eq "Enabled"}
+$url = "https://admin.exchange.microsoft.com/#/transportrules"
+Write-Host "For further configuration, visit the Mail Flow Rules: ${url}"
+Start-Process "${url}"

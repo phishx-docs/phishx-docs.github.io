@@ -1,4 +1,4 @@
-const { description } = require("../../package");
+const { description } = require('../../package');
 
 function config_base_locales(extra) {
   var config = {
@@ -9,43 +9,43 @@ function config_base_locales(extra) {
   return config;
 }
 function config_locales(locale, extra) {
-  var dir_guide = "guide";
-  var dir_terms = "terms";
-  var dir_requirements = "requirements";
-  var dir_google_workspace = "google-workspace";
-  var dir_microsoft_defender = "microsoft-defender";
-  var dir_microsoft_365 = "microsoft-365";
-  var dir_microsoft_outlook = "microsoft-outlook";
-  var dir_slack = "slack";
-  var dir_azure_ad = "azure-ad";
-  var dir_microsoft_sync = "microsoft-sync";
-  var dir_google_sync = "google-sync";
-  var dir_microsoft_teams = "microsoft-teams";
-  var dir_google_chat = "google-chat";
-  var dir_assistant = "assistant";
-  var dir_google = "google";
-  var dir_microsoft = "microsoft";
-  var dir_new_microsoft = "new_microsoft";
-  var dir_integrations = "integrations";
-  var dir_content = "content";
-  var dir_people = "people";
-  var dir_people_lists = "lists";
-  var dir_users = "users";
-  var dir_teams = "teams";
-  var dir_companies = "companies";
-  var dir_security = "security";
-  var dir_customization = "customization";
-  var dir_settings = "settings";
-  var dir_templates = "templates";
-  var dir_wizards = "wizards";
-  var dir_campaigns = "campaigns";
-  var dir_schedules = "schedules";
-  var dir_messages = "messages";
-  var dir_results = "results";
-  var dir_dashboards = "dashboards";
-  var dir_events = "events";
-  var dir_reports = "reports";
-  var dir_ui = "ui";
+  var dir_guide = 'guide';
+  var dir_terms = 'terms';
+  var dir_requirements = 'requirements';
+  var dir_google_workspace = 'google-workspace';
+  var dir_microsoft_defender = 'microsoft-defender';
+  var dir_microsoft_365 = 'microsoft-365';
+  var dir_microsoft_outlook = 'microsoft-outlook';
+  var dir_slack = 'slack';
+  var dir_azure_ad = 'azure-ad';
+  var dir_microsoft_sync = 'microsoft-sync';
+  var dir_google_sync = 'google-sync';
+  var dir_microsoft_teams = 'microsoft-teams';
+  var dir_google_chat = 'google-chat';
+  var dir_assistant = 'assistant';
+  var dir_google = 'google';
+  var dir_microsoft = 'microsoft';
+  var dir_new_microsoft = 'new_microsoft';
+  var dir_integrations = 'integrations';
+  var dir_content = 'content';
+  var dir_people = 'people';
+  var dir_people_lists = 'lists';
+  var dir_users = 'users';
+  var dir_teams = 'teams';
+  var dir_companies = 'companies';
+  var dir_security = 'security';
+  var dir_customization = 'customization';
+  var dir_settings = 'settings';
+  var dir_templates = 'templates';
+  var dir_wizards = 'wizards';
+  var dir_campaigns = 'campaigns';
+  var dir_schedules = 'schedules';
+  var dir_messages = 'messages';
+  var dir_results = 'results';
+  var dir_dashboards = 'dashboards';
+  var dir_events = 'events';
+  var dir_reports = 'reports';
+  var dir_ui = 'ui';
   var config = {
     description: extra.description,
     searchPlaceholder: extra.searchPlaceholder,
@@ -137,6 +137,7 @@ function config_locales(locale, extra) {
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_365}/connectors`,
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_365}/spam_filter`,
               `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_365}/connection_filter`,
+              `/${locale}/${dir_guide}/${dir_requirements}/${dir_microsoft_365}/disclaimers`,
             ],
           },
           {
@@ -557,245 +558,245 @@ function config_locales(locale, extra) {
   };
   return config;
 }
-var config_locales_en = config_locales("en", {
-  lang_selectText: "Languages",
-  lang_label: "English",
-  guide: "Guide",
-  terms: "Terms",
-  lastUpdated: "Last Updated",
-  requirements: "Requirements",
-  global: "General",
-  intregrations: "Intregrations",
-  google_workspace: "Google Workspace",
-  google: "Google",
-  microsoft: "Microsoft",
-  new_microsoft: "Microsoft",
-  assistant: "Assistant",
-  microsoft_defender: "Microsoft Defender",
-  microsoft_365: "Microsoft 365",
-  microsoft_outlook: "Microsoft Outlook",
-  azure_ad: "Azure AD",
-  google_sync: "Google Sync",
-  microsoft_sync: "Microsoft Sync",
-  microsoft_teams: "Microsoft Teams",
-  google_chat: "Google Chat",
-  slack: "Slack",
-  content: "Content",
-  serviceWorker_message: "New content is available.",
-  serviceWorker_buttonText: "Refresh",
-  ui: "User Interface",
-  people: "People",
-  people_lists: "Lists",
-  users: "Users",
-  teams: "Teams",
-  companies: "Companies",
-  security: "Security",
-  customization: "Customization",
-  settings: "Settings",
-  profile: "Profile",
-  wizards: "Wizards",
-  templates: "Templates",
-  campaigns: "Campaigns",
-  create_campaign: "Create Campaign",
-  schedules: "Schedules",
-  messages: "Messages",
-  suggestions: "Suggestions",
-  results: "Results",
-  dashboards: "Dashboards",
-  events: "Events",
-  reports: "Reports",
-  settings: "Settings",
-  searchPlaceholder: "Search...",
+var config_locales_en = config_locales('en', {
+  lang_selectText: 'Languages',
+  lang_label: 'English',
+  guide: 'Guide',
+  terms: 'Terms',
+  lastUpdated: 'Last Updated',
+  requirements: 'Requirements',
+  global: 'General',
+  intregrations: 'Intregrations',
+  google_workspace: 'Google Workspace',
+  google: 'Google',
+  microsoft: 'Microsoft',
+  new_microsoft: 'Microsoft',
+  assistant: 'Assistant',
+  microsoft_defender: 'Microsoft Defender',
+  microsoft_365: 'Microsoft 365',
+  microsoft_outlook: 'Microsoft Outlook',
+  disclaimers_warnings: 'Disclaimers Warnings',
+  azure_ad: 'Azure AD',
+  google_sync: 'Google Sync',
+  microsoft_sync: 'Microsoft Sync',
+  microsoft_teams: 'Microsoft Teams',
+  google_chat: 'Google Chat',
+  slack: 'Slack',
+  content: 'Content',
+  serviceWorker_message: 'New content is available.',
+  serviceWorker_buttonText: 'Refresh',
+  ui: 'User Interface',
+  people: 'People',
+  people_lists: 'Lists',
+  users: 'Users',
+  teams: 'Teams',
+  companies: 'Companies',
+  security: 'Security',
+  customization: 'Customization',
+  settings: 'Settings',
+  profile: 'Profile',
+  wizards: 'Wizards',
+  templates: 'Templates',
+  campaigns: 'Campaigns',
+  create_campaign: 'Create Campaign',
+  schedules: 'Schedules',
+  messages: 'Messages',
+  suggestions: 'Suggestions',
+  results: 'Results',
+  dashboards: 'Dashboards',
+  events: 'Events',
+  reports: 'Reports',
+  settings: 'Settings',
+  searchPlaceholder: 'Search...',
 });
-var config_locales_es = config_locales("es", {
-  lang_selectText: "Idiomas",
-  lang_label: "Español",
-  guide: "Guía",
-  terms: "Condiciones",
-  lastUpdated: "Última Actualización",
-  requirements: "Requisitos",
-  global: "General",
-  intregrations: "Intregraciones",
-  google: "Google",
-  google_workspace: "Google Workspace",
-  microsoft: "Microsoft",
-  new_microsoft: "Microsoft",
-  assistant: "Assistant",
-  microsoft_defender: "Microsoft Defender",
-  microsoft_365: "Microsoft 365",
-  microsoft_outlook: "Microsoft Outlook",
-  azure_ad: "Azure AD",
-  google_sync: "Google Sync",
-  microsoft_sync: "Microsoft Sync",
-  microsoft_teams: "Microsoft Teams",
-  google_chat: "Google Chat",
-  slack: "Slack",
-  content: "Contenido",
-  serviceWorker_message: "Hay contenido nuevo disponible.",
-  serviceWorker_buttonText: "Actualizar",
-  ui: "Interfaz de Usuario",
-  people: "Gente",
-  people_lists: "Listas",
-  users: "Usuarios",
-  teams: "Equipos",
-  companies: "Empresas",
-  security: "Seguridad",
-  customization: "Personalización",
-  settings: "Configuración",
-  profile: "Perfil",
-  wizards: "Asistentes",
-  templates: "Plantillas",
-  campaigns: "Campañas",
-  create_campaign: "Crear Campaña",
-  schedules: "Programación",
-  messages: "Mensajes",
-  suggestions: "Sugerencias",
-  results: "Resultados",
-  dashboards: "Dashboards",
-  events: "Eventos",
-  reports: "Reports",
-  settings: "Configuración",
-  searchPlaceholder: "Buscar...",
+var config_locales_es = config_locales('es', {
+  lang_selectText: 'Idiomas',
+  lang_label: 'Español',
+  guide: 'Guía',
+  terms: 'Condiciones',
+  lastUpdated: 'Última Actualización',
+  requirements: 'Requisitos',
+  global: 'General',
+  intregrations: 'Intregraciones',
+  google: 'Google',
+  google_workspace: 'Google Workspace',
+  microsoft: 'Microsoft',
+  new_microsoft: 'Microsoft',
+  assistant: 'Assistant',
+  microsoft_defender: 'Microsoft Defender',
+  microsoft_365: 'Microsoft 365',
+  microsoft_outlook: 'Microsoft Outlook',
+  disclaimers_warnings: 'Avisos Legales',
+  azure_ad: 'Azure AD',
+  google_sync: 'Google Sync',
+  microsoft_sync: 'Microsoft Sync',
+  microsoft_teams: 'Microsoft Teams',
+  google_chat: 'Google Chat',
+  slack: 'Slack',
+  content: 'Contenido',
+  serviceWorker_message: 'Hay contenido nuevo disponible.',
+  serviceWorker_buttonText: 'Actualizar',
+  ui: 'Interfaz de Usuario',
+  people: 'Gente',
+  people_lists: 'Listas',
+  users: 'Usuarios',
+  teams: 'Equipos',
+  companies: 'Empresas',
+  security: 'Seguridad',
+  customization: 'Personalización',
+  settings: 'Configuración',
+  profile: 'Perfil',
+  wizards: 'Asistentes',
+  templates: 'Plantillas',
+  campaigns: 'Campañas',
+  create_campaign: 'Crear Campaña',
+  schedules: 'Programación',
+  messages: 'Mensajes',
+  suggestions: 'Sugerencias',
+  results: 'Resultados',
+  dashboards: 'Dashboards',
+  events: 'Eventos',
+  reports: 'Reports',
+  settings: 'Configuración',
+  searchPlaceholder: 'Buscar...',
 });
-var config_locales_pt = config_locales("pt", {
-  lang_selectText: "Idiomas",
-  lang_label: "Português",
-  guide: "Guia",
-  terms: "Termos",
-  lastUpdated: "Última Atualização",
-  requirements: "Requisitos",
-  global: "Gerais",
-  intregrations: "Integrações",
-  google: "Google",
-  google_workspace: "Google Workspace",
-  microsoft: "Microsoft",
-  new_microsoft: "Microsoft",
-  assistant: "Assistant",
-  microsoft_defender: "Microsoft Defender",
-  microsoft_365: "Microsoft 365",
-  microsoft_outlook: "Microsoft Outlook",
-  azure_ad: "Azure AD",
-  google_sync: "Google Sync",
-  microsoft_sync: "Microsoft Sync",
-  microsoft_teams: "Microsoft Teams",
-  google_chat: "Google Chat",
-  slack: "Slack",
-  content: "Conteúdo",
-  serviceWorker_message: "Novo conteúdo disponível.",
-  serviceWorker_buttonText: "Atualizar",
-  ui: "Interface do Usuário",
-  people: "Pessoas",
-  people_lists: "Listas",
-  users: "Usuários",
-  teams: "Times",
-  companies: "Empresas",
-  security: "Segurança",
-  customization: "Customizações",
-  settings: "Configurações",
-  profile: "Perfil",
-  wizards: "Assistentes",
-  templates: "Modelos",
-  campaigns: "Campanhas",
-  create_campaign: "Criar Campanha",
-  schedules: "Agendamentos",
-  messages: "Mensagens",
-  suggestions: "Sugestões",
-  results: "Resultados",
-  dashboards: "Painéis",
-  events: "Eventos",
-  reports: "Relatórios",
-  settings: "Configurações",
-  searchPlaceholder: "Procurar...",
+var config_locales_pt = config_locales('pt', {
+  lang_selectText: 'Idiomas',
+  lang_label: 'Português',
+  guide: 'Guia',
+  terms: 'Termos',
+  lastUpdated: 'Última Atualização',
+  requirements: 'Requisitos',
+  global: 'Gerais',
+  intregrations: 'Integrações',
+  google: 'Google',
+  google_workspace: 'Google Workspace',
+  microsoft: 'Microsoft',
+  new_microsoft: 'Microsoft',
+  assistant: 'Assistant',
+  microsoft_defender: 'Microsoft Defender',
+  microsoft_365: 'Microsoft 365',
+  microsoft_outlook: 'Microsoft Outlook',
+  disclaimers_warnings: 'Avisos Legais',
+  azure_ad: 'Azure AD',
+  google_sync: 'Google Sync',
+  microsoft_sync: 'Microsoft Sync',
+  microsoft_teams: 'Microsoft Teams',
+  google_chat: 'Google Chat',
+  slack: 'Slack',
+  content: 'Conteúdo',
+  serviceWorker_message: 'Novo conteúdo disponível.',
+  serviceWorker_buttonText: 'Atualizar',
+  ui: 'Interface do Usuário',
+  people: 'Pessoas',
+  people_lists: 'Listas',
+  users: 'Usuários',
+  teams: 'Times',
+  companies: 'Empresas',
+  security: 'Segurança',
+  customization: 'Customizações',
+  settings: 'Configurações',
+  profile: 'Perfil',
+  wizards: 'Assistentes',
+  templates: 'Modelos',
+  campaigns: 'Campanhas',
+  create_campaign: 'Criar Campanha',
+  schedules: 'Agendamentos',
+  messages: 'Mensagens',
+  suggestions: 'Sugestões',
+  results: 'Resultados',
+  dashboards: 'Painéis',
+  events: 'Eventos',
+  reports: 'Relatórios',
+  settings: 'Configurações',
+  searchPlaceholder: 'Procurar...',
 });
 var config_base_locales_en = config_base_locales({
-  lang: "English",
-  description: "PhishX - Documentation",
-  title: "Documentation",
+  lang: 'English',
+  description: 'PhishX - Documentation',
+  title: 'Documentation',
 });
 var config_base_locales_es = config_base_locales({
-  lang: "Español",
-  description: "PhishX - Documentación",
-  title: "Documentación",
+  lang: 'Español',
+  description: 'PhishX - Documentación',
+  title: 'Documentación',
 });
 var config_base_locales_pt = config_base_locales({
-  lang: "Português",
-  description: "Documentação da PhishX",
-  title: "Documentação",
+  lang: 'Português',
+  description: 'Documentação da PhishX',
+  title: 'Documentação',
 });
 
 module.exports = {
   markdown: {
     lineNumbers: false,
   },
-  title: "PhishX",
+  title: 'PhishX',
   description: description,
   head: [
     [
-      "link",
+      'link',
       {
-        rel: "apple-touch-icon",
-        sizes: "180x180",
-        href: "https://cdn.phishx.io/app/icons/apple-touch-icon.png",
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: 'https://cdn.phishx.io/app/icons/apple-touch-icon.png',
       },
     ],
     [
-      "link",
+      'link',
       {
-        rel: "icon",
-        type: "image/png",
-        sizes: "32x32",
-        href: "https://cdn.phishx.io/app/icons/favicon-32x32.png",
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: 'https://cdn.phishx.io/app/icons/favicon-32x32.png',
       },
     ],
     [
-      "link",
+      'link',
       {
-        rel: "icon",
-        type: "image/png",
-        sizes: "16x16",
-        href: "https://cdn.phishx.io/app/icons/favicon-16x16.png",
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: 'https://cdn.phishx.io/app/icons/favicon-16x16.png',
       },
     ],
     [
-      "link",
+      'link',
       {
-        rel: "manifest",
-        href: "https://cdn.phishx.io/app/icons/manifest.json",
+        rel: 'manifest',
+        href: 'https://cdn.phishx.io/app/icons/manifest.json',
       },
     ],
     [
-      "link",
+      'link',
       {
-        rel: "mask-icon",
-        color: "#FFFFFF",
-        href: "https://cdn.phishx.io/app/icons/safari-pinned-tab.svg",
+        rel: 'mask-icon',
+        color: '#FFFFFF',
+        href: 'https://cdn.phishx.io/app/icons/safari-pinned-tab.svg',
       },
     ],
     [
-      "link",
+      'link',
       {
-        rel: "shortcut icon",
-        href: "https://cdn.phishx.io/app/icons/favicon.ico",
+        rel: 'shortcut icon',
+        href: 'https://cdn.phishx.io/app/icons/favicon.ico',
       },
     ],
-    ["meta", { name: "theme-color", content: "#008060" }],
-    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    ['meta', { name: 'theme-color', content: '#008060' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     [
-      "meta",
-      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
-    ],
-    [
-      "meta",
+      'meta',
       {
-        name: "msapplication-config",
-        content: "https://cdn.phishx.io/app/icons/browserconfig.xml",
+        name: 'msapplication-config',
+        content: 'https://cdn.phishx.io/app/icons/browserconfig.xml',
       },
     ],
     [
-      "meta",
+      'meta',
       {
-        name: "msapplication-config",
-        content: "https://cdn.phishx.io/app/icons/browserconfig.xml",
+        name: 'msapplication-config',
+        content: 'https://cdn.phishx.io/app/icons/browserconfig.xml',
       },
     ],
     //['link', { rel: 'stylesheet', href: 'https://cdn.phishx.io/assets/fontawesome/css/fontawesome-all.min.css' }],
@@ -803,58 +804,58 @@ module.exports = {
   // base: '/',
   smoothScroll: true,
   locales: {
-    "/": config_base_locales_en,
-    "/es/": config_base_locales_es,
-    "/pt/": config_base_locales_pt,
+    '/': config_base_locales_en,
+    '/es/': config_base_locales_es,
+    '/pt/': config_base_locales_pt,
   },
-  theme: "vuepress-theme-succinct",
-  globalUIComponents: ["ThemeManager"],
+  theme: 'vuepress-theme-succinct',
+  globalUIComponents: ['ThemeManager'],
   themeConfig: {
-    repo: "",
+    repo: '',
     algolia: {
-      apiKey: "158795655be346db4f358da20bc6aef9",
-      indexName: "phishx",
+      apiKey: '158795655be346db4f358da20bc6aef9',
+      indexName: 'phishx',
     },
     activeHeaderLinks: true,
     editLinks: false,
     displayAllHeaders: true,
-    docsDir: "",
-    editLinkText: "",
-    logo: "https://cdn.phishx.io/phishx-docs/images/phishx_logo_gray.webp",
+    docsDir: '',
+    editLinkText: '',
+    logo: 'https://cdn.phishx.io/phishx-docs/images/phishx_logo_gray.webp',
     locales: {
-      "/": config_locales_en,
-      "/es/": config_locales_es,
-      "/pt/": config_locales_pt,
+      '/': config_locales_en,
+      '/es/': config_locales_es,
+      '/pt/': config_locales_pt,
     },
   },
   plugins: [
-    "@vuepress/plugin-back-to-top",
-    "vuepress-plugin-smooth-scroll",
-    "@vuepress/plugin-medium-zoom",
+    '@vuepress/plugin-back-to-top',
+    'vuepress-plugin-smooth-scroll',
+    '@vuepress/plugin-medium-zoom',
     [
-      "@vuepress/search",
+      '@vuepress/search',
       {
         searchMaxSuggestions: 10,
       },
     ],
     [
-      "@vuepress/last-updated",
+      '@vuepress/last-updated',
       {
         transformer: (timestamp, lang) => {
-          const moment = require("moment");
+          const moment = require('moment');
           var locale;
           switch (lang) {
-            case "English":
-              locale = "en-US";
+            case 'English':
+              locale = 'en-US';
               break;
-            case "Español":
-              locale = "es-ES";
+            case 'Español':
+              locale = 'es-ES';
               break;
-            case "Português":
-              locale = "pt-BR";
+            case 'Português':
+              locale = 'pt-BR';
               break;
             default:
-              locale = "en-US";
+              locale = 'en-US';
               break;
           }
           moment.locale(locale);
@@ -862,6 +863,6 @@ module.exports = {
         },
       },
     ],
-    ["vuepress-plugin-code-copy", true],
+    ['vuepress-plugin-code-copy', true],
   ],
 };
