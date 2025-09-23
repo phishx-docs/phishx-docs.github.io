@@ -443,3 +443,14 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | CONFIGURANDO AUTENTICAÇÃO DE DOIS FATORES (2FA)             |       |     |
 | PROTEGENDO DADOS EM DISPOSITIVOS MÓVEIS E MÍDIAS REMOVÍVEIS |       |     |
 | TÉCNICAS PARA REMOVER DADOS PESSOAIS DE PLATAFORMAS ONLINE  |       |     |
+
+## Temporada 38
+
+<br>
+
+| Conteúdo                                                    | Vídeo | PDF |
+| :---------------------------------------------------------- | :---: | :-: |
+| ESTRATÉGIAS PARA RESPONDER A INCIDENTES DE SEGURANÇA        |       |     |
+| GOVERNANÇA DIGITAL ALINHANDO SEGURANÇA COM SUSTENTABILIDADE |       |     |
+| INTEGRANDO SEGURANÇA E ÉTICA EM CULTURAS ORGANIZACIONAIS    |       |     |
+| INVESTIGANDO E MITIGANDO GOLPES EM REDES SOCIAIS            |       |     |
