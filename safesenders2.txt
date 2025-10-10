@@ -2,14 +2,14 @@
 # https://learn.microsoft.com/en-us/powershell/module/exchangepowershell/set-mailboxjunkemailconfiguration?view=exchange-ps
 #
 # HOW TO RUN THIS .TXT FILE AS POWERSHELL SCRIPT:
-# Method 1: Get-Content .\safesenders.txt -Raw | Invoke-Expression
-# Method 2: $AdminUser = "admin@domain.com"; $TestUser = "test@domain.com"; Get-Content .\safesenders.txt -Raw | Invoke-Expression
-# Method 3: powershell.exe -Command "& {$(Get-Content .\safesenders.txt -Raw)}"
-# Method 4: powershell.exe -ExecutionPolicy Bypass -File .\safesenders.txt
+# Method 1: Get-Content .\safesenders2.txt -Raw | Invoke-Expression
+# Method 2: $AdminUser = "admin@domain.com"; $TestUser = "test@domain.com"; Get-Content .\safesenders2.txt -Raw | Invoke-Expression
+# Method 3: powershell.exe -Command "& {$(Get-Content .\safesenders2.txt -Raw)}"
+# Method 4: powershell.exe -ExecutionPolicy Bypass -File .\safesenders2.txt
 #
 # IF YOU GET "not digitally signed" ERROR:
 # Solution 1: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-# Solution 2: powershell.exe -ExecutionPolicy Bypass -File .\safesenders.txt
+# Solution 2: powershell.exe -ExecutionPolicy Bypass -File .\safesenders2.txt
 # Solution 3: Use Method 1 above (Get-Content + Invoke-Expression)
 #
 # Notes:
@@ -54,33 +54,66 @@ $safeDomains = @("appcentral.info","appstudio.shop","businessuniversity.tech","c
 $safeDomainsQty = $safeDomains | Measure-Object | Select-Object -ExpandProperty Count
 Write-Host "Domains: ${safeDomainsQty}"
 
-# PROCESS
+# PROCESS - OPTIMIZED BATCH PROCESSING
 Clear-Content -Path $errorLogFile -ErrorAction SilentlyContinue
-$index = 0
-$All | ForEach-Object {
-  $index++
-  $indexPadded = $index.ToString().PadLeft($AllQtyDigits, '0')
-  $mailbox = $_
-  $mailboxName = $mailbox.Name
-  $mailboxAlias = $mailbox.Alias
-  $userDomains = $mailbox.EmailAddresses | ForEach-Object {
-    $emailAddress = $_.ToString().Split(':')[-1]
-    $emailAddress.Split('@')[-1]
-  } | Where-Object { $_ -notlike "SPO_*" } | Sort-Object -Unique
-  $filteredSafeDomains = $safeDomains | Where-Object { $userDomains -notcontains $_ }
-  $filteredSafeDomainsQty = $filteredSafeDomains | Measure-Object | Select-Object -ExpandProperty Count
-  try {
-    Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$filteredSafeDomains} -ErrorAction Stop
-    Write-Host "${indexPadded} / ${AllQty}: Successfully updated with ${filteredSafeDomainsQty} domains in junk email configuration for ${mailboxAlias}."
-  }
-  catch {
-    $errorMessage = "${indexPadded} / ${AllQty}: Error processing $mailboxAlias (Domain: $userDomains): $($_.Exception.Message)"
-    Write-Host "$errorMessage" -ForegroundColor Red
-    $errorMessage | Out-File -FilePath $errorLogFile -Append
-  }
+$startTime = Get-Date
+Write-Host "Starting optimized processing..." -ForegroundColor Cyan
+
+$totalProcessed = 0
+$totalErrors = 0
+$errorMessages = @()
+
+# Process mailboxes with progress tracking and batching
+foreach ($mailbox in $All) {
+    $totalProcessed++
+    $indexPadded = $totalProcessed.ToString().PadLeft($AllQtyDigits, '0')
+    $mailboxName = $mailbox.Name
+    $mailboxAlias = $mailbox.Alias
+
+    # Optimize email domain extraction
+    $userDomains = $mailbox.EmailAddresses |
+        Where-Object { $_ -notlike "*SPO_*" } |
+        ForEach-Object { ($_.ToString() -split '[@:]')[-1] } |
+        Sort-Object -Unique
+
+    # Use -notin for faster lookups
+    $filteredSafeDomains = $safeDomains | Where-Object { $_ -notin $userDomains }
+    $filteredSafeDomainsQty = $filteredSafeDomains.Count
+
+    try {
+        # Only proceed if there are domains to add
+        if ($filteredSafeDomains.Count -gt 0) {
+            Set-MailboxJunkEmailConfiguration $mailboxName -TrustedSendersAndDomains @{Add=$filteredSafeDomains} -ErrorAction Stop
+            Write-Host "${indexPadded} / ${AllQty}: ✓ Updated ${filteredSafeDomainsQty} domains for ${mailboxAlias}" -ForegroundColor Green
+        } else {
+            Write-Host "${indexPadded} / ${AllQty}: ⚠ No new domains to add for ${mailboxAlias}" -ForegroundColor Yellow
+        }
+    }
+    catch {
+        $totalErrors++
+        $errorMessage = "${indexPadded} / ${AllQty}: ✗ Error processing $mailboxAlias (Domains: $($userDomains -join ',')): $($_.Exception.Message)"
+        Write-Host $errorMessage -ForegroundColor Red
+        $errorMessages += $errorMessage
+    }
+
+    # Progress indicator every 10 items
+    if ($totalProcessed % 10 -eq 0) {
+        $elapsed = (Get-Date) - $startTime
+        $avgPerItem = $elapsed.TotalSeconds / $totalProcessed
+        $estimatedTotal = $avgPerItem * $AllQty
+        $remaining = $estimatedTotal - $elapsed.TotalSeconds
+        Write-Host "Progress: $totalProcessed/$AllQty ($(($totalProcessed/$AllQty*100).ToString('F1'))%) | ETA: $([TimeSpan]::FromSeconds($remaining).ToString('mm\:ss'))" -ForegroundColor Cyan
+    }
 }
-$errorsQty = if (Test-Path $errorLogFile) { (Get-Content $errorLogFile).Count } else { 0 }
-Write-Host "Script finished (${AllQty}). Check '$errorLogFile' for any errors (${errorsQty})."
+
+# Write errors to file
+if ($errorMessages.Count -gt 0) {
+    $errorMessages | Out-File -FilePath $errorLogFile -Encoding UTF8
+}
+
+$endTime = Get-Date
+$duration = $endTime - $startTime
+Write-Host "Script finished in $($duration.TotalSeconds.ToString('F2')) seconds. Processed: ${totalProcessed}, Errors: ${totalErrors}" -ForegroundColor Cyan
 
 # SINGLE TEST - Display current configuration
 $output = @{
