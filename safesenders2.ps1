@@ -1,4 +1,4 @@
-﻿# Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+# Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 Remove-Variable AdminUser -ErrorAction SilentlyContinue
 Remove-Variable TestUser -ErrorAction SilentlyContinue
 $AdminUser = "admin-vieira@phishxnew.onmicrosoft.com"

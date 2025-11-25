@@ -454,3 +454,25 @@ Quer acompanhar as últimas novidades em nossos conteúdos? Inscreva-se em nosso
 | GOVERNANÇA DIGITAL ALINHANDO SEGURANÇA COM SUSTENTABILIDADE |       |     |
 | INTEGRANDO SEGURANÇA E ÉTICA EM CULTURAS ORGANIZACIONAIS    |       |     |
 | INVESTIGANDO E MITIGANDO GOLPES EM REDES SOCIAIS            |       |     |
+
+## Temporada 39
+
+<br>
+
+| Conteúdo                                                        | Vídeo | PDF |
+| :-------------------------------------------------------------- | :---: | :-: |
+| AVALIAÇÃO DE RISCOS DE PRIVACIDADE EM CONTRATOS E TERMOS ONLINE |       |     |
+| CASOS PRÁTICOS DE CONFLITOS DE INTERESSE                        |       |     |
+| FERRAMENTAS AVANÇADAS PARA ANONIMATO DIGITAL                    |       |     |
+| GESTÃO DE CONFORMIDADE COM POLÍTICAS ANTICORRUPÇÃO              |       |     |
+
+## Temporada 40
+
+<br>
+
+| Conteúdo                                                           | Vídeo | PDF |
+| :----------------------------------------------------------------- | :---: | :-: |
+| AUDITORIAS CONTÍNUAS DE SEGURANÇA                                  |       |     |
+| COMO TREINAR LÍDERES PARA DETECTAR RISCOS COMPORTAMENTAIS DIGITAIS |       |     |
+| CRIANDO TRILHAS DE CONSCIENTIZAÇÃO ALINHADAS À LGPD                |       |     |
+| ESTRATÉGIAS DE SEGURANÇA EM AMBIENTES MULTI                        |       |     |
