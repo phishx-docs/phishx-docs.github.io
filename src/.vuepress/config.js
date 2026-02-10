@@ -19,6 +19,7 @@ function config_locales(locale, extra) {
   var dir_slack = 'slack';
   var dir_azure_ad = 'azure-ad';
   var dir_microsoft_sync = 'microsoft-sync';
+  var dir_microsoft_auth = 'microsoft-auth';
   var dir_google_sync = 'google-sync';
   var dir_microsoft_teams = 'microsoft-teams';
   var dir_google_chat = 'google-chat';
@@ -463,6 +464,12 @@ function config_locales(locale, extra) {
             ],
           },
           {
+            title: extra.microsoft_auth,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [`/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_auth}/`],
+          },
+          {
             title: extra.microsoft_sync,
             collapsable: true,
             sidebarDepth: 0,
@@ -578,6 +585,7 @@ var config_locales_en = config_locales('en', {
   disclaimers_warnings: 'Disclaimers Warnings',
   azure_ad: 'Azure AD',
   google_sync: 'Google Sync',
+  microsoft_auth: 'Microsoft Authentication',
   microsoft_sync: 'Microsoft Sync',
   microsoft_teams: 'Microsoft Teams',
   google_chat: 'Google Chat',
@@ -629,6 +637,7 @@ var config_locales_es = config_locales('es', {
   disclaimers_warnings: 'Avisos Legales',
   azure_ad: 'Azure AD',
   google_sync: 'Google Sync',
+  microsoft_auth: 'Microsoft Authentication',
   microsoft_sync: 'Microsoft Sync',
   microsoft_teams: 'Microsoft Teams',
   google_chat: 'Google Chat',
@@ -680,6 +689,7 @@ var config_locales_pt = config_locales('pt', {
   disclaimers_warnings: 'Avisos Legais',
   azure_ad: 'Azure AD',
   google_sync: 'Google Sync',
+  microsoft_auth: 'Microsoft Autenticação',
   microsoft_sync: 'Microsoft Sync',
   microsoft_teams: 'Microsoft Teams',
   google_chat: 'Google Chat',
