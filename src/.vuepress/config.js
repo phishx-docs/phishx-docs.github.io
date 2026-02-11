@@ -479,6 +479,7 @@ function config_locales(locale, extra) {
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/azure`,
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/helper`,
               `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/settings`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_sync}/settings_phishx`,
             ],
           },
           {

@@ -24,7 +24,7 @@ As configurações de registro de aplicações são mais fáceis através de com
 
 2. Configurar o novo aplicativo.
 
-   Em **Name**, inserir: **PhishX - Azure Contacts Integration - 2024**
+   Em **Name**, inserir: **PhishX - Azure Contacts Integration - 2026**
 
    Em **Supported account types**, escolher de acordo com a sua organização: **Accounts in this organizational directory only (phishxmsdev only - Single tenant)**
 
@@ -67,7 +67,7 @@ Clicar em **Add a permission**.
 
    Clicar em **New Client Secret**.
 
-   Em **Description**, inserir: **PhishX-Azure-Contacts-2024**
+   Em **Description**, inserir: **PhishX-Azure-Contacts-2026**
 
    Em **Expires**, selecionar **730 days (24 months)**.
 
