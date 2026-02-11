@@ -9,9 +9,31 @@ tags:
   - 365
 ---
 
-# Microsoft Autenticação - Azure
+# Microsoft Autenticação - Azure - Método Direto
+
+## Aprovar diretamente o Consentimento Administrativo (Administrador Microsoft)
+
+OBS: Método direto onde o **Administrador Microsoft** faz tudo previamente.
+
+0. Acessar o seu ambiente **PhishX**. [PhishX](https://phishx.phishx.io/).
+
+   OBS: Alterar **subdomain** pelo subdomínio do seu ambiente PhishX.
+
+   Tentar conectar com a sua conta de Administrador Microsoft.
+
+   ![Microsoft Auth](https://cdn.phishx.io/phishx-docs/images/microsoft_auth_sso_023.png)
+
+   Aprovar o consentimento em nome da sua **Organiação**.
+
+   ![Microsoft Auth](https://cdn.phishx.io/phishx-docs/images/microsoft_auth_sso_032.png)
+
+   OBS: O login do Administrador Microsoft não será com sucesso pois não há na maioria dos casos a mesma conta criada na Plataforma PhishX. O próximo Usuário PhishX logará normalmente com a sua conta Microsoft, pois o consentimento foi aprovado pelo Administrador Microsoft.
+
+# Microsoft Autenticação - Azure - Método Indireto
 
 ## Configurar o Consentimento e Permissões (Administrador Microsoft)
+
+OBS: Método indireto onde o **Administrador Microsoft** espera o **Usuário PhishX** solicitar o acesso.
 
 1. Verificar se o consentimento do administrador é obrigatório e se o usuário pode solicitar via aplicativo para o administrador.
 
