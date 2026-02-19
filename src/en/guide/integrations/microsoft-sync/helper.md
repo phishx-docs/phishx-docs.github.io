@@ -77,3 +77,5 @@ tags:
    Verificar se o status está completo. O status deve ficar similar a imagem a seguir:
 
    ![Assistente para Consentimento da PhishX](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_102.png)
+
+4. **Solicitar apoio do time PhishX** ou **continuar a configurar** seu **Ambiente PhishX** em: [Configurações na PhishX](settings_phishx/).

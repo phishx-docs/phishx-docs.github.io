@@ -30,11 +30,26 @@ As configurações de registro de aplicações são mais fáceis através de com
 
    Em **Redirect URI (optional)**, escolher o tipo **Web** e inserir a url com o seu subdomínio: **https://{subdomain}.phishx.io/live/en/microsoftgraph**
 
+   OBS: O seu **subdomínio** da PhishX geralmente é o seu domínio principal do seu site. Consulte nosso suporte para confirmar.
+
+   ```
+   Site: www.phishx.io
+   Subdomain: phishx
+   ```
+
    Clicar em **Register**.
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_202.png)
 
 3. Acessar **API permissions**.
+
+   Verificar as permissões padrão delegadas.
+
+   Permissões delegadas.
+
+   ```
+   User.Read
+   ```
 
    Clicar em **Add a permission**.
 
@@ -44,22 +59,30 @@ As configurações de registro de aplicações são mais fáceis através de com
 
    Adicionar as seguintes permissões.
 
-<br>
+   Permissões da aplicação.
 
-```
-User.Read
-User.Read.All
-Group.Read.All
-Application.Read.All
-```
+   ```
+   User.Read.All
+   Group.Read.All
+   Application.Read.All
+   ```
 
-Clicar em **Add a permission**.
+   Clicar em **Add a permission**.
 
-![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_203.png)
+   ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_203.png)
 
-![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_204.png)
+   ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_204.png)
 
-![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_205.png)
+   Suas permissões finais devem ser:
+
+   ```
+   User.Read
+   User.Read.All
+   Group.Read.All
+   Application.Read.All
+   ```
+
+   ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_205.png)
 
 4. Acessar **Certificates & secrets**.
 
