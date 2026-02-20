@@ -52,9 +52,9 @@ tags:
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_308.png)
 
-6. Clicar em **Ações** e **Importar** para fazer a sincronia baseada nas configurações de domínios e grupos.
+6. Clicar em **Ações** e **Atualizar Listas** para gerar as listas baseadas nas configurações de domínios e grupos.
 
-   ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_309.png)
+   ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_314.png)
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_310.png)
 
@@ -68,4 +68,4 @@ tags:
 
    ![Microsoft Sync](https://cdn.phishx.io/phishx-docs/images/microsoft_sync_313.png)
 
-   OBS: Em ambientes com múltiplas organizações, opcionalmente após a seleção de domínios e grupos, você pode escluir a lista geral "Microsoft - All".
+   OBS: Em ambientes com múltiplas organizações, opcionalmente após a seleção de domínios e grupos, você pode excluir a lista geral "Microsoft - All".
