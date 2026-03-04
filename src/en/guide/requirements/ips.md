@@ -18,7 +18,7 @@ All PhishX IPs are exclusive and secure.
 <br>
 
 ```
-168.245.39.85/32,149.72.191.22/32,159.183.145.48/32,149.72.40.80/32,134.128.91.198/32
+168.245.39.85/32,149.72.191.22/32,159.183.145.48/32,149.72.40.80/32,134.128.91.198/32,149.72.164.83/32
 ```
 
 ### Separated by lines
@@ -31,6 +31,7 @@ All PhishX IPs are exclusive and secure.
 159.183.145.48/32
 149.72.40.80/32
 134.128.91.198/32
+149.72.164.83/32
 ```
 
 ## Web Servers
@@ -65,6 +66,7 @@ All PhishX IPs are exclusive and secure.
 | 159.183.145.48/32            | SENDGRID              | E-MAIL                |
 | 149.72.40.80/32              | SENDGRID              | E-MAIL                |
 | 134.128.91.198/32            | SENDGRID              | E-MAIL                |
+| 149.72.164.83/32             | SENDGRID              | E-MAIL                |
 | 35.244.220.112/32            | GOOGLE CLOUD PLATFORM | CDN LOAD BALANCER     |
 | 35.244.220.66/32             | GOOGLE CLOUD PLATFORM | CDN LOAD BALANCER     |
 | 34.151.199.55/32             | GOOGLE CLOUD PLATFORM | CLUSTER LOAD BALANCER |
