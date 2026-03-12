@@ -23,8 +23,8 @@ Os clientes Web e Mobile tem interfaces diferentes.
 
    **Observação: Os clientes Web e Mobile tem interfaces diferentes.**
 
-   ![Google Assistant](https://cdn.phishx.io/phishx-docs/images/google_workspace_assistant_002.png)
+   ![Google Assistant](https://cdn.phishx.io/phishx-docs/images/google_workspace_assistant_003.png)
 
-   <!-- ![Google Assistant](https://cdn.phishx.io/phishx-docs/images/google_workspace_assistant_003.png) -->
+   ![Google Assistant](https://cdn.phishx.io/phishx-docs/images/google_workspace_assistant_004.png)
 
 3. Clicar em **X** para encerrar o relato da mensagem.
