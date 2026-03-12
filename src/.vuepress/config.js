@@ -27,6 +27,7 @@ function config_locales(locale, extra) {
   var dir_google = 'google';
   var dir_microsoft = 'microsoft';
   var dir_new_microsoft = 'new_microsoft';
+  var dir_new_google = 'new_google';
   var dir_integrations = 'integrations';
   var dir_content = 'content';
   var dir_people = 'people';
@@ -541,11 +542,10 @@ function config_locales(locale, extra) {
                 collapsable: true,
                 sidebarDepth: 0,
                 children: [
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_google}/`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_google}/requirements`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_google}/single`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_google}/global`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_google}/user`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/settings`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/googleworkspace`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/gmail`,
                 ],
               },
             ],
