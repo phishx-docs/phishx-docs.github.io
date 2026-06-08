@@ -9,6 +9,10 @@ tags:
 
 # Filtro de conexão
 
+::: tip Envios Diretos
+O envio via Conectores é opcional para quando não for possível configurar as camadas tradicionais de segurança com nossos IPs e Domínios em suas respectivas listas permissivas. Algumas funcionalidades podem não funcionar corretamente devido a limitações do envio direto via Conectores.
+:::
+
 ## Resumo
 
 1. Editar a **Política de filtro de conexão (Padrão)** em **Políticas e regras** -> **Políticas de ameaças** -> **Políticas de antispam**. Adicionar nossa lista atual de IPs: [IPs](../ips.html#separado-por-linhas)

@@ -16,7 +16,7 @@ Todos os domínios da PhishX são exclusivos e seguros.
 <br>
 
 ```
-peoplex.io phishx.com phishx.io businessuniversity.tech trainingportal.me cloudacademy.live microlearning.academy digitaleducation.digital appcentral.info appstudio.shop cloudconnect.cfd dealsnews.club deviceguard.pro festivalnews.online infoportal.live linkdata.live mailvault.site marketonline.one privacynow.click proopportunity.one securedevice.site securetech.lat securityapp.cloud smartdevice.live technews.rest varejoonline.club webportal.one
+peoplex.io phishx.com phishx.io microlearning.academy digitaleducation.digital appcentral.info appstudio.shop cloudconnect.cfd dealsnews.club deviceguard.pro festivalnews.online infoportal.live linkdata.live mailvault.site marketonline.one privacynow.click proopportunity.one securedevice.site securetech.lat securityapp.cloud technews.rest varejoonline.club webportal.one
 ```
 
 ### Separado por ponto e vírgulas
@@ -24,7 +24,7 @@ peoplex.io phishx.com phishx.io businessuniversity.tech trainingportal.me clouda
 <br>
 
 ```
-peoplex.io;phishx.com;phishx.io;businessuniversity.tech;trainingportal.me;cloudacademy.live;microlearning.academy;digitaleducation.digital;appcentral.info;appstudio.shop;cloudconnect.cfd;dealsnews.club;deviceguard.pro;festivalnews.online;infoportal.live;linkdata.live;mailvault.site;marketonline.one;privacynow.click;proopportunity.one;securedevice.site;securetech.lat;securityapp.cloud;smartdevice.live;technews.rest;varejoonline.club;webportal.one
+peoplex.io;phishx.com;phishx.io;microlearning.academy;digitaleducation.digital;appcentral.info;appstudio.shop;cloudconnect.cfd;dealsnews.club;deviceguard.pro;festivalnews.online;infoportal.live;linkdata.live;mailvault.site;marketonline.one;privacynow.click;proopportunity.one;securedevice.site;securetech.lat;securityapp.cloud;technews.rest;varejoonline.club;webportal.one
 ```
 
 ### Separado por linhas
@@ -35,9 +35,6 @@ peoplex.io;phishx.com;phishx.io;businessuniversity.tech;trainingportal.me;clouda
 peoplex.io/
 phishx.com/
 phishx.io/
-businessuniversity.tech/
-trainingportal.me/
-cloudacademy.live/
 microlearning.academy/
 digitaleducation.digital/
 appcentral.info/
@@ -55,7 +52,6 @@ proopportunity.one/
 securedevice.site/
 securetech.lat/
 securityapp.cloud/
-smartdevice.live/
 technews.rest/
 varejoonline.club/
 webportal.one/
@@ -69,9 +65,6 @@ webportal.one/
 @peoplex.io
 @phishx.com
 @phishx.io
-@businessuniversity.tech
-@trainingportal.me
-@cloudacademy.live
 @microlearning.academy
 @digitaleducation.digital
 @appcentral.info
@@ -89,7 +82,6 @@ webportal.one/
 @securedevice.site
 @securetech.lat
 @securityapp.cloud
-@smartdevice.live
 @technews.rest
 @varejoonline.club
 @webportal.one
@@ -104,9 +96,6 @@ webportal.one/
 | peoplex.io               | phx.peoplex.io               |
 | phishx.com               | em3534.phishx.com            |
 | phishx.io                | sendgrid.phishx.io           |
-| businessuniversity.tech  | phx.businessuniversity.tech  |
-| trainingportal.me        | phx.trainingportal.me        |
-| cloudacademy.live        | phx.cloudacademy.live        |
 | microlearning.academy    | phx.microlearning.academy    |
 | digitaleducation.digital | phx.digitaleducation.digital |
 | appcentral.info          | em306.appcentral.info        |
@@ -124,7 +113,6 @@ webportal.one/
 | securedevice.site        | phx.securedevice.site        |
 | securetech.lat           | em4427.securetech.lat        |
 | securityapp.cloud        | phx.securityapp.cloud        |
-| smartdevice.live         | em2897.smartdevice.live      |
 | technews.rest            | em7851.technews.rest         |
 | varejoonline.club        | phx.varejoonline.club        |
 | webportal.one            | phx.webportal.one            |
