@@ -15,7 +15,7 @@ Todos los dominios de PhishX son exclusivos y seguros.
 <br>
 
 ```
-peoplex.io phishx.com phishx.io microlearning.academy digitaleducation.digital appcentral.info appstudio.shop cloudconnect.cfd dealsnews.club deviceguard.pro festivalnews.online infoportal.live linkdata.live mailvault.site marketonline.one privacynow.click proopportunity.one securedevice.site securetech.lat securityapp.cloud technews.rest varejoonline.club webportal.one
+peoplex.io phishx.com phishx.io microlearning.academy digitaleducation.digital appcentral.info appstudio.shop cloudconnect.cfd dealsnews.club deviceguard.pro festivalnews.online infoportal.live linkdata.live mailvault.site marketonline.one privacynow.click proopportunity.one securedevice.site securetech.lat securityapp.cloud technews.rest varejoonline.club webportal.one micnosofi.online omedriue.site outiouk.space linkedm.lat adode.online dnopbox.space gnaiil.site payypol.lat
 ```
 
 ### Separado por punto y coma
@@ -23,7 +23,7 @@ peoplex.io phishx.com phishx.io microlearning.academy digitaleducation.digital a
 <br>
 
 ```
-peoplex.io;phishx.com;phishx.io;microlearning.academy;digitaleducation.digital;appcentral.info;appstudio.shop;cloudconnect.cfd;dealsnews.club;deviceguard.pro;festivalnews.online;infoportal.live;linkdata.live;mailvault.site;marketonline.one;privacynow.click;proopportunity.one;securedevice.site;securetech.lat;securityapp.cloud;technews.rest;varejoonline.club;webportal.one
+peoplex.io;phishx.com;phishx.io;microlearning.academy;digitaleducation.digital;appcentral.info;appstudio.shop;cloudconnect.cfd;dealsnews.club;deviceguard.pro;festivalnews.online;infoportal.live;linkdata.live;mailvault.site;marketonline.one;privacynow.click;proopportunity.one;securedevice.site;securetech.lat;securityapp.cloud;technews.rest;varejoonline.club;webportal.one;micnosofi.online;omedriue.site;outiouk.space;linkedm.lat;adode.online;dnopbox.space;gnaiil.site;payypol.lat;
 ```
 
 ### Separado por líneas
@@ -54,6 +54,14 @@ securityapp.cloud/
 technews.rest/
 varejoonline.club/
 webportal.one/
+micnosofi.online/
+omedriue.site/
+outiouk.space/
+linkedm.lat/
+adode.online/
+dnopbox.space/
+gnaiil.site/
+payypol.lat/
 ```
 
 ### Lista de Remitentes Confiables
@@ -84,6 +92,14 @@ webportal.one/
 @technews.rest
 @varejoonline.club
 @webportal.one
+@micnosofi.online
+@omedriue.site
+@outiouk.space
+@linkedm.lat
+@adode.online
+@dnopbox.space
+@gnaiil.site
+@payypol.lat
 ```
 
 ## FQDN - MAIL FROM
@@ -115,3 +131,11 @@ webportal.one/
 | technews.rest            | em7851.technews.rest         |
 | varejoonline.club        | phx.varejoonline.club        |
 | webportal.one            | phx.webportal.one            |
+| micnosofi.online         | phx.micnosofi.online         |
+| omedriue.site            | phx.omedriue.site            |
+| outiouk.space            | phx.outiouk.space            |
+| linkedm.lat              | phx.linkedm.lat              |
+| adode.online             | phx.adode.online             |
+| dnopbox.space            | phx.dnopbox.space            |
+| gnaiil.site              | phx.gnaiil.site              |
+| payypol.lat              | phx.payypol.lat              |
