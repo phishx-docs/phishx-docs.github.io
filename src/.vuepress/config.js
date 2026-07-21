@@ -88,6 +88,7 @@ function config_locales(locale, extra) {
           `/${locale}/${dir_terms}/contract`,
           `/${locale}/${dir_terms}/ethics`,
           `/${locale}/${dir_terms}/privacy`,
+          `/${locale}/${dir_terms}/ai`,
         ],
       },
       {
