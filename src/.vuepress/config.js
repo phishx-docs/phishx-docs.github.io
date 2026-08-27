@@ -44,6 +44,7 @@ function config_locales(locale, extra) {
   var dir_schedules = 'schedules';
   var dir_messages = 'messages';
   var dir_results = 'results';
+  var dir_api = 'api';
   var dir_dashboards = 'dashboards';
   var dir_events = 'events';
   var dir_reports = 'reports';
@@ -178,6 +179,16 @@ function config_locales(locale, extra) {
         sidebarDepth: 0,
         children: [
           `/${locale}/${dir_guide}/${dir_results}/`,
+          {
+            title: extra.api,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_results}/${dir_api}/`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_api}/filters`,
+              `/${locale}/${dir_guide}/${dir_results}/${dir_api}/actions`,
+            ],
+          },
           {
             title: extra.dashboards,
             collapsable: true,
@@ -614,6 +625,7 @@ var config_locales_en = config_locales('en', {
   suggestions: 'Suggestions',
   results: 'Results',
   dashboards: 'Dashboards',
+  api: 'API',
   events: 'Events',
   reports: 'Reports',
   settings: 'Settings',
@@ -666,6 +678,7 @@ var config_locales_es = config_locales('es', {
   suggestions: 'Sugerencias',
   results: 'Resultados',
   dashboards: 'Dashboards',
+  api: 'API',
   events: 'Eventos',
   reports: 'Reports',
   settings: 'Configuración',
@@ -718,6 +731,7 @@ var config_locales_pt = config_locales('pt', {
   suggestions: 'Sugestões',
   results: 'Resultados',
   dashboards: 'Painéis',
+  api: 'API',
   events: 'Eventos',
   reports: 'Relatórios',
   settings: 'Configurações',
