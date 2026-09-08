@@ -19,6 +19,7 @@ function config_locales(locale, extra) {
   var dir_slack = 'slack';
   var dir_azure_ad = 'azure-ad';
   var dir_microsoft_sync = 'microsoft-sync';
+  var dir_microsoft_scim = 'microsoft-scim';
   var dir_microsoft_auth = 'microsoft-auth';
   var dir_google_sync = 'google-sync';
   var dir_microsoft_teams = 'microsoft-teams';
@@ -483,6 +484,15 @@ function config_locales(locale, extra) {
             children: [`/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_auth}/`],
           },
           {
+            title: extra.microsoft_scim,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_scim}/`,
+              `/${locale}/${dir_guide}/${dir_integrations}/${dir_microsoft_scim}/azure`,
+            ],
+          },
+          {
             title: extra.microsoft_sync,
             collapsable: true,
             sidebarDepth: 0,
@@ -600,6 +610,7 @@ var config_locales_en = config_locales('en', {
   google_sync: 'Google Sync',
   microsoft_auth: 'Microsoft Authentication',
   microsoft_sync: 'Microsoft Sync',
+  microsoft_scim: 'Microsoft Entra ID (SCIM)',
   microsoft_teams: 'Microsoft Teams',
   google_chat: 'Google Chat',
   slack: 'Slack',
@@ -653,6 +664,7 @@ var config_locales_es = config_locales('es', {
   google_sync: 'Google Sync',
   microsoft_auth: 'Microsoft Authentication',
   microsoft_sync: 'Microsoft Sync',
+  microsoft_scim: 'Microsoft Entra ID (SCIM)',
   microsoft_teams: 'Microsoft Teams',
   google_chat: 'Google Chat',
   slack: 'Slack',
@@ -706,6 +718,7 @@ var config_locales_pt = config_locales('pt', {
   google_sync: 'Google Sync',
   microsoft_auth: 'Microsoft Autenticação',
   microsoft_sync: 'Microsoft Sync',
+  microsoft_scim: 'Microsoft Entra ID (SCIM)',
   microsoft_teams: 'Microsoft Teams',
   google_chat: 'Google Chat',
   slack: 'Slack',
