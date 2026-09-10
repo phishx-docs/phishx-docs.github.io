@@ -18,6 +18,7 @@ function config_locales(locale, extra) {
   var dir_microsoft_outlook = 'microsoft-outlook';
   var dir_slack = 'slack';
   var dir_azure_ad = 'azure-ad';
+  var dir_webhook = 'webhook';
   var dir_microsoft_sync = 'microsoft-sync';
   var dir_microsoft_scim = 'microsoft-scim';
   var dir_microsoft_auth = 'microsoft-auth';
@@ -457,6 +458,47 @@ function config_locales(locale, extra) {
           //   ],
           // },
           {
+            title: extra.assistant,
+            collapsable: true,
+            sidebarDepth: 0,
+            children: [
+              // {
+              //   title: extra.microsoft,
+              //   collapsable: true,
+              //   sidebarDepth: 0,
+              //   children: [
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/requirements`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/single`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/global`,
+              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/user`,
+              //   ],
+              // },
+              {
+                title: extra.new_microsoft,
+                collapsable: true,
+                sidebarDepth: 0,
+                children: [
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/settings`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/microsoft365`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/outlook`,
+                ],
+              },
+              {
+                title: extra.google,
+                collapsable: true,
+                sidebarDepth: 0,
+                children: [
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/settings`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/googleworkspace`,
+                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/gmail`,
+                ],
+              },
+            ],
+          },
+          {
             title: extra.google_sync,
             collapsable: true,
             sidebarDepth: 0,
@@ -532,45 +574,10 @@ function config_locales(locale, extra) {
             ],
           },
           {
-            title: extra.assistant,
+            title: extra.webhook,
             collapsable: true,
             sidebarDepth: 0,
-            children: [
-              // {
-              //   title: extra.microsoft,
-              //   collapsable: true,
-              //   sidebarDepth: 0,
-              //   children: [
-              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/`,
-              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/requirements`,
-              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/single`,
-              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/global`,
-              //     `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_microsoft}/user`,
-              //   ],
-              // },
-              {
-                title: extra.new_microsoft,
-                collapsable: true,
-                sidebarDepth: 0,
-                children: [
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/settings`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/microsoft365`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_microsoft}/outlook`,
-                ],
-              },
-              {
-                title: extra.google,
-                collapsable: true,
-                sidebarDepth: 0,
-                children: [
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/settings`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/googleworkspace`,
-                  `/${locale}/${dir_guide}/${dir_integrations}/${dir_assistant}/${dir_new_google}/gmail`,
-                ],
-              },
-            ],
+            children: [`/${locale}/${dir_guide}/${dir_integrations}/${dir_webhook}/`],
           },
         ],
       },
@@ -612,6 +619,7 @@ var config_locales_en = config_locales('en', {
   microsoft_sync: 'Microsoft Sync',
   microsoft_scim: 'Microsoft Entra ID (SCIM)',
   microsoft_teams: 'Microsoft Teams',
+  webhook: 'Webhook',
   google_chat: 'Google Chat',
   slack: 'Slack',
   content: 'Content',
@@ -666,6 +674,7 @@ var config_locales_es = config_locales('es', {
   microsoft_sync: 'Microsoft Sync',
   microsoft_scim: 'Microsoft Entra ID (SCIM)',
   microsoft_teams: 'Microsoft Teams',
+  webhook: 'Webhook',
   google_chat: 'Google Chat',
   slack: 'Slack',
   content: 'Contenido',
@@ -720,6 +729,7 @@ var config_locales_pt = config_locales('pt', {
   microsoft_sync: 'Microsoft Sync',
   microsoft_scim: 'Microsoft Entra ID (SCIM)',
   microsoft_teams: 'Microsoft Teams',
+  webhook: 'Webhook',
   google_chat: 'Google Chat',
   slack: 'Slack',
   content: 'Conteúdo',
