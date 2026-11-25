@@ -9,6 +9,7 @@ tags:
 
 ::: tip Dica
 Todos os domínios da PhishX são exclusivos e seguros.
+Atualização: 20261125
 :::
 
 ### Separado por espaços

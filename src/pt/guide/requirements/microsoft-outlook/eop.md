@@ -15,6 +15,8 @@ tags:
 
 1. **Configurar** e **implantar** os domínios permitidos em suas caixas postais online.
 
+Atualização: 20261125
+
 ## Configurações
 
 1. **Converse com seu time interno** e **escolha a melhor maneira** de configurar sua **Lista de Remetentes Confiáveis** no EOP.
