@@ -72,7 +72,7 @@ $AllQty
    Opcionalmente, adicione outros domínios de terceiros para serem confiados via Lista de Remetentes Confiáveis.
 
 ```powershell
-$safeDomains = @("appcentral.info","appstudio.shop","businessuniversity.tech","cloudacademy.live","cloudconnect.cfd","dealsnews.club","deviceguard.pro","digitaleducation.digital","festivalnews.online","infoportal.live","linkdata.live","mailvault.site","marketonline.one","microlearning.academy","peoplex.io","phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","proopportunity.one","securedevice.site","securetech.lat","securityapp.cloud","smartdevice.live","technews.rest","trainingportal.me","varejoonline.club","webportal.one")
+$safeDomains = @("appcentral.info","appstudio.shop","cloudconnect.cfd","dealsnews.club","digitaleducation.digital","festivalnews.online","infoportal.live","linkdata.live","marketonline.one","peoplex.io","phishing.com.br","phishx.com","phishx.com.br","phishx.io","privacynow.click","securedevice.site","securityapp.cloud","smartdevice.live","varejoonline.club","webportal.one")
 $safeDomainsQty = $safeDomains | Measure-Object | Select-Object -ExpandProperty Count
 $safeDomainsQty
 
